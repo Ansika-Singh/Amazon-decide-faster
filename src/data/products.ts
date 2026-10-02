@@ -39268,5 +39268,836 @@ export const products: Product[] = [
         "price": 325
       }
     ]
+  },
+  {
+    "id": "fit-13",
+    "slug": "as-it-is-nutrition-atom-whey-protein-powder-1kg",
+    "title": "AS-IT-IS Nutrition ATOM Whey Protein Powder with Digestive Enzymes (1kg, 27g Protein, Double Rich Chocolate)",
+    "brand": "AS-IT-IS Nutrition",
+    "category": "Fitness",
+    "price": 1799,
+    "mrp": 2699,
+    "rating": 4.4,
+    "reviewCount": 35200,
+    "images": [
+      "/products/fit-13.jpg"
+    ],
+    "bullets": [
+      "Delivers 27g of high-quality whey protein and 5.7g of BCAAs per 36g scoop for optimal muscle hypertrophy",
+      "Enhanced with multi-enzyme blend for rapid digestion, superior amino acid absorption, and zero bloating",
+      "100% authentic Labdoor USA certified and Informed Choice certified for guaranteed purity and label accuracy",
+      "Rich and decadent Double Rich Chocolate flavor mixes smooth with cold milk or water in under 15 seconds",
+      "Manufactured in a GMP-certified facility with no banned substances, heavy metals, or added sugar"
+    ],
+    "description": "Premium muscle building without the premium markup. AS-IT-IS ATOM Whey Protein delivers 27g of clean protein per scoop powered by digestive enzymes for smooth digestion and maximum post-workout recovery.",
+    "stock": 55,
+    "deliveryDays": 2,
+    "tags": [
+      "fitness",
+      "protein",
+      "protein powder",
+      "whey",
+      "workout",
+      "gym",
+      "supplements",
+      "muscle building",
+      "as-it-is"
+    ],
+    "reviewSummary": {
+      "pros": [
+        "Outstanding value delivering 27g protein per scoop under \u20b91,800",
+        "Digestive enzymes eliminate post-shake stomach cramps and heavy bloating",
+        "Double Rich Chocolate flavor mixes easily with zero chalky lumps"
+      ],
+      "cons": [
+        "Scoop design is slightly wide for narrow shaker bottle openings",
+        "Slightly sweeter when mixed in whole milk versus chilled water",
+        "Bag zip-lock requires firm finger pinch to seal airtight"
+      ],
+      "verdict": "The best value flavored whey protein powder in India for gym-goers on a budget.",
+      "sentiment": {
+        "positive": 90,
+        "neutral": 7,
+        "negative": 3
+      }
+    },
+    "priceHistory": [
+      {
+        "date": "2026-07-05",
+        "price": 2208
+      },
+      {
+        "date": "2026-07-06",
+        "price": 2173
+      },
+      {
+        "date": "2026-07-07",
+        "price": 2144
+      },
+      {
+        "date": "2026-07-08",
+        "price": 2166
+      },
+      {
+        "date": "2026-07-09",
+        "price": 2205
+      },
+      {
+        "date": "2026-07-10",
+        "price": 2164
+      },
+      {
+        "date": "2026-07-11",
+        "price": 2214
+      },
+      {
+        "date": "2026-07-12",
+        "price": 2166
+      },
+      {
+        "date": "2026-07-13",
+        "price": 2118
+      },
+      {
+        "date": "2026-07-14",
+        "price": 2095
+      },
+      {
+        "date": "2026-07-15",
+        "price": 2075
+      },
+      {
+        "date": "2026-07-16",
+        "price": 2037
+      },
+      {
+        "date": "2026-07-17",
+        "price": 2004
+      },
+      {
+        "date": "2026-07-18",
+        "price": 2041
+      },
+      {
+        "date": "2026-07-19",
+        "price": 1999
+      },
+      {
+        "date": "2026-07-20",
+        "price": 1946
+      },
+      {
+        "date": "2026-07-21",
+        "price": 1928
+      },
+      {
+        "date": "2026-07-22",
+        "price": 1983
+      },
+      {
+        "date": "2026-07-23",
+        "price": 2023
+      },
+      {
+        "date": "2026-07-24",
+        "price": 2028
+      },
+      {
+        "date": "2026-07-25",
+        "price": 1980
+      },
+      {
+        "date": "2026-07-26",
+        "price": 1999
+      },
+      {
+        "date": "2026-07-27",
+        "price": 1972
+      },
+      {
+        "date": "2026-07-28",
+        "price": 1773
+      },
+      {
+        "date": "2026-07-29",
+        "price": 1757
+      },
+      {
+        "date": "2026-07-30",
+        "price": 1798
+      },
+      {
+        "date": "2026-07-31",
+        "price": 1755
+      },
+      {
+        "date": "2026-08-01",
+        "price": 1708
+      },
+      {
+        "date": "2026-08-02",
+        "price": 1750
+      },
+      {
+        "date": "2026-08-03",
+        "price": 1761
+      },
+      {
+        "date": "2026-08-04",
+        "price": 1655
+      },
+      {
+        "date": "2026-08-05",
+        "price": 1642
+      },
+      {
+        "date": "2026-08-06",
+        "price": 1644
+      },
+      {
+        "date": "2026-08-07",
+        "price": 1654
+      },
+      {
+        "date": "2026-08-08",
+        "price": 1659
+      },
+      {
+        "date": "2026-08-09",
+        "price": 1707
+      },
+      {
+        "date": "2026-08-10",
+        "price": 1727
+      },
+      {
+        "date": "2026-08-11",
+        "price": 1780
+      },
+      {
+        "date": "2026-08-12",
+        "price": 1947
+      },
+      {
+        "date": "2026-08-13",
+        "price": 1946
+      },
+      {
+        "date": "2026-08-14",
+        "price": 1928
+      },
+      {
+        "date": "2026-08-15",
+        "price": 1835
+      },
+      {
+        "date": "2026-08-16",
+        "price": 1798
+      },
+      {
+        "date": "2026-08-17",
+        "price": 1803
+      },
+      {
+        "date": "2026-08-18",
+        "price": 1772
+      },
+      {
+        "date": "2026-08-19",
+        "price": 1811
+      },
+      {
+        "date": "2026-08-20",
+        "price": 1838
+      },
+      {
+        "date": "2026-08-21",
+        "price": 1881
+      },
+      {
+        "date": "2026-08-22",
+        "price": 1829
+      },
+      {
+        "date": "2026-08-23",
+        "price": 1838
+      },
+      {
+        "date": "2026-08-24",
+        "price": 1834
+      },
+      {
+        "date": "2026-08-25",
+        "price": 1823
+      },
+      {
+        "date": "2026-08-26",
+        "price": 1783
+      },
+      {
+        "date": "2026-08-27",
+        "price": 1981
+      },
+      {
+        "date": "2026-08-28",
+        "price": 1937
+      },
+      {
+        "date": "2026-08-29",
+        "price": 1900
+      },
+      {
+        "date": "2026-08-30",
+        "price": 1700
+      },
+      {
+        "date": "2026-08-31",
+        "price": 1674
+      },
+      {
+        "date": "2026-09-01",
+        "price": 1720
+      },
+      {
+        "date": "2026-09-02",
+        "price": 1753
+      },
+      {
+        "date": "2026-09-03",
+        "price": 1686
+      },
+      {
+        "date": "2026-09-04",
+        "price": 1688
+      },
+      {
+        "date": "2026-09-05",
+        "price": 1721
+      },
+      {
+        "date": "2026-09-06",
+        "price": 1739
+      },
+      {
+        "date": "2026-09-07",
+        "price": 1763
+      },
+      {
+        "date": "2026-09-08",
+        "price": 1801
+      },
+      {
+        "date": "2026-09-09",
+        "price": 1787
+      },
+      {
+        "date": "2026-09-10",
+        "price": 1751
+      },
+      {
+        "date": "2026-09-11",
+        "price": 1856
+      },
+      {
+        "date": "2026-09-12",
+        "price": 1877
+      },
+      {
+        "date": "2026-09-13",
+        "price": 1903
+      },
+      {
+        "date": "2026-09-14",
+        "price": 1923
+      },
+      {
+        "date": "2026-09-15",
+        "price": 1871
+      },
+      {
+        "date": "2026-09-16",
+        "price": 1895
+      },
+      {
+        "date": "2026-09-17",
+        "price": 1874
+      },
+      {
+        "date": "2026-09-18",
+        "price": 1867
+      },
+      {
+        "date": "2026-09-19",
+        "price": 1903
+      },
+      {
+        "date": "2026-09-20",
+        "price": 1870
+      },
+      {
+        "date": "2026-09-21",
+        "price": 1854
+      },
+      {
+        "date": "2026-09-22",
+        "price": 1901
+      },
+      {
+        "date": "2026-09-23",
+        "price": 1873
+      },
+      {
+        "date": "2026-09-24",
+        "price": 1911
+      },
+      {
+        "date": "2026-09-25",
+        "price": 1734
+      },
+      {
+        "date": "2026-09-26",
+        "price": 1782
+      },
+      {
+        "date": "2026-09-27",
+        "price": 1804
+      },
+      {
+        "date": "2026-09-28",
+        "price": 1803
+      },
+      {
+        "date": "2026-09-29",
+        "price": 1766
+      },
+      {
+        "date": "2026-09-30",
+        "price": 1812
+      },
+      {
+        "date": "2026-10-01",
+        "price": 1818
+      },
+      {
+        "date": "2026-10-02",
+        "price": 1799
+      }
+    ]
+  },
+  {
+    "id": "fit-14",
+    "slug": "dymatize-iso100-hydrolyzed-whey-protein-isolate-1kg",
+    "title": "Dymatize ISO100 Hydrolyzed 100% Whey Protein Isolate Powder (1kg / 2.2 lbs, 25g Protein, Gourmet Chocolate)",
+    "brand": "Dymatize",
+    "category": "Fitness",
+    "price": 4299,
+    "mrp": 5999,
+    "rating": 4.7,
+    "reviewCount": 38900,
+    "images": [
+      "/products/fit-14.jpg"
+    ],
+    "bullets": [
+      "25g of ultra-pure Hydrolyzed 100% Whey Protein Isolate per serving for instantaneous muscle assimilation",
+      "5.5g of naturally occurring BCAAs including 2.6g Leucine to activate mTOR protein synthesis",
+      "Scientifically proven, ultra-fast absorbing formula with less than 1g of sugar and less than 1g of fat per serving",
+      "Gluten-free with less than 0.5g of lactose; exceptionally gentle on lactose-sensitive stomachs",
+      "Award-winning Gourmet Chocolate taste formulated through in-house sensory development"
+    ],
+    "description": "The gold-standard hydrolyzed isolate trusted by Olympians and pro bodybuilders worldwide. Dymatize ISO100 is filtered to remove excess lactose, sugar, and fat, leaving only pure, lightning-fast absorbing muscle fuel.",
+    "stock": 25,
+    "deliveryDays": 2,
+    "tags": [
+      "fitness",
+      "protein",
+      "protein powder",
+      "whey",
+      "isolate",
+      "dymatize",
+      "workout",
+      "gym",
+      "supplements",
+      "hydrolyzed"
+    ],
+    "reviewSummary": {
+      "pros": [
+        "World-class Gourmet Chocolate flavor that tastes like a luxury milkshake",
+        "Hydrolyzed isolate absorbs instantly with zero stomach discomfort for lactose-intolerant athletes",
+        "Virtually zero carbs and zero fat fits strict cutting and contest-prep macros"
+      ],
+      "cons": [
+        "Premium price point reflecting hydrolyzed international manufacturing",
+        "Tub takes up considerable shelf space in kitchen pantries",
+        "Sweetness is rich; users who prefer mild flavor should add extra water"
+      ],
+      "verdict": "The absolute benchmark in ultra-pure hydrolyzed whey protein isolate for serious lifters.",
+      "sentiment": {
+        "positive": 95,
+        "neutral": 3,
+        "negative": 2
+      }
+    },
+    "priceHistory": [
+      {
+        "date": "2026-07-05",
+        "price": 4487
+      },
+      {
+        "date": "2026-07-06",
+        "price": 4377
+      },
+      {
+        "date": "2026-07-07",
+        "price": 4472
+      },
+      {
+        "date": "2026-07-08",
+        "price": 4610
+      },
+      {
+        "date": "2026-07-09",
+        "price": 4549
+      },
+      {
+        "date": "2026-07-10",
+        "price": 4525
+      },
+      {
+        "date": "2026-07-11",
+        "price": 4510
+      },
+      {
+        "date": "2026-07-12",
+        "price": 4346
+      },
+      {
+        "date": "2026-07-13",
+        "price": 4394
+      },
+      {
+        "date": "2026-07-14",
+        "price": 4294
+      },
+      {
+        "date": "2026-07-15",
+        "price": 4332
+      },
+      {
+        "date": "2026-07-16",
+        "price": 4223
+      },
+      {
+        "date": "2026-07-17",
+        "price": 3974
+      },
+      {
+        "date": "2026-07-18",
+        "price": 3989
+      },
+      {
+        "date": "2026-07-19",
+        "price": 3932
+      },
+      {
+        "date": "2026-07-20",
+        "price": 3924
+      },
+      {
+        "date": "2026-07-21",
+        "price": 3887
+      },
+      {
+        "date": "2026-07-22",
+        "price": 3884
+      },
+      {
+        "date": "2026-07-23",
+        "price": 3834
+      },
+      {
+        "date": "2026-07-24",
+        "price": 3793
+      },
+      {
+        "date": "2026-07-25",
+        "price": 3707
+      },
+      {
+        "date": "2026-07-26",
+        "price": 3779
+      },
+      {
+        "date": "2026-07-27",
+        "price": 3865
+      },
+      {
+        "date": "2026-07-28",
+        "price": 3755
+      },
+      {
+        "date": "2026-07-29",
+        "price": 3767
+      },
+      {
+        "date": "2026-07-30",
+        "price": 3811
+      },
+      {
+        "date": "2026-07-31",
+        "price": 3804
+      },
+      {
+        "date": "2026-08-01",
+        "price": 3766
+      },
+      {
+        "date": "2026-08-02",
+        "price": 3733
+      },
+      {
+        "date": "2026-08-03",
+        "price": 3693
+      },
+      {
+        "date": "2026-08-04",
+        "price": 4021
+      },
+      {
+        "date": "2026-08-05",
+        "price": 4036
+      },
+      {
+        "date": "2026-08-06",
+        "price": 4038
+      },
+      {
+        "date": "2026-08-07",
+        "price": 3994
+      },
+      {
+        "date": "2026-08-08",
+        "price": 4026
+      },
+      {
+        "date": "2026-08-09",
+        "price": 3954
+      },
+      {
+        "date": "2026-08-10",
+        "price": 4015
+      },
+      {
+        "date": "2026-08-11",
+        "price": 4048
+      },
+      {
+        "date": "2026-08-12",
+        "price": 4168
+      },
+      {
+        "date": "2026-08-13",
+        "price": 4486
+      },
+      {
+        "date": "2026-08-14",
+        "price": 4570
+      },
+      {
+        "date": "2026-08-15",
+        "price": 4665
+      },
+      {
+        "date": "2026-08-16",
+        "price": 4571
+      },
+      {
+        "date": "2026-08-17",
+        "price": 4706
+      },
+      {
+        "date": "2026-08-18",
+        "price": 4841
+      },
+      {
+        "date": "2026-08-19",
+        "price": 4863
+      },
+      {
+        "date": "2026-08-20",
+        "price": 5012
+      },
+      {
+        "date": "2026-08-21",
+        "price": 4881
+      },
+      {
+        "date": "2026-08-22",
+        "price": 5303
+      },
+      {
+        "date": "2026-08-23",
+        "price": 4761
+      },
+      {
+        "date": "2026-08-24",
+        "price": 4476
+      },
+      {
+        "date": "2026-08-25",
+        "price": 4569
+      },
+      {
+        "date": "2026-08-26",
+        "price": 4490
+      },
+      {
+        "date": "2026-08-27",
+        "price": 4528
+      },
+      {
+        "date": "2026-08-28",
+        "price": 4581
+      },
+      {
+        "date": "2026-08-29",
+        "price": 4659
+      },
+      {
+        "date": "2026-08-30",
+        "price": 4589
+      },
+      {
+        "date": "2026-08-31",
+        "price": 4481
+      },
+      {
+        "date": "2026-09-01",
+        "price": 4593
+      },
+      {
+        "date": "2026-09-02",
+        "price": 4693
+      },
+      {
+        "date": "2026-09-03",
+        "price": 4684
+      },
+      {
+        "date": "2026-09-04",
+        "price": 5126
+      },
+      {
+        "date": "2026-09-05",
+        "price": 4701
+      },
+      {
+        "date": "2026-09-06",
+        "price": 4805
+      },
+      {
+        "date": "2026-09-07",
+        "price": 4576
+      },
+      {
+        "date": "2026-09-08",
+        "price": 4439
+      },
+      {
+        "date": "2026-09-09",
+        "price": 4378
+      },
+      {
+        "date": "2026-09-10",
+        "price": 4624
+      },
+      {
+        "date": "2026-09-11",
+        "price": 4597
+      },
+      {
+        "date": "2026-09-12",
+        "price": 4476
+      },
+      {
+        "date": "2026-09-13",
+        "price": 4494
+      },
+      {
+        "date": "2026-09-14",
+        "price": 4502
+      },
+      {
+        "date": "2026-09-15",
+        "price": 4586
+      },
+      {
+        "date": "2026-09-16",
+        "price": 4466
+      },
+      {
+        "date": "2026-09-17",
+        "price": 4496
+      },
+      {
+        "date": "2026-09-18",
+        "price": 4589
+      },
+      {
+        "date": "2026-09-19",
+        "price": 4457
+      },
+      {
+        "date": "2026-09-20",
+        "price": 4546
+      },
+      {
+        "date": "2026-09-21",
+        "price": 4648
+      },
+      {
+        "date": "2026-09-22",
+        "price": 4671
+      },
+      {
+        "date": "2026-09-23",
+        "price": 4758
+      },
+      {
+        "date": "2026-09-24",
+        "price": 4641
+      },
+      {
+        "date": "2026-09-25",
+        "price": 4608
+      },
+      {
+        "date": "2026-09-26",
+        "price": 4641
+      },
+      {
+        "date": "2026-09-27",
+        "price": 4710
+      },
+      {
+        "date": "2026-09-28",
+        "price": 4713
+      },
+      {
+        "date": "2026-09-29",
+        "price": 4634
+      },
+      {
+        "date": "2026-09-30",
+        "price": 4500
+      },
+      {
+        "date": "2026-10-01",
+        "price": 4416
+      },
+      {
+        "date": "2026-10-02",
+        "price": 4299
+      }
+    ]
   }
 ];

@@ -56,7 +56,7 @@ export const categories: CategoryMeta[] = [
     "slug": "fitness",
     "description": "Home gym dumbbells, kettlebells, whey isolate, creatine, and yoga essentials.",
     "icon": "Dumbbell",
-    "itemCount": 12
+    "itemCount": 14
   },
   {
     "name": "Beauty",
