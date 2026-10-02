@@ -28,7 +28,7 @@ function deterministicRanker(query: string): AssistResponse {
     category = 'Electronics';
   } else if (/mixer|grinder|air fryer|iron|bottle|flask|kitchen|vacuum|home/i.test(q)) {
     category = 'Home & Kitchen';
-  } else if (/shoes|jeans|watch|backpack|sunglasses|fashion|shirt|clothes|cloths|clothing|apparel|wear|tshirt|t-shirt|tee|polo|trousers|kurti|dress/i.test(q)) {
+  } else if (/shoes|jeans|watch|backpack|sunglasses|fashion|shirt|clothes|cloths|clothing|apparel|wear|tshirt|t-shirt|tee|polo|trousers|kurti|kurtis|kurta|saree|sari|anarkali|dress|crop top|women fashion|women clothes|girls clothes/i.test(q)) {
     category = 'Fashion';
   } else if (/book|read|habits|psychology|sapiens|ikigai|novel/i.test(q)) {
     category = 'Books';
@@ -76,7 +76,12 @@ function deterministicRanker(query: string): AssistResponse {
     { pattern: /\bkettlebells?\b/i, tag: 'kettlebell', titleKeywords: ['kettlebell'] },
     { pattern: /\byoga mats?\b/i, tag: 'yoga', titleKeywords: ['yoga mat', 'mat'] },
     { pattern: /\bbackpacks?\b|\bbags?\b/i, tag: 'backpack', titleKeywords: ['backpack', 'rucksack', 'valex', 'quill'] },
-    { pattern: /\bcloth(?:es|s|ing)?\b|\bapparel\b|\bwear\b/i, tag: 'clothing', titleKeywords: ['t-shirt', 'tshirt', 'shirt', 'polo', 'jeans', 'crew neck', 'round neck'] },
+    { pattern: /\bcloth(?:es|s|ing)?\b|\bapparel\b|\bwear\b/i, tag: 'clothing', titleKeywords: ['t-shirt', 'tshirt', 'shirt', 'polo', 'jeans', 'kurti', 'kurta', 'saree', 'dress', 'crop top', 'crew neck', 'round neck'] },
+    { pattern: /\bwomen(?:'?s)?\s*(?:fashion|cloth(?:es|ing)|wear|apparel)?\b|\bgirls?\s*(?:cloth(?:es|ing)|fashion)\b/i, tag: 'women', titleKeywords: ['women', 'kurti', 'saree', 'dress', 'crop top', 'aurelia', 'biba', 'suta', 'only', 'vero moda'] },
+    { pattern: /\bkurtis?\b|\bkurtas?\b|\banarkalis?\b/i, tag: 'kurti', titleKeywords: ['kurti', 'kurta', 'anarkali'] },
+    { pattern: /\bsarees?\b|\bsaris?\b/i, tag: 'saree', titleKeywords: ['saree', 'sari', 'banarasi'] },
+    { pattern: /\bdress(?:es)?\b|\bmaxi\b|\bmidi\b/i, tag: 'dress', titleKeywords: ['dress', 'midi', 'maxi'] },
+    { pattern: /\bcrop\s*tops?\b|\bcrops?\b/i, tag: 'crop top', titleKeywords: ['crop', 'crop t-shirt', 'crop top'] },
     { pattern: /\bt-?shirts?\b|\btees?\b/i, tag: 't-shirt', titleKeywords: ['t-shirt', 'tshirt', 'tee', 'crew neck', 'round neck'] },
     { pattern: /\bpolos?\b/i, tag: 'polo', titleKeywords: ['polo'] },
     { pattern: /\bshirts?\b/i, tag: 'shirt', titleKeywords: ['shirt', 'casual shirt', 'polo'] },

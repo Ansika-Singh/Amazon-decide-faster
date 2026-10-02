@@ -29770,7 +29770,7 @@ export const products: Product[] = [
   {
     "id": "fas-08",
     "slug": "flying-machine-mens-slim-fit-mid-rise-blue-jeans",
-    "title": "Flying Machine Men's Slim Fit Mid-Rise Stretch Denim Jeans (Stonewash Blue)",
+    "title": "Flying Machine Men's Slim Fit Mid-Rise Stretch Denim Jeans (Washed Black)",
     "brand": "Flying Machine",
     "category": "Fashion",
     "price": 1499,
@@ -29783,11 +29783,11 @@ export const products: Product[] = [
     "bullets": [
       "Contemporary slim fit cut hugging hips and thighs with a tapered leg opening",
       "Breathable 98% cotton, 2% spandex blend delivers flexible comfort for active college life",
-      "Handcrafted stonewashed blue fade with subtle hand-scraping on thighs",
+      "Handcrafted washed black and charcoal fade with subtle vintage whiskers on thighs",
       "Mid-rise waistband sits comfortably below the natural waistline",
       "Classic 5-pocket construction with contrast tobacco topstitching"
     ],
-    "description": "Youthful, modern, and effortless. Flying Machine slim-fit jeans deliver a trendy stonewashed fade and flexible stretch denim tailored for campus life and casual outings.",
+    "description": "Youthful, modern, and effortless. Flying Machine slim-fit jeans deliver a trendy washed black finish and flexible stretch denim tailored for campus life, weekend evenings, and casual outings.",
     "stock": 45,
     "deliveryDays": 2,
     "tags": [
@@ -30183,7 +30183,7 @@ export const products: Product[] = [
   {
     "id": "fas-09",
     "slug": "puma-mens-dazzler-mesh-casual-sneaker-shoes",
-    "title": "Puma Men's Dazzler Mesh Casual Sneaker Shoes (Lightweight, Cushioned EVA Midsole, Black-White)",
+    "title": "Puma Men's Dazzler Mesh Casual Sneaker Shoes (Lightweight, Cushioned EVA Midsole, White-Grey)",
     "brand": "Puma",
     "category": "Fashion",
     "price": 1799,
@@ -40104,7 +40104,7 @@ export const products: Product[] = [
   {
       "id": "fas-15",
       "slug": "amazon-brand-symbol-mens-regular-fit-cotton-crew-neck-tshirt",
-      "title": "Amazon Brand - Symbol Men's Regular Fit Pure Cotton Crew Neck T-Shirt (Jet Black)",
+      "title": "Amazon Brand - Symbol Men's Regular Fit Pure Cotton Graphic T-Shirt (Jet Black)",
       "brand": "Symbol",
       "category": "Fashion",
       "price": 349,
@@ -40121,7 +40121,7 @@ export const products: Product[] = [
           "Versatile everyday essential ideal for casual outings, lounging, and layering",
           "Tagless neck label design ensures scratch-free neck comfort throughout the day"
       ],
-      "description": "Crafted from 100% breathable combed cotton, the Symbol Classic Crew Neck T-Shirt offers a relaxed regular silhouette that pairs effortlessly with jeans, chinos, or shorts. The bio-washed jersey fabric stays soft and rich in color wash after wash.",
+      "description": "Crafted from 100% breathable combed cotton, this Symbol graphic crew neck t-shirt features a sleek chest print badge and regular fit that pairs effortlessly with jeans or chinos. The bio-washed jersey fabric stays soft and rich in color wash after wash.",
       "stock": 85,
       "deliveryDays": 1,
       "tags": [
@@ -40285,373 +40285,380 @@ export const products: Product[] = [
   },
   {
       "id": "fas-16",
-      "slug": "allen-solly-mens-regular-fit-solid-polo-tshirt-navy",
-      "title": "Allen Solly Men's Regular Fit Solid Polo T-Shirt (100% Combed Cotton, Navy Blue)",
-      "brand": "Allen Solly",
+      "slug": "symbol-mens-regular-fit-cotton-pique-polo-tshirts-pack-of-4",
+      "title": "Amazon Brand - Symbol Men's Regular Fit Cotton Pique Polo T-Shirts (Multicolor Pack of 4)",
+      "brand": "Symbol",
       "category": "Fashion",
-      "price": 499,
-      "mrp": 1099,
+      "price": 899,
+      "mrp": 1999,
       "rating": 4.3,
       "reviewCount": 24500,
       "images": [
-          "/products/fas-16.jpg"
+            "/products/fas-16.jpg"
       ],
       "bullets": [
-          "Signature honeycomb pique knit in 100% premium long-staple combed cotton",
-          "Classic ribbed polo collar with two-button placket and signature stag embroidery",
-          "Structured regular fit provides smart casual appeal for work-from-home or weekend getaways",
-          "Color-lock technology ensures deep navy hue stays vibrant without bleed",
-          "Reinforced side vents provide enhanced ease of movement and modern drape"
+            "Value combo pack of 4 premium cotton pique knit polo t-shirts in emerald green, coral, slate blue, and heather grey",
+            "Classic ribbed knit polo collar with durable two-button placket and woven neck branding",
+            "100% breathable combed cotton with pique honeycomb texture for smart casual wear",
+            "Fade-resistant bio-wash treatment ensures colors stay rich and vibrant across multiple washes",
+            "Comfortable regular fit with reinforced side slit vents for enhanced breathability and movement"
       ],
-      "description": "Elevate your casual wardrobe with the Allen Solly Classic Navy Polo. Cut in breathable pique cotton with a crisp ribbed collar, it seamlessly bridges the gap between smart office meetings and weekend dinners.",
+      "description": "Supercharge your weekly wardrobe with this versatile 4-pack of cotton pique polo shirts. Featuring vibrant emerald green, warm coral, slate blue, and classic heather grey, these polos effortlessly bridge office casuals and weekend style.",
       "stock": 65,
       "deliveryDays": 2,
       "tags": [
-          "fashion",
-          "clothing",
-          "clothes",
-          "cloths",
-          "polo",
-          "tshirt",
-          "t-shirt",
-          "tee",
-          "collar",
-          "cotton",
-          "smart casual",
-          "under 500",
-          "allen solly"
+            "fashion",
+            "clothing",
+            "clothes",
+            "cloths",
+            "polo",
+            "polo t-shirt",
+            "tshirt",
+            "t-shirt",
+            "tee",
+            "pack of 4",
+            "combo",
+            "cotton",
+            "smart casual",
+            "symbol",
+            "mens"
       ],
       "reviewSummary": {
-          "pros": [
-              "Rich pique cotton texture looks premium and formal",
-              "Sturdy collar does not roll up or flatten after washing",
-              "Steal price for authentic Allen Solly craftsmanship under \u20b9500"
-          ],
-          "cons": [
-              "Slightly heavier GSM fabric than basic round-neck tees",
-              "Button placket feels stiff on the first wear before initial wash",
-              "Wash inside out to prevent lint accumulation"
-          ],
-          "verdict": "The quintessential smart casual polo that looks twice its price tag.",
-          "sentiment": {
-              "positive": 88,
-              "neutral": 8,
-              "negative": 4
-          }
+            "pros": [
+                  "Tremendous value getting 4 distinct premium polo shirts in one pack",
+                  "Sturdy ribbed collar stays neat and does not curl after machine washing",
+                  "Breathable pique knit fabric feels soft on the skin in hot weather"
+            ],
+            "cons": [
+                  "Pique weave is slightly heavier than basic thin tees",
+                  "Order true-to-size; fit is standard regular rather than ultra-slim",
+                  "Wash with similar colors to maintain brightness"
+            ],
+            "verdict": "An absolute steal for daily office casuals and weekend outings with 4 distinct colorways.",
+            "sentiment": {
+                  "positive": 89,
+                  "neutral": 8,
+                  "negative": 3
+            }
       },
       "priceHistory": [
-          {
-              "date": "2026-09-02",
-              "price": 519
-          },
-          {
-              "date": "2026-09-03",
-              "price": 509
-          },
-          {
-              "date": "2026-09-04",
-              "price": 499
-          },
-          {
-              "date": "2026-09-05",
-              "price": 559
-          },
-          {
-              "date": "2026-09-06",
-              "price": 549
-          },
-          {
-              "date": "2026-09-07",
-              "price": 539
-          },
-          {
-              "date": "2026-09-08",
-              "price": 529
-          },
-          {
-              "date": "2026-09-09",
-              "price": 519
-          },
-          {
-              "date": "2026-09-10",
-              "price": 509
-          },
-          {
-              "date": "2026-09-11",
-              "price": 499
-          },
-          {
-              "date": "2026-09-12",
-              "price": 559
-          },
-          {
-              "date": "2026-09-13",
-              "price": 549
-          },
-          {
-              "date": "2026-09-14",
-              "price": 539
-          },
-          {
-              "date": "2026-09-15",
-              "price": 529
-          },
-          {
-              "date": "2026-09-16",
-              "price": 519
-          },
-          {
-              "date": "2026-09-17",
-              "price": 509
-          },
-          {
-              "date": "2026-09-18",
-              "price": 499
-          },
-          {
-              "date": "2026-09-19",
-              "price": 559
-          },
-          {
-              "date": "2026-09-20",
-              "price": 549
-          },
-          {
-              "date": "2026-09-21",
-              "price": 539
-          },
-          {
-              "date": "2026-09-22",
-              "price": 529
-          },
-          {
-              "date": "2026-09-23",
-              "price": 519
-          },
-          {
-              "date": "2026-09-24",
-              "price": 509
-          },
-          {
-              "date": "2026-09-25",
-              "price": 499
-          },
-          {
-              "date": "2026-09-26",
-              "price": 559
-          },
-          {
-              "date": "2026-09-27",
-              "price": 549
-          },
-          {
-              "date": "2026-09-28",
-              "price": 539
-          },
-          {
-              "date": "2026-09-29",
-              "price": 529
-          },
-          {
-              "date": "2026-09-30",
-              "price": 519
-          },
-          {
-              "date": "2026-10-01",
-              "price": 509
-          },
-          {
-              "date": "2026-10-02",
-              "price": 499
-          }
+            {
+                  "date": "2026-09-02",
+                  "price": 1006
+            },
+            {
+                  "date": "2026-09-03",
+                  "price": 899
+            },
+            {
+                  "date": "2026-09-04",
+                  "price": 899
+            },
+            {
+                  "date": "2026-09-05",
+                  "price": 916
+            },
+            {
+                  "date": "2026-09-06",
+                  "price": 899
+            },
+            {
+                  "date": "2026-09-07",
+                  "price": 952
+            },
+            {
+                  "date": "2026-09-08",
+                  "price": 916
+            },
+            {
+                  "date": "2026-09-09",
+                  "price": 1006
+            },
+            {
+                  "date": "2026-09-10",
+                  "price": 899
+            },
+            {
+                  "date": "2026-09-11",
+                  "price": 916
+            },
+            {
+                  "date": "2026-09-12",
+                  "price": 952
+            },
+            {
+                  "date": "2026-09-13",
+                  "price": 899
+            },
+            {
+                  "date": "2026-09-14",
+                  "price": 916
+            },
+            {
+                  "date": "2026-09-15",
+                  "price": 899
+            },
+            {
+                  "date": "2026-09-16",
+                  "price": 1006
+            },
+            {
+                  "date": "2026-09-17",
+                  "price": 952
+            },
+            {
+                  "date": "2026-09-18",
+                  "price": 899
+            },
+            {
+                  "date": "2026-09-19",
+                  "price": 899
+            },
+            {
+                  "date": "2026-09-20",
+                  "price": 916
+            },
+            {
+                  "date": "2026-09-21",
+                  "price": 899
+            },
+            {
+                  "date": "2026-09-22",
+                  "price": 952
+            },
+            {
+                  "date": "2026-09-23",
+                  "price": 1006
+            },
+            {
+                  "date": "2026-09-24",
+                  "price": 899
+            },
+            {
+                  "date": "2026-09-25",
+                  "price": 899
+            },
+            {
+                  "date": "2026-09-26",
+                  "price": 916
+            },
+            {
+                  "date": "2026-09-27",
+                  "price": 952
+            },
+            {
+                  "date": "2026-09-28",
+                  "price": 899
+            },
+            {
+                  "date": "2026-09-29",
+                  "price": 916
+            },
+            {
+                  "date": "2026-09-30",
+                  "price": 1006
+            },
+            {
+                  "date": "2026-10-01",
+                  "price": 899
+            },
+            {
+                  "date": "2026-10-02",
+                  "price": 952
+            }
       ]
-  },
+},
   {
       "id": "fas-17",
-      "slug": "jockey-mens-super-combed-cotton-graphic-print-tshirt",
-      "title": "Jockey Men's Super Combed Cotton Rich Graphic Print T-Shirt (Charcoal Grey)",
-      "brand": "Jockey",
+      "slug": "only-womens-graphic-print-loose-fit-cotton-crop-tshirt",
+      "title": "ONLY Women's Graphic Print Loose Fit Cotton Crop T-Shirt (Midnight Black)",
+      "brand": "ONLY",
       "category": "Fashion",
-      "price": 449,
-      "mrp": 699,
-      "rating": 4.4,
-      "reviewCount": 31200,
+      "price": 399,
+      "mrp": 999,
+      "rating": 4.5,
+      "reviewCount": 14200,
       "images": [
-          "/products/fas-17.jpg"
+            "/products/fas-17.jpg"
       ],
       "bullets": [
-          "Super combed cotton-rich fabric blend offering superior softness and stretch recovery",
-          "Modern fit tailored to flatter chest and shoulders while remaining breezy",
-          "Minimalist chest graphic printed with eco-friendly breathable inks that won't crack",
-          "StayFresh treatment with antimicrobial properties helps you stay odor-free all day",
-          "Reinforced neck seam and taped shoulders prevent stretching over long-term wear"
+            "100% Premium lightweight cotton jersey with an airy, ultra-soft feel on the skin",
+            "Trendy relaxed cropped silhouette pairs perfectly with high-waisted jeans, cargo pants, and skirts",
+            "Striking monochrome skeleton peace hand graphic print made with eco-friendly durable inks",
+            "Ribbed crew neckline and dropped shoulders create a chic street-style aesthetic",
+            "Pre-shrunk fabric ensures shape and soft hand-feel retain integrity after machine washing"
       ],
-      "description": "Engineered for unmatched comfort, the Jockey Graphic Crew Neck Tee combines super combed cotton with StayFresh antimicrobial technology. Whether you're heading to college, running errands, or chilling at home, it delivers effortless style.",
-      "stock": 70,
+      "description": "Channel effortlessly cool street vibes with the ONLY Women's Graphic Crop Tee. Designed in breathable midnight black cotton with a bold peace-sign hand graphic, it is the ultimate casual companion for campus days, coffee runs, and weekend concerts.",
+      "stock": 55,
       "deliveryDays": 1,
       "tags": [
-          "fashion",
-          "clothing",
-          "clothes",
-          "cloths",
-          "tshirt",
-          "t-shirt",
-          "tee",
-          "graphic",
-          "printed",
-          "jockey",
-          "cotton",
-          "under 500"
+            "fashion",
+            "women",
+            "women fashion",
+            "women clothes",
+            "girls clothes",
+            "crop top",
+            "crop tee",
+            "tshirt",
+            "t-shirt",
+            "tee",
+            "graphic",
+            "printed",
+            "only",
+            "cotton",
+            "under 500",
+            "clothes",
+            "clothing"
       ],
       "reviewSummary": {
-          "pros": [
-              "Silky soft hand-feel that Jockey is renowned for",
-              "Odor-control StayFresh technology works wonders during humid weather",
-              "Print does not peel or fade even after multiple machine cycles"
-          ],
-          "cons": [
-              "Modern fit is slightly snug around the torso",
-              "Available in fewer bright color options compared to plain collections",
-              "Sleeves are cut slightly higher on the bicep"
-          ],
-          "verdict": "Top-tier comfort and durability from India's most trusted innerwear brand.",
-          "sentiment": {
-              "positive": 90,
-              "neutral": 7,
-              "negative": 3
-          }
+            "pros": [
+                  "Super flattering boxy cropped cut that looks great with high-rise jeans",
+                  "Soft breathable pure cotton fabric that stays cool in summer",
+                  "Bold graphic does not crack or peel after multiple washes"
+            ],
+            "cons": [
+                  "Cropped hemline sits slightly above the navel; check size guide for length",
+                  "Best washed in cold water inside out to protect deep black color",
+                  "Relaxed loose fit may feel oversized if expecting tight fit"
+            ],
+            "verdict": "Trendy, premium street-style cropped tee at an irresistible under-\u20b9500 price point.",
+            "sentiment": {
+                  "positive": 91,
+                  "neutral": 6,
+                  "negative": 3
+            }
       },
       "priceHistory": [
-          {
-              "date": "2026-09-02",
-              "price": 467
-          },
-          {
-              "date": "2026-09-03",
-              "price": 458
-          },
-          {
-              "date": "2026-09-04",
-              "price": 449
-          },
-          {
-              "date": "2026-09-05",
-              "price": 503
-          },
-          {
-              "date": "2026-09-06",
-              "price": 494
-          },
-          {
-              "date": "2026-09-07",
-              "price": 485
-          },
-          {
-              "date": "2026-09-08",
-              "price": 476
-          },
-          {
-              "date": "2026-09-09",
-              "price": 467
-          },
-          {
-              "date": "2026-09-10",
-              "price": 458
-          },
-          {
-              "date": "2026-09-11",
-              "price": 449
-          },
-          {
-              "date": "2026-09-12",
-              "price": 503
-          },
-          {
-              "date": "2026-09-13",
-              "price": 494
-          },
-          {
-              "date": "2026-09-14",
-              "price": 485
-          },
-          {
-              "date": "2026-09-15",
-              "price": 476
-          },
-          {
-              "date": "2026-09-16",
-              "price": 467
-          },
-          {
-              "date": "2026-09-17",
-              "price": 458
-          },
-          {
-              "date": "2026-09-18",
-              "price": 449
-          },
-          {
-              "date": "2026-09-19",
-              "price": 503
-          },
-          {
-              "date": "2026-09-20",
-              "price": 494
-          },
-          {
-              "date": "2026-09-21",
-              "price": 485
-          },
-          {
-              "date": "2026-09-22",
-              "price": 476
-          },
-          {
-              "date": "2026-09-23",
-              "price": 467
-          },
-          {
-              "date": "2026-09-24",
-              "price": 458
-          },
-          {
-              "date": "2026-09-25",
-              "price": 449
-          },
-          {
-              "date": "2026-09-26",
-              "price": 503
-          },
-          {
-              "date": "2026-09-27",
-              "price": 494
-          },
-          {
-              "date": "2026-09-28",
-              "price": 485
-          },
-          {
-              "date": "2026-09-29",
-              "price": 476
-          },
-          {
-              "date": "2026-09-30",
-              "price": 467
-          },
-          {
-              "date": "2026-10-01",
-              "price": 458
-          },
-          {
-              "date": "2026-10-02",
-              "price": 449
-          }
+            {
+                  "date": "2026-09-02",
+                  "price": 446
+            },
+            {
+                  "date": "2026-09-03",
+                  "price": 399
+            },
+            {
+                  "date": "2026-09-04",
+                  "price": 399
+            },
+            {
+                  "date": "2026-09-05",
+                  "price": 406
+            },
+            {
+                  "date": "2026-09-06",
+                  "price": 399
+            },
+            {
+                  "date": "2026-09-07",
+                  "price": 422
+            },
+            {
+                  "date": "2026-09-08",
+                  "price": 406
+            },
+            {
+                  "date": "2026-09-09",
+                  "price": 446
+            },
+            {
+                  "date": "2026-09-10",
+                  "price": 399
+            },
+            {
+                  "date": "2026-09-11",
+                  "price": 406
+            },
+            {
+                  "date": "2026-09-12",
+                  "price": 422
+            },
+            {
+                  "date": "2026-09-13",
+                  "price": 399
+            },
+            {
+                  "date": "2026-09-14",
+                  "price": 406
+            },
+            {
+                  "date": "2026-09-15",
+                  "price": 399
+            },
+            {
+                  "date": "2026-09-16",
+                  "price": 446
+            },
+            {
+                  "date": "2026-09-17",
+                  "price": 422
+            },
+            {
+                  "date": "2026-09-18",
+                  "price": 399
+            },
+            {
+                  "date": "2026-09-19",
+                  "price": 399
+            },
+            {
+                  "date": "2026-09-20",
+                  "price": 406
+            },
+            {
+                  "date": "2026-09-21",
+                  "price": 399
+            },
+            {
+                  "date": "2026-09-22",
+                  "price": 422
+            },
+            {
+                  "date": "2026-09-23",
+                  "price": 446
+            },
+            {
+                  "date": "2026-09-24",
+                  "price": 399
+            },
+            {
+                  "date": "2026-09-25",
+                  "price": 399
+            },
+            {
+                  "date": "2026-09-26",
+                  "price": 406
+            },
+            {
+                  "date": "2026-09-27",
+                  "price": 422
+            },
+            {
+                  "date": "2026-09-28",
+                  "price": 399
+            },
+            {
+                  "date": "2026-09-29",
+                  "price": 406
+            },
+            {
+                  "date": "2026-09-30",
+                  "price": 446
+            },
+            {
+                  "date": "2026-10-01",
+                  "price": 399
+            },
+            {
+                  "date": "2026-10-02",
+                  "price": 422
+            }
       ]
-  },
+},
   {
       "id": "fas-18",
       "slug": "dennis-lingo-mens-slim-fit-cotton-casual-shirt-sky-blue",
-      "title": "Dennis Lingo Men's Slim Fit 100% Cotton Casual Full Sleeve Shirt (Sky Blue)",
+      "title": "Dennis Lingo Men's Slim Fit 100% Cotton Formal & Casual Full Sleeve Shirt (Royal Blue)",
       "brand": "Dennis Lingo",
       "category": "Fashion",
       "price": 489,
@@ -40668,7 +40675,7 @@ export const products: Product[] = [
           "Pre-washed to eliminate unexpected shrinkage and ensure immediate buttery softness",
           "Roll-up full sleeves with button tabs for versatile styling across seasons"
       ],
-      "description": "A crisp modern wardrobe staple. The Dennis Lingo Casual Cotton Shirt features a tailored slim fit silhouette in refreshing sky blue. Pair it with dark wash jeans or formal trousers for effortless charm.",
+      "description": "A crisp modern wardrobe staple. The Dennis Lingo Casual Cotton Shirt features a tailored slim fit silhouette in vibrant royal blue. Pair it with dark wash jeans or formal trousers for effortless charm.",
       "stock": 50,
       "deliveryDays": 2,
       "tags": [
@@ -40828,5 +40835,1109 @@ export const products: Product[] = [
               "price": 489
           }
       ]
-  }
+  },
+  {
+      "id": "fas-19",
+      "slug": "aurelia-womens-cotton-straight-fit-kurti-crimson-red",
+      "title": "AURELIA Women's Cotton Straight Fit Kurti with Mandarin Collar (Crimson Red)",
+      "brand": "AURELIA",
+      "category": "Fashion",
+      "price": 499,
+      "mrp": 1199,
+      "rating": 4.3,
+      "reviewCount": 18600,
+      "images": [
+            "/products/fas-19.jpg"
+      ],
+      "bullets": [
+            "100% Pure breathable cotton fabric tailored for comfortable daily, office, and campus wear",
+            "Straight fit silhouette with elegant vertical pin-tucks on the bodice for a slender look",
+            "Contemporary mandarin collar with front button-down placket and shimmering buttons",
+            "Three-quarter sleeves with neat fold-over cuffs and side slits for effortless movement",
+            "Vibrant crimson red color with color-fast dye that resists fading wash after wash"
+      ],
+      "description": "Add timeless grace to your daily ethnic rotation with the AURELIA Straight Fit Cotton Kurti. Crafted from 100% pure cotton in striking crimson red, it features refined chest pin-tucks and a mandarin collar, making it ideal for office, college, or casual gatherings.",
+      "stock": 80,
+      "deliveryDays": 1,
+      "tags": [
+            "fashion",
+            "women",
+            "women fashion",
+            "women clothes",
+            "girls clothes",
+            "kurti",
+            "kurtis",
+            "kurta",
+            "ethnic",
+            "traditional",
+            "under 500",
+            "cotton kurti",
+            "aurelia",
+            "clothes",
+            "clothing",
+            "red kurti"
+      ],
+      "reviewSummary": {
+            "pros": [
+                  "Extremely breathable and soft pure cotton fabric for hot Indian weather",
+                  "Subtle pin-tuck detailing gives a chic and tailored silhouette",
+                  "Fantastic price point under \u20b9500 for a branded Aurelia kurti"
+            ],
+            "cons": [
+                  "Requires gentle cold washing on first cycle to prevent dye transfer",
+                  "Pure cotton requires light steam ironing after drying",
+                  "Straight fit; if you have broader hips consider sizing up"
+            ],
+            "verdict": "The quintessential comfortable daily-wear ethnic kurti combining elegance and unbeatable value.",
+            "sentiment": {
+                  "positive": 87,
+                  "neutral": 9,
+                  "negative": 4
+            }
+      },
+      "priceHistory": [
+            {
+                  "date": "2026-09-02",
+                  "price": 558
+            },
+            {
+                  "date": "2026-09-03",
+                  "price": 499
+            },
+            {
+                  "date": "2026-09-04",
+                  "price": 499
+            },
+            {
+                  "date": "2026-09-05",
+                  "price": 508
+            },
+            {
+                  "date": "2026-09-06",
+                  "price": 499
+            },
+            {
+                  "date": "2026-09-07",
+                  "price": 528
+            },
+            {
+                  "date": "2026-09-08",
+                  "price": 508
+            },
+            {
+                  "date": "2026-09-09",
+                  "price": 558
+            },
+            {
+                  "date": "2026-09-10",
+                  "price": 499
+            },
+            {
+                  "date": "2026-09-11",
+                  "price": 508
+            },
+            {
+                  "date": "2026-09-12",
+                  "price": 528
+            },
+            {
+                  "date": "2026-09-13",
+                  "price": 499
+            },
+            {
+                  "date": "2026-09-14",
+                  "price": 508
+            },
+            {
+                  "date": "2026-09-15",
+                  "price": 499
+            },
+            {
+                  "date": "2026-09-16",
+                  "price": 558
+            },
+            {
+                  "date": "2026-09-17",
+                  "price": 528
+            },
+            {
+                  "date": "2026-09-18",
+                  "price": 499
+            },
+            {
+                  "date": "2026-09-19",
+                  "price": 499
+            },
+            {
+                  "date": "2026-09-20",
+                  "price": 508
+            },
+            {
+                  "date": "2026-09-21",
+                  "price": 499
+            },
+            {
+                  "date": "2026-09-22",
+                  "price": 528
+            },
+            {
+                  "date": "2026-09-23",
+                  "price": 558
+            },
+            {
+                  "date": "2026-09-24",
+                  "price": 499
+            },
+            {
+                  "date": "2026-09-25",
+                  "price": 499
+            },
+            {
+                  "date": "2026-09-26",
+                  "price": 508
+            },
+            {
+                  "date": "2026-09-27",
+                  "price": 528
+            },
+            {
+                  "date": "2026-09-28",
+                  "price": 499
+            },
+            {
+                  "date": "2026-09-29",
+                  "price": 508
+            },
+            {
+                  "date": "2026-09-30",
+                  "price": 558
+            },
+            {
+                  "date": "2026-10-01",
+                  "price": 499
+            },
+            {
+                  "date": "2026-10-02",
+                  "price": 528
+            }
+      ]
+},
+  {
+      "id": "fas-20",
+      "slug": "biba-womens-georgette-embroidered-anarkali-kurta-sharara-set",
+      "title": "BIBA Women's Georgette Embroidered Anarkali Kurta with Sharara & Dupatta Set (Pastel Mint Green)",
+      "brand": "BIBA",
+      "category": "Fashion",
+      "price": 1499,
+      "mrp": 3999,
+      "rating": 4.6,
+      "reviewCount": 9450,
+      "images": [
+            "/products/fas-20.jpg"
+      ],
+      "bullets": [
+            "Complete 3-piece festive ethnic set: Flared Anarkali kurta, tiered flared sharara, and sheer dupatta",
+            "Delicate Lucknowi Chikankari inspired thread and sequin embroidery across the yoke and dupatta",
+            "Flowy lightweight georgette outer fabric paired with a soft, breathable santoon lining",
+            "Full-length tiered sharara with comfortable elasticated waistband for hassle-free movement",
+            "Graceful sheer dupatta finished with elegant zari lace borders and shimmering booties"
+      ],
+      "description": "Radiate celebratory elegance with the BIBA Embroidered Anarkali Kurta & Sharara Set. Designed in refreshing pastel mint green with intricate tone-on-tone embroidery and delicate sequin shimmer, this ensemble is tailor-made for weddings, festivals, and family celebrations.",
+      "stock": 35,
+      "deliveryDays": 2,
+      "tags": [
+            "fashion",
+            "women",
+            "women fashion",
+            "women clothes",
+            "girls clothes",
+            "kurti",
+            "kurta",
+            "anarkali",
+            "sharara",
+            "kurta set",
+            "ethnic",
+            "festive",
+            "biba",
+            "clothes",
+            "clothing",
+            "traditional"
+      ],
+      "reviewSummary": {
+            "pros": [
+                  "Breathtaking Chikankari-style sequin embroidery looks ultra-luxurious",
+                  "Full inner lining prevents any transparency while keeping it cool",
+                  "Flattering tiered sharara flares beautifully when walking or dancing"
+            ],
+            "cons": [
+                  "Dry clean recommended for the first 2 washes to protect delicate sequins",
+                  "Dupatta length is generous and requires careful draping pins",
+                  "Sharara length may need slight hemming for heights under 5'2\""
+            ],
+            "verdict": "A head-turning festive set delivering designer bridal and sangeet aesthetics at a fraction of boutique prices.",
+            "sentiment": {
+                  "positive": 93,
+                  "neutral": 5,
+                  "negative": 2
+            }
+      },
+      "priceHistory": [
+            {
+                  "date": "2026-09-02",
+                  "price": 1678
+            },
+            {
+                  "date": "2026-09-03",
+                  "price": 1499
+            },
+            {
+                  "date": "2026-09-04",
+                  "price": 1499
+            },
+            {
+                  "date": "2026-09-05",
+                  "price": 1528
+            },
+            {
+                  "date": "2026-09-06",
+                  "price": 1499
+            },
+            {
+                  "date": "2026-09-07",
+                  "price": 1588
+            },
+            {
+                  "date": "2026-09-08",
+                  "price": 1528
+            },
+            {
+                  "date": "2026-09-09",
+                  "price": 1678
+            },
+            {
+                  "date": "2026-09-10",
+                  "price": 1499
+            },
+            {
+                  "date": "2026-09-11",
+                  "price": 1528
+            },
+            {
+                  "date": "2026-09-12",
+                  "price": 1588
+            },
+            {
+                  "date": "2026-09-13",
+                  "price": 1499
+            },
+            {
+                  "date": "2026-09-14",
+                  "price": 1528
+            },
+            {
+                  "date": "2026-09-15",
+                  "price": 1499
+            },
+            {
+                  "date": "2026-09-16",
+                  "price": 1678
+            },
+            {
+                  "date": "2026-09-17",
+                  "price": 1588
+            },
+            {
+                  "date": "2026-09-18",
+                  "price": 1499
+            },
+            {
+                  "date": "2026-09-19",
+                  "price": 1499
+            },
+            {
+                  "date": "2026-09-20",
+                  "price": 1528
+            },
+            {
+                  "date": "2026-09-21",
+                  "price": 1499
+            },
+            {
+                  "date": "2026-09-22",
+                  "price": 1588
+            },
+            {
+                  "date": "2026-09-23",
+                  "price": 1678
+            },
+            {
+                  "date": "2026-09-24",
+                  "price": 1499
+            },
+            {
+                  "date": "2026-09-25",
+                  "price": 1499
+            },
+            {
+                  "date": "2026-09-26",
+                  "price": 1528
+            },
+            {
+                  "date": "2026-09-27",
+                  "price": 1588
+            },
+            {
+                  "date": "2026-09-28",
+                  "price": 1499
+            },
+            {
+                  "date": "2026-09-29",
+                  "price": 1528
+            },
+            {
+                  "date": "2026-09-30",
+                  "price": 1678
+            },
+            {
+                  "date": "2026-10-01",
+                  "price": 1499
+            },
+            {
+                  "date": "2026-10-02",
+                  "price": 1588
+            }
+      ]
+},
+  {
+      "id": "fas-21",
+      "slug": "suta-womens-traditional-banarasi-art-silk-saree-royal-violet",
+      "title": "Suta Women's Traditional Banarasi Art Silk Saree with Zari Woven Border & Blouse Piece (Royal Violet)",
+      "brand": "Suta",
+      "category": "Fashion",
+      "price": 899,
+      "mrp": 2499,
+      "rating": 4.4,
+      "reviewCount": 12300,
+      "images": [
+            "/products/fas-21.jpg"
+      ],
+      "bullets": [
+            "Exquisite Banarasi art silk fabric with a luxurious sheen and lightweight, easy-to-drape texture",
+            "Rich golden zari woven floral motifs across the wide border and grand ornamental pallu",
+            "Saree length: 5.5 meters with an unstitched 0.8 meter matching blouse piece included",
+            "Deep royal violet hue with contrast golden border suitable for festive puja and wedding occasions",
+            "Wrinkle-resistant fabric ensures pleats stay neat and crisp throughout long ceremonies"
+      ],
+      "description": "Celebrate Indian heritage with the Suta Banarasi Art Silk Saree. Featuring intricate golden zari weave along majestic borders and an opulent pallu in regal violet, this saree drapes like a dream while feeling effortlessly light.",
+      "stock": 60,
+      "deliveryDays": 2,
+      "tags": [
+            "fashion",
+            "women",
+            "women fashion",
+            "women clothes",
+            "girls clothes",
+            "saree",
+            "sari",
+            "banarasi",
+            "silk saree",
+            "ethnic",
+            "festive",
+            "traditional",
+            "suta",
+            "clothes",
+            "clothing"
+      ],
+      "reviewSummary": {
+            "pros": [
+                  "Lustrous golden zari border and pallu weave gleam beautifully under evening lighting",
+                  "Surprisingly lightweight and easy to pleat compared to heavy raw silk",
+                  "Includes generous blouse fabric that matches the ornate border"
+            ],
+            "cons": [
+                  "Art silk weave has a slight initial stiffness that softens after first steam press",
+                  "Blouse piece requires tailoring prior to first wear",
+                  "Dry clean or gentle hand wash recommended"
+            ],
+            "verdict": "Royal Banarasi elegance made accessible, comfortable, and picture-perfect for weddings and festivals.",
+            "sentiment": {
+                  "positive": 88,
+                  "neutral": 8,
+                  "negative": 4
+            }
+      },
+      "priceHistory": [
+            {
+                  "date": "2026-09-02",
+                  "price": 1006
+            },
+            {
+                  "date": "2026-09-03",
+                  "price": 899
+            },
+            {
+                  "date": "2026-09-04",
+                  "price": 899
+            },
+            {
+                  "date": "2026-09-05",
+                  "price": 916
+            },
+            {
+                  "date": "2026-09-06",
+                  "price": 899
+            },
+            {
+                  "date": "2026-09-07",
+                  "price": 952
+            },
+            {
+                  "date": "2026-09-08",
+                  "price": 916
+            },
+            {
+                  "date": "2026-09-09",
+                  "price": 1006
+            },
+            {
+                  "date": "2026-09-10",
+                  "price": 899
+            },
+            {
+                  "date": "2026-09-11",
+                  "price": 916
+            },
+            {
+                  "date": "2026-09-12",
+                  "price": 952
+            },
+            {
+                  "date": "2026-09-13",
+                  "price": 899
+            },
+            {
+                  "date": "2026-09-14",
+                  "price": 916
+            },
+            {
+                  "date": "2026-09-15",
+                  "price": 899
+            },
+            {
+                  "date": "2026-09-16",
+                  "price": 1006
+            },
+            {
+                  "date": "2026-09-17",
+                  "price": 952
+            },
+            {
+                  "date": "2026-09-18",
+                  "price": 899
+            },
+            {
+                  "date": "2026-09-19",
+                  "price": 899
+            },
+            {
+                  "date": "2026-09-20",
+                  "price": 916
+            },
+            {
+                  "date": "2026-09-21",
+                  "price": 899
+            },
+            {
+                  "date": "2026-09-22",
+                  "price": 952
+            },
+            {
+                  "date": "2026-09-23",
+                  "price": 1006
+            },
+            {
+                  "date": "2026-09-24",
+                  "price": 899
+            },
+            {
+                  "date": "2026-09-25",
+                  "price": 899
+            },
+            {
+                  "date": "2026-09-26",
+                  "price": 916
+            },
+            {
+                  "date": "2026-09-27",
+                  "price": 952
+            },
+            {
+                  "date": "2026-09-28",
+                  "price": 899
+            },
+            {
+                  "date": "2026-09-29",
+                  "price": 916
+            },
+            {
+                  "date": "2026-09-30",
+                  "price": 1006
+            },
+            {
+                  "date": "2026-10-01",
+                  "price": 899
+            },
+            {
+                  "date": "2026-10-02",
+                  "price": 952
+            }
+      ]
+},
+  {
+      "id": "fas-22",
+      "slug": "max-womens-floral-print-fit-flare-midi-dress-cherry-red",
+      "title": "Max Women's Floral Print Fit & Flare Midi Dress with Statement Belt (Cherry Red)",
+      "brand": "Max",
+      "category": "Fashion",
+      "price": 699,
+      "mrp": 1599,
+      "rating": 4.3,
+      "reviewCount": 8700,
+      "images": [
+            "/products/fas-22.jpg"
+      ],
+      "bullets": [
+            "Flattering fit and flare silhouette with feminine crossover V-neckline",
+            "Vibrant all-over botanical and floral print set against a cheerful cherry red base",
+            "Includes an adjustable faux woven statement buckle belt to cinch the waist comfortably",
+            "Breathable lightweight rayon-blend fabric with a flowy tiered hemline",
+            "Cap sleeve design suitable for sunny brunch dates, vacations, and casual outings"
+      ],
+      "description": "Embrace effortless daytime romance with the Max Floral Fit & Flare Midi Dress. Crafted with a lively floral pattern on bright cherry red and complemented by a woven buckle belt, it delivers instant style for weekends and vacations.",
+      "stock": 48,
+      "deliveryDays": 2,
+      "tags": [
+            "fashion",
+            "women",
+            "women fashion",
+            "women clothes",
+            "girls clothes",
+            "dress",
+            "midi dress",
+            "floral dress",
+            "western",
+            "casual",
+            "max",
+            "clothes",
+            "clothing"
+      ],
+      "reviewSummary": {
+            "pros": [
+                  "Included woven belt cinches waist for an instantly flattering hourglass look",
+                  "Flowy, breathable rayon fabric drapes gracefully without clinging",
+                  "Vibrant cheerful cherry red floral print garners constant compliments"
+            ],
+            "cons": [
+                  "Crossover V-neckline may require a safety pin for modesty preference",
+                  "Rayon fabric softens further with wash but benefits from gentle steam",
+                  "Belt is detachable; store carefully to avoid misplacing"
+            ],
+            "verdict": "A breezy, feminine vacation dress that transitions seamlessly from weekend strolls to dinner dates.",
+            "sentiment": {
+                  "positive": 86,
+                  "neutral": 10,
+                  "negative": 4
+            }
+      },
+      "priceHistory": [
+            {
+                  "date": "2026-09-02",
+                  "price": 782
+            },
+            {
+                  "date": "2026-09-03",
+                  "price": 699
+            },
+            {
+                  "date": "2026-09-04",
+                  "price": 699
+            },
+            {
+                  "date": "2026-09-05",
+                  "price": 712
+            },
+            {
+                  "date": "2026-09-06",
+                  "price": 699
+            },
+            {
+                  "date": "2026-09-07",
+                  "price": 740
+            },
+            {
+                  "date": "2026-09-08",
+                  "price": 712
+            },
+            {
+                  "date": "2026-09-09",
+                  "price": 782
+            },
+            {
+                  "date": "2026-09-10",
+                  "price": 699
+            },
+            {
+                  "date": "2026-09-11",
+                  "price": 712
+            },
+            {
+                  "date": "2026-09-12",
+                  "price": 740
+            },
+            {
+                  "date": "2026-09-13",
+                  "price": 699
+            },
+            {
+                  "date": "2026-09-14",
+                  "price": 712
+            },
+            {
+                  "date": "2026-09-15",
+                  "price": 699
+            },
+            {
+                  "date": "2026-09-16",
+                  "price": 782
+            },
+            {
+                  "date": "2026-09-17",
+                  "price": 740
+            },
+            {
+                  "date": "2026-09-18",
+                  "price": 699
+            },
+            {
+                  "date": "2026-09-19",
+                  "price": 699
+            },
+            {
+                  "date": "2026-09-20",
+                  "price": 712
+            },
+            {
+                  "date": "2026-09-21",
+                  "price": 699
+            },
+            {
+                  "date": "2026-09-22",
+                  "price": 740
+            },
+            {
+                  "date": "2026-09-23",
+                  "price": 782
+            },
+            {
+                  "date": "2026-09-24",
+                  "price": 699
+            },
+            {
+                  "date": "2026-09-25",
+                  "price": 699
+            },
+            {
+                  "date": "2026-09-26",
+                  "price": 712
+            },
+            {
+                  "date": "2026-09-27",
+                  "price": 740
+            },
+            {
+                  "date": "2026-09-28",
+                  "price": 699
+            },
+            {
+                  "date": "2026-09-29",
+                  "price": 712
+            },
+            {
+                  "date": "2026-09-30",
+                  "price": 782
+            },
+            {
+                  "date": "2026-10-01",
+                  "price": 699
+            },
+            {
+                  "date": "2026-10-02",
+                  "price": 740
+            }
+      ]
+},
+  {
+      "id": "fas-23",
+      "slug": "levis-womens-711-distressed-skinny-fit-stretch-denim-jeans",
+      "title": "Levi's Women's 711 Distressed Ankle-Length Skinny Fit Denim Jeans (Indigo Blue)",
+      "brand": "Levi's",
+      "category": "Fashion",
+      "price": 1799,
+      "mrp": 3999,
+      "rating": 4.5,
+      "reviewCount": 15800,
+      "images": [
+            "/products/fas-23.jpg"
+      ],
+      "bullets": [
+            "Iconic Levi's 711 Skinny Fit designed to contour through the hip and thigh with ankle-hugging cut",
+            "Innovative Levi's Sculpt Hyperstretch fabric holds shape and flatters curves all day without bagging",
+            "Edgy knee distress detailing and playful novelty patches for an on-trend street aesthetic",
+            "Mid-rise waistline with five-pocket styling and signature red tab back pocket embroidery",
+            "Ankle-skimming 28-inch inseam perfect for showcasing sneakers, boots, or heels"
+      ],
+      "description": "Designed to flatter, hold, and lift, the Levi's 711 Skinny Jeans deliver legendary denim craftsmanship. Features subtle knee abrasions and playful vintage patch details in super-stretchy authentic denim for unstoppable all-day comfort.",
+      "stock": 40,
+      "deliveryDays": 2,
+      "tags": [
+            "fashion",
+            "women",
+            "women fashion",
+            "women clothes",
+            "girls clothes",
+            "jeans",
+            "denim",
+            "skinny jeans",
+            "levis",
+            "clothes",
+            "clothing"
+      ],
+      "reviewSummary": {
+            "pros": [
+                  "Exceptional Hyperstretch recovery hugs curves without bagging at the knees",
+                  "Trendy patch embroidery and distressed knee add authentic vintage cool",
+                  "Ankle-crop length sits cleanly above sneakers and sandals"
+            ],
+            "cons": [
+                  "Distressed knee threads require care when stepping into the jeans",
+                  "Snug skinny fit; size up one waist size for a relaxed boyfriend fit",
+                  "Dark indigo wash should be washed inside out in cold water"
+            ],
+            "verdict": "The gold standard in flattering women's denim with expressive street-style flair.",
+            "sentiment": {
+                  "positive": 90,
+                  "neutral": 7,
+                  "negative": 3
+            }
+      },
+      "priceHistory": [
+            {
+                  "date": "2026-09-02",
+                  "price": 2014
+            },
+            {
+                  "date": "2026-09-03",
+                  "price": 1799
+            },
+            {
+                  "date": "2026-09-04",
+                  "price": 1799
+            },
+            {
+                  "date": "2026-09-05",
+                  "price": 1834
+            },
+            {
+                  "date": "2026-09-06",
+                  "price": 1799
+            },
+            {
+                  "date": "2026-09-07",
+                  "price": 1906
+            },
+            {
+                  "date": "2026-09-08",
+                  "price": 1834
+            },
+            {
+                  "date": "2026-09-09",
+                  "price": 2014
+            },
+            {
+                  "date": "2026-09-10",
+                  "price": 1799
+            },
+            {
+                  "date": "2026-09-11",
+                  "price": 1834
+            },
+            {
+                  "date": "2026-09-12",
+                  "price": 1906
+            },
+            {
+                  "date": "2026-09-13",
+                  "price": 1799
+            },
+            {
+                  "date": "2026-09-14",
+                  "price": 1834
+            },
+            {
+                  "date": "2026-09-15",
+                  "price": 1799
+            },
+            {
+                  "date": "2026-09-16",
+                  "price": 2014
+            },
+            {
+                  "date": "2026-09-17",
+                  "price": 1906
+            },
+            {
+                  "date": "2026-09-18",
+                  "price": 1799
+            },
+            {
+                  "date": "2026-09-19",
+                  "price": 1799
+            },
+            {
+                  "date": "2026-09-20",
+                  "price": 1834
+            },
+            {
+                  "date": "2026-09-21",
+                  "price": 1799
+            },
+            {
+                  "date": "2026-09-22",
+                  "price": 1906
+            },
+            {
+                  "date": "2026-09-23",
+                  "price": 2014
+            },
+            {
+                  "date": "2026-09-24",
+                  "price": 1799
+            },
+            {
+                  "date": "2026-09-25",
+                  "price": 1799
+            },
+            {
+                  "date": "2026-09-26",
+                  "price": 1834
+            },
+            {
+                  "date": "2026-09-27",
+                  "price": 1906
+            },
+            {
+                  "date": "2026-09-28",
+                  "price": 1799
+            },
+            {
+                  "date": "2026-09-29",
+                  "price": 1834
+            },
+            {
+                  "date": "2026-09-30",
+                  "price": 2014
+            },
+            {
+                  "date": "2026-10-01",
+                  "price": 1799
+            },
+            {
+                  "date": "2026-10-02",
+                  "price": 1906
+            }
+      ]
+},
+  {
+      "id": "fas-24",
+      "slug": "vero-moda-womens-crochet-lace-cutout-maxi-dress-navy",
+      "title": "VERO MODA Women's Crochet Lace Cut-Out Maxi Dress (Royal Navy Blue)",
+      "brand": "VERO MODA",
+      "category": "Fashion",
+      "price": 1899,
+      "mrp": 4499,
+      "rating": 4.6,
+      "reviewCount": 6200,
+      "images": [
+            "/products/fas-24.jpg"
+      ],
+      "bullets": [
+            "Intricate bohemian crochet lace construction with elegant floral openwork patterns",
+            "Sultry side waist cut-outs that accentuate the natural waistline while maintaining sophisticated poise",
+            "Full-length long sheer lace sleeves with comfortable fitted cuffs",
+            "Lined bodice and skirt for opacity while keeping the look airy and ethereal",
+            "Stately floor-skimming maxi length ideal for evening parties, beach dinners, and resort wear"
+      ],
+      "description": "Make an unforgettable entrance with the VERO MODA Crochet Lace Maxi Dress. Styled with artistic cut-out waist detailing, sheer long sleeves, and textured royal navy lace, it brings runway glamour to seaside dinners and evening soirees.",
+      "stock": 25,
+      "deliveryDays": 2,
+      "tags": [
+            "fashion",
+            "women",
+            "women fashion",
+            "women clothes",
+            "girls clothes",
+            "dress",
+            "maxi dress",
+            "lace dress",
+            "party",
+            "evening",
+            "vero moda",
+            "clothes",
+            "clothing"
+      ],
+      "reviewSummary": {
+            "pros": [
+                  "Stunning artisan crochet lace makes a dramatic, expensive impression",
+                  "Subtle waist cut-outs create an hourglass silhouette gracefully",
+                  "Rich royal navy color stands out against standard black evening gowns"
+            ],
+            "cons": [
+                  "Crochet lace requires care around sharp jewelry to avoid snags",
+                  "Dry clean only to maintain lace structure and tension",
+                  "Tall silhouette; pair with heels for heights under 5'4\""
+            ],
+            "verdict": "Show-stopping European high-fashion aesthetic for cocktail parties and resort vacations.",
+            "sentiment": {
+                  "positive": 92,
+                  "neutral": 6,
+                  "negative": 2
+            }
+      },
+      "priceHistory": [
+            {
+                  "date": "2026-09-02",
+                  "price": 2126
+            },
+            {
+                  "date": "2026-09-03",
+                  "price": 1899
+            },
+            {
+                  "date": "2026-09-04",
+                  "price": 1899
+            },
+            {
+                  "date": "2026-09-05",
+                  "price": 1936
+            },
+            {
+                  "date": "2026-09-06",
+                  "price": 1899
+            },
+            {
+                  "date": "2026-09-07",
+                  "price": 2012
+            },
+            {
+                  "date": "2026-09-08",
+                  "price": 1936
+            },
+            {
+                  "date": "2026-09-09",
+                  "price": 2126
+            },
+            {
+                  "date": "2026-09-10",
+                  "price": 1899
+            },
+            {
+                  "date": "2026-09-11",
+                  "price": 1936
+            },
+            {
+                  "date": "2026-09-12",
+                  "price": 2012
+            },
+            {
+                  "date": "2026-09-13",
+                  "price": 1899
+            },
+            {
+                  "date": "2026-09-14",
+                  "price": 1936
+            },
+            {
+                  "date": "2026-09-15",
+                  "price": 1899
+            },
+            {
+                  "date": "2026-09-16",
+                  "price": 2126
+            },
+            {
+                  "date": "2026-09-17",
+                  "price": 2012
+            },
+            {
+                  "date": "2026-09-18",
+                  "price": 1899
+            },
+            {
+                  "date": "2026-09-19",
+                  "price": 1899
+            },
+            {
+                  "date": "2026-09-20",
+                  "price": 1936
+            },
+            {
+                  "date": "2026-09-21",
+                  "price": 1899
+            },
+            {
+                  "date": "2026-09-22",
+                  "price": 2012
+            },
+            {
+                  "date": "2026-09-23",
+                  "price": 2126
+            },
+            {
+                  "date": "2026-09-24",
+                  "price": 1899
+            },
+            {
+                  "date": "2026-09-25",
+                  "price": 1899
+            },
+            {
+                  "date": "2026-09-26",
+                  "price": 1936
+            },
+            {
+                  "date": "2026-09-27",
+                  "price": 2012
+            },
+            {
+                  "date": "2026-09-28",
+                  "price": 1899
+            },
+            {
+                  "date": "2026-09-29",
+                  "price": 1936
+            },
+            {
+                  "date": "2026-09-30",
+                  "price": 2126
+            },
+            {
+                  "date": "2026-10-01",
+                  "price": 1899
+            },
+            {
+                  "date": "2026-10-02",
+                  "price": 2012
+            }
+      ]
+}
 ];
