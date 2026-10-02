@@ -64,10 +64,8 @@ PRODUCTS_RAW = [
         "rating": 4.1,
         "reviewCount": 18450,
         "images": [
-            "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1598331668826-20cecc596b86?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1608156639585-b3a032ef9689?w=800&auto=format&fit=crop&q=80"
-],
+            ""
+        ],
         "bullets": [
             "Active Noise Cancellation up to 32dB for disturbance-free listening",
             "Up to 42 hours of total playback with ASAP Charge (10 mins = 150 mins)",
@@ -97,10 +95,8 @@ PRODUCTS_RAW = [
         "rating": 4.2,
         "reviewCount": 9420,
         "images": [
-            "https://images.unsplash.com/photo-1572536147248-ac59a8abfa4b?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1628202926206-c63a34b1618f?w=800&auto=format&fit=crop&q=80"
-],
+            ""
+        ],
         "bullets": [
             "Massive 100 hours total playtime with digital battery indicator case",
             "Quad Mic Environmental Noise Cancellation for clear outdoor calling",
@@ -130,10 +126,8 @@ PRODUCTS_RAW = [
         "rating": 4.3,
         "reviewCount": 24100,
         "images": [
-            "https://images.unsplash.com/photo-1631867675167-90a456a90863?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1613040809024-b4ef7ba99bc3?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&auto=format&fit=crop&q=80"
-],
+            ""
+        ],
         "bullets": [
             "10mm Dynamic Bass Driver with titanium-plated composite diaphragm",
             "AI Environmental Noise Cancellation algorithm for voice clarity",
@@ -163,10 +157,8 @@ PRODUCTS_RAW = [
         "rating": 4.1,
         "reviewCount": 31200,
         "images": [
-            "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1524678606370-a47ad25cb82a?w=800&auto=format&fit=crop&q=80"
-],
+            ""
+        ],
         "bullets": [
             "40mm dynamic drivers for signature immersive HD boAt sound",
             "Up to 15 hours of continuous playback on a single charge",
@@ -196,10 +188,8 @@ PRODUCTS_RAW = [
         "rating": 4.0,
         "reviewCount": 11800,
         "images": [
-            "https://images.unsplash.com/photo-1590658006821-04f4008d5717?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1577174881658-0f30ed549adc?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=800&auto=format&fit=crop&q=80"
-],
+            ""
+        ],
         "bullets": [
             "13mm speaker driver tuned for clean vocals and thumping bass",
             "Instacharge: 10 minutes of charge delivers 200 minutes of tunes",
@@ -229,10 +219,8 @@ PRODUCTS_RAW = [
         "rating": 4.4,
         "reviewCount": 16500,
         "images": [
-            "https://images.unsplash.com/photo-1627989580309-bfaf3e58af6f?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1592921870789-04563d55041c?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1545454675-3531b543be5d?w=800&auto=format&fit=crop&q=80"
-],
+            ""
+        ],
         "bullets": [
             "Extra-large 12.4mm Titanium-coated drivers for deep, punchy acoustics",
             "Sound Master Equalizer with 3 tailored audio profiles (Balanced, Bold, Bass)",
@@ -262,10 +250,8 @@ PRODUCTS_RAW = [
         "rating": 4.2,
         "reviewCount": 14200,
         "images": [
-            "https://images.unsplash.com/photo-1578319439584-104c94d37305?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=800&auto=format&fit=crop&q=80"
-],
+            ""
+        ],
         "bullets": [
             "Sony DSEE (Digital Sound Enhancement Engine) restores high-frequency details",
             "Massive 25 hours battery life with 10-minute quick charge for 60 mins playback",
@@ -295,10 +281,8 @@ PRODUCTS_RAW = [
         "rating": 3.9,
         "reviewCount": 38900,
         "images": [
-            "https://images.unsplash.com/photo-1545127398-14699f92334b?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1563245372-f21724e3856d?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=800&auto=format&fit=crop&q=80"
-],
+            ""
+        ],
         "bullets": [
             "13mm dynamic drivers producing punchy stereo audio",
             "32 hours total playback with charging case",
@@ -526,10 +510,8 @@ PRODUCTS_RAW = [
         "rating": 4.5,
         "reviewCount": 12890,
         "images": [
-            "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1575695342320-d2d2d2f9b73f?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=800&auto=format&fit=crop&q=80"
-],
+            ""
+        ],
         "bullets": [
             "Snapdragon 8 Gen 2 Mobile Platform with Dual Cryo-velocity VC cooling",
             "1.5K 120Hz ProXDR Display with 4th Gen LTPO technology and Gorilla Glass Victus 2",
@@ -559,10 +541,8 @@ PRODUCTS_RAW = [
         "rating": 4.6,
         "reviewCount": 7820,
         "images": [
-            "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1580910051074-3eb694886505?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1567581935884-3349723552ca?w=800&auto=format&fit=crop&q=80"
-],
+            ""
+        ],
         "bullets": [
             "Titanium exterior frame with Corning Gorilla Armor anti-reflective glass",
             "Snapdragon 8 Gen 3 for Galaxy with Ray Tracing capabilities",
@@ -592,10 +572,8 @@ PRODUCTS_RAW = [
         "rating": 4.6,
         "reviewCount": 19400,
         "images": [
-            "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=800&auto=format&fit=crop&q=80"
-],
+            ""
+        ],
         "bullets": [
             "Dynamic Island bubbles up alerts and Live Activities seamlessly",
             "All-new 48MP Main camera with 2x optical-quality Telephoto sensor zoom",
@@ -625,10 +603,8 @@ PRODUCTS_RAW = [
         "rating": 4.2,
         "reviewCount": 16400,
         "images": [
-            "https://images.unsplash.com/photo-1585060544812-6b45742d762f?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?w=800&auto=format&fit=crop&q=80"
-],
+            ""
+        ],
         "bullets": [
             "200MP ultra-clear camera with OIS and 4x in-sensor lossless zoom",
             "1.5K AMOLED 120Hz curved display with ultra-thin bezels",
@@ -658,10 +634,8 @@ PRODUCTS_RAW = [
         "rating": 4.4,
         "reviewCount": 9800,
         "images": [
-            "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1533228876829-65c94e7b5025?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1525598912003-663126343e1f?w=800&auto=format&fit=crop&q=80"
-],
+            ""
+        ],
         "bullets": [
             "IP68 underwater protection — survive submersion in 1.5m of fresh water for 30 mins",
             "144Hz 3D Curved pOLED display with Gorilla Glass 5",
@@ -691,10 +665,8 @@ PRODUCTS_RAW = [
         "rating": 4.5,
         "reviewCount": 18200,
         "images": [
-            "https://images.unsplash.com/photo-1601593346740-925612772716?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=800&auto=format&fit=crop&q=80"
-],
+            ""
+        ],
         "bullets": [
             "Hybrid technology made of a TPU bumper with a durable PC crystal-clear back",
             "Air Cushion Technology for shock absorption at all corners",
