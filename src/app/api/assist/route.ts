@@ -28,7 +28,7 @@ function deterministicRanker(query: string): AssistResponse {
     category = 'Electronics';
   } else if (/mixer|grinder|air fryer|iron|bottle|flask|kitchen|vacuum|home/i.test(q)) {
     category = 'Home & Kitchen';
-  } else if (/shoes|jeans|watch|backpack|sunglasses|fashion|shirt/i.test(q)) {
+  } else if (/shoes|jeans|watch|backpack|sunglasses|fashion|shirt|clothes|cloths|clothing|apparel|wear|tshirt|t-shirt|tee|polo|trousers|kurti|dress/i.test(q)) {
     category = 'Fashion';
   } else if (/book|read|habits|psychology|sapiens|ikigai|novel/i.test(q)) {
     category = 'Books';
@@ -53,6 +53,8 @@ function deterministicRanker(query: string): AssistResponse {
     useCase = 'thoughtful gifting';
   } else if (/travel|commute|outdoor|flight/i.test(q)) {
     useCase = 'travel and commute';
+  } else if (/fashion|clothing|clothes|cloths|style|wear/i.test(q)) {
+    useCase = 'fashion & daily wardrobe';
   } else if (/budget|cheap|affordable/i.test(q)) {
     useCase = 'budget-friendly value';
   }
@@ -74,6 +76,10 @@ function deterministicRanker(query: string): AssistResponse {
     { pattern: /\bkettlebells?\b/i, tag: 'kettlebell', titleKeywords: ['kettlebell'] },
     { pattern: /\byoga mats?\b/i, tag: 'yoga', titleKeywords: ['yoga mat', 'mat'] },
     { pattern: /\bbackpacks?\b|\bbags?\b/i, tag: 'backpack', titleKeywords: ['backpack', 'rucksack', 'valex', 'quill'] },
+    { pattern: /\bcloth(?:es|s|ing)?\b|\bapparel\b|\bwear\b/i, tag: 'clothing', titleKeywords: ['t-shirt', 'tshirt', 'shirt', 'polo', 'jeans', 'crew neck', 'round neck'] },
+    { pattern: /\bt-?shirts?\b|\btees?\b/i, tag: 't-shirt', titleKeywords: ['t-shirt', 'tshirt', 'tee', 'crew neck', 'round neck'] },
+    { pattern: /\bpolos?\b/i, tag: 'polo', titleKeywords: ['polo'] },
+    { pattern: /\bshirts?\b/i, tag: 'shirt', titleKeywords: ['shirt', 'casual shirt', 'polo'] },
     { pattern: /\bshoes?\b|\bsneakers?\b/i, tag: 'shoes', titleKeywords: ['shoes', 'oxford', 'sneakers'] },
     { pattern: /\bjeans?\b|\bdenims?\b/i, tag: 'jeans', titleKeywords: ['jeans', 'denim'] },
     { pattern: /\bwatches?\b|\bsmartwatches?\b/i, tag: 'watch', titleKeywords: ['watch', 'smartwatch'] },
@@ -236,6 +242,17 @@ function deterministicRanker(query: string): AssistResponse {
       } else {
         label = index === 0 ? 'Best overall' : index === 1 ? 'Best value' : 'Thoughtful pick';
         reason = `A lovely, practical gift choice well within your ₹${budget || 1500} budget with top ratings.`;
+      }
+    } else if (p.category === 'Fashion') {
+      if (index === 0) {
+        label = 'Best overall';
+        reason = `Top rated ${p.brand} pick featuring breathable, high-comfort fabric${budget ? ` well within your ₹${budget} budget` : ''}.`;
+      } else if (index === 1) {
+        label = 'Best value';
+        reason = `Outstanding price-to-performance at ₹${p.price}, crafted with durable daily-wear cotton stitching.`;
+      } else {
+        label = 'Best alternative';
+        reason = `Versatile ${p.brand} classic offering timeless styling and stellar customer reviews.`;
       }
     } else {
       if (index === 0) {

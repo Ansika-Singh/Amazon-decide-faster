@@ -40100,4 +40100,733 @@ export const products: Product[] = [
       }
     ]
   }
+,
+  {
+      "id": "fas-15",
+      "slug": "amazon-brand-symbol-mens-regular-fit-cotton-crew-neck-tshirt",
+      "title": "Amazon Brand - Symbol Men's Regular Fit Pure Cotton Crew Neck T-Shirt (Jet Black)",
+      "brand": "Symbol",
+      "category": "Fashion",
+      "price": 349,
+      "mrp": 799,
+      "rating": 4.2,
+      "reviewCount": 18240,
+      "images": [
+          "/products/fas-15.jpg"
+      ],
+      "bullets": [
+          "100% Premium Combed Cotton fabric for soft hand feel and all-day breathable comfort",
+          "Regular fit with ribbed crew neck collar that maintains shape after repeated washing",
+          "Durable bio-washed finish resists color fading and reduces surface fuzzing",
+          "Versatile everyday essential ideal for casual outings, lounging, and layering",
+          "Tagless neck label design ensures scratch-free neck comfort throughout the day"
+      ],
+      "description": "Crafted from 100% breathable combed cotton, the Symbol Classic Crew Neck T-Shirt offers a relaxed regular silhouette that pairs effortlessly with jeans, chinos, or shorts. The bio-washed jersey fabric stays soft and rich in color wash after wash.",
+      "stock": 85,
+      "deliveryDays": 1,
+      "tags": [
+          "fashion",
+          "clothing",
+          "clothes",
+          "cloths",
+          "tshirt",
+          "t-shirt",
+          "tee",
+          "cotton",
+          "crew neck",
+          "casual",
+          "under 500",
+          "symbol"
+      ],
+      "reviewSummary": {
+          "pros": [
+              "Remarkably soft and lightweight 100% cotton fabric",
+              "Ribbed neck collar stays snug without sagging or stretching out",
+              "Exceptional value under \u20b9400 for daily rotation wear"
+          ],
+          "cons": [
+              "Slight shrinkage (around 2-3%) on high-heat dryer cycles",
+              "Slightly relaxed fit; order a size down if you prefer a slim silhouette",
+              "Black shade requires gentle cold wash to preserve deepest tone"
+          ],
+          "verdict": "A reliable, comfortable pure cotton staple delivering unbeatable everyday value.",
+          "sentiment": {
+              "positive": 84,
+              "neutral": 11,
+              "negative": 5
+          }
+      },
+      "priceHistory": [
+          {
+              "date": "2026-09-02",
+              "price": 363
+          },
+          {
+              "date": "2026-09-03",
+              "price": 356
+          },
+          {
+              "date": "2026-09-04",
+              "price": 349
+          },
+          {
+              "date": "2026-09-05",
+              "price": 391
+          },
+          {
+              "date": "2026-09-06",
+              "price": 384
+          },
+          {
+              "date": "2026-09-07",
+              "price": 377
+          },
+          {
+              "date": "2026-09-08",
+              "price": 370
+          },
+          {
+              "date": "2026-09-09",
+              "price": 363
+          },
+          {
+              "date": "2026-09-10",
+              "price": 356
+          },
+          {
+              "date": "2026-09-11",
+              "price": 349
+          },
+          {
+              "date": "2026-09-12",
+              "price": 391
+          },
+          {
+              "date": "2026-09-13",
+              "price": 384
+          },
+          {
+              "date": "2026-09-14",
+              "price": 377
+          },
+          {
+              "date": "2026-09-15",
+              "price": 370
+          },
+          {
+              "date": "2026-09-16",
+              "price": 363
+          },
+          {
+              "date": "2026-09-17",
+              "price": 356
+          },
+          {
+              "date": "2026-09-18",
+              "price": 349
+          },
+          {
+              "date": "2026-09-19",
+              "price": 391
+          },
+          {
+              "date": "2026-09-20",
+              "price": 384
+          },
+          {
+              "date": "2026-09-21",
+              "price": 377
+          },
+          {
+              "date": "2026-09-22",
+              "price": 370
+          },
+          {
+              "date": "2026-09-23",
+              "price": 363
+          },
+          {
+              "date": "2026-09-24",
+              "price": 356
+          },
+          {
+              "date": "2026-09-25",
+              "price": 349
+          },
+          {
+              "date": "2026-09-26",
+              "price": 391
+          },
+          {
+              "date": "2026-09-27",
+              "price": 384
+          },
+          {
+              "date": "2026-09-28",
+              "price": 377
+          },
+          {
+              "date": "2026-09-29",
+              "price": 370
+          },
+          {
+              "date": "2026-09-30",
+              "price": 363
+          },
+          {
+              "date": "2026-10-01",
+              "price": 356
+          },
+          {
+              "date": "2026-10-02",
+              "price": 349
+          }
+      ]
+  },
+  {
+      "id": "fas-16",
+      "slug": "allen-solly-mens-regular-fit-solid-polo-tshirt-navy",
+      "title": "Allen Solly Men's Regular Fit Solid Polo T-Shirt (100% Combed Cotton, Navy Blue)",
+      "brand": "Allen Solly",
+      "category": "Fashion",
+      "price": 499,
+      "mrp": 1099,
+      "rating": 4.3,
+      "reviewCount": 24500,
+      "images": [
+          "/products/fas-16.jpg"
+      ],
+      "bullets": [
+          "Signature honeycomb pique knit in 100% premium long-staple combed cotton",
+          "Classic ribbed polo collar with two-button placket and signature stag embroidery",
+          "Structured regular fit provides smart casual appeal for work-from-home or weekend getaways",
+          "Color-lock technology ensures deep navy hue stays vibrant without bleed",
+          "Reinforced side vents provide enhanced ease of movement and modern drape"
+      ],
+      "description": "Elevate your casual wardrobe with the Allen Solly Classic Navy Polo. Cut in breathable pique cotton with a crisp ribbed collar, it seamlessly bridges the gap between smart office meetings and weekend dinners.",
+      "stock": 65,
+      "deliveryDays": 2,
+      "tags": [
+          "fashion",
+          "clothing",
+          "clothes",
+          "cloths",
+          "polo",
+          "tshirt",
+          "t-shirt",
+          "tee",
+          "collar",
+          "cotton",
+          "smart casual",
+          "under 500",
+          "allen solly"
+      ],
+      "reviewSummary": {
+          "pros": [
+              "Rich pique cotton texture looks premium and formal",
+              "Sturdy collar does not roll up or flatten after washing",
+              "Steal price for authentic Allen Solly craftsmanship under \u20b9500"
+          ],
+          "cons": [
+              "Slightly heavier GSM fabric than basic round-neck tees",
+              "Button placket feels stiff on the first wear before initial wash",
+              "Wash inside out to prevent lint accumulation"
+          ],
+          "verdict": "The quintessential smart casual polo that looks twice its price tag.",
+          "sentiment": {
+              "positive": 88,
+              "neutral": 8,
+              "negative": 4
+          }
+      },
+      "priceHistory": [
+          {
+              "date": "2026-09-02",
+              "price": 519
+          },
+          {
+              "date": "2026-09-03",
+              "price": 509
+          },
+          {
+              "date": "2026-09-04",
+              "price": 499
+          },
+          {
+              "date": "2026-09-05",
+              "price": 559
+          },
+          {
+              "date": "2026-09-06",
+              "price": 549
+          },
+          {
+              "date": "2026-09-07",
+              "price": 539
+          },
+          {
+              "date": "2026-09-08",
+              "price": 529
+          },
+          {
+              "date": "2026-09-09",
+              "price": 519
+          },
+          {
+              "date": "2026-09-10",
+              "price": 509
+          },
+          {
+              "date": "2026-09-11",
+              "price": 499
+          },
+          {
+              "date": "2026-09-12",
+              "price": 559
+          },
+          {
+              "date": "2026-09-13",
+              "price": 549
+          },
+          {
+              "date": "2026-09-14",
+              "price": 539
+          },
+          {
+              "date": "2026-09-15",
+              "price": 529
+          },
+          {
+              "date": "2026-09-16",
+              "price": 519
+          },
+          {
+              "date": "2026-09-17",
+              "price": 509
+          },
+          {
+              "date": "2026-09-18",
+              "price": 499
+          },
+          {
+              "date": "2026-09-19",
+              "price": 559
+          },
+          {
+              "date": "2026-09-20",
+              "price": 549
+          },
+          {
+              "date": "2026-09-21",
+              "price": 539
+          },
+          {
+              "date": "2026-09-22",
+              "price": 529
+          },
+          {
+              "date": "2026-09-23",
+              "price": 519
+          },
+          {
+              "date": "2026-09-24",
+              "price": 509
+          },
+          {
+              "date": "2026-09-25",
+              "price": 499
+          },
+          {
+              "date": "2026-09-26",
+              "price": 559
+          },
+          {
+              "date": "2026-09-27",
+              "price": 549
+          },
+          {
+              "date": "2026-09-28",
+              "price": 539
+          },
+          {
+              "date": "2026-09-29",
+              "price": 529
+          },
+          {
+              "date": "2026-09-30",
+              "price": 519
+          },
+          {
+              "date": "2026-10-01",
+              "price": 509
+          },
+          {
+              "date": "2026-10-02",
+              "price": 499
+          }
+      ]
+  },
+  {
+      "id": "fas-17",
+      "slug": "jockey-mens-super-combed-cotton-graphic-print-tshirt",
+      "title": "Jockey Men's Super Combed Cotton Rich Graphic Print T-Shirt (Charcoal Grey)",
+      "brand": "Jockey",
+      "category": "Fashion",
+      "price": 449,
+      "mrp": 699,
+      "rating": 4.4,
+      "reviewCount": 31200,
+      "images": [
+          "/products/fas-17.jpg"
+      ],
+      "bullets": [
+          "Super combed cotton-rich fabric blend offering superior softness and stretch recovery",
+          "Modern fit tailored to flatter chest and shoulders while remaining breezy",
+          "Minimalist chest graphic printed with eco-friendly breathable inks that won't crack",
+          "StayFresh treatment with antimicrobial properties helps you stay odor-free all day",
+          "Reinforced neck seam and taped shoulders prevent stretching over long-term wear"
+      ],
+      "description": "Engineered for unmatched comfort, the Jockey Graphic Crew Neck Tee combines super combed cotton with StayFresh antimicrobial technology. Whether you're heading to college, running errands, or chilling at home, it delivers effortless style.",
+      "stock": 70,
+      "deliveryDays": 1,
+      "tags": [
+          "fashion",
+          "clothing",
+          "clothes",
+          "cloths",
+          "tshirt",
+          "t-shirt",
+          "tee",
+          "graphic",
+          "printed",
+          "jockey",
+          "cotton",
+          "under 500"
+      ],
+      "reviewSummary": {
+          "pros": [
+              "Silky soft hand-feel that Jockey is renowned for",
+              "Odor-control StayFresh technology works wonders during humid weather",
+              "Print does not peel or fade even after multiple machine cycles"
+          ],
+          "cons": [
+              "Modern fit is slightly snug around the torso",
+              "Available in fewer bright color options compared to plain collections",
+              "Sleeves are cut slightly higher on the bicep"
+          ],
+          "verdict": "Top-tier comfort and durability from India's most trusted innerwear brand.",
+          "sentiment": {
+              "positive": 90,
+              "neutral": 7,
+              "negative": 3
+          }
+      },
+      "priceHistory": [
+          {
+              "date": "2026-09-02",
+              "price": 467
+          },
+          {
+              "date": "2026-09-03",
+              "price": 458
+          },
+          {
+              "date": "2026-09-04",
+              "price": 449
+          },
+          {
+              "date": "2026-09-05",
+              "price": 503
+          },
+          {
+              "date": "2026-09-06",
+              "price": 494
+          },
+          {
+              "date": "2026-09-07",
+              "price": 485
+          },
+          {
+              "date": "2026-09-08",
+              "price": 476
+          },
+          {
+              "date": "2026-09-09",
+              "price": 467
+          },
+          {
+              "date": "2026-09-10",
+              "price": 458
+          },
+          {
+              "date": "2026-09-11",
+              "price": 449
+          },
+          {
+              "date": "2026-09-12",
+              "price": 503
+          },
+          {
+              "date": "2026-09-13",
+              "price": 494
+          },
+          {
+              "date": "2026-09-14",
+              "price": 485
+          },
+          {
+              "date": "2026-09-15",
+              "price": 476
+          },
+          {
+              "date": "2026-09-16",
+              "price": 467
+          },
+          {
+              "date": "2026-09-17",
+              "price": 458
+          },
+          {
+              "date": "2026-09-18",
+              "price": 449
+          },
+          {
+              "date": "2026-09-19",
+              "price": 503
+          },
+          {
+              "date": "2026-09-20",
+              "price": 494
+          },
+          {
+              "date": "2026-09-21",
+              "price": 485
+          },
+          {
+              "date": "2026-09-22",
+              "price": 476
+          },
+          {
+              "date": "2026-09-23",
+              "price": 467
+          },
+          {
+              "date": "2026-09-24",
+              "price": 458
+          },
+          {
+              "date": "2026-09-25",
+              "price": 449
+          },
+          {
+              "date": "2026-09-26",
+              "price": 503
+          },
+          {
+              "date": "2026-09-27",
+              "price": 494
+          },
+          {
+              "date": "2026-09-28",
+              "price": 485
+          },
+          {
+              "date": "2026-09-29",
+              "price": 476
+          },
+          {
+              "date": "2026-09-30",
+              "price": 467
+          },
+          {
+              "date": "2026-10-01",
+              "price": 458
+          },
+          {
+              "date": "2026-10-02",
+              "price": 449
+          }
+      ]
+  },
+  {
+      "id": "fas-18",
+      "slug": "dennis-lingo-mens-slim-fit-cotton-casual-shirt-sky-blue",
+      "title": "Dennis Lingo Men's Slim Fit 100% Cotton Casual Full Sleeve Shirt (Sky Blue)",
+      "brand": "Dennis Lingo",
+      "category": "Fashion",
+      "price": 489,
+      "mrp": 1849,
+      "rating": 4.1,
+      "reviewCount": 16750,
+      "images": [
+          "/products/fas-18.jpg"
+      ],
+      "bullets": [
+          "100% Pure breathable premium cotton fabric with a refined matte weave",
+          "Contemporary slim fit cut with curved hemline that looks sharp tucked in or untucked",
+          "Classic spread collar and single front patch pocket with durable tonal buttons",
+          "Pre-washed to eliminate unexpected shrinkage and ensure immediate buttery softness",
+          "Roll-up full sleeves with button tabs for versatile styling across seasons"
+      ],
+      "description": "A crisp modern wardrobe staple. The Dennis Lingo Casual Cotton Shirt features a tailored slim fit silhouette in refreshing sky blue. Pair it with dark wash jeans or formal trousers for effortless charm.",
+      "stock": 50,
+      "deliveryDays": 2,
+      "tags": [
+          "fashion",
+          "clothing",
+          "clothes",
+          "cloths",
+          "shirt",
+          "casual shirt",
+          "full sleeve",
+          "cotton",
+          "slim fit",
+          "dennis lingo",
+          "under 500"
+      ],
+      "reviewSummary": {
+          "pros": [
+              "Sharp tailoring and handsome spread collar design",
+              "Pure breathable cotton feels pleasant during warm office hours",
+              "Unbeatable price point for a full-sleeve button-down shirt"
+          ],
+          "cons": [
+              "Slim fit runs slightly narrow at the shoulders; size up if broad-shouldered",
+              "Requires light ironing to remove post-wash creases",
+              "Cuff buttons need gentle handling"
+          ],
+          "verdict": "A sleek, flattering casual shirt offering immense value under \u20b9500.",
+          "sentiment": {
+              "positive": 81,
+              "neutral": 12,
+              "negative": 7
+          }
+      },
+      "priceHistory": [
+          {
+              "date": "2026-09-02",
+              "price": 509
+          },
+          {
+              "date": "2026-09-03",
+              "price": 499
+          },
+          {
+              "date": "2026-09-04",
+              "price": 489
+          },
+          {
+              "date": "2026-09-05",
+              "price": 548
+          },
+          {
+              "date": "2026-09-06",
+              "price": 538
+          },
+          {
+              "date": "2026-09-07",
+              "price": 528
+          },
+          {
+              "date": "2026-09-08",
+              "price": 518
+          },
+          {
+              "date": "2026-09-09",
+              "price": 509
+          },
+          {
+              "date": "2026-09-10",
+              "price": 499
+          },
+          {
+              "date": "2026-09-11",
+              "price": 489
+          },
+          {
+              "date": "2026-09-12",
+              "price": 548
+          },
+          {
+              "date": "2026-09-13",
+              "price": 538
+          },
+          {
+              "date": "2026-09-14",
+              "price": 528
+          },
+          {
+              "date": "2026-09-15",
+              "price": 518
+          },
+          {
+              "date": "2026-09-16",
+              "price": 509
+          },
+          {
+              "date": "2026-09-17",
+              "price": 499
+          },
+          {
+              "date": "2026-09-18",
+              "price": 489
+          },
+          {
+              "date": "2026-09-19",
+              "price": 548
+          },
+          {
+              "date": "2026-09-20",
+              "price": 538
+          },
+          {
+              "date": "2026-09-21",
+              "price": 528
+          },
+          {
+              "date": "2026-09-22",
+              "price": 518
+          },
+          {
+              "date": "2026-09-23",
+              "price": 509
+          },
+          {
+              "date": "2026-09-24",
+              "price": 499
+          },
+          {
+              "date": "2026-09-25",
+              "price": 489
+          },
+          {
+              "date": "2026-09-26",
+              "price": 548
+          },
+          {
+              "date": "2026-09-27",
+              "price": 538
+          },
+          {
+              "date": "2026-09-28",
+              "price": 528
+          },
+          {
+              "date": "2026-09-29",
+              "price": 518
+          },
+          {
+              "date": "2026-09-30",
+              "price": 509
+          },
+          {
+              "date": "2026-10-01",
+              "price": 499
+          },
+          {
+              "date": "2026-10-02",
+              "price": 489
+          }
+      ]
+  }
 ];

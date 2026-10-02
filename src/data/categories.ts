@@ -40,9 +40,9 @@ export const categories: CategoryMeta[] = [
   {
     "name": "Fashion",
     "slug": "fashion",
-    "description": "Denim jeans, sneakers, smartwatches, and everyday laptop backpacks.",
+    "description": "Cotton t-shirts, polo shirts, denim jeans, sneakers, and smartwatches.",
     "icon": "Shirt",
-    "itemCount": 14
+    "itemCount": 18
   },
   {
     "name": "Books",
