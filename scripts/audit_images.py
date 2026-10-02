@@ -31,7 +31,7 @@ for i, (pid, title, imgs) in enumerate(products, 1):
     print(f"{i:<3} {pid:<10} {status:<8} {size:<10} {title[:60]}")
 
 print("-" * 100)
-if all_ok and len(products) == 50:
+if all_ok and len(products) >= 95:
     print(f"ALL {len(products)} PRODUCTS AUDITED SUCCESSFULLY! ZERO ERRORS.")
 else:
     print(f"AUDIT FAILED! Found issues.")

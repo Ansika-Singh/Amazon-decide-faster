@@ -24,7 +24,7 @@ function deterministicRanker(query: string): AssistResponse {
     category = 'Audio';
   } else if (/phone|mobile|smartphone|iphone|android|samsung|oneplus/i.test(q)) {
     category = 'Mobiles';
-  } else if (/mouse|keyboard|ssd|monitor|charger|wifi|router|electronics/i.test(q)) {
+  } else if (/laptop|macbook|notebook|pc|computer|mouse|keyboard|ssd|monitor|charger|wifi|router|electronics/i.test(q)) {
     category = 'Electronics';
   } else if (/mixer|grinder|air fryer|iron|bottle|flask|kitchen|vacuum|home/i.test(q)) {
     category = 'Home & Kitchen';
@@ -32,7 +32,7 @@ function deterministicRanker(query: string): AssistResponse {
     category = 'Fashion';
   } else if (/book|read|habits|psychology|sapiens|ikigai|novel/i.test(q)) {
     category = 'Books';
-  } else if (/gym|dumbbell|protein|workout|fitness|yoga|bands|massage/i.test(q)) {
+  } else if (/gym|dumbbell|protein|workout|fitness|yoga|bands|massage|kettlebell/i.test(q)) {
     category = 'Fitness';
   } else if (/serum|sunscreen|cream|cleanser|trimmer|lipstick|moisturizer|beauty/i.test(q)) {
     category = 'Beauty';
@@ -52,6 +52,31 @@ function deterministicRanker(query: string): AssistResponse {
     useCase = 'budget-friendly value';
   }
 
+  // Specific item type exact match boost and mismatch penalty
+  const itemIntents: Array<{ pattern: RegExp; tag: string; titleKeywords: string[] }> = [
+    { pattern: /\blaptops?\b|\bmacbooks?\b|\bnotebooks?\b/i, tag: 'laptop', titleKeywords: ['laptop', 'macbook', 'vivobook', 'ideapad', '15s'] },
+    { pattern: /\bearbuds?\b|\btws\b/i, tag: 'earbuds', titleKeywords: ['earbuds', 'airdopes', 'buds'] },
+    { pattern: /\bheadphones?\b/i, tag: 'headphones', titleKeywords: ['headphones', 'rockerz', 'wh-ch', '510bt'] },
+    { pattern: /\bneckbands?\b/i, tag: 'neckband', titleKeywords: ['neckband', 'bullets'] },
+    { pattern: /\bmixers?\b|\bgrinders?\b/i, tag: 'mixer grinder', titleKeywords: ['mixer', 'grinder'] },
+    { pattern: /\bair fryers?\b/i, tag: 'air fryer', titleKeywords: ['air fryer', 'healthifry', 'aerocrisp'] },
+    { pattern: /\bproteins?\b|\bwhey\b/i, tag: 'protein', titleKeywords: ['protein', 'whey'] },
+    { pattern: /\bcreatine\b/i, tag: 'creatine', titleKeywords: ['creatine'] },
+    { pattern: /\bkettlebells?\b/i, tag: 'kettlebell', titleKeywords: ['kettlebell'] },
+    { pattern: /\byoga mats?\b/i, tag: 'yoga', titleKeywords: ['yoga mat', 'mat'] },
+    { pattern: /\bbackpacks?\b|\bbags?\b/i, tag: 'backpack', titleKeywords: ['backpack', 'rucksack', 'valex', 'quill'] },
+    { pattern: /\bshoes?\b|\bsneakers?\b/i, tag: 'shoes', titleKeywords: ['shoes', 'oxford', 'sneakers'] },
+    { pattern: /\bjeans?\b|\bdenims?\b/i, tag: 'jeans', titleKeywords: ['jeans', 'denim'] },
+    { pattern: /\bwatches?\b|\bsmartwatches?\b/i, tag: 'watch', titleKeywords: ['watch', 'smartwatch'] },
+    { pattern: /\bserums?\b/i, tag: 'serum', titleKeywords: ['serum'] },
+    { pattern: /\bsunscreens?\b/i, tag: 'sunscreen', titleKeywords: ['sunscreen', 'sunblock'] },
+    { pattern: /\bcleansers?\b|\bface wash\b/i, tag: 'cleanser', titleKeywords: ['cleanser', 'face wash'] },
+    { pattern: /\bvacuums?\b/i, tag: 'vacuum', titleKeywords: ['vacuum'] },
+    { pattern: /\bmouses?\b|\bmice\b/i, tag: 'mouse', titleKeywords: ['mouse'] },
+    { pattern: /\bkeyboards?\b/i, tag: 'keyboard', titleKeywords: ['keyboard'] },
+    { pattern: /\bmonitors?\b/i, tag: 'monitor', titleKeywords: ['monitor'] },
+  ];
+
   // Score products
   const scored = products.map((product) => {
     let score = 0;
@@ -69,7 +94,21 @@ function deterministicRanker(query: string): AssistResponse {
         const ratio = product.price / budget;
         if (ratio > 0.6) score += 10;
       } else {
-        score -= 50; // Penalize products exceeding budget
+        score -= 60; // Penalize products exceeding budget
+      }
+    }
+
+    // Specific product-type intent matching
+    for (const intent of itemIntents) {
+      if (intent.pattern.test(q)) {
+        const matchesIntent =
+          product.tags.some((t) => t.toLowerCase().includes(intent.tag)) ||
+          intent.titleKeywords.some((kw) => product.title.toLowerCase().includes(kw));
+        if (matchesIntent) {
+          score += 250;
+        } else {
+          score -= 300;
+        }
       }
     }
 
