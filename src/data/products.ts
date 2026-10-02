@@ -2084,7 +2084,7 @@ export const products: Product[] = [
     "rating": 4.4,
     "reviewCount": 16500,
     "images": [
-      "https://images.unsplash.com/photo-1649834742869-e6c7c6d12f39?w=800&auto=format&fit=crop&q=80"
+      "https://images.unsplash.com/photo-1643394174693-55ada21e7344?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "Extra-large 12.4mm Titanium-coated drivers for deep, punchy acoustics",
@@ -9533,7 +9533,7 @@ export const products: Product[] = [
     "rating": 4.1,
     "reviewCount": 18200,
     "images": [
-      "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=800&auto=format&fit=crop&q=80"
+      "https://images.unsplash.com/photo-1558317374-067fb5f30001?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "High suction 1200W motor clears deep embedded dust from sofas and carpets",
@@ -10770,7 +10770,7 @@ export const products: Product[] = [
     "rating": 4.3,
     "reviewCount": 14200,
     "images": [
-      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1542272454315-4c01d7abdf4a?w=800&auto=format&fit=crop&q=80",
       "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?w=800&auto=format&fit=crop&q=80",
       "https://images.unsplash.com/photo-1602293589930-45aad59ba3ab?w=800&auto=format&fit=crop&q=80"
     ],
@@ -13259,7 +13259,7 @@ export const products: Product[] = [
     "rating": 4.7,
     "reviewCount": 89400,
     "images": [
-      "/products/bok-01.jpg"
+      "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "Over 15 million copies sold globally; #1 New York Times Bestseller",
@@ -13671,7 +13671,7 @@ export const products: Product[] = [
     "rating": 4.6,
     "reviewCount": 68200,
     "images": [
-      "/products/bok-02.jpg"
+      "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "19 short stories exploring the strange ways people think about money",
@@ -14083,7 +14083,7 @@ export const products: Product[] = [
     "rating": 4.6,
     "reviewCount": 42500,
     "images": [
-      "/products/bok-03.jpg"
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "Explores how an insignificant ape became the master of planet Earth",
@@ -14495,7 +14495,7 @@ export const products: Product[] = [
     "rating": 4.5,
     "reviewCount": 23400,
     "images": [
-      "/products/bok-04.jpg"
+      "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "Identifies deep, distraction-free concentration as a superpower in the modern economy",
@@ -14907,7 +14907,7 @@ export const products: Product[] = [
     "rating": 4.5,
     "reviewCount": 58900,
     "images": [
-      "/products/bok-05.jpg"
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "Uncovers the lifestyle habits of the world's longest-living centenarians in Okinawa",
@@ -15319,7 +15319,7 @@ export const products: Product[] = [
     "rating": 4.6,
     "reviewCount": 18200,
     "images": [
-      "/products/bok-06.jpg"
+      "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "32 timeless short stories set in the enchanting fictional South Indian town of Malgudi",
@@ -15731,7 +15731,7 @@ export const products: Product[] = [
     "rating": 4.3,
     "reviewCount": 24900,
     "images": [
-      "/products/fit-01.jpg"
+      "https://images.unsplash.com/photo-1598289431512-b97b0917affc?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "5 color-coded resistance levels: X-Light (5 lbs) to X-Heavy (30 lbs)",
@@ -16145,7 +16145,7 @@ export const products: Product[] = [
     "rating": 4.2,
     "reviewCount": 11800,
     "images": [
-      "/products/fit-02.jpg"
+      "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "Heavy-duty honeycomb anti-burst PVC rated up to 200kg weight capacity",
@@ -16559,7 +16559,7 @@ export const products: Product[] = [
     "rating": 4.5,
     "reviewCount": 8900,
     "images": [
-      "/products/fit-03.jpg"
+      "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "High-grade solid cast iron core encased in heavy-duty natural rubber coating",
@@ -16973,7 +16973,7 @@ export const products: Product[] = [
     "rating": 4.5,
     "reviewCount": 48200,
     "images": [
-      "/products/fit-04.jpg"
+      "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "24g of blended protein per scoop (Whey Protein Isolate as primary ingredient)",
@@ -17801,7 +17801,7 @@ export const products: Product[] = [
     "rating": 4.2,
     "reviewCount": 13400,
     "images": [
-      "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&auto=format&fit=crop&q=80"
+      "https://images.unsplash.com/photo-1638107664896-fc7c1c2c2ac9?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "Powerful high-torque brushless motor delivers deep percussion up to 3200 RPM",
@@ -20283,7 +20283,7 @@ export const products: Product[] = [
     "rating": 4.3,
     "reviewCount": 21800,
     "images": [
-      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=800&auto=format&fit=crop&q=80"
+      "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab12?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "100% oil-free, non-comedogenic lightweight daily gel-cream hydration",
