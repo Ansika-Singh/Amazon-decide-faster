@@ -1,0 +1,12 @@
+{
+  "agent-capture": {
+    "enabled": true,
+    "Stop": [
+      {
+        "type": "command",
+        "command": "python ../scripts/agent_capture.py --hook",
+        "timeout": 30
+      }
+    ]
+  }
+}
