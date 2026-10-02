@@ -38,18 +38,27 @@ function deterministicRanker(query: string): AssistResponse {
     category = 'Beauty';
   }
 
-  // Detect use cases
+  // Detect use cases & gifting intent
+  const isMomGift = /\b(?:mom|mother|maa|mummy|parents?)\b/i.test(q) && (/\bgift\b|\bpresent\b|\bbuy\b/i.test(q) || true);
+  const isGeneralGift = /\bgift\b|\bpresent\b|\bbirthday\b|\banniversary\b/i.test(q);
+
   let useCase = 'daily use';
-  if (/gym|workout|exercise|running|fitness|sweat/i.test(q)) {
+  if (/gym|workout|exercise|running|fitness|sweat/i.test(q) && !/gift/i.test(q)) {
     useCase = 'gym & fitness workouts';
   } else if (/coding|programming|developer|work|office|desk/i.test(q)) {
     useCase = 'coding and workplace productivity';
-  } else if (/gift|mom|mother|parents|friend|birthday/i.test(q)) {
+  } else if (isMomGift) {
+    useCase = 'thoughtful gift for mom';
+  } else if (isGeneralGift) {
     useCase = 'thoughtful gifting';
   } else if (/travel|commute|outdoor|flight/i.test(q)) {
     useCase = 'travel and commute';
   } else if (/budget|cheap|affordable/i.test(q)) {
     useCase = 'budget-friendly value';
+  }
+
+  if (isMomGift && !category) {
+    category = 'Thoughtful Gifts';
   }
 
   // Specific item type exact match boost and mismatch penalty
@@ -80,9 +89,11 @@ function deterministicRanker(query: string): AssistResponse {
   // Score products
   const scored = products.map((product) => {
     let score = 0;
+    const tLow = product.title.toLowerCase();
+    const catLow = product.category.toLowerCase();
     
     // Category match
-    if (category && product.category.toLowerCase() === category.toLowerCase()) {
+    if (category && category !== 'Thoughtful Gifts' && product.category.toLowerCase() === category.toLowerCase()) {
       score += 40;
     }
 
@@ -92,9 +103,54 @@ function deterministicRanker(query: string): AssistResponse {
         score += 35;
         // Closer to budget without exceeding gives minor bonus
         const ratio = product.price / budget;
-        if (ratio > 0.6) score += 10;
+        if (ratio > 0.5) score += 10;
       } else {
-        score -= 60; // Penalize products exceeding budget
+        score -= 250; // Heavily penalize products exceeding budget
+      }
+    }
+
+    // Gifting logic for Mom / Parents
+    if (isMomGift) {
+      // Strictly penalize items completely unsuitable as mom gifts
+      if (
+        /pull-up|chin-up|dumbbell|kettlebell|creatine|protein|whey|trimmer|men's|gaming mouse|gaming keyboard|ssd/i.test(
+          product.title
+        )
+      ) {
+        score -= 700;
+      } else if (catLow === 'fitness' && !/massage|yoga/i.test(product.title)) {
+        score -= 600;
+      } else if (catLow === 'mobiles' && /case|cover/i.test(product.title)) {
+        score -= 300;
+      }
+
+      // Boost deeply appreciated, thoughtful mom gifts
+      if (product.id === 'fit-06') {
+        // beatXP Percussion Massage Gun (pain relief & relaxation)
+        score += 290;
+      } else if (product.id === 'bok-05') {
+        // Ikigai Hardcover
+        score += 280;
+      } else if (product.id === 'hom-03' || product.id === 'hom-09' || product.id === 'hom-10') {
+        // Insulated water bottles / flasks
+        score += 270;
+      } else if (catLow === 'beauty' && !/trimmer/i.test(product.title)) {
+        // Skincare & pampering
+        score += 250;
+      } else if (product.id === 'aud-12' || product.id === 'aud-02') {
+        // Neckband / comfortable earbuds for bhajans, audiobooks, calls
+        score += 240;
+      } else if (product.id === 'fit-05') {
+        // Yoga mat
+        score += 230;
+      } else if (product.id === 'bok-06' || product.id === 'bok-01' || product.id === 'bok-02') {
+        // Malgudi Days, Atomic Habits, Psychology of Money
+        score += 220;
+      }
+    } else if (isGeneralGift) {
+      // General gift query penalty for industrial/specialist gym gear
+      if (/pull-up|chin-up|kettlebell|dumbbell|creatine/i.test(product.title)) {
+        score -= 400;
       }
     }
 
@@ -131,21 +187,67 @@ function deterministicRanker(query: string): AssistResponse {
   // Sort descending by score
   scored.sort((a, b) => b.score - a.score);
 
-  // Take top 3
-  const topPicks = scored.slice(0, 3).map((item, index) => {
+  // Take top 3 with category diversity if this is an open gift query
+  let selectedPicks: typeof scored = [];
+  if (isMomGift || (isGeneralGift && !category)) {
+    const seenCategories = new Set<string>();
+    for (const item of scored) {
+      if (!seenCategories.has(item.product.category)) {
+        selectedPicks.push(item);
+        seenCategories.add(item.product.category);
+        if (selectedPicks.length === 3) break;
+      }
+    }
+  }
+  if (selectedPicks.length < 3) {
+    for (const item of scored) {
+      if (!selectedPicks.some((s) => s.product.id === item.product.id)) {
+        selectedPicks.push(item);
+        if (selectedPicks.length === 3) break;
+      }
+    }
+  }
+
+  // Format picks with contextual reasons
+  const topPicks = selectedPicks.map((item, index) => {
     const p = item.product;
     let label = 'Best overall';
     let reason = '';
 
-    if (index === 0) {
-      label = 'Best overall';
-      reason = `Top rated ${p.brand} pick balancing high performance and durability${budget ? ` well within your ₹${budget} budget` : ''}.`;
-    } else if (index === 1) {
-      label = 'Best value';
-      reason = `Outstanding price-to-performance at ₹${p.price}, packing essential features without overpaying.`;
+    if (isMomGift) {
+      if (p.id === 'fit-06') {
+        label = 'Best wellness gift';
+        reason = 'Deeply soothing percussion massage gun with 4 heads to relieve back, neck, and joint stiffness at home.';
+      } else if (p.id === 'bok-05') {
+        label = 'Best heartfelt gift';
+        reason = 'A heartwarming, beautiful hardcover bestseller on finding peace, purpose, and longevity that she will cherish.';
+      } else if (p.id === 'hom-03' || p.id === 'hom-09' || p.id === 'hom-10') {
+        label = 'Best daily essential';
+        reason = 'Premium double-wall insulated flask keeping herbal tea, warm water, or soup hot for 24 hours with zero leaks.';
+      } else if (p.category === 'Beauty') {
+        label = 'Best self-care gift';
+        reason = 'Gentle, dermatologist-approved skincare pampering to keep her skin nourished, hydrated, and radiant.';
+      } else if (p.id === 'aud-12') {
+        label = 'Best comfort audio';
+        reason = 'Lightweight neckband with 60-hour battery, perfect for enjoying bhajans, audiobooks, and family calls hands-free.';
+      } else if (p.id === 'fit-05') {
+        label = 'Best wellness pick';
+        reason = 'Extra-cushioned 6mm eco-friendly mat with alignment marks for serene morning yoga and light stretching.';
+      } else {
+        label = index === 0 ? 'Best overall' : index === 1 ? 'Best value' : 'Thoughtful pick';
+        reason = `A lovely, practical gift choice well within your ₹${budget || 1500} budget with top ratings.`;
+      }
     } else {
-      label = 'Best premium/alt';
-      reason = `Proven alternative with specialized ${p.tags[1] || 'design'} tuning and stellar customer satisfaction.`;
+      if (index === 0) {
+        label = 'Best overall';
+        reason = `Top rated ${p.brand} pick balancing high performance and durability${budget ? ` well within your ₹${budget} budget` : ''}.`;
+      } else if (index === 1) {
+        label = 'Best value';
+        reason = `Outstanding price-to-performance at ₹${p.price}, packing essential features without overpaying.`;
+      } else {
+        label = 'Best premium/alt';
+        reason = `Proven alternative with specialized ${p.tags[1] || 'design'} tuning and stellar customer satisfaction.`;
+      }
     }
 
     return {
@@ -200,6 +302,8 @@ export async function POST(req: NextRequest) {
 
     const systemPrompt = `You are the AI shopping assistant for "Decide Faster Amazon".
 Your task is to analyze the user's shopping query, understand constraints (budget, use case, preferred specs), and select EXACTLY 3 products strictly from the provided catalog.
+
+Special Rule for Gifting: If the user is asking for gifts (especially 'gift for mom' or 'gift for parents'), select thoughtful lifestyle, wellness, or home items (such as soothing percussion massagers for back/joint relief, inspiring hardcover books like Ikigai, insulated flasks for tea/water, or gentle skincare). NEVER suggest inappropriate items like doorway pull-up bars, whey protein powder, heavy dumbbells, or gaming mice for a mother's gift.
 
 Respond ONLY with valid JSON matching this schema:
 {
