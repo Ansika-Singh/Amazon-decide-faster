@@ -427,7 +427,7 @@ export const products: Product[] = [
     "rating": 4.2,
     "reviewCount": 9420,
     "images": [
-      "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?w=800&auto=format&fit=crop&q=80"
+      "https://images.unsplash.com/photo-1631552988135-8d7ba8c5c4c6?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "Massive 100 hours total playtime with digital battery indicator case",
@@ -842,7 +842,7 @@ export const products: Product[] = [
     "rating": 4.3,
     "reviewCount": 24100,
     "images": [
-      "https://images.unsplash.com/photo-1572636963535-5bde4e3c9f94?w=800&auto=format&fit=crop&q=80"
+      "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "10mm Dynamic Bass Driver with titanium-plated composite diaphragm",
@@ -2084,7 +2084,7 @@ export const products: Product[] = [
     "rating": 4.4,
     "reviewCount": 16500,
     "images": [
-      "https://images.unsplash.com/photo-1643394174693-55ada21e7344?w=800&auto=format&fit=crop&q=80"
+      "https://images.unsplash.com/photo-1609081219090-a6d81d3085bf?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "Extra-large 12.4mm Titanium-coated drivers for deep, punchy acoustics",
@@ -2913,7 +2913,7 @@ export const products: Product[] = [
     "rating": 3.9,
     "reviewCount": 38900,
     "images": [
-      "https://images.unsplash.com/photo-1608156639585-b3a032ef9689?w=800&auto=format&fit=crop&q=80"
+      "https://images.unsplash.com/photo-1572636963535-5bde4e3c9f94?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "13mm dynamic drivers producing punchy stereo audio",
@@ -7054,7 +7054,7 @@ export const products: Product[] = [
     "rating": 4.2,
     "reviewCount": 16400,
     "images": [
-      "https://images.unsplash.com/photo-1556656793-08538906a9f8?w=800&auto=format&fit=crop&q=80"
+      "https://images.unsplash.com/photo-1567581935884-3349723552ca?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "200MP ultra-clear camera with OIS and 4x in-sensor lossless zoom",
@@ -13259,7 +13259,7 @@ export const products: Product[] = [
     "rating": 4.7,
     "reviewCount": 89400,
     "images": [
-      "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=800&auto=format&fit=crop&q=80"
+      "https://covers.openlibrary.org/b/isbn/9781847941831-L.jpg"
     ],
     "bullets": [
       "Over 15 million copies sold globally; #1 New York Times Bestseller",
@@ -13671,7 +13671,7 @@ export const products: Product[] = [
     "rating": 4.6,
     "reviewCount": 68200,
     "images": [
-      "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&auto=format&fit=crop&q=80"
+      "https://covers.openlibrary.org/b/isbn/9780857197689-L.jpg"
     ],
     "bullets": [
       "19 short stories exploring the strange ways people think about money",
@@ -14083,7 +14083,7 @@ export const products: Product[] = [
     "rating": 4.6,
     "reviewCount": 42500,
     "images": [
-      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=800&auto=format&fit=crop&q=80"
+      "https://covers.openlibrary.org/b/isbn/9780099590088-L.jpg"
     ],
     "bullets": [
       "Explores how an insignificant ape became the master of planet Earth",
@@ -14495,7 +14495,7 @@ export const products: Product[] = [
     "rating": 4.5,
     "reviewCount": 23400,
     "images": [
-      "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=800&auto=format&fit=crop&q=80"
+      "https://covers.openlibrary.org/b/isbn/9781455586691-L.jpg"
     ],
     "bullets": [
       "Identifies deep, distraction-free concentration as a superpower in the modern economy",
@@ -14907,7 +14907,7 @@ export const products: Product[] = [
     "rating": 4.5,
     "reviewCount": 58900,
     "images": [
-      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&auto=format&fit=crop&q=80"
+      "https://covers.openlibrary.org/b/isbn/9780143130727-L.jpg"
     ],
     "bullets": [
       "Uncovers the lifestyle habits of the world's longest-living centenarians in Okinawa",
@@ -15319,7 +15319,7 @@ export const products: Product[] = [
     "rating": 4.6,
     "reviewCount": 18200,
     "images": [
-      "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=800&auto=format&fit=crop&q=80"
+      "https://covers.openlibrary.org/b/isbn/9780140118896-L.jpg"
     ],
     "bullets": [
       "32 timeless short stories set in the enchanting fictional South Indian town of Malgudi",
@@ -16145,7 +16145,7 @@ export const products: Product[] = [
     "rating": 4.2,
     "reviewCount": 11800,
     "images": [
-      "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&auto=format&fit=crop&q=80"
+      "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "Heavy-duty honeycomb anti-burst PVC rated up to 200kg weight capacity",
@@ -17801,7 +17801,7 @@ export const products: Product[] = [
     "rating": 4.2,
     "reviewCount": 13400,
     "images": [
-      "https://images.unsplash.com/photo-1638107664896-fc7c1c2c2ac9?w=800&auto=format&fit=crop&q=80"
+      "https://images.unsplash.com/photo-1611073615830-9b82d15a4a5e?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "Powerful high-torque brushless motor delivers deep percussion up to 3200 RPM",
