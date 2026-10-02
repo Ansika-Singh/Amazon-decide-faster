@@ -3,9 +3,9 @@
 import * as React from 'react';
 import Link from 'next/link';
 import { useRouter, useSearchParams } from 'next/navigation';
-import { Search, Sparkles, ShoppingBag, Command, Zap, History, X } from 'lucide-react';
+import { Search, Sparkles, ShoppingBag, Command, Zap, History, X, Heart } from 'lucide-react';
 import { useLocalStorage } from '@/hooks/useLocalStorage';
-import { CartItem } from '@/types';
+import { CartItem, Product } from '@/types';
 import { Button } from '@/components/ui/Button';
 
 interface HeaderProps {
@@ -29,11 +29,13 @@ export function Header({ onOpenAiAsk }: HeaderProps) {
   const dropdownRef = React.useRef<HTMLDivElement>(null);
   
   const [cartItems] = useLocalStorage<CartItem[]>('amazon_cart', []);
+  const [wishlistItems] = useLocalStorage<Product[]>('amazon_wishlist', []);
   const [recentSearches, setRecentSearches] = useLocalStorage<string[]>(
     'amazon_recent_searches',
     DEFAULT_RECENT_SEARCHES
   );
   const [badgeBump, setBadgeBump] = React.useState(false);
+  const wishlistCount = wishlistItems.length;
 
   // Calculate total item count
   const totalCount = cartItems.reduce((acc, item) => acc + item.quantity, 0);
@@ -232,6 +234,24 @@ export function Header({ onOpenAiAsk }: HeaderProps) {
               className="hidden lg:inline-flex items-center h-10 px-3 text-xs font-semibold text-slate-600 hover:text-slate-900 hover:bg-slate-100 rounded-xl transition-colors"
             >
               My Orders
+            </Link>
+
+            {/* Wishlist Link with Badge */}
+            <Link href="/wishlist" className="relative">
+              <Button
+                variant="outline"
+                size="md"
+                className="relative gap-2 px-3 rounded-xl border-slate-200 hover:bg-rose-50 hover:border-rose-200 min-h-[44px]"
+                aria-label="Wishlist"
+              >
+                <Heart className={`h-4 w-4 transition-colors ${wishlistCount > 0 ? 'text-rose-500 fill-rose-500' : 'text-slate-600'}`} />
+                <span className="hidden sm:inline font-medium text-slate-800">Wishlist</span>
+                {wishlistCount > 0 && (
+                  <span className="inline-flex items-center justify-center h-5 min-w-[20px] px-1 text-[11px] font-bold rounded-full bg-rose-500 text-white">
+                    {wishlistCount}
+                  </span>
+                )}
+              </Button>
             </Link>
 
             {/* Cart Link with Count Badge */}

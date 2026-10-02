@@ -2,7 +2,7 @@
 
 import * as React from 'react';
 import Link from 'next/link';
-import { Star, ShoppingBag, TrendingDown, Check } from 'lucide-react';
+import { Star, ShoppingBag, TrendingDown, Check, Heart } from 'lucide-react';
 import { Product, CartItem } from '@/types';
 import { formatPrice, getDeliveryEstimate } from '@/lib/formatters';
 import { ImageWithFallback } from '@/components/ui/ImageWithFallback';
@@ -23,8 +23,29 @@ export function ProductCard({
   isCompared = false,
 }: ProductCardProps) {
   const [, setCart] = useLocalStorage<CartItem[]>('amazon_cart', []);
+  const [wishlist, setWishlist] = useLocalStorage<Product[]>('amazon_wishlist', []);
   const { toast } = useToast();
   const [isAdded, setIsAdded] = React.useState(false);
+
+  const isWishlisted = wishlist.some((p) => p.id === product.id);
+
+  const handleWishlistToggle = (e: React.MouseEvent) => {
+    e.preventDefault();
+    e.stopPropagation();
+    if (isWishlisted) {
+      setWishlist((prev) => prev.filter((p) => p.id !== product.id));
+      toast({ title: 'Removed from Wishlist', variant: 'default' });
+    } else {
+      setWishlist((prev) => [...prev, product]);
+      toast({
+        title: 'Saved to Wishlist ♥',
+        description: product.title.slice(0, 35) + '…',
+        actionText: 'View Wishlist',
+        actionHref: '/wishlist',
+        variant: 'success',
+      });
+    }
+  };
 
   // Compute 90-day stats
   const historyPrices = product.priceHistory.map((p) => p.price);
@@ -106,6 +127,21 @@ export function ProductCard({
           {isCompared && <Check className="h-2.5 w-2.5 stroke-[3]" />}
         </div>
         <span>Compare</span>
+      </button>
+
+      {/* Wishlist Heart Button */}
+      <button
+        type="button"
+        onClick={handleWishlistToggle}
+        className={`absolute bottom-[168px] right-3 z-10 h-8 w-8 rounded-full flex items-center justify-center shadow-sm transition-all ${
+          isWishlisted
+            ? 'bg-rose-500 text-white border-2 border-rose-400 scale-110'
+            : 'bg-white/90 text-slate-400 border border-slate-200 hover:text-rose-500 hover:border-rose-300 hover:bg-rose-50'
+        }`}
+        aria-label={isWishlisted ? 'Remove from wishlist' : 'Add to wishlist'}
+        title={isWishlisted ? 'Remove from wishlist' : 'Save to wishlist'}
+      >
+        <Heart className={`h-4 w-4 transition-all ${isWishlisted ? 'fill-white' : ''}`} />
       </button>
 
       {/* Image Container */}

@@ -14,6 +14,7 @@ import {
   ChevronRight,
   Share2,
   Check,
+  Heart,
 } from 'lucide-react';
 import { Product, CartItem } from '@/types';
 import { formatPrice, getDeliveryEstimate } from '@/lib/formatters';
@@ -37,7 +38,26 @@ export function ProductDetailClient({ product }: ProductDetailClientProps) {
   const [isAdded, setIsAdded] = React.useState(false);
 
   const [, setCart] = useLocalStorage<CartItem[]>('amazon_cart', []);
+  const [wishlist, setWishlist] = useLocalStorage<Product[]>('amazon_wishlist', []);
   const { toast } = useToast();
+
+  const isWishlisted = wishlist.some((p) => p.id === product.id);
+
+  const handleWishlistToggle = () => {
+    if (isWishlisted) {
+      setWishlist((prev) => prev.filter((p) => p.id !== product.id));
+      toast({ title: 'Removed from Wishlist', variant: 'default' });
+    } else {
+      setWishlist((prev) => [...prev, product]);
+      toast({
+        title: 'Saved to Wishlist ♥',
+        description: product.title.slice(0, 35) + '…',
+        actionText: 'View Wishlist',
+        actionHref: '/wishlist',
+        variant: 'success',
+      });
+    }
+  };
 
   const historyPrices = product.priceHistory.map((p) => p.price);
   const avgPrice = Math.round(
@@ -323,6 +343,21 @@ export function ProductDetailClient({ product }: ProductDetailClientProps) {
               <Zap className="h-4 w-4 text-amber-400 fill-amber-400" />
               <span>Buy Now</span>
             </Button>
+
+            {/* Wishlist Toggle */}
+            <button
+              type="button"
+              onClick={handleWishlistToggle}
+              className={`w-full flex items-center justify-center gap-2 h-11 rounded-2xl border text-sm font-semibold transition-all duration-200 ${
+                isWishlisted
+                  ? 'border-rose-400 bg-rose-50 text-rose-600 hover:bg-rose-100'
+                  : 'border-slate-200 bg-white text-slate-600 hover:border-rose-300 hover:text-rose-500 hover:bg-rose-50'
+              }`}
+              aria-label={isWishlisted ? 'Remove from wishlist' : 'Save to wishlist'}
+            >
+              <Heart className={`h-4 w-4 transition-all ${isWishlisted ? 'fill-rose-500 text-rose-500' : ''}`} />
+              <span>{isWishlisted ? 'Saved to Wishlist' : 'Save to Wishlist'}</span>
+            </button>
           </div>
 
           {/* Guarantees */}
