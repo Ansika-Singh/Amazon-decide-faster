@@ -112,6 +112,8 @@ export function ProductCard({
         <ImageWithFallback
           src={product.images[0]}
           alt={product.title}
+          fallbackTitle={product.title}
+          category={product.category}
           fill
           sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
           className="object-contain group-hover:scale-105 transition-transform duration-300 p-2"

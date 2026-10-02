@@ -429,9 +429,7 @@ PRODUCTS_RAW = [
         "rating": 4.6,
         "reviewCount": 4200,
         "images": [
-            "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1585338107529-13afc5f02586?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?w=800&auto=format&fit=crop&q=80"
+            ""
 ],
         "bullets": [
             "Ultra-powerful 140W two-way fast charging for laptops, tablets, and phones",
@@ -462,9 +460,7 @@ PRODUCTS_RAW = [
         "rating": 4.4,
         "reviewCount": 5100,
         "images": [
-            "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1563770660941-20978e870e26?w=800&auto=format&fit=crop&q=80"
+            ""
 ],
         "bullets": [
             "Wi-Fi 6 speeds up to 1800 Mbps (1201 Mbps on 5 GHz + 574 Mbps on 2.4 GHz)",
@@ -730,9 +726,7 @@ PRODUCTS_RAW = [
         "rating": 4.5,
         "reviewCount": 21300,
         "images": [
-            "https://images.unsplash.com/photo-1585515320310-259814833e62?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1556911073-38141963c9e0?w=800&auto=format&fit=crop&q=80"
+            ""
 ],
         "bullets": [
             "Patented Rapid Air Technology with starfish bottom design cooks evenly with 90% less oil",
@@ -763,9 +757,7 @@ PRODUCTS_RAW = [
         "rating": 4.6,
         "reviewCount": 14900,
         "images": [
-            "https://images.unsplash.com/photo-1570222094114-d054a817e56b?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1574269909862-7e1d70bb8078?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?w=800&auto=format&fit=crop&q=80"
+            ""
 ],
         "bullets": [
             "Heavy-duty 900-Watt motor with double ball bearings for continuous heavy grinding",
@@ -829,9 +821,7 @@ PRODUCTS_RAW = [
         "rating": 4.1,
         "reviewCount": 18200,
         "images": [
-            "https://images.unsplash.com/photo-1558317374-067fb5f30001?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1527515637462-cff94eecc1ac?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1563453392212-326f5e854473?w=800&auto=format&fit=crop&q=80"
+            ""
 ],
         "bullets": [
             "High suction 1200W motor clears deep embedded dust from sofas and carpets",
@@ -862,9 +852,7 @@ PRODUCTS_RAW = [
         "rating": 4.0,
         "reviewCount": 34100,
         "images": [
-            "https://images.unsplash.com/photo-1544233726-9f1d2b27be8b?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1589365278144-c9e705f843ba?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1590794056226-79ef3a8147e1?w=800&auto=format&fit=crop&q=80"
+            ""
 ],
         "bullets": [
             "750W copper motor with overload protection switch",
@@ -895,9 +883,7 @@ PRODUCTS_RAW = [
         "rating": 4.3,
         "reviewCount": 12400,
         "images": [
-            "https://images.unsplash.com/photo-1517677208171-0bc6725a3e60?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1542060748-10c28b62716f?w=800&auto=format&fit=crop&q=80"
+            ""
 ],
         "bullets": [
             "American Heritage non-stick golden soleplate glides effortlessly over fabrics",
@@ -1130,9 +1116,7 @@ PRODUCTS_RAW = [
         "rating": 4.7,
         "reviewCount": 89400,
         "images": [
-            "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1476275466078-4007374efbbe?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=800&auto=format&fit=crop&q=80"
+            "/products/bok-01.jpg"
 ],
         "bullets": [
             "Over 15 million copies sold globally; #1 New York Times Bestseller",
@@ -1163,9 +1147,7 @@ PRODUCTS_RAW = [
         "rating": 4.6,
         "reviewCount": 68200,
         "images": [
-            "https://images.unsplash.com/photo-1592496431122-2349e0fbc666?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=800&auto=format&fit=crop&q=80"
+            "/products/bok-02.jpg"
 ],
         "bullets": [
             "19 short stories exploring the strange ways people think about money",
@@ -1196,9 +1178,7 @@ PRODUCTS_RAW = [
         "rating": 4.6,
         "reviewCount": 42500,
         "images": [
-            "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1491841550275-ad7854e35ca6?w=800&auto=format&fit=crop&q=80"
+            "/products/bok-03.jpg"
 ],
         "bullets": [
             "Explores how an insignificant ape became the master of planet Earth",
@@ -1229,9 +1209,7 @@ PRODUCTS_RAW = [
         "rating": 4.5,
         "reviewCount": 23400,
         "images": [
-            "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&auto=format&fit=crop&q=80"
+            "/products/bok-04.jpg"
 ],
         "bullets": [
             "Identifies deep, distraction-free concentration as a superpower in the modern economy",
@@ -1262,9 +1240,7 @@ PRODUCTS_RAW = [
         "rating": 4.5,
         "reviewCount": 58900,
         "images": [
-            "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=800&auto=format&fit=crop&q=80"
+            "/products/bok-05.jpg"
 ],
         "bullets": [
             "Uncovers the lifestyle habits of the world's longest-living centenarians in Okinawa",
@@ -1295,9 +1271,7 @@ PRODUCTS_RAW = [
         "rating": 4.6,
         "reviewCount": 18200,
         "images": [
-            "https://images.unsplash.com/photo-1474932430478-367dbb6832c1?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1463320726281-696a485928c7?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&auto=format&fit=crop&q=80"
+            "/products/bok-06.jpg"
 ],
         "bullets": [
             "32 timeless short stories set in the enchanting fictional South Indian town of Malgudi",
@@ -1330,9 +1304,7 @@ PRODUCTS_RAW = [
         "rating": 4.3,
         "reviewCount": 24900,
         "images": [
-            "https://images.unsplash.com/photo-1598289431512-b97b0917affc?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=800&auto=format&fit=crop&q=80"
+            "/products/fit-01.jpg"
 ],
         "bullets": [
             "5 color-coded resistance levels: X-Light (5 lbs) to X-Heavy (30 lbs)",
@@ -1363,9 +1335,7 @@ PRODUCTS_RAW = [
         "rating": 4.2,
         "reviewCount": 11800,
         "images": [
-            "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?w=800&auto=format&fit=crop&q=80"
+            "/products/fit-02.jpg"
 ],
         "bullets": [
             "Heavy-duty honeycomb anti-burst PVC rated up to 200kg weight capacity",
@@ -1396,9 +1366,7 @@ PRODUCTS_RAW = [
         "rating": 4.5,
         "reviewCount": 8900,
         "images": [
-            "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1586401100295-7a8096fd231a?w=800&auto=format&fit=crop&q=80"
+            "/products/fit-03.jpg"
 ],
         "bullets": [
             "High-grade solid cast iron core encased in heavy-duty natural rubber coating",
@@ -1429,9 +1397,7 @@ PRODUCTS_RAW = [
         "rating": 4.5,
         "reviewCount": 48200,
         "images": [
-            "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1579758629938-03607ccdbaba?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=800&auto=format&fit=crop&q=80"
+            "/products/fit-04.jpg"
 ],
         "bullets": [
             "24g of blended protein per scoop (Whey Protein Isolate as primary ingredient)",
@@ -1495,9 +1461,7 @@ PRODUCTS_RAW = [
         "rating": 4.2,
         "reviewCount": 13400,
         "images": [
-            "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1519823551278-64ac92734fb1?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&auto=format&fit=crop&q=80"
+            ""
 ],
         "bullets": [
             "Powerful high-torque brushless motor delivers deep percussion up to 3200 RPM",
@@ -1596,9 +1560,7 @@ PRODUCTS_RAW = [
         "rating": 4.6,
         "reviewCount": 54200,
         "images": [
-            "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=800&auto=format&fit=crop&q=80"
+            ""
 ],
         "bullets": [
             "Dermatologist-recommended non-foaming formula cleanses without stripping natural moisture",
@@ -1629,9 +1591,7 @@ PRODUCTS_RAW = [
         "rating": 4.4,
         "reviewCount": 38100,
         "images": [
-            "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1621607512214-68297480165e?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1599351431202-1e0f0137899a?w=800&auto=format&fit=crop&q=80"
+            ""
 ],
         "bullets": [
             "Self-sharpening stainless steel blades remain as sharp as day one without blade oiling",
@@ -1695,9 +1655,7 @@ PRODUCTS_RAW = [
         "rating": 4.3,
         "reviewCount": 21800,
         "images": [
-            "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1526947425960-945c6e72858f?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=800&auto=format&fit=crop&q=80"
+            ""
 ],
         "bullets": [
             "100% oil-free, non-comedogenic lightweight daily gel-cream hydration",

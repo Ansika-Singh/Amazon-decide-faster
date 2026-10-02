@@ -113,6 +113,8 @@ export function ProductDetailClient({ product }: ProductDetailClientProps) {
             <ImageWithFallback
               src={selectedImage}
               alt={product.title}
+              fallbackTitle={product.title}
+              category={product.category}
               fill
               priority
               sizes="(max-width: 1024px) 100vw, 40vw"
@@ -143,6 +145,8 @@ export function ProductDetailClient({ product }: ProductDetailClientProps) {
                 <ImageWithFallback
                   src={img}
                   alt={`${product.title} view ${idx + 1}`}
+                  fallbackTitle={product.title}
+                  category={product.category}
                   fill
                   className="object-contain p-1"
                 />
