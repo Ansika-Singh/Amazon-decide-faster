@@ -77,32 +77,34 @@ export function ProductCard({
         )}
       </div>
 
-      {/* Compare Checkbox */}
-      {onCompareToggle && (
-        <button
-          type="button"
-          onClick={(e) => {
-            e.preventDefault();
-            e.stopPropagation();
+      {/* Compare Checkbox Button */}
+      <button
+        type="button"
+        onClick={(e) => {
+          e.preventDefault();
+          e.stopPropagation();
+          if (onCompareToggle) {
             onCompareToggle(product);
-          }}
-          className={`absolute top-3 right-3 z-10 flex items-center gap-1 px-2 py-1 rounded-lg text-[10px] font-semibold transition-all ${
-            isCompared
-              ? 'bg-indigo-950 text-white shadow-xs'
-              : 'bg-white/90 text-slate-600 hover:bg-white border border-slate-200 shadow-2xs'
+          } else {
+            window.dispatchEvent(new CustomEvent('toggle-compare-product', { detail: product }));
+          }
+        }}
+        className={`absolute top-3 right-3 z-10 flex items-center gap-1 px-2 py-1 rounded-lg text-[10px] font-semibold transition-all ${
+          isCompared
+            ? 'bg-indigo-950 text-white shadow-xs'
+            : 'bg-white/90 text-slate-600 hover:bg-white border border-slate-200 shadow-2xs hover:text-indigo-950'
+        }`}
+        title="Compare up to 3 products"
+      >
+        <div
+          className={`w-3 h-3 rounded flex items-center justify-center border ${
+            isCompared ? 'bg-amber-400 border-amber-400 text-indigo-950' : 'border-slate-300'
           }`}
-          title="Compare up to 3 products"
         >
-          <div
-            className={`w-3 h-3 rounded flex items-center justify-center border ${
-              isCompared ? 'bg-amber-400 border-amber-400 text-indigo-950' : 'border-slate-300'
-            }`}
-          >
-            {isCompared && <Check className="h-2.5 w-2.5 stroke-[3]" />}
-          </div>
-          <span className="hidden sm:inline">Compare</span>
-        </button>
-      )}
+          {isCompared && <Check className="h-2.5 w-2.5 stroke-[3]" />}
+        </div>
+        <span>Compare</span>
+      </button>
 
       {/* Image Container */}
       <Link
