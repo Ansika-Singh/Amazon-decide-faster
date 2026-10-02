@@ -34,6 +34,7 @@ export function ProductDetailClient({ product }: ProductDetailClientProps) {
   const [selectedImage, setSelectedImage] = React.useState(product.images[0]);
   const [quantity, setQuantity] = React.useState(1);
   const [copiedLink, setCopiedLink] = React.useState(false);
+  const [isAdded, setIsAdded] = React.useState(false);
 
   const [, setCart] = useLocalStorage<CartItem[]>('amazon_cart', []);
   const { toast } = useToast();
@@ -45,6 +46,9 @@ export function ProductDetailClient({ product }: ProductDetailClientProps) {
   const dropVsAvg = avgPrice - product.price;
 
   const handleAddToCart = () => {
+    setIsAdded(true);
+    setTimeout(() => setIsAdded(false), 1500);
+
     setCart((prev) => {
       const existing = prev.find((item) => item.product.id === product.id);
       if (existing) {
@@ -290,13 +294,24 @@ export function ProductDetailClient({ product }: ProductDetailClientProps) {
           {/* Action Buttons */}
           <div className="space-y-2 pt-2">
             <Button
-              variant="accent"
+              variant={isAdded ? "success" : "accent"}
               size="lg"
               onClick={handleAddToCart}
-              className="w-full gap-2 text-sm font-bold shadow-xs active:scale-95"
+              className={`w-full gap-2 text-sm font-bold shadow-xs active:scale-95 transition-all duration-200 ${
+                isAdded ? 'bg-emerald-600 hover:bg-emerald-700 text-white' : ''
+              }`}
             >
-              <ShoppingBag className="h-4 w-4" />
-              <span>Add to Cart</span>
+              {isAdded ? (
+                <>
+                  <Check className="h-4 w-4 stroke-[3] animate-bounce" />
+                  <span>Added to Cart!</span>
+                </>
+              ) : (
+                <>
+                  <ShoppingBag className="h-4 w-4" />
+                  <span>Add to Cart</span>
+                </>
+              )}
             </Button>
 
             <Button

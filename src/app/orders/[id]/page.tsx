@@ -71,6 +71,67 @@ export default function OrderConfirmationPage() {
         </div>
       </div>
 
+      {/* 4-Stage Tracking Timeline Bar */}
+      <div className="bg-white p-6 sm:p-8 rounded-3xl border border-slate-200 shadow-2xs space-y-6">
+        <div className="flex items-center justify-between">
+          <div>
+            <h2 className="text-base font-bold text-slate-900">Live Delivery Tracking</h2>
+            <p className="text-xs text-slate-500">Tracked in real time via our priority logistics network</p>
+          </div>
+          <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-emerald-50 text-emerald-700 border border-emerald-200 text-xs font-bold">
+            <span className="h-2 w-2 rounded-full bg-emerald-500 animate-ping" />
+            <span>On Schedule</span>
+          </span>
+        </div>
+
+        {/* Timeline Bar */}
+        <div className="relative pt-2">
+          {/* Background Track Line */}
+          <div className="absolute top-6 left-8 right-8 h-1 bg-slate-100 -translate-y-1/2 z-0" />
+          {/* Active Progress Line (up to Confirmed stage = 35%) */}
+          <div className="absolute top-6 left-8 w-[35%] h-1 bg-emerald-500 -translate-y-1/2 z-0 transition-all duration-500" />
+
+          <div className="relative z-10 grid grid-cols-4 gap-2 text-center">
+            {/* Step 1: Placed */}
+            <div className="flex flex-col items-center">
+              <div className="w-10 h-10 rounded-full bg-emerald-600 text-white flex items-center justify-center font-bold text-xs shadow-xs mb-2">
+                <CheckCircle2 className="h-5 w-5" />
+              </div>
+              <span className="text-xs font-bold text-slate-900">Order Placed</span>
+              <span className="text-[10px] text-slate-500">Confirmed</span>
+            </div>
+
+            {/* Step 2: Confirmed (Active) */}
+            <div className="flex flex-col items-center">
+              <div className="relative w-10 h-10 rounded-full bg-emerald-500 text-white flex items-center justify-center font-bold text-xs shadow-md mb-2">
+                <Package className="h-5 w-5" />
+                <span className="absolute -inset-1 rounded-full border-2 border-emerald-400 animate-ping opacity-75" />
+              </div>
+              <span className="text-xs font-bold text-emerald-800">Processing</span>
+              <span className="text-[10px] text-emerald-600 font-medium">Packing item</span>
+            </div>
+
+            {/* Step 3: Shipped */}
+            <div className="flex flex-col items-center opacity-60">
+              <div className="w-10 h-10 rounded-full bg-slate-100 text-slate-400 border border-slate-200 flex items-center justify-center font-bold text-xs mb-2">
+                <Truck className="h-5 w-5" />
+              </div>
+              <span className="text-xs font-semibold text-slate-600">Shipped</span>
+              <span className="text-[10px] text-slate-400">By Tomorrow</span>
+            </div>
+
+            {/* Step 4: Delivered */}
+            <div className="flex flex-col items-center opacity-60">
+              <div className="w-10 h-10 rounded-full bg-slate-100 text-slate-400 border border-slate-200 flex items-center justify-center font-bold text-xs mb-2">
+                <CheckCircle2 className="h-5 w-5" />
+              </div>
+              <span className="text-xs font-semibold text-slate-600">Delivered</span>
+              <span className="text-[10px] text-slate-400">{order.estimatedDelivery}</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
       {/* Grid: Delivery Info + Payment Info */}
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
         {/* Shipping Address */}

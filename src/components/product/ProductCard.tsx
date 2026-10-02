@@ -24,6 +24,7 @@ export function ProductCard({
 }: ProductCardProps) {
   const [, setCart] = useLocalStorage<CartItem[]>('amazon_cart', []);
   const { toast } = useToast();
+  const [isAdded, setIsAdded] = React.useState(false);
 
   // Compute 90-day stats
   const historyPrices = product.priceHistory.map((p) => p.price);
@@ -37,6 +38,9 @@ export function ProductCard({
   const handleAddToCart = (e: React.MouseEvent) => {
     e.preventDefault();
     e.stopPropagation();
+
+    setIsAdded(true);
+    setTimeout(() => setIsAdded(false), 1500);
 
     setCart((prev) => {
       const existing = prev.find((item) => item.product.id === product.id);
@@ -163,14 +167,25 @@ export function ProductCard({
 
           {/* Add to Cart CTA */}
           <Button
-            variant="accent"
+            variant={isAdded ? "success" : "accent"}
             size="sm"
             onClick={handleAddToCart}
-            className="h-9 px-3 gap-1.5 rounded-xl shadow-2xs font-semibold text-xs active:scale-95"
+            className={`h-9 px-3 gap-1.5 rounded-xl shadow-2xs font-semibold text-xs active:scale-95 transition-all duration-200 ${
+              isAdded ? 'bg-emerald-600 hover:bg-emerald-700 text-white' : ''
+            }`}
             aria-label={`Add ${product.title} to cart`}
           >
-            <ShoppingBag className="h-3.5 w-3.5" />
-            <span>Add</span>
+            {isAdded ? (
+              <>
+                <Check className="h-3.5 w-3.5 stroke-[3] animate-bounce" />
+                <span>Added!</span>
+              </>
+            ) : (
+              <>
+                <ShoppingBag className="h-3.5 w-3.5" />
+                <span>Add</span>
+              </>
+            )}
           </Button>
         </div>
       </div>
