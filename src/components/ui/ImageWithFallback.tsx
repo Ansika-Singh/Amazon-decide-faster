@@ -22,14 +22,21 @@ export function ImageWithFallback({
     return (
       <div
         className={cn(
-          'flex flex-col items-center justify-center bg-slate-100 text-slate-400 p-4 rounded-xl border border-slate-200/80',
+          'flex flex-col items-center justify-center text-center p-4 bg-gradient-to-b from-slate-50 to-slate-100/80 rounded-2xl border border-slate-200/90 text-slate-500 select-none overflow-hidden',
+          props.fill ? 'absolute inset-0 w-full h-full' : 'w-full h-full min-h-[160px]',
           className
         )}
       >
-        <Package className="h-8 w-8 text-slate-400 mb-1" />
-        <span className="text-[10px] uppercase font-semibold tracking-wider text-slate-500 text-center line-clamp-1">
-          {fallbackTitle || alt || 'Product Image'}
+        <div className="w-12 h-12 rounded-2xl bg-indigo-950 text-white flex items-center justify-center shadow-xs mb-2">
+          <span className="font-extrabold text-base tracking-tighter">D</span>
+        </div>
+        <div className="inline-flex items-center gap-1 px-2 py-0.5 rounded-full bg-slate-200/70 text-[10px] font-bold text-slate-700 uppercase tracking-wider mb-1.5">
+          <span>Decide Faster</span>
+        </div>
+        <span className="text-[11px] font-semibold text-slate-700 line-clamp-2 max-w-[85%] px-1">
+          {fallbackTitle || alt || 'Verified Product'}
         </span>
+        <span className="text-[10px] text-slate-400 mt-1">Official Photo Placeholder</span>
       </div>
     );
   }

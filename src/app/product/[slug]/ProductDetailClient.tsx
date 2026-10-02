@@ -16,7 +16,7 @@ import {
   Check,
 } from 'lucide-react';
 import { Product, CartItem } from '@/types';
-import { formatPrice, calculateDiscount, getDeliveryEstimate } from '@/lib/formatters';
+import { formatPrice, getDeliveryEstimate } from '@/lib/formatters';
 import { ImageWithFallback } from '@/components/ui/ImageWithFallback';
 import { Button } from '@/components/ui/Button';
 import { Badge } from '@/components/ui/Badge';
@@ -38,7 +38,11 @@ export function ProductDetailClient({ product }: ProductDetailClientProps) {
   const [, setCart] = useLocalStorage<CartItem[]>('amazon_cart', []);
   const { toast } = useToast();
 
-  const discount = calculateDiscount(product.price, product.mrp);
+  const historyPrices = product.priceHistory.map((p) => p.price);
+  const avgPrice = Math.round(
+    historyPrices.reduce((a, b) => a + b, 0) / (historyPrices.length || 1)
+  );
+  const dropVsAvg = avgPrice - product.price;
 
   const handleAddToCart = () => {
     setCart((prev) => {
@@ -114,10 +118,10 @@ export function ProductDetailClient({ product }: ProductDetailClientProps) {
               sizes="(max-width: 1024px) 100vw, 40vw"
               className="object-contain p-4"
             />
-            {discount > 0 && (
+            {dropVsAvg > 0 && (
               <div className="absolute top-4 left-4">
                 <Badge variant="accent" className="font-bold text-xs shadow-2xs">
-                  {discount}% OFF
+                  ₹{dropVsAvg.toLocaleString('en-IN')} below usual
                 </Badge>
               </div>
             )}
@@ -193,9 +197,9 @@ export function ProductDetailClient({ product }: ProductDetailClientProps) {
                   {formatPrice(product.mrp)}
                 </span>
               )}
-              {discount > 0 && (
-                <span className="text-xs font-bold text-amber-700 bg-amber-100 px-2 py-0.5 rounded">
-                  Save {formatPrice(product.mrp - product.price)} ({discount}%)
+              {dropVsAvg > 0 && (
+                <span className="text-xs font-bold text-emerald-800 bg-emerald-100 px-2 py-0.5 rounded">
+                  ₹{dropVsAvg.toLocaleString('en-IN')} below 90-day average
                 </span>
               )}
             </div>

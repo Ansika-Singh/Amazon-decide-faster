@@ -4,7 +4,7 @@ import * as React from 'react';
 import Link from 'next/link';
 import { Star, ShoppingBag, TrendingDown, Check } from 'lucide-react';
 import { Product, CartItem } from '@/types';
-import { formatPrice, calculateDiscount, getDeliveryEstimate } from '@/lib/formatters';
+import { formatPrice, getDeliveryEstimate } from '@/lib/formatters';
 import { ImageWithFallback } from '@/components/ui/ImageWithFallback';
 import { Badge } from '@/components/ui/Badge';
 import { Button } from '@/components/ui/Button';
@@ -25,16 +25,14 @@ export function ProductCard({
   const [, setCart] = useLocalStorage<CartItem[]>('amazon_cart', []);
   const { toast } = useToast();
 
-  const discount = calculateDiscount(product.price, product.mrp);
-
   // Compute 90-day stats
   const historyPrices = product.priceHistory.map((p) => p.price);
   const minPrice = Math.min(...historyPrices);
   const avgPrice = Math.round(
     historyPrices.reduce((a, b) => a + b, 0) / historyPrices.length
   );
+  const dropVsAvg = avgPrice - product.price;
   const isNearLow = product.price <= minPrice * 1.05;
-  const isBelowAvg = product.price < avgPrice;
 
   const handleAddToCart = (e: React.MouseEvent) => {
     e.preventDefault();
@@ -63,11 +61,11 @@ export function ProductCard({
 
   return (
     <div className="group relative flex flex-col rounded-2xl bg-white border border-slate-200/90 shadow-2xs hover:shadow-md hover:border-slate-300 transition-all duration-200 overflow-hidden">
-      {/* Price Signal / Discount Tag */}
+      {/* Price Signal / 90-Day vs Average Tag */}
       <div className="absolute top-3 left-3 z-10 flex flex-col gap-1 items-start">
-        {discount > 0 && (
+        {dropVsAvg > 0 && (
           <Badge variant="accent" className="font-bold text-[11px] shadow-2xs">
-            {discount}% OFF
+            ₹{dropVsAvg.toLocaleString('en-IN')} below usual
           </Badge>
         )}
         {isNearLow && (
@@ -155,11 +153,6 @@ export function ProductCard({
               <span className="text-lg font-bold text-slate-900 tracking-tight">
                 {formatPrice(product.price)}
               </span>
-              {product.mrp > product.price && (
-                <span className="text-xs text-slate-400 line-through">
-                  {formatPrice(product.mrp)}
-                </span>
-              )}
             </div>
             <div className="text-[11px] font-medium text-emerald-700">
               {getDeliveryEstimate(product.deliveryDays)}

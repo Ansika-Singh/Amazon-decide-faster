@@ -65,9 +65,9 @@ PRODUCTS_RAW = [
         "reviewCount": 18450,
         "images": [
             "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1572536147248-ac59a8abfa4b?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1598331668826-20cecc596b86?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1608156639585-b3a032ef9689?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "Active Noise Cancellation up to 32dB for disturbance-free listening",
             "Up to 42 hours of total playback with ASAP Charge (10 mins = 150 mins)",
@@ -98,9 +98,9 @@ PRODUCTS_RAW = [
         "reviewCount": 9420,
         "images": [
             "https://images.unsplash.com/photo-1572536147248-ac59a8abfa4b?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1628202926206-c63a34b1618f?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "Massive 100 hours total playtime with digital battery indicator case",
             "Quad Mic Environmental Noise Cancellation for clear outdoor calling",
@@ -130,10 +130,10 @@ PRODUCTS_RAW = [
         "rating": 4.3,
         "reviewCount": 24100,
         "images": [
-            "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1572536147248-ac59a8abfa4b?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1631867675167-90a456a90863?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1613040809024-b4ef7ba99bc3?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "10mm Dynamic Bass Driver with titanium-plated composite diaphragm",
             "AI Environmental Noise Cancellation algorithm for voice clarity",
@@ -163,10 +163,10 @@ PRODUCTS_RAW = [
         "rating": 4.1,
         "reviewCount": 31200,
         "images": [
-            "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=800&auto=format&fit=crop&q=80",
             "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1524678606370-a47ad25cb82a?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "40mm dynamic drivers for signature immersive HD boAt sound",
             "Up to 15 hours of continuous playback on a single charge",
@@ -196,10 +196,10 @@ PRODUCTS_RAW = [
         "rating": 4.0,
         "reviewCount": 11800,
         "images": [
-            "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1572536147248-ac59a8abfa4b?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1590658006821-04f4008d5717?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1577174881658-0f30ed549adc?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "13mm speaker driver tuned for clean vocals and thumping bass",
             "Instacharge: 10 minutes of charge delivers 200 minutes of tunes",
@@ -229,10 +229,10 @@ PRODUCTS_RAW = [
         "rating": 4.4,
         "reviewCount": 16500,
         "images": [
-            "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1572536147248-ac59a8abfa4b?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1627989580309-bfaf3e58af6f?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1592921870789-04563d55041c?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1545454675-3531b543be5d?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "Extra-large 12.4mm Titanium-coated drivers for deep, punchy acoustics",
             "Sound Master Equalizer with 3 tailored audio profiles (Balanced, Bold, Bass)",
@@ -262,10 +262,10 @@ PRODUCTS_RAW = [
         "rating": 4.2,
         "reviewCount": 14200,
         "images": [
-            "https://images.unsplash.com/photo-1572536147248-ac59a8abfa4b?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1578319439584-104c94d37305?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "Sony DSEE (Digital Sound Enhancement Engine) restores high-frequency details",
             "Massive 25 hours battery life with 10-minute quick charge for 60 mins playback",
@@ -295,10 +295,10 @@ PRODUCTS_RAW = [
         "rating": 3.9,
         "reviewCount": 38900,
         "images": [
-            "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1572536147248-ac59a8abfa4b?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1545127398-14699f92334b?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1563245372-f21724e3856d?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "13mm dynamic drivers producing punchy stereo audio",
             "32 hours total playback with charging case",
@@ -330,10 +330,10 @@ PRODUCTS_RAW = [
         "rating": 4.7,
         "reviewCount": 8420,
         "images": [
-            "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=800&auto=format&fit=crop&q=80",
             "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1586864387967-d02ef85d93e8?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "8K DPI any-surface laser sensor tracks accurately even on glass",
             "MagSpeed electromagnetic scrolling scrolls 1,000 lines per second",
@@ -366,7 +366,7 @@ PRODUCTS_RAW = [
             "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80",
             "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?w=800&auto=format&fit=crop&q=80",
             "https://images.unsplash.com/photo-1595225476474-87563907a212?w=800&auto=format&fit=crop&q=80"
-        ],
+],
         "bullets": [
             "75% compact 84-key layout retaining dedicated function and arrow keys",
             "Gateron G Pro Brown switches delivering satisfying tactile feedback",
@@ -397,9 +397,9 @@ PRODUCTS_RAW = [
         "reviewCount": 11200,
         "images": [
             "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1544652478-6653e09f18a2?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1531492746076-161ca9bcad58?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1544652478-6653e09f18a2?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "Fast NVMe solid-state performance with up to 1050MB/s read and 1000MB/s write",
             "2-meter drop protection and IP55 water and dust resistance",
@@ -429,10 +429,10 @@ PRODUCTS_RAW = [
         "rating": 4.6,
         "reviewCount": 4200,
         "images": [
-            "https://images.unsplash.com/photo-1609592424009-8b010196885d?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1544652478-6653e09f18a2?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1585338107529-13afc5f02586?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "Ultra-powerful 140W two-way fast charging for laptops, tablets, and phones",
             "Smart digital display shows output power, input power, and estimated recharge time",
@@ -462,10 +462,10 @@ PRODUCTS_RAW = [
         "rating": 4.4,
         "reviewCount": 5100,
         "images": [
-            "https://images.unsplash.com/photo-1544652478-6653e09f18a2?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1563770660941-20978e870e26?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "Wi-Fi 6 speeds up to 1800 Mbps (1201 Mbps on 5 GHz + 574 Mbps on 2.4 GHz)",
             "Covers homes up to 4,000 sq ft with strong, unified seamless roaming",
@@ -495,10 +495,10 @@ PRODUCTS_RAW = [
         "rating": 4.5,
         "reviewCount": 3890,
         "images": [
-            "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1586864387967-d02ef85d93e8?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1551645120-d70bfe84c826?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1547119957-637f8679db1e?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "Crisp 4K UHD (3840 x 2160) resolution on a 27-inch anti-glare IPS display",
             "Single USB-C cable transmits 4K video, audio, data, and charges laptop up to 65W",
@@ -530,10 +530,10 @@ PRODUCTS_RAW = [
         "rating": 4.5,
         "reviewCount": 12890,
         "images": [
-            "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1511707171634-5f897ff02560?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1580910051074-3eb694886505?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1575695342320-d2d2d2f9b73f?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "Snapdragon 8 Gen 2 Mobile Platform with Dual Cryo-velocity VC cooling",
             "1.5K 120Hz ProXDR Display with 4th Gen LTPO technology and Gorilla Glass Victus 2",
@@ -565,8 +565,8 @@ PRODUCTS_RAW = [
         "images": [
             "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=800&auto=format&fit=crop&q=80",
             "https://images.unsplash.com/photo-1580910051074-3eb694886505?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1567581935884-3349723552ca?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "Titanium exterior frame with Corning Gorilla Armor anti-reflective glass",
             "Snapdragon 8 Gen 3 for Galaxy with Ray Tracing capabilities",
@@ -597,9 +597,9 @@ PRODUCTS_RAW = [
         "reviewCount": 19400,
         "images": [
             "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1511707171634-5f897ff02560?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "Dynamic Island bubbles up alerts and Live Activities seamlessly",
             "All-new 48MP Main camera with 2x optical-quality Telephoto sensor zoom",
@@ -629,10 +629,10 @@ PRODUCTS_RAW = [
         "rating": 4.2,
         "reviewCount": 16400,
         "images": [
-            "https://images.unsplash.com/photo-1580910051074-3eb694886505?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1511707171634-5f897ff02560?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1585060544812-6b45742d762f?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "200MP ultra-clear camera with OIS and 4x in-sensor lossless zoom",
             "1.5K AMOLED 120Hz curved display with ultra-thin bezels",
@@ -662,10 +662,10 @@ PRODUCTS_RAW = [
         "rating": 4.4,
         "reviewCount": 9800,
         "images": [
-            "https://images.unsplash.com/photo-1511707171634-5f897ff02560?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1580910051074-3eb694886505?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1533228876829-65c94e7b5025?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1525598912003-663126343e1f?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "IP68 underwater protection — survive submersion in 1.5m of fresh water for 30 mins",
             "144Hz 3D Curved pOLED display with Gorilla Glass 5",
@@ -695,10 +695,10 @@ PRODUCTS_RAW = [
         "rating": 4.5,
         "reviewCount": 18200,
         "images": [
-            "https://images.unsplash.com/photo-1580910051074-3eb694886505?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1601593346740-925612772716?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "Hybrid technology made of a TPU bumper with a durable PC crystal-clear back",
             "Air Cushion Technology for shock absorption at all corners",
@@ -731,9 +731,9 @@ PRODUCTS_RAW = [
         "reviewCount": 21300,
         "images": [
             "https://images.unsplash.com/photo-1585515320310-259814833e62?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1544233726-9f1d2b27be8b?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1556911073-38141963c9e0?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "Patented Rapid Air Technology with starfish bottom design cooks evenly with 90% less oil",
             "Touch screen with 7 pre-set cooking programs (Fries, Chicken, Fish, Baking, Samosas)",
@@ -763,10 +763,10 @@ PRODUCTS_RAW = [
         "rating": 4.6,
         "reviewCount": 14900,
         "images": [
-            "https://images.unsplash.com/photo-1544233726-9f1d2b27be8b?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1585515320310-259814833e62?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1570222094114-d054a817e56b?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1574269909862-7e1d70bb8078?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "Heavy-duty 900-Watt motor with double ball bearings for continuous heavy grinding",
             "90 minutes continuous run-time rating — handles stubborn idli batter and turmeric root",
@@ -797,9 +797,9 @@ PRODUCTS_RAW = [
         "reviewCount": 42100,
         "images": [
             "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1544233726-9f1d2b27be8b?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1585515320310-259814833e62?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1544816155-12df9643f363?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1523362628745-0c100150b504?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "Double-walled vacuum insulation keeps liquids hot or cold for 24 hours",
             "100% rust-proof 304 food-grade stainless steel interior and exterior",
@@ -830,9 +830,9 @@ PRODUCTS_RAW = [
         "reviewCount": 18200,
         "images": [
             "https://images.unsplash.com/photo-1558317374-067fb5f30001?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1585515320310-259814833e62?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1544233726-9f1d2b27be8b?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1527515637462-cff94eecc1ac?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1563453392212-326f5e854473?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "High suction 1200W motor clears deep embedded dust from sofas and carpets",
             "Dust bag full indicator prevents motor strain and suction drops",
@@ -863,9 +863,9 @@ PRODUCTS_RAW = [
         "reviewCount": 34100,
         "images": [
             "https://images.unsplash.com/photo-1544233726-9f1d2b27be8b?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1585515320310-259814833e62?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1589365278144-c9e705f843ba?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1590794056226-79ef3a8147e1?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "750W copper motor with overload protection switch",
             "Includes 3 stainless steel jars + 1 transparent polycarbonate juicer jar with sieve",
@@ -895,10 +895,10 @@ PRODUCTS_RAW = [
         "rating": 4.3,
         "reviewCount": 12400,
         "images": [
-            "https://images.unsplash.com/photo-1558317374-067fb5f30001?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1585515320310-259814833e62?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1544233726-9f1d2b27be8b?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1517677208171-0bc6725a3e60?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1542060748-10c28b62716f?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "American Heritage non-stick golden soleplate glides effortlessly over fabrics",
             "1000W element heats up rapidly for quick morning clothes pressing",
@@ -930,10 +930,10 @@ PRODUCTS_RAW = [
         "rating": 4.3,
         "reviewCount": 14200,
         "images": [
-            "https://images.unsplash.com/photo-1542272604-780c96856592?w=800&auto=format&fit=crop&q=80",
             "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1479064555552-3ef4979f8908?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1602293589930-45aad59ba3ab?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "Iconic 511 slim silhouette cut close through the thigh with a narrow leg opening",
             "Cotton-elastane stretch blend ensures flexible comfort when sitting or walking",
@@ -964,9 +964,9 @@ PRODUCTS_RAW = [
         "reviewCount": 8900,
         "images": [
             "https://images.unsplash.com/photo-1533867617858-e7b97e060509?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1542272604-780c96856592?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1479064555552-3ef4979f8908?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1614252235316-8c857d38b5f4?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "Supple genuine leather upper with refined burnished toe cap detailing",
             "Cushioned memory foam insole relieves heel pressure during long meetings",
@@ -998,8 +998,8 @@ PRODUCTS_RAW = [
         "images": [
             "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&auto=format&fit=crop&q=80",
             "https://images.unsplash.com/photo-1508057198894-247b23fe5ade?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1542272604-780c96856592?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1510017803434-a899398421b3?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "Vibrant 1.3-inch AMOLED display with Always-On-Display (AOD) support",
             "SingleSync Bluetooth calling with built-in mic, dial pad, and speaker",
@@ -1030,9 +1030,9 @@ PRODUCTS_RAW = [
         "reviewCount": 9700,
         "images": [
             "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1479064555552-3ef4979f8908?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1542272604-780c96856592?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1546938576-6e6a64f317cc?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "Heavy-duty water-resistant nylon ripstop fabric with reinforced stress points",
             "Ergonomic padded back system with airflow ventilation channel",
@@ -1063,9 +1063,9 @@ PRODUCTS_RAW = [
         "reviewCount": 26800,
         "images": [
             "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1508057198894-247b23fe5ade?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1539185441755-769473a23570?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "Elegant champagne gold dial with classic Roman numeral markers",
             "Two-tone stainless steel bracelet (silver and gold) with fold-over clasp",
@@ -1096,9 +1096,9 @@ PRODUCTS_RAW = [
         "reviewCount": 4900,
         "images": [
             "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1542272604-780c96856592?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1479064555552-3ef4979f8908?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1508296695146-257a814070b4?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "100% UV400 protection with polarized green classic G-15 lenses",
             "Eliminates blinding reflective glare while driving, fishing, or walking outdoors",
@@ -1131,9 +1131,9 @@ PRODUCTS_RAW = [
         "reviewCount": 89400,
         "images": [
             "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1476275466078-4007374efbbe?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "Over 15 million copies sold globally; #1 New York Times Bestseller",
             "Actionable 4-step framework: Make it Obvious, Attractive, Easy, and Satisfying",
@@ -1163,10 +1163,10 @@ PRODUCTS_RAW = [
         "rating": 4.6,
         "reviewCount": 68200,
         "images": [
-            "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1592496431122-2349e0fbc666?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "19 short stories exploring the strange ways people think about money",
             "Teaches why financial success is about behavior and ego rather than spreadsheet math",
@@ -1197,9 +1197,9 @@ PRODUCTS_RAW = [
         "reviewCount": 42500,
         "images": [
             "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1491841550275-ad7854e35ca6?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "Explores how an insignificant ape became the master of planet Earth",
             "Covers the Cognitive, Agricultural, and Scientific Revolutions in riveting detail",
@@ -1229,10 +1229,10 @@ PRODUCTS_RAW = [
         "rating": 4.5,
         "reviewCount": 23400,
         "images": [
-            "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "Identifies deep, distraction-free concentration as a superpower in the modern economy",
             "Provides a 4-rule strategy to eliminate digital noise and shallow busywork",
@@ -1262,10 +1262,10 @@ PRODUCTS_RAW = [
         "rating": 4.5,
         "reviewCount": 58900,
         "images": [
-            "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "Uncovers the lifestyle habits of the world's longest-living centenarians in Okinawa",
             "Explains the intersection of Passion, Mission, Vocation, and Profession",
@@ -1295,10 +1295,10 @@ PRODUCTS_RAW = [
         "rating": 4.6,
         "reviewCount": 18200,
         "images": [
-            "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1474932430478-367dbb6832c1?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1463320726281-696a485928c7?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "32 timeless short stories set in the enchanting fictional South Indian town of Malgudi",
             "Includes classic tales of Swami and his friends, astrologers, postmen, and snake charmers",
@@ -1331,9 +1331,9 @@ PRODUCTS_RAW = [
         "reviewCount": 24900,
         "images": [
             "https://images.unsplash.com/photo-1598289431512-b97b0917affc?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "5 color-coded resistance levels: X-Light (5 lbs) to X-Heavy (30 lbs)",
             "100% natural eco-friendly Malaysian latex with snap-resistant elasticity",
@@ -1364,9 +1364,9 @@ PRODUCTS_RAW = [
         "reviewCount": 11800,
         "images": [
             "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1598289431512-b97b0917affc?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "Heavy-duty honeycomb anti-burst PVC rated up to 200kg weight capacity",
             "Non-slip ribbed matte texture provides secure grip during planks and sit-ups",
@@ -1397,9 +1397,9 @@ PRODUCTS_RAW = [
         "reviewCount": 8900,
         "images": [
             "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1598289431512-b97b0917affc?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1586401100295-7a8096fd231a?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "High-grade solid cast iron core encased in heavy-duty natural rubber coating",
             "Hexagonal anti-roll design prevents dumbbells from rolling across tiles during sets",
@@ -1430,9 +1430,9 @@ PRODUCTS_RAW = [
         "reviewCount": 48200,
         "images": [
             "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1579758629938-03607ccdbaba?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "24g of blended protein per scoop (Whey Protein Isolate as primary ingredient)",
             "5.5g of naturally occurring BCAAs and 4g of Glutamine per serving for rapid muscle recovery",
@@ -1462,10 +1462,10 @@ PRODUCTS_RAW = [
         "rating": 4.4,
         "reviewCount": 16700,
         "images": [
-            "https://images.unsplash.com/photo-1598289431512-b97b0917affc?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1545205597-3d9d02c29597?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "High-density 6mm eco-friendly TPE foam cushions knees, elbows, and hips on hard floors",
             "Laser-engraved body alignment lines help guide proper hand and foot positioning",
@@ -1495,10 +1495,10 @@ PRODUCTS_RAW = [
         "rating": 4.2,
         "reviewCount": 13400,
         "images": [
-            "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1598289431512-b97b0917affc?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1519823551278-64ac92734fb1?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "Powerful high-torque brushless motor delivers deep percussion up to 3200 RPM",
             "6 adjustable speed gears to tailor relief from gentle warmup to deep muscle knots",
@@ -1531,9 +1531,9 @@ PRODUCTS_RAW = [
         "reviewCount": 38400,
         "images": [
             "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1617897903246-719242758050?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "Pure 10% Niacinamide (Vitamin B3) clinically proven to fade acne spots and scars",
             "Infused with 1% Zinc PCA to balance excess sebum and reduce pore inflammation",
@@ -1564,9 +1564,9 @@ PRODUCTS_RAW = [
         "reviewCount": 29100,
         "images": [
             "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1576426863848-c21f53c60b19?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "Broad spectrum SPF 50+ and maximum PA++++ protection against UVA, UVB & Blue Light",
             "Water-light fluid texture with ZERO white cast on brown skin tones",
@@ -1596,10 +1596,10 @@ PRODUCTS_RAW = [
         "rating": 4.6,
         "reviewCount": 54200,
         "images": [
-            "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=800&auto=format&fit=crop&q=80",
             "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "Dermatologist-recommended non-foaming formula cleanses without stripping natural moisture",
             "Enriched with Niacinamide, Vitamin B5 (Panthenol), and hydrating Glycerin",
@@ -1630,9 +1630,9 @@ PRODUCTS_RAW = [
         "reviewCount": 38100,
         "images": [
             "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1621607512214-68297480165e?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1599351431202-1e0f0137899a?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "Self-sharpening stainless steel blades remain as sharp as day one without blade oiling",
             "9 versatile styling tools for beard grooming, hair clipping, nose, and ear trimming",
@@ -1663,9 +1663,9 @@ PRODUCTS_RAW = [
         "reviewCount": 46200,
         "images": [
             "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1631214524020-7e18db9a8f92?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1563178406-4cdc2923acbc?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "Up to 16 hours of transfer-proof, smudge-resistant saturated matte color",
             "Unique arrow applicator tip allows precision line definition in a single swipe",
@@ -1695,10 +1695,10 @@ PRODUCTS_RAW = [
         "rating": 4.3,
         "reviewCount": 21800,
         "images": [
-            "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=800&auto=format&fit=crop&q=80"
-        ],
+            "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1526947425960-945c6e72858f?w=800&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=800&auto=format&fit=crop&q=80"
+],
         "bullets": [
             "100% oil-free, non-comedogenic lightweight daily gel-cream hydration",
             "Organic green tea extracts combat active acne and calm redness",

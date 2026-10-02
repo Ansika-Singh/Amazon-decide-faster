@@ -181,10 +181,10 @@ export function SearchClient() {
         if (sortBy === 'price_desc') return b.price - a.price;
         if (sortBy === 'rating') return b.rating - a.rating;
         if (sortBy === 'drop') {
-          const maxA = Math.max(...a.priceHistory.map((h) => h.price));
-          const maxB = Math.max(...b.priceHistory.map((h) => h.price));
-          const dropA = (maxA - a.price) / maxA;
-          const dropB = (maxB - b.price) / maxB;
+          const avgA = Math.round(a.priceHistory.reduce((s, h) => s + h.price, 0) / (a.priceHistory.length || 1));
+          const avgB = Math.round(b.priceHistory.reduce((s, h) => s + h.price, 0) / (b.priceHistory.length || 1));
+          const dropA = avgA - a.price;
+          const dropB = avgB - b.price;
           return dropB - dropA;
         }
         // Default relevance: score matches and review popularity

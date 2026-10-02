@@ -4,7 +4,6 @@ import * as React from 'react';
 import Link from 'next/link';
 import {
   Sparkles,
-  Search,
   ShieldCheck,
   TrendingDown,
   ArrowRight,
@@ -12,6 +11,13 @@ import {
   CheckCircle2,
   Clock,
   Layers,
+  Headphones,
+  Laptop,
+  Smartphone,
+  CookingPot,
+  Shirt,
+  BookOpen,
+  Dumbbell,
 } from 'lucide-react';
 import { products } from '@/data/products';
 import { categories } from '@/data/categories';
@@ -19,6 +25,17 @@ import { ProductCard } from '@/components/product/ProductCard';
 import { Button } from '@/components/ui/Button';
 import { Badge } from '@/components/ui/Badge';
 import { Product } from '@/types';
+
+const categoryIconMap: Record<string, React.ReactNode> = {
+  Audio: <Headphones className="h-5 w-5" />,
+  Electronics: <Laptop className="h-5 w-5" />,
+  Mobiles: <Smartphone className="h-5 w-5" />,
+  'Home & Kitchen': <CookingPot className="h-5 w-5" />,
+  Fashion: <Shirt className="h-5 w-5" />,
+  Books: <BookOpen className="h-5 w-5" />,
+  Fitness: <Dumbbell className="h-5 w-5" />,
+  Beauty: <Sparkles className="h-5 w-5" />,
+};
 
 export default function HomePage() {
   const [heroInput, setHeroInput] = React.useState('');
@@ -42,32 +59,43 @@ export default function HomePage() {
     );
   };
 
-  // Compute Top Picks (rating >= 4.5 sorted by review count)
+  // Top Picks (enforcing mixed categories: 1 pick per distinct category)
   const topPicks = React.useMemo(() => {
-    return [...products]
-      .filter((p) => p.rating >= 4.4)
-      .sort((a, b) => b.reviewCount - a.reviewCount)
-      .slice(0, 4);
+    const sorted = [...products].sort(
+      (a, b) => b.rating - a.rating || b.reviewCount - a.reviewCount
+    );
+    const selected: Product[] = [];
+    const usedCategories = new Set<string>();
+    for (const p of sorted) {
+      if (!usedCategories.has(p.category)) {
+        selected.push(p);
+        usedCategories.add(p.category);
+        if (selected.length === 4) break;
+      }
+    }
+    return selected;
   }, []);
 
-  // Compute Biggest Price Drops (current price compared to 90d max or avg)
+  // Biggest 90-Day Price Drops ranked by drop vs 90-day average
   const biggestDrops = React.useMemo(() => {
     return [...products]
       .map((p) => {
         const prices = p.priceHistory.map((ph) => ph.price);
-        const maxPrice = Math.max(...prices);
-        const dropPercent = maxPrice > p.price ? Math.round(((maxPrice - p.price) / maxPrice) * 100) : 0;
-        return { product: p, dropPercent };
+        const avgPrice = Math.round(
+          prices.reduce((a, b) => a + b, 0) / (prices.length || 1)
+        );
+        const dropVsAvg = avgPrice - p.price;
+        return { product: p, dropVsAvg };
       })
-      .filter((item) => item.dropPercent >= 10)
-      .sort((a, b) => b.dropPercent - a.dropPercent)
+      .filter((item) => item.dropVsAvg > 0)
+      .sort((a, b) => b.dropVsAvg - a.dropVsAvg)
       .slice(0, 4)
       .map((item) => item.product);
   }, []);
 
   return (
     <div className="space-y-16 pb-16">
-      {/* HERO SECTION */}
+      {/* 1. HERO SECTION */}
       <section className="relative overflow-hidden bg-gradient-to-b from-indigo-950 via-slate-900 to-slate-900 text-white pt-14 pb-20 px-4 sm:px-6 lg:px-8 border-b border-indigo-900/50">
         {/* Subtle background glow */}
         <div className="absolute top-0 left-1/2 -translate-x-1/2 w-full max-w-7xl h-96 bg-indigo-600/15 blur-[120px] pointer-events-none rounded-full" />
@@ -76,7 +104,7 @@ export default function HomePage() {
           {/* Badge */}
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-indigo-900/80 border border-indigo-700/60 text-xs font-semibold text-indigo-200">
             <ShieldCheck className="h-3.5 w-3.5 text-amber-400" />
-            <span>Zero Sponsored Ads • 100% Unbiased Quality</span>
+            <span>Zero Sponsored Ads • No sponsored results</span>
           </div>
 
           {/* Heading */}
@@ -172,70 +200,7 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* CATEGORIES GRID */}
-      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex items-center justify-between mb-6">
-          <div>
-            <h2 className="text-xl font-bold text-slate-900">Browse by Category</h2>
-            <p className="text-xs text-slate-500">Every item vetted with 90-day tracking</p>
-          </div>
-          <Link
-            href="/search"
-            className="text-xs font-semibold text-indigo-950 hover:text-indigo-800 flex items-center gap-1"
-          >
-            View all 50 products <ArrowRight className="h-3.5 w-3.5" />
-          </Link>
-        </div>
-
-        <div className="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-8 gap-3">
-          {categories.map((cat) => (
-            <Link
-              key={cat.slug}
-              href={`/search?category=${encodeURIComponent(cat.name)}`}
-              className="group flex flex-col items-center text-center p-3.5 rounded-xl bg-white border border-slate-200/90 hover:border-indigo-400 hover:shadow-xs transition-all"
-            >
-              <div className="w-10 h-10 rounded-xl bg-indigo-50 text-indigo-900 flex items-center justify-center mb-2 group-hover:scale-110 transition-transform">
-                <Layers className="h-5 w-5" />
-              </div>
-              <span className="text-xs font-semibold text-slate-900 group-hover:text-indigo-950">
-                {cat.name}
-              </span>
-              <span className="text-[10px] text-slate-400 mt-0.5 font-medium">
-                {cat.itemCount} items
-              </span>
-            </Link>
-          ))}
-        </div>
-      </section>
-
-      {/* TOP PICKS ROW */}
-      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex items-center justify-between mb-6">
-          <div>
-            <div className="flex items-center gap-2">
-              <h2 className="text-xl font-bold text-slate-900">Top Rated Picks</h2>
-              <Badge variant="accent" className="text-[10px]">
-                ★ 4.4+ Rated
-              </Badge>
-            </div>
-            <p className="text-xs text-slate-500">Tested products with high customer satisfaction</p>
-          </div>
-          <Link
-            href="/search?sort=rating"
-            className="text-xs font-semibold text-indigo-950 hover:text-indigo-800 flex items-center gap-1"
-          >
-            See more <ArrowRight className="h-3.5 w-3.5" />
-          </Link>
-        </div>
-
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-          {topPicks.map((product) => (
-            <ProductCard key={product.id} product={product} />
-          ))}
-        </div>
-      </section>
-
-      {/* HERO DEMO ROW: BUDGET EARBUDS UNDER ₹2000 */}
+      {/* 2. FEATURED HERO QUERY (BUDGET EARBUDS UNDER ₹2000) */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="rounded-3xl bg-gradient-to-r from-amber-500/10 via-amber-400/5 to-transparent p-6 sm:p-8 border border-amber-200/80">
           <div className="flex flex-col md:flex-row items-start md:items-center justify-between gap-4 mb-6">
@@ -273,17 +238,44 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* BIGGEST PRICE DROPS ROW */}
+      {/* 3. TOP PICKS (MIXED CATEGORIES) */}
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="flex items-center justify-between mb-6">
+          <div>
+            <div className="flex items-center gap-2">
+              <h2 className="text-xl font-bold text-slate-900">Top Rated Picks</h2>
+              <Badge variant="accent" className="text-[10px]">
+                ★ Mixed Categories
+              </Badge>
+            </div>
+            <p className="text-xs text-slate-500">Highest customer satisfaction across different departments</p>
+          </div>
+          <Link
+            href="/search?sort=rating"
+            className="text-xs font-semibold text-indigo-950 hover:text-indigo-800 flex items-center gap-1"
+          >
+            See more <ArrowRight className="h-3.5 w-3.5" />
+          </Link>
+        </div>
+
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+          {topPicks.map((product) => (
+            <ProductCard key={product.id} product={product} />
+          ))}
+        </div>
+      </section>
+
+      {/* 4. BIGGEST 90-DAY PRICE DROPS */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between mb-6">
           <div>
             <div className="flex items-center gap-2">
               <h2 className="text-xl font-bold text-slate-900">Biggest 90-Day Price Drops</h2>
               <Badge variant="success" className="text-[10px]">
-                Verified Savings
+                Vs 90-Day Average
               </Badge>
             </div>
-            <p className="text-xs text-slate-500">Currently selling near their 90-day historic lows</p>
+            <p className="text-xs text-slate-500">Ranked by maximum discount below their 90-day usual average</p>
           </div>
           <Link
             href="/search?sort=drop"
@@ -296,6 +288,42 @@ export default function HomePage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
           {biggestDrops.map((product) => (
             <ProductCard key={product.id} product={product} />
+          ))}
+        </div>
+      </section>
+
+      {/* 5. CATEGORIES GRID (WITH 8 DISTINCT LUCIDE ICONS) */}
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="flex items-center justify-between mb-6">
+          <div>
+            <h2 className="text-xl font-bold text-slate-900">Browse by Category</h2>
+            <p className="text-xs text-slate-500">Every item vetted with 90-day tracking</p>
+          </div>
+          <Link
+            href="/search"
+            className="text-xs font-semibold text-indigo-950 hover:text-indigo-800 flex items-center gap-1"
+          >
+            View all 50 products <ArrowRight className="h-3.5 w-3.5" />
+          </Link>
+        </div>
+
+        <div className="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-8 gap-3">
+          {categories.map((cat) => (
+            <Link
+              key={cat.slug}
+              href={`/search?category=${encodeURIComponent(cat.name)}`}
+              className="group flex flex-col items-center text-center p-3.5 rounded-xl bg-white border border-slate-200/90 hover:border-indigo-400 hover:shadow-xs transition-all"
+            >
+              <div className="w-10 h-10 rounded-xl bg-indigo-50 text-indigo-900 flex items-center justify-center mb-2 group-hover:scale-110 transition-transform">
+                {categoryIconMap[cat.name] || <Layers className="h-5 w-5" />}
+              </div>
+              <span className="text-xs font-semibold text-slate-900 group-hover:text-indigo-950">
+                {cat.name}
+              </span>
+              <span className="text-[10px] text-slate-400 mt-0.5 font-medium">
+                {cat.itemCount} items
+              </span>
+            </Link>
           ))}
         </div>
       </section>
