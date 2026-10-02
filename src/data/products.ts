@@ -842,7 +842,7 @@ export const products: Product[] = [
     "rating": 4.3,
     "reviewCount": 24100,
     "images": [
-      "https://images.unsplash.com/photo-1613040809024-b4ef7ba99bc3?w=800&auto=format&fit=crop&q=80"
+      "https://images.unsplash.com/photo-1572636963535-5bde4e3c9f94?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "10mm Dynamic Bass Driver with titanium-plated composite diaphragm",
@@ -1670,7 +1670,7 @@ export const products: Product[] = [
     "rating": 4.0,
     "reviewCount": 11800,
     "images": [
-      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&auto=format&fit=crop&q=80"
+      "https://images.unsplash.com/photo-1598986646512-9330bcc4c0dc?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "13mm speaker driver tuned for clean vocals and thumping bass",
@@ -4986,7 +4986,7 @@ export const products: Product[] = [
     "rating": 4.4,
     "reviewCount": 5100,
     "images": [
-      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&auto=format&fit=crop&q=80"
+      "https://images.unsplash.com/photo-1606904825846-647eb07f5be2?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "Wi-Fi 6 speeds up to 1800 Mbps (1201 Mbps on 5 GHz + 574 Mbps on 2.4 GHz)",
