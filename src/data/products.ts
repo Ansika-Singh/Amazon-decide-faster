@@ -12,7 +12,7 @@ export const products: Product[] = [
     "rating": 4.1,
     "reviewCount": 18450,
     "images": [
-      ""
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "Active Noise Cancellation up to 32dB for disturbance-free listening",
@@ -427,7 +427,7 @@ export const products: Product[] = [
     "rating": 4.2,
     "reviewCount": 9420,
     "images": [
-      ""
+      "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "Massive 100 hours total playtime with digital battery indicator case",
@@ -842,7 +842,7 @@ export const products: Product[] = [
     "rating": 4.3,
     "reviewCount": 24100,
     "images": [
-      ""
+      "https://images.unsplash.com/photo-1613040809024-b4ef7ba99bc3?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "10mm Dynamic Bass Driver with titanium-plated composite diaphragm",
@@ -1256,7 +1256,7 @@ export const products: Product[] = [
     "rating": 4.1,
     "reviewCount": 31200,
     "images": [
-      ""
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "40mm dynamic drivers for signature immersive HD boAt sound",
@@ -1670,7 +1670,7 @@ export const products: Product[] = [
     "rating": 4.0,
     "reviewCount": 11800,
     "images": [
-      ""
+      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "13mm speaker driver tuned for clean vocals and thumping bass",
@@ -2084,7 +2084,7 @@ export const products: Product[] = [
     "rating": 4.4,
     "reviewCount": 16500,
     "images": [
-      ""
+      "https://images.unsplash.com/photo-1649834742869-e6c7c6d12f39?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "Extra-large 12.4mm Titanium-coated drivers for deep, punchy acoustics",
@@ -2499,7 +2499,7 @@ export const products: Product[] = [
     "rating": 4.2,
     "reviewCount": 14200,
     "images": [
-      ""
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "Sony DSEE (Digital Sound Enhancement Engine) restores high-frequency details",
@@ -2913,7 +2913,7 @@ export const products: Product[] = [
     "rating": 3.9,
     "reviewCount": 38900,
     "images": [
-      ""
+      "https://images.unsplash.com/photo-1608156639585-b3a032ef9689?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "13mm dynamic drivers producing punchy stereo audio",
@@ -4573,7 +4573,7 @@ export const products: Product[] = [
     "rating": 4.6,
     "reviewCount": 4200,
     "images": [
-      ""
+      "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "Ultra-powerful 140W two-way fast charging for laptops, tablets, and phones",
@@ -4986,7 +4986,7 @@ export const products: Product[] = [
     "rating": 4.4,
     "reviewCount": 5100,
     "images": [
-      ""
+      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "Wi-Fi 6 speeds up to 1800 Mbps (1201 Mbps on 5 GHz + 574 Mbps on 2.4 GHz)",
@@ -5815,7 +5815,7 @@ export const products: Product[] = [
     "rating": 4.5,
     "reviewCount": 12890,
     "images": [
-      ""
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "Snapdragon 8 Gen 2 Mobile Platform with Dual Cryo-velocity VC cooling",
@@ -6228,7 +6228,7 @@ export const products: Product[] = [
     "rating": 4.6,
     "reviewCount": 7820,
     "images": [
-      ""
+      "https://images.unsplash.com/photo-1610945264803-c22b62d2a7b3?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "Titanium exterior frame with Corning Gorilla Armor anti-reflective glass",
@@ -6641,7 +6641,7 @@ export const products: Product[] = [
     "rating": 4.6,
     "reviewCount": 19400,
     "images": [
-      ""
+      "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "Dynamic Island bubbles up alerts and Live Activities seamlessly",
@@ -7054,7 +7054,7 @@ export const products: Product[] = [
     "rating": 4.2,
     "reviewCount": 16400,
     "images": [
-      ""
+      "https://images.unsplash.com/photo-1556656793-08538906a9f8?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "200MP ultra-clear camera with OIS and 4x in-sensor lossless zoom",
@@ -7467,7 +7467,7 @@ export const products: Product[] = [
     "rating": 4.4,
     "reviewCount": 9800,
     "images": [
-      ""
+      "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "IP68 underwater protection \u2014 survive submersion in 1.5m of fresh water for 30 mins",
@@ -7880,7 +7880,7 @@ export const products: Product[] = [
     "rating": 4.5,
     "reviewCount": 18200,
     "images": [
-      ""
+      "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "Hybrid technology made of a TPU bumper with a durable PC crystal-clear back",
@@ -8292,7 +8292,7 @@ export const products: Product[] = [
     "rating": 4.5,
     "reviewCount": 21300,
     "images": [
-      ""
+      "https://images.unsplash.com/photo-1626080308369-f9b7f5d85ecf?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "Patented Rapid Air Technology with starfish bottom design cooks evenly with 90% less oil",
@@ -8705,7 +8705,7 @@ export const products: Product[] = [
     "rating": 4.6,
     "reviewCount": 14900,
     "images": [
-      ""
+      "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "Heavy-duty 900-Watt motor with double ball bearings for continuous heavy grinding",
@@ -9533,7 +9533,7 @@ export const products: Product[] = [
     "rating": 4.1,
     "reviewCount": 18200,
     "images": [
-      ""
+      "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "High suction 1200W motor clears deep embedded dust from sofas and carpets",
@@ -9945,7 +9945,7 @@ export const products: Product[] = [
     "rating": 4.0,
     "reviewCount": 34100,
     "images": [
-      ""
+      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "750W copper motor with overload protection switch",
@@ -10357,7 +10357,7 @@ export const products: Product[] = [
     "rating": 4.3,
     "reviewCount": 12400,
     "images": [
-      ""
+      "https://images.unsplash.com/photo-1558171813-f4e6d82c6a93?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "American Heritage non-stick golden soleplate glides effortlessly over fabrics",
@@ -17801,7 +17801,7 @@ export const products: Product[] = [
     "rating": 4.2,
     "reviewCount": 13400,
     "images": [
-      ""
+      "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "Powerful high-torque brushless motor delivers deep percussion up to 3200 RPM",
@@ -19044,7 +19044,7 @@ export const products: Product[] = [
     "rating": 4.6,
     "reviewCount": 54200,
     "images": [
-      ""
+      "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "Dermatologist-recommended non-foaming formula cleanses without stripping natural moisture",
@@ -19456,7 +19456,7 @@ export const products: Product[] = [
     "rating": 4.4,
     "reviewCount": 38100,
     "images": [
-      ""
+      "https://images.unsplash.com/photo-1621607512022-6aecc4fed814?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "Self-sharpening stainless steel blades remain as sharp as day one without blade oiling",
@@ -20283,7 +20283,7 @@ export const products: Product[] = [
     "rating": 4.3,
     "reviewCount": 21800,
     "images": [
-      ""
+      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=800&auto=format&fit=crop&q=80"
     ],
     "bullets": [
       "100% oil-free, non-comedogenic lightweight daily gel-cream hydration",
