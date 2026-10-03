@@ -8,6 +8,7 @@ import { ToastProvider, useToast } from '@/components/ui/Toast';
 import { AiAssistantModal } from '@/components/assistant/AiAssistantModal';
 import { CompareDrawer } from '@/components/compare/CompareDrawer';
 import { CurrencyProvider } from '@/context/CurrencyContext';
+import { AuthProvider } from '@/context/AuthContext';
 import { Product } from '@/types';
 
 function ClientLayoutInner({ children }: { children: React.ReactNode }) {
@@ -84,7 +85,9 @@ export function ClientLayout({ children }: { children: React.ReactNode }) {
   return (
     <ToastProvider>
       <CurrencyProvider>
-        <ClientLayoutInner>{children}</ClientLayoutInner>
+        <AuthProvider>
+          <ClientLayoutInner>{children}</ClientLayoutInner>
+        </AuthProvider>
       </CurrencyProvider>
     </ToastProvider>
   );

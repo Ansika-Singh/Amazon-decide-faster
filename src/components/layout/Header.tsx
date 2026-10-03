@@ -8,6 +8,7 @@ import { useLocalStorage } from '@/hooks/useLocalStorage';
 import { CartItem, Product } from '@/types';
 import { Button } from '@/components/ui/Button';
 import { CurrencySelector } from '@/components/layout/CurrencySelector';
+import { AccountMenu } from '@/components/layout/AccountMenu';
 
 interface HeaderProps {
   onOpenAiAsk?: () => void;
@@ -231,6 +232,9 @@ export function Header({ onOpenAiAsk }: HeaderProps) {
 
             {/* Currency Selector */}
             <CurrencySelector />
+
+            {/* Account & Lists Menu */}
+            <AccountMenu />
 
             {/* Orders Link */}
             <Link

@@ -22,9 +22,11 @@ import { Input } from '@/components/ui/Input';
 import { ImageWithFallback } from '@/components/ui/ImageWithFallback';
 import { useToast } from '@/components/ui/Toast';
 import { useCurrency } from '@/context/CurrencyContext';
+import { useAuth } from '@/context/AuthContext';
 
 export default function CheckoutPage() {
   const { formatPrice } = useCurrency();
+  const { user, isAuthenticated } = useAuth();
   const router = useRouter();
   const [cartItems, setCartItems, isLoaded] = useLocalStorage<CartItem[]>('amazon_cart', []);
   const [, setOrders] = useLocalStorage<Order[]>('amazon_orders', []);
@@ -32,13 +34,19 @@ export default function CheckoutPage() {
 
   // Form State
   const [address, setAddress] = React.useState<ShippingAddress>({
-    fullName: 'Ansika Singh',
+    fullName: user?.name || 'Ansika Singh',
     phone: '9876543210',
     street: 'Flat 402, Green Glen Layout, Bellandur',
     city: 'Bengaluru',
     state: 'Karnataka',
     pincode: '560103',
   });
+
+  React.useEffect(() => {
+    if (user?.name) {
+      setAddress((prev) => ({ ...prev, fullName: user.name }));
+    }
+  }, [user]);
 
   const [paymentMethod, setPaymentMethod] = React.useState<PaymentMethod>('upi');
   const [upiId, setUpiId] = React.useState('ansika@okhdfcbank');
@@ -152,6 +160,45 @@ export default function CheckoutPage() {
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
           {/* Main Checkout Columns (8 cols) */}
           <div className="lg:col-span-8 space-y-8">
+            {/* Account Status Indicator */}
+            {isAuthenticated && user ? (
+              <div className="flex items-center justify-between p-4 rounded-2xl bg-amber-50/90 border border-amber-200">
+                <div className="flex items-center gap-3">
+                  <div className="w-9 h-9 rounded-full bg-amber-400 text-slate-950 font-bold flex items-center justify-center text-sm shadow-xs">
+                    {user.name.charAt(0)}
+                  </div>
+                  <div>
+                    <p className="text-xs font-bold text-slate-900 flex items-center gap-1.5">
+                      <span>Order will be linked to: {user.name}</span>
+                      <span className="text-[10px] font-semibold text-amber-900 bg-amber-200 px-1.5 py-0.5 rounded">
+                        {user.role || 'Member'}
+                      </span>
+                    </p>
+                    <p className="text-[11px] text-slate-500">{user.email}</p>
+                  </div>
+                </div>
+                <Link
+                  href="/signin?redirect=/checkout"
+                  className="text-xs font-bold text-amber-800 hover:text-amber-950 hover:underline shrink-0"
+                >
+                  Switch Account
+                </Link>
+              </div>
+            ) : (
+              <div className="flex items-center justify-between p-3.5 rounded-2xl bg-slate-50 border border-slate-200 text-xs">
+                <div className="flex items-center gap-2 text-slate-600">
+                  <span className="font-semibold text-slate-800">Checking out as Guest.</span>
+                  <span className="hidden sm:inline text-slate-500">Want order history saved to your account?</span>
+                </div>
+                <Link
+                  href="/signin?redirect=/checkout"
+                  className="font-bold text-amber-700 hover:text-amber-900 hover:underline shrink-0 ml-2"
+                >
+                  Sign In for 1-Click →
+                </Link>
+              </div>
+            )}
+
             {/* Step 1: Shipping Address */}
             <div className="bg-white p-6 rounded-3xl border border-slate-200 shadow-2xs space-y-4">
               <div className="flex items-center gap-2 pb-3 border-b border-slate-100">

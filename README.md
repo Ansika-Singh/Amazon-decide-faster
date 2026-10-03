@@ -22,6 +22,27 @@
 | **Side-by-Side Compare** | [/search?category=Audio](https://amazon-decide-faster.vercel.app/search?category=Audio) | Check "Compare" on 2–3 products to open the drawer |
 | **Cart & Checkout** | [/cart](https://amazon-decide-faster.vercel.app/cart) | Interactive zero-friction checkout with delivery tracking |
 | **Multi-Currency System** | [amazon-decide-faster.vercel.app](https://amazon-decide-faster.vercel.app) | Switch between INR (₹), USD ($), EUR (€), GBP (£), AED, JPY (¥), CAD, AUD in Header/Footer |
+| **Sign In (Login)** | [/signin](https://amazon-decide-faster.vercel.app/signin) | 1-Click Fast Pass for Hiring Reviewer, password visibility toggle, "Keep me signed in" checkbox |
+| **Sign Up (Create Account)** | [/signup](https://amazon-decide-faster.vercel.app/signup) | Full account registration with validation and cross-tab session persistence |
+
+---
+
+## 🔑 Special Note: Sign In & Authentication Included (For Hiring Evaluators & Shoppers)
+
+> **Important Architecture Highlight:**  
+> Decide Faster Amazon adopts a **hybrid guest & registered account model**. While guests can browse, search, ask AI, add to cart, and test checkout with zero sign-in friction, **complete Sign In, Sign Up, and Account Management workflows are fully built and live in the Vercel deployment** so the hiring team can evaluate authenticated user journeys.
+
+### Direct Authentication Pages
+- **Sign In Page:** [`/signin`](https://amazon-decide-faster.vercel.app/signin) (also accessible at [`/login`](https://amazon-decide-faster.vercel.app/login))
+- **Sign Up Page:** [`/signup`](https://amazon-decide-faster.vercel.app/signup)
+- **Interactive Header Account Menu:** Click **"Hello, Sign In / Account & Lists"** in the top navigation bar to access the quick sign-in dropdown.
+
+### Evaluator Features & Reviewer Fast Pass
+1. **1-Click Reviewer Fast Pass:** On the `/signin` or `/signup` pages (or directly in the header dropdown), reviewers can click **"Reviewer"** (`hiring@decidefaster.com`) or **"Ansika"** (`ansika@decidefaster.com`) to sign in instantly with zero typing.
+2. **"Keep me signed in on this device" Checkbox:** Included on the Sign In form, the Sign Up form, and inside the Header account dropdown. Controls cross-session and cross-tab persistence via synchronized local storage.
+3. **Password Visibility Toggle:** Interactive show/hide password buttons on both credentials and password confirmation inputs.
+4. **Checkout & Order History Integration:** When signed in, the checkout screen greets the active profile, automatically binds the order to their account, and updates their timeline on [`/orders`](https://amazon-decide-faster.vercel.app/orders).
+5. **Switch Account & Sign Out:** Seamlessly switch between reviewer accounts or sign out back to guest mode at any point.
 
 ---
 
@@ -191,7 +212,7 @@ Decide Faster Amazon natively supports **8 major world currencies** with realist
 
 To prioritize shipping velocity, product focus, and hiring evaluation criteria, the following non-core systems were intentionally omitted:
 
-1. **User Authentication & Passwords:** Replaced with zero-friction browser `localStorage`. Anyone can test the entire app immediately in incognito without sign-in hurdles.
+1. **Mandatory Login Gatekeeping:** Replaced mandatory login barriers with instant guest discovery so anyone can test the entire catalog immediately. For hiring evaluators and registered shoppers, **complete Sign In, Sign Up, and Account Management** are fully available at `/signin` and `/signup` with 1-click reviewer passes and "Keep me signed in" device persistence.
 2. **Real Payment Gateway Integration (Stripe/Razorpay):** Real payments create barrier-to-entry for reviewers and require KYC. Replaced with an interactive demo payment selector (UPI, Card, COD) that mirrors the exact user psychology without real financial transactions.
 3. **Persistent SQL Database:** Seeded typed TS data (111 items across 8 categories) renders in milliseconds with zero cold-starts, perfect for a lightning-fast demonstration.
 4. **Sponsored Ad Auctions & Banner Real Estate:** The core product thesis is anti-sponsored. Commercial ad engines were discarded by design.
