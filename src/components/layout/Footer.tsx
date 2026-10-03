@@ -2,8 +2,10 @@ import * as React from 'react';
 import Link from 'next/link';
 import { ShieldCheck, Sparkles, TrendingDown, Clock, Heart } from 'lucide-react';
 import { CurrencySelector } from '@/components/layout/CurrencySelector';
+import { useCurrency } from '@/context/CurrencyContext';
 
 export function Footer() {
+  const { formatPrice } = useCurrency();
   return (
     <footer className="w-full bg-slate-900 text-slate-300 border-t border-slate-800 pt-12 pb-16 mt-20">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -28,7 +30,7 @@ export function Footer() {
             <div>
               <h4 className="text-sm font-semibold text-white">AI Shopping Concierge</h4>
               <p className="text-xs text-slate-400 mt-1 leading-relaxed">
-                Ask specific natural queries like "gym earbuds under ₹2000" and get exactly 3 vetted picks in seconds.
+                Ask specific natural queries like "gym earbuds under {formatPrice(2000)}" and get exactly 3 vetted picks in seconds.
               </p>
             </div>
           </div>

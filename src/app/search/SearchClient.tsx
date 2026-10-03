@@ -690,7 +690,7 @@ export function SearchClient() {
                   onClick={() =>
                     window.dispatchEvent(
                       new CustomEvent('open-ai-modal', {
-                        detail: { query: searchTerm || 'best budget earbuds under 2000' },
+                        detail: { query: searchTerm || 'budget wireless earbuds' },
                       })
                     )
                   }

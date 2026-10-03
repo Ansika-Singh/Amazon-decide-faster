@@ -25,6 +25,7 @@ import { ProductCard } from '@/components/product/ProductCard';
 import { Button } from '@/components/ui/Button';
 import { Badge } from '@/components/ui/Badge';
 import { Product } from '@/types';
+import { useCurrency } from '@/context/CurrencyContext';
 
 const categoryIconMap: Record<string, React.ReactNode> = {
   Audio: <Headphones className="h-5 w-5" />,
@@ -38,6 +39,7 @@ const categoryIconMap: Record<string, React.ReactNode> = {
 };
 
 export default function HomePage() {
+  const { formatPrice } = useCurrency();
   const [heroInput, setHeroInput] = React.useState('');
 
   const handleHeroSubmit = (e: React.FormEvent) => {
@@ -48,7 +50,9 @@ export default function HomePage() {
       );
     } else {
       window.dispatchEvent(
-        new CustomEvent('open-ai-modal', { detail: { query: 'best budget earbuds for gym under 2000' } })
+        new CustomEvent('open-ai-modal', {
+          detail: { query: `best budget earbuds for gym under ${formatPrice(2000)}` },
+        })
       );
     }
   };
@@ -133,7 +137,7 @@ export default function HomePage() {
                 type="text"
                 value={heroInput}
                 onChange={(e) => setHeroInput(e.target.value)}
-                placeholder="Ask AI: 'best budget earbuds for gym under 2000'..."
+                placeholder={`Ask AI: 'best budget earbuds for gym under ${formatPrice(2000)}'...`}
                 className="w-full h-12 px-3 text-sm text-slate-900 placeholder:text-slate-400 bg-transparent focus:outline-none"
               />
               <Button
@@ -152,10 +156,10 @@ export default function HomePage() {
               <span className="text-slate-400 font-medium">Try asking:</span>
               <button
                 type="button"
-                onClick={() => openAiWithPrompt('best budget earbuds for gym under 2000')}
+                onClick={() => openAiWithPrompt(`best budget earbuds for gym under ${formatPrice(2000)}`)}
                 className="px-2.5 py-1 rounded-lg bg-indigo-900/60 hover:bg-indigo-800 text-slate-200 border border-indigo-700/50 transition-colors"
               >
-                "best budget earbuds for gym under 2000"
+                {`"best budget earbuds under ${formatPrice(2000)}"`}
               </button>
               <button
                 type="button"
@@ -210,7 +214,7 @@ export default function HomePage() {
                 <span>Featured Hero Query</span>
               </div>
               <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                Budget Earbuds & Headphones Under ₹2,000
+                Budget Earbuds & Headphones Under {formatPrice(2000)}
               </h2>
               <p className="text-xs sm:text-sm text-slate-600 mt-1">
                 Zero sponsored listings. Only the top verified audio gear for workouts, travel, and calls.
@@ -219,7 +223,7 @@ export default function HomePage() {
             <Button
               variant="primary"
               size="sm"
-              onClick={() => openAiWithPrompt('best budget earbuds for gym under 2000')}
+              onClick={() => openAiWithPrompt(`best budget earbuds for gym under ${formatPrice(2000)}`)}
               className="gap-2"
             >
               <Sparkles className="h-4 w-4 text-amber-400 fill-amber-400" />

@@ -293,7 +293,7 @@ export default function CartPage() {
               onClick={() =>
                 window.dispatchEvent(
                   new CustomEvent('open-ai-modal', {
-                    detail: { query: 'best budget earbuds under 2000' },
+                    detail: { query: 'budget wireless earbuds' },
                   })
                 )
               }

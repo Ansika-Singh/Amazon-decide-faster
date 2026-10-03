@@ -44,7 +44,7 @@ export function AiAssistantModal({
   onOpenChange,
   initialQuery = '',
 }: AiAssistantModalProps) {
-  const { formatPrice } = useCurrency();
+  const { formatPrice, currentCurrency } = useCurrency();
   const [query, setQuery] = React.useState(initialQuery);
   const [loading, setLoading] = React.useState(false);
   const [result, setResult] = React.useState<AssistResponse | null>(null);
@@ -52,6 +52,17 @@ export function AiAssistantModal({
 
   const [, setCart] = useLocalStorage<CartItem[]>('amazon_cart', []);
   const { toast } = useToast();
+
+  const exampleQueries = React.useMemo(
+    () => [
+      `best budget earbuds for gym under ${formatPrice(2000)}`,
+      `laptop for coding under ${formatPrice(60000)}`,
+      `gift for mom under ${formatPrice(1500)}`,
+      'good mixer grinder',
+      'protein powder for workout',
+    ],
+    [formatPrice]
+  );
 
   React.useEffect(() => {
     if (initialQuery && open) {
@@ -68,7 +79,7 @@ export function AiAssistantModal({
       const res = await fetch('/api/assist', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ query: searchQuery }),
+        body: JSON.stringify({ query: searchQuery, currency: currentCurrency.code }),
       });
 
       if (!res.ok) {
@@ -141,7 +152,7 @@ export function AiAssistantModal({
             type="text"
             value={query}
             onChange={(e) => setQuery(e.target.value)}
-            placeholder="e.g. best budget earbuds for gym under 2000"
+            placeholder={`e.g. best budget earbuds for gym under ${formatPrice(2000)}`}
             className="w-full h-12 pl-10 pr-28 rounded-xl border border-slate-300 bg-slate-50/70 text-sm text-slate-900 placeholder:text-slate-400 focus:bg-white focus:outline-none focus:ring-2 focus:ring-indigo-600 focus:border-transparent transition-all"
             autoFocus
           />
@@ -167,7 +178,7 @@ export function AiAssistantModal({
             Popular queries to test:
           </p>
           <div className="flex flex-wrap gap-1.5">
-            {EXAMPLE_QUERIES.map((q) => (
+            {exampleQueries.map((q) => (
               <button
                 key={q}
                 type="button"

@@ -2,21 +2,94 @@ import { NextRequest, NextResponse } from 'next/server';
 import { products } from '@/data/products';
 import { Product, AssistResponse, AssistPick } from '@/types';
 
-// Deterministic fallback ranker
-function deterministicRanker(query: string): AssistResponse {
+const EXCHANGE_RATES_TO_INR: Record<string, number> = {
+  INR: 1,
+  USD: 86.2,
+  EUR: 92.6,
+  GBP: 109.8,
+  AED: 23.5,
+  JPY: 0.57,
+  CAD: 61.7,
+  AUD: 55.2,
+};
+
+function formatReasonPrice(priceInInr: number, currencyCode: string = 'INR'): string {
+  const code = (currencyCode || 'INR').toUpperCase();
+  const rateToInr = EXCHANGE_RATES_TO_INR[code] || 1;
+  const converted = priceInInr / rateToInr;
+
+  const symbolMap: Record<string, string> = {
+    INR: '₹',
+    USD: '$',
+    EUR: '€',
+    GBP: '£',
+    AED: 'AED ',
+    JPY: '¥',
+    CAD: 'CA$',
+    AUD: 'AU$',
+  };
+  const sym = symbolMap[code] || '₹';
+  const formattedVal =
+    code === 'INR' || code === 'JPY'
+      ? Math.round(converted).toLocaleString('en-US')
+      : converted.toFixed(2);
+
+  return `${sym}${formattedVal}`;
+}
+
+function parseBudgetInINR(query: string, userCurrency: string = 'INR'): number | undefined {
   const q = query.toLowerCase();
-  
-  // Extract budget: matches "under 2000", "under ₹2000", "2k", "< 2000", "2000 budget"
-  let budget: number | undefined;
+
+  let detectedCurrency = (userCurrency || 'INR').toUpperCase();
+  if (/\$|usd|dollars?\b/i.test(q)) {
+    detectedCurrency = 'USD';
+  } else if (/€|eur|euros?\b/i.test(q)) {
+    detectedCurrency = 'EUR';
+  } else if (/£|gbp|pounds?\b/i.test(q)) {
+    detectedCurrency = 'GBP';
+  } else if (/aed|dirhams?\b/i.test(q)) {
+    detectedCurrency = 'AED';
+  } else if (/¥|jpy|yen\b/i.test(q)) {
+    detectedCurrency = 'JPY';
+  } else if (/ca\$|cad\b/i.test(q)) {
+    detectedCurrency = 'CAD';
+  } else if (/au\$|aud\b/i.test(q)) {
+    detectedCurrency = 'AUD';
+  } else if (/₹|rs\.?|inr|rupees?\b/i.test(q)) {
+    detectedCurrency = 'INR';
+  }
+
+  // Check "k" match like 2k, 2.5k
   const kMatch = q.match(/(\d+(?:\.\d+)?)\s*k\b/i);
   if (kMatch) {
-    budget = parseFloat(kMatch[1]) * 1000;
-  } else {
-    const numMatch = q.match(/(?:under|below|less than|within|around|₹|\b)\s*(\d{3,6})\b/i);
-    if (numMatch) {
-      budget = parseInt(numMatch[1], 10);
+    const rawVal = parseFloat(kMatch[1]) * 1000;
+    const rate = EXCHANGE_RATES_TO_INR[detectedCurrency] || 1;
+    return Math.round(rawVal * rate);
+  }
+
+  // Extract numeric budget after keywords or currency symbols
+  const numMatch =
+    q.match(/(?:under|below|less than|within|around|budget|<=?|<|₹|\$|€|£|¥|aed|cad|aud)\s*[:=]?\s*(\d+(?:\.\d{1,2})?)/i) ||
+    q.match(/(\d+(?:\.\d{1,2})?)\s*(?:dollars?|usd|eur|euros?|gbp|pounds?|aed|jpy|yen|cad|aud|rupees?|rs|inr)/i) ||
+    q.match(/(?:under|below|less than|within|around|\b)\s*(\d{2,6})\b/i);
+
+  if (numMatch) {
+    const rawVal = parseFloat(numMatch[1]);
+    if (!isNaN(rawVal) && rawVal > 0) {
+      const rate = EXCHANGE_RATES_TO_INR[detectedCurrency] || 1;
+      return Math.round(rawVal * rate);
     }
   }
+
+  return undefined;
+}
+
+// Deterministic fallback ranker
+function deterministicRanker(query: string, userCurrency: string = 'INR'): AssistResponse {
+  const q = query.toLowerCase();
+  
+  // Extract budget in INR with multi-currency conversion support
+  const budget = parseBudgetInINR(query, userCurrency);
 
   // Detect category keywords
   let category: string | undefined;
@@ -246,15 +319,15 @@ function deterministicRanker(query: string): AssistResponse {
         reason = 'Extra-cushioned 6mm eco-friendly mat with alignment marks for serene morning yoga and light stretching.';
       } else {
         label = index === 0 ? 'Best overall' : index === 1 ? 'Best value' : 'Thoughtful pick';
-        reason = `A lovely, practical gift choice well within your ₹${budget || 1500} budget with top ratings.`;
+        reason = `A lovely, practical gift choice well within your ${budget ? formatReasonPrice(budget, userCurrency) : formatReasonPrice(1500, userCurrency)} budget with top ratings.`;
       }
     } else if (p.category === 'Fashion') {
       if (index === 0) {
         label = 'Best overall';
-        reason = `Top rated ${p.brand} pick featuring breathable, high-comfort fabric${budget ? ` well within your ₹${budget} budget` : ''}.`;
+        reason = `Top rated ${p.brand} pick featuring breathable, high-comfort fabric${budget ? ` well within your ${formatReasonPrice(budget, userCurrency)} budget` : ''}.`;
       } else if (index === 1) {
         label = 'Best value';
-        reason = `Outstanding price-to-performance at ₹${p.price}, crafted with durable daily-wear cotton stitching.`;
+        reason = `Outstanding price-to-performance at ${formatReasonPrice(p.price, userCurrency)}, crafted with durable daily-wear cotton stitching.`;
       } else {
         label = 'Best alternative';
         reason = `Versatile ${p.brand} classic offering timeless styling and stellar customer reviews.`;
@@ -262,10 +335,10 @@ function deterministicRanker(query: string): AssistResponse {
     } else {
       if (index === 0) {
         label = 'Best overall';
-        reason = `Top rated ${p.brand} pick balancing high performance and durability${budget ? ` well within your ₹${budget} budget` : ''}.`;
+        reason = `Top rated ${p.brand} pick balancing high performance and durability${budget ? ` well within your ${formatReasonPrice(budget, userCurrency)} budget` : ''}.`;
       } else if (index === 1) {
         label = 'Best value';
-        reason = `Outstanding price-to-performance at ₹${p.price}, packing essential features without overpaying.`;
+        reason = `Outstanding price-to-performance at ${formatReasonPrice(p.price, userCurrency)}, packing essential features without overpaying.`;
       } else {
         label = 'Best premium/alt';
         reason = `Proven alternative with specialized ${p.tags[1] || 'design'} tuning and stellar customer satisfaction.`;
@@ -295,6 +368,7 @@ export async function POST(req: NextRequest) {
   try {
     const body = await req.json();
     const query = body?.query;
+    const currency = (body?.currency || 'INR').toUpperCase();
 
     if (!query || typeof query !== 'string' || !query.trim()) {
       return NextResponse.json(
@@ -307,7 +381,7 @@ export async function POST(req: NextRequest) {
 
     // If API key is missing, immediately use the deterministic ranker
     if (!apiKey) {
-      const fallbackResult = deterministicRanker(query);
+      const fallbackResult = deterministicRanker(query, currency);
       return NextResponse.json(fallbackResult);
     }
 
@@ -435,7 +509,7 @@ ${JSON.stringify(catalogSummary)}`;
       return NextResponse.json(responsePayload);
     } catch (aiErr) {
       console.warn('AI call failed or timed out, falling back to deterministic ranker:', aiErr);
-      const fallbackResult = deterministicRanker(query);
+      const fallbackResult = deterministicRanker(query, currency);
       return NextResponse.json(fallbackResult);
     }
   } catch (err) {

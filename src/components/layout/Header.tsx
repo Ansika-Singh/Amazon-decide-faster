@@ -14,7 +14,7 @@ interface HeaderProps {
 }
 
 const DEFAULT_RECENT_SEARCHES = [
-  'budget earbuds under 2000',
+  'budget wireless earbuds',
   'air fryer',
   'whey protein',
   'mechanical keyboard',
