@@ -1,7 +1,26 @@
 # Decide Faster Amazon — "Amazon, but it helps you decide in 30 seconds."
 
-> **Live Deployment:** [https://decide-faster-amazon.vercel.app](https://decide-faster-amazon.vercel.app) *(Deployment in progress)*  
-> **Repository:** [https://github.com/Ansika-Singh/amazon-clone](https://github.com/Ansika-Singh/amazon-clone)
+[![Next.js](https://img.shields.io/badge/Next.js-16.3.8-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-19.2.8-blue?style=for-the-badge&logo=react)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+[![Vercel Deployment](https://img.shields.io/badge/Vercel-Live_Deployment-success?style=for-the-badge&logo=vercel)](https://amazon-decide-faster.vercel.app)
+
+> **Live Deployment:** [https://amazon-decide-faster.vercel.app](https://amazon-decide-faster.vercel.app)  
+> **GitHub Repository:** [https://github.com/Ansika-Singh/Amazon-decide-faster](https://github.com/Ansika-Singh/Amazon-decide-faster)
+
+---
+
+## ⚡ Quick Links & Live Demonstrations
+
+| Feature | Direct Live Link | What to Test |
+| :--- | :--- | :--- |
+| **Homepage & AI Concierge** | [amazon-decide-faster.vercel.app](https://amazon-decide-faster.vercel.app) | Press `Cmd/Ctrl + K` or type query in hero search |
+| **Search & Filter Catalog** | [/search?q=facewash](https://amazon-decide-faster.vercel.app/search?q=facewash) | Test scrollable filters, brand search, and synonym matching |
+| **90-Day Price History** | [/product/cetaphil-gentle-skin-cleanser-250ml](https://amazon-decide-faster.vercel.app/product/cetaphil-gentle-skin-cleanser-250ml) | Hover over daily sparkline prices & "Good time to buy" signal |
+| **Honest Review Digest** | [/product/boat-airdopes-141-anc-true-wireless-earbuds](https://amazon-decide-faster.vercel.app/product/boat-airdopes-141-anc-true-wireless-earbuds) | Read AI-distilled Pros, Cons, and Bottom Line Verdict |
+| **Side-by-Side Compare** | [/search?category=Audio](https://amazon-decide-faster.vercel.app/search?category=Audio) | Check "Compare" on 2–3 products to open the drawer |
+| **Cart & Checkout** | [/cart](https://amazon-decide-faster.vercel.app/cart) | Interactive zero-friction checkout with delivery tracking |
 
 ---
 
@@ -9,12 +28,16 @@
 
 > **"Amazon, but it helps you decide in 30 seconds."**
 
-Modern e-commerce has degraded into an exhausting cognitive marathon. When shopping on Amazon, a buyer is inundated with:
-1. Pay-to-win **Sponsored product ads** masquerading as organic results.
-2. Walls of contradictory, unvetted, or fake reviews.
-3. Obscure, constantly fluctuating prices without context on whether today is actually a good deal or inflated right before a discount sale.
+Modern e-commerce has degraded into an exhausting cognitive marathon. When shopping on Amazon today, buyers are inundated with:
+1. Pay-to-win **Sponsored product ads** masquerading as top organic results.
+2. Walls of contradictory, unvetted, or incentivized reviews that take 20 minutes to decipher.
+3. Obscure, constantly fluctuating prices without context on whether today is actually a good deal or an artificial markdown.
 
-**Decide Faster Amazon** keeps the familiar, comfortable shopping journey (search, rich product page, cart, checkout) while ruthlessly pruning the cognitive fatigue. It guides Indian shoppers to an informed purchasing decision in under 30 seconds through curated organic results, honest review syntheses, 90-day price history signals, and a 3-pick AI Concierge.
+**Decide Faster Amazon** preserves the familiar, comfortable shopping journey (search, rich product page, cart, checkout) while ruthlessly pruning cognitive fatigue. It guides shoppers to an informed purchasing decision in under 30 seconds through:
+- **100% Organic Catalog**: Zero sponsored bias. Items are ranked solely on real customer ratings, specs, and price-to-value ratio.
+- **Smart 3-Pick AI Concierge**: Instant natural language parsing returning `#1 Best overall`, `#2 Best value`, and `#3 Best alternative`.
+- **Honest Review Syntheses**: Replacing 10,000 repetitive comments with clear Pros, Cons, and a one-sentence Verdict.
+- **90-Day Price Signals**: An interactive SVG price history chart showing whether today is a "Good time to buy" or if you should wait.
 
 ---
 
@@ -22,41 +45,38 @@ Modern e-commerce has degraded into an exhausting cognitive marathon. When shopp
 
 - **Target Audience:** Indian online shoppers.
 - **Currency & Pricing:** Formatted strictly in ₹ (INR) via `Intl.NumberFormat('en-IN')` with localized thousands grouping (lakhs/crores).
-- **Delivery Guarantees:** Realistic localized delivery estimates (e.g. *"Get it by Tue, 7 Oct"*), with free fast delivery on all orders over ₹499.
-- **Deliberate Departure from amazon.com:** While the original prompt mentions amazon.com, targeting the Indian market demonstrates deliberate localization, realistic payment affordances (UPI simulation, RuPay, COD), and domestic brand familiarity (boAt, Philips, Sujata, Boldfit, Minimalist, OnePlus).
+- **Delivery Guarantees:** Realistic localized delivery estimates (e.g. *"Get it by Tomorrow"* or *"Get it by Tue, 7 Oct"*), with free express delivery on all orders over ₹499.
+- **Payment Affordances:** Zero-friction simulated checkout supporting UPI (Google Pay, PhonePe, Paytm), RuPay/Visa/Mastercard, and Cash on Delivery.
+- **Domestic Brand Familiarity:** 107 realistic catalog items featuring domestic market leaders: boAt, Noise, Philips, CeraVe, Cetaphil, Minimalist, Boldfit, AS-IT-IS Nutrition, OnePlus, Apple, ASUS, Levi's, and Aurelia.
 
 ---
 
-## 3. Screenshots & Visual Walkthrough
+## 3. Visual Architecture & Workflow
 
 ```text
-[ Desktop Home Hero & AI Concierge ]
-+-----------------------------------------------------------------------------------+
-|  DecideFaster     [ Search products, brands... (Press '/' to focus) ]    [Ask AI] |
-|-----------------------------------------------------------------------------------|
-|                                                                                   |
-|           Amazon, but it helps you decide in 30 seconds.                          |
-|    Keeps the familiar shopping flow and removes what makes Amazon exhausting      |
-|                                                                                   |
-|    [ Ask AI: 'best budget earbuds for gym under 2000'                   [Decide] ]|
-|    Try: "best budget earbuds for gym under 2000" | "good mixer grinder"           |
-|                                                                                   |
-|  [✓ No Sponsored Ads] [✓ 90-Day Price Signals] [✓ Honest Reviews] [✓ Free Delivery]|
-+-----------------------------------------------------------------------------------+
-```
-
-```text
-[ 90-Day Price History & Signal Tooltip ]
-+-----------------------------------------------------------------------------------+
-| 90-Day Price History                       [ Good time to buy (Within 5% of low) ]|
-| Current: ₹1,499  |  90-Day Low: ₹1,449  |  90-Day Average: ₹1,820                 |
-|                                                                                   |
-|  ₹2,200 |              /\                                                         |
-|  ₹1,800 |  -----------/--\---------------------- (Avg: ₹1,820)                    |
-|  ₹1,449 | _/\________/----\____________________ (Current: ₹1,499)                 |
-|         |_______________________________________                                  |
-|         90 days ago                             Today                             |
-+-----------------------------------------------------------------------------------+
++-----------------------------------------------------------------------------------------+
+|                                    DecideFaster Header                                  |
+|  [Logo]   [ Search: "facewash", "earbuds under 2000" ... (/) ]   [Ask AI (Ctrl+K)] [Cart] |
++-----------------------------------------------------------------------------------------+
+                                             |
+             +-------------------------------+-------------------------------+
+             |                               |                               |
+             v                               v                               v
+    [ AI Concierge Modal ]          [ Search & Filter Catalog ]     [ Product Detail Page ]
+    - Natural language parse        - Sticky, scrollable sidebar    - 90-day price trend chart
+    - Budget & use-case extract     - Quick brand search filter     - "Good time to buy" badge
+    - Exactly 3 ranked picks:       - Compound & synonym search     - Honest Pros/Cons digest
+      * #1 Best Overall             - Category & Rating filters     - Verified review summary
+      * #2 Best Value               - Live active filter tags       - Realtime stock indicators
+      * #3 Best Alternative         - Side-by-side compare drawer   - Quick "Add to Cart"
+             |                               |                               |
+             +-------------------------------+-------------------------------+
+                                             |
+                                             v
+                            [ Interactive Cart & One-Click Checkout ]
+                            - Free shipping meter (₹499 threshold)
+                            - Delivery address & UPI / Card / COD selector
+                            - Live order tracking timeline (/orders)
 ```
 
 ---
@@ -65,38 +85,54 @@ Modern e-commerce has degraded into an exhausting cognitive marathon. When shopp
 
 ### A. AI Shopping Concierge ("Decide Faster")
 - Triggered instantly via `Cmd/Ctrl + K` or the header/hero search bar.
-- Natural language constraint parsing: extracts maximum budget (e.g. `2000`, `2k`, `under ₹2000`), inferred use-case (`gym`, `coding`, `gifting`), and product category.
+- Natural language constraint parsing: extracts maximum budget (e.g. `2000`, `2k`, `under ₹2000`), inferred use-case (`gym`, `coding`, `mom gift`, `college`), and product category.
 - Returns **exactly 3 ranked picks**:
   - `#1 Best overall`
   - `#2 Best value`
   - `#3 Best premium / alternative`
 - Each card highlights a one-sentence rationale referencing the user's specific constraints, along with direct "View" and "Add to Cart" CTAs.
-- **Resilient Fallback Ranker:** Powered by Google Gemini 1.5 Flash when `GEMINI_API_KEY` is present. If the API key is missing, network calls fail, or latency exceeds 6 seconds, the app silently invokes a deterministic keyword + budget + rating scoring ranker. **The demo never breaks.**
+- **Resilient Fallback Ranker:** Powered by Google Gemini 1.5 Flash when `GEMINI_API_KEY` is present. If the API key is omitted, network calls fail, or latency exceeds 6 seconds, the app silently falls back to a deterministic multi-dimensional ranker. **The demo never breaks.**
 
-### B. Honest Review Digest
+### B. Scrollable Sticky Filter Sidebar
+- **Viewport-Aware Scroll Container:** Wrapped in `max-h-[calc(100vh-6.5rem)]` with `overscroll-contain`, ensuring filters are never cut off on smaller laptop or tablet displays.
+- **Pinned Quick Header:** The "Filters" title, active filter count badge, and "Reset all" button remain pinned at the top of the sidebar card while scrolling.
+- **Brand Search Filter:** Integrated instant search input for brands, allowing shoppers to filter through 40+ brands in seconds.
+- **Responsive Drawer:** Matches desktop capabilities inside an intuitive mobile bottom sheet.
+
+### C. Smart Compound & Synonym Search Engine
+- Normalizes spaced and unspaced compound terms:
+  - `facewash` ↔ `face wash` ↔ `cleanser` ↔ `facial foam wash`
+  - `smartwatch` ↔ `smart watch`
+  - `powerbank` ↔ `power bank`
+  - `earphones` ↔ `earbuds` ↔ `headphones` ↔ `tws`
+  - `sunscreen` ↔ `sunblock` ↔ `spf`
+  - `tshirt` ↔ `t-shirt` ↔ `tee`
+- Full-corpus multi-token indexing across titles, brands, categories, descriptions, bullet points, and verified tags.
+
+### D. Honest Review Digest
 - Replaces thousands of repetitive review comments with a structured digest:
   - **The Bottom Line Verdict:** A prominent one-sentence executive summary.
   - **Sentiment Distribution Bar:** Visual breakdown of positive, neutral, and critical sentiment percentages.
   - **Top Reasons to Buy (Pros):** Verified strengths extracted from real user feedback.
   - **Points to Keep in Mind (Cons):** Honest limitations and caveats before purchasing.
 
-### C. 90-Day Price Signals ("Should I Wait?")
-- Interactive SVG sparkline chart charting 90 daily historical data points with hover tooltips and reference lines (Current, Average, 90-Day Low).
+### E. 90-Day Price Signals ("Should I Wait?")
+- Interactive SVG sparkline chart graphing 90 daily historical data points with hover tooltips and reference lines (Current, Average, 90-Day Low).
 - Real-time decision chip:
   - **"Good time to buy"** (green): Current price is within 5% of the 90-day historic low.
   - **"Wait: usually cheaper by ₹X"** (amber): Current price is elevated above historical sale averages.
   - **"Fair price"** (indigo): Typical market price.
 
-### D. Side-by-Side Compare Drawer
+### F. Side-by-Side Compare Drawer
 - Check "Compare" on up to 3 cards anywhere on the site.
 - A sliding bottom drawer displays side-by-side specs, ratings, prices, delivery dates, and editorial verdicts.
 
-### E. Frictionless Cart & One-Click Checkout
+### G. Frictionless Cart & One-Click Checkout
 - Optimistic UI updates with instant toasts (`"Added to cart. View cart"`).
 - Animated cart count badge bump on item changes.
 - Free shipping progress bar (`"Add ₹X more for FREE Delivery"`).
 - Full address form validation and mock payment selection (UPI, Credit/Debit Card, Cash on Delivery).
-- Order confirmation with instant persistent local storage.
+- Order confirmation with instant persistent local storage and live timeline tracking (`/orders`).
 
 ---
 
@@ -108,6 +144,7 @@ Modern e-commerce has degraded into an exhausting cognitive marathon. When shopp
 | **Price Transparency** | Dynamic surge pricing without historical context | Full 90-day price history chart with "Buy Now" or "Wait" guidance |
 | **Customer Reviews** | Thousands of mixed, unvetted, repetitive comments | Structured AI digest with Pros, Cons, and a one-line verdict |
 | **Decision Speed** | Endless scrolling, pagination, comparison tabs | 30-second decision via 3-pick AI Concierge and side-by-side drawer |
+| **Filters** | Static overflowing layout that cuts off on small screens | Sticky, scrollable sidebar with pinned reset and brand search |
 | **Aesthetics** | Dense, cluttered navy & orange layout with ad banners | Calm, focused palette (Deep Indigo, Warm Amber CTA, Soft Slate) |
 | **Checkout Flow** | Mandatory account sign-in, OTPs, promotional popups | Instant checkout with saved browser state; zero login barriers |
 
@@ -119,7 +156,7 @@ To prioritize shipping velocity, product focus, and hiring evaluation criteria, 
 
 1. **User Authentication & Passwords:** Replaced with zero-friction browser `localStorage`. Anyone can test the entire app immediately in incognito without sign-in hurdles.
 2. **Real Payment Gateway Integration (Stripe/Razorpay):** Real payments create barrier-to-entry for reviewers and require KYC. Replaced with an interactive demo payment selector (UPI, Card, COD) that mirrors the exact user psychology without real financial transactions.
-3. **Persistent SQL Database:** Seeded typed TS data (50 items across 8 categories) renders in milliseconds with zero cold-starts, perfect for a lightning-fast demonstration.
+3. **Persistent SQL Database:** Seeded typed TS data (107 items across 8 categories) renders in milliseconds with zero cold-starts, perfect for a lightning-fast demonstration.
 4. **Sponsored Ad Auctions & Banner Real Estate:** The core product thesis is anti-sponsored. Commercial ad engines were discarded by design.
 5. **Infinite Recommendation Carousels:** Avoided dark-pattern engagement traps ("Customers who bought this also viewed 40 other items") to keep the user focused on deciding quickly.
 6. **50+ Deep Subcategories:** Scoped to 8 high-velocity consumer categories (Audio, Electronics, Mobiles, Home & Kitchen, Fashion, Books, Fitness, Beauty) to ensure all sample data was deep, believable, and rich.
@@ -135,28 +172,21 @@ To prioritize shipping velocity, product focus, and hiring evaluation criteria, 
 - **State Management:** Custom SSR-safe `useLocalStorage` hook with multi-tab `storage` event synchronization.
 - **AI Concierge:** Next.js Route Handler `/api/assist` with Google Gemini 1.5 Flash + Deterministic Scoring Fallback.
 - **Image Handling:** Custom `ImageWithFallback` component that gracefully degrades to styled SVG badges on remote load failures.
+- **Static Generation:** All 117 product and category routes prerendered statically at build time for instant page loads.
 
 ---
 
-## 8. Assumptions
-
-1. **Indian E-Commerce Context:** Assumed ₹ currency, ₹499 free delivery threshold, and familiar domestic brands provide the most authentic showcase.
-2. **Reviewer Evaluation:** Assumed evaluators want to experience the complete flow in under 2 minutes without setting up accounts or providing credit card details.
-3. **Zero Secret Dependency:** Assumed the demo must be fully functional out of the box even if `GEMINI_API_KEY` is not provided (handled by the deterministic ranker).
-
----
-
-## 9. How to Run Locally
+## 8. How to Run Locally
 
 ### Prerequisites
-- Node.js 18+ (tested on Node v20/v26)
+- Node.js 18+ (tested on Node v20 / v26)
 - npm or pnpm
 
 ### Setup Steps
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Ansika-Singh/amazon-clone.git
-cd amazon-clone
+git clone https://github.com/Ansika-Singh/Amazon-decide-faster.git
+cd Amazon-decide-faster
 
 # 2. Install dependencies
 npm install
@@ -181,34 +211,20 @@ npm run start
 
 ---
 
-## 10. How to Deploy on Vercel
+## 9. Vercel Deployment
 
-1. Push your repository to GitHub:
-   ```bash
-   git remote add origin https://github.com/Ansika-Singh/amazon-clone.git
-   git push -u origin master
-   ```
-2. Log in to [Vercel](https://vercel.com) and click **"Add New Project"**.
-3. Import your `amazon-clone` repository.
-4. In the **Environment Variables** section, optionally add:
-   - `GEMINI_API_KEY`: *(Your Google Gemini API Key)*
-5. Click **"Deploy"**. The build runs `next build` and generates all 59 pages in ~20 seconds.
+The application is deployed on Vercel and configured for automatic production deployments on pushes to `master`.
+
+- **Live URL:** [https://amazon-decide-faster.vercel.app](https://amazon-decide-faster.vercel.app)
+- **Deployment Platform:** Vercel Edge / Serverless
+- **Build Output:** 117 Static & Dynamic Pages
 
 ---
 
-## 11. What I'd Build Next
+## 10. Agent Logs Integrity
 
-1. **Real Review Ingestion Pipeline:** Connect live Amazon/Flipkart scraping or webhooks to an LLM summarizer that periodically updates sentiment and pros/cons.
-2. **Price Drop Telegram/WhatsApp Alerts:** Allow users to enter a phone number to get notified when the "Should I Wait" signal transitions to "Good time to buy".
-3. **Accessibility Audit:** Add ARIA live regions for screen readers during filter updates and dynamic toasts.
-4. **Barcode / Image Search:** Enable snapping a photo of an offline store item to find the exact online price in 5 seconds.
-
----
-
-## 12. Agent Logs Integrity
-
-As required by the 8x assignment rules:
-- All agent prompts, canary tests, and responses are continuously captured in `.agent-logs/`.
-- Capture mechanisms are configured in `.agents/hooks.json` and `scripts/agent_capture.py`.
-- **Integrity commitment:** `.agent-logs/` has never been git-ignored, modified, or summarized, and is committed interleaved with code progress.
-- See [`CAPTURE-TEST.md`](CAPTURE-TEST.md) for initial multi-session verification records.
+As required by the assignment rules:
+- All agent interactions, user prompts, and model responses are captured verbatim in [`.agent-logs/`](.agent-logs/).
+- Automated lifecycle capture is wired via `.agents/hooks.json` and `scripts/agent_capture.py`.
+- **Commit History:** Logs are committed interleaved with source code changes throughout development.
+- See [`CAPTURE-TEST.md`](CAPTURE-TEST.md) for multi-session verification records.
