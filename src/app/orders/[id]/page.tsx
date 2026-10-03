@@ -18,8 +18,10 @@ import { formatPrice } from '@/lib/formatters';
 import { ImageWithFallback } from '@/components/ui/ImageWithFallback';
 import { Button } from '@/components/ui/Button';
 import { Badge } from '@/components/ui/Badge';
+import { useCurrency } from '@/context/CurrencyContext';
 
 export default function OrderConfirmationPage() {
+  const { formatPrice } = useCurrency();
   const params = useParams();
   const orderId = params?.id as string;
 

@@ -25,12 +25,14 @@ import { PriceHistoryChart } from '@/components/product/PriceHistoryChart';
 import { ReviewSummaryDigest } from '@/components/product/ReviewSummaryDigest';
 import { useLocalStorage } from '@/hooks/useLocalStorage';
 import { useToast } from '@/components/ui/Toast';
+import { useCurrency } from '@/context/CurrencyContext';
 
 interface ProductDetailClientProps {
   product: Product;
 }
 
 export function ProductDetailClient({ product }: ProductDetailClientProps) {
+  const { formatPrice } = useCurrency();
   const router = useRouter();
   const [selectedImage, setSelectedImage] = React.useState(product.images[0]);
   const [quantity, setQuantity] = React.useState(1);
@@ -147,7 +149,7 @@ export function ProductDetailClient({ product }: ProductDetailClientProps) {
             {dropVsAvg > 0 && (
               <div className="absolute top-4 left-4">
                 <Badge variant="accent" className="font-bold text-xs shadow-2xs">
-                  ₹{dropVsAvg.toLocaleString('en-IN')} below usual
+                  {formatPrice(dropVsAvg)} below usual
                 </Badge>
               </div>
             )}
@@ -227,7 +229,7 @@ export function ProductDetailClient({ product }: ProductDetailClientProps) {
               )}
               {dropVsAvg > 0 && (
                 <span className="text-xs font-bold text-emerald-800 bg-emerald-100 px-2 py-0.5 rounded">
-                  ₹{dropVsAvg.toLocaleString('en-IN')} below 90-day average
+                  {formatPrice(dropVsAvg)} below 90-day average
                 </span>
               )}
             </div>
@@ -271,7 +273,7 @@ export function ProductDetailClient({ product }: ProductDetailClientProps) {
               </span>
             ) : (
               <span className="text-xs text-slate-500 flex items-center gap-1 mt-1">
-                <Truck className="h-3.5 w-3.5" /> Delivery ₹40 (Free on orders &gt; ₹499)
+                <Truck className="h-3.5 w-3.5" /> Delivery {formatPrice(40)} (Free on orders &gt; {formatPrice(499)})
               </span>
             )}
           </div>

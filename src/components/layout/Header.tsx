@@ -7,6 +7,7 @@ import { Search, Sparkles, ShoppingBag, Command, Zap, History, X, Heart } from '
 import { useLocalStorage } from '@/hooks/useLocalStorage';
 import { CartItem, Product } from '@/types';
 import { Button } from '@/components/ui/Button';
+import { CurrencySelector } from '@/components/layout/CurrencySelector';
 
 interface HeaderProps {
   onOpenAiAsk?: () => void;
@@ -118,7 +119,7 @@ export function Header({ onOpenAiAsk }: HeaderProps) {
       <div className="bg-indigo-950 text-indigo-100 text-xs py-1.5 px-4 text-center font-medium tracking-wide flex items-center justify-center gap-2">
         <Zap className="h-3.5 w-3.5 text-amber-400 shrink-0 fill-amber-400" />
         <span>
-          <strong>Decide in 30 seconds:</strong> Pure organic search. Zero sponsored bias. Prices in ₹ with honest signals.
+          <strong>Decide in 30 seconds:</strong> Pure organic search. Zero sponsored bias. Multi-currency live rates.
         </span>
       </div>
 
@@ -227,6 +228,9 @@ export function Header({ onOpenAiAsk }: HeaderProps) {
                 <Command className="h-2.5 w-2.5" /> K
               </kbd>
             </button>
+
+            {/* Currency Selector */}
+            <CurrencySelector />
 
             {/* Orders Link */}
             <Link

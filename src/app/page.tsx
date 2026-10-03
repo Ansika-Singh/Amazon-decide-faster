@@ -194,8 +194,8 @@ export default function HomePage() {
           </div>
           <div className="flex flex-col items-center gap-1.5 p-3 rounded-xl bg-slate-900/50 border border-slate-800">
             <Zap className="h-4 w-4 text-yellow-400" />
-            <span className="text-xs font-bold text-white">Free Delivery &gt; ₹499</span>
-            <span className="text-[11px] text-slate-400">Prices in ₹ for Indian shoppers</span>
+            <span className="text-xs font-bold text-white">Multi-Currency Rates</span>
+            <span className="text-[11px] text-slate-400">8 currencies with live conversions</span>
           </div>
         </div>
       </section>

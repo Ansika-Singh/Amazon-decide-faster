@@ -18,8 +18,10 @@ import { CartItem } from '@/types';
 import { formatPrice, getDeliveryEstimate } from '@/lib/formatters';
 import { ImageWithFallback } from '@/components/ui/ImageWithFallback';
 import { Button } from '@/components/ui/Button';
+import { useCurrency } from '@/context/CurrencyContext';
 
 export default function CartPage() {
+  const { formatPrice } = useCurrency();
   const router = useRouter();
   const [cartItems, setCartItems, isLoaded] = useLocalStorage<CartItem[]>('amazon_cart', []);
 

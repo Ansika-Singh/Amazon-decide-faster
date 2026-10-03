@@ -1,9 +1,30 @@
-export function formatPrice(price: number): string {
-  return new Intl.NumberFormat('en-IN', {
+import { CURRENCIES, CurrencyCode } from '@/context/CurrencyContext';
+
+export function getActiveCurrencyCode(): CurrencyCode {
+  if (typeof window !== 'undefined') {
+    try {
+      const saved = localStorage.getItem('amazon_currency') as CurrencyCode;
+      if (saved && CURRENCIES[saved]) {
+        return saved;
+      }
+    } catch {
+      // Fallback
+    }
+  }
+  return 'INR';
+}
+
+export function formatPrice(price: number, currencyCode?: CurrencyCode): string {
+  const code = currencyCode || getActiveCurrencyCode();
+  const config = CURRENCIES[code] || CURRENCIES.INR;
+  const converted = price * config.rate;
+
+  return new Intl.NumberFormat(config.locale, {
     style: 'currency',
-    currency: 'INR',
-    maximumFractionDigits: 0,
-  }).format(price);
+    currency: config.code,
+    minimumFractionDigits: config.fractionDigits,
+    maximumFractionDigits: config.fractionDigits,
+  }).format(converted);
 }
 
 export function formatNumber(num: number): string {

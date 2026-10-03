@@ -26,7 +26,7 @@ import { Select } from '@/components/ui/Select';
 import { Slider } from '@/components/ui/Slider';
 import { Checkbox } from '@/components/ui/Checkbox';
 import { Sheet } from '@/components/ui/Sheet';
-import { formatPrice } from '@/lib/formatters';
+import { useCurrency } from '@/context/CurrencyContext';
 
 const SORT_OPTIONS = [
   { label: 'Relevance', value: 'relevance' },
@@ -130,6 +130,7 @@ function matchesSearchQuery(product: Product, query: string): boolean {
 }
 
 export function SearchClient() {
+  const { formatPrice, currentCurrency } = useCurrency();
   const router = useRouter();
   const searchParams = useSearchParams();
 
@@ -345,7 +346,7 @@ export function SearchClient() {
       {/* Price Slider */}
       <div className="space-y-2 pt-3 border-t border-slate-100">
         <label className="text-xs font-bold text-slate-700 uppercase tracking-wider">
-          Max Budget (₹)
+          Max Budget ({currentCurrency.symbol.trim()})
         </label>
         <Slider
           min={500}

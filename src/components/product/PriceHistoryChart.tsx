@@ -3,7 +3,7 @@
 import * as React from 'react';
 import { TrendingDown, TrendingUp, Info, Clock, AlertCircle, CheckCircle2 } from 'lucide-react';
 import { PricePoint } from '@/types';
-import { formatPrice } from '@/lib/formatters';
+import { useCurrency } from '@/context/CurrencyContext';
 
 interface PriceHistoryChartProps {
   priceHistory: PricePoint[];
@@ -14,6 +14,7 @@ export function PriceHistoryChart({
   priceHistory,
   currentPrice,
 }: PriceHistoryChartProps) {
+  const { formatPrice } = useCurrency();
   const [hoveredPoint, setHoveredPoint] = React.useState<PricePoint | null>(null);
 
   if (!priceHistory || priceHistory.length === 0) return null;
@@ -31,12 +32,12 @@ export function PriceHistoryChart({
   if (currentPrice <= minPrice * 1.05) {
     signalType = 'good';
     signalText = 'Good time to buy';
-    signalExplanation = `This product is within 5% of its 90-day historic low (₹${minPrice.toLocaleString('en-IN')}). Strong buy signal.`;
+    signalExplanation = `This product is within 5% of its 90-day historic low (${formatPrice(minPrice)}). Strong buy signal.`;
   } else if (currentPrice > avgPrice * 1.08) {
     signalType = 'wait';
     const potentialDrop = currentPrice - avgPrice;
     signalText = `Wait: usually cheaper by ${formatPrice(potentialDrop)}`;
-    signalExplanation = `Historical data shows this item routinely drops during sales by ~₹${potentialDrop.toLocaleString('en-IN')}. If not urgent, waiting 1-2 weeks may save money.`;
+    signalExplanation = `Historical data shows this item routinely drops during sales by ~${formatPrice(potentialDrop)}. If not urgent, waiting 1-2 weeks may save money.`;
   }
 
   // Generate SVG coordinates

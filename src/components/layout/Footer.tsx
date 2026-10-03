@@ -1,6 +1,7 @@
 import * as React from 'react';
 import Link from 'next/link';
 import { ShieldCheck, Sparkles, TrendingDown, Clock, Heart } from 'lucide-react';
+import { CurrencySelector } from '@/components/layout/CurrencySelector';
 
 export function Footer() {
   return (
@@ -72,7 +73,7 @@ export function Footer() {
               "Amazon, but it helps you decide in 30 seconds." Keeps the familiar search, cart, and checkout flow while cutting out the exhaustion.
             </p>
             <div className="text-[11px] text-slate-500">
-              🇮🇳 Tailored for Indian shoppers with ₹ INR pricing, rapid delivery estimates, and free shipping over ₹499.
+              🌍 Multi-currency support across 8 world currencies (INR, USD, EUR, GBP, AED, JPY, CAD, AUD) with realistic exchange rates.
             </div>
           </div>
 
@@ -133,9 +134,12 @@ export function Footer() {
 
         {/* Bottom bar */}
         <div className="pt-8 border-t border-slate-800 flex flex-col sm:flex-row items-center justify-between text-xs text-slate-500 gap-4">
-          <p>© {new Date().getFullYear()} DecideFaster. Built for the 8x Hiring Assignment.</p>
+          <div className="flex flex-wrap items-center gap-3">
+            <p>© {new Date().getFullYear()} DecideFaster. Multi-currency shopping enabled.</p>
+            <CurrencySelector variant="footer" />
+          </div>
           <p className="flex items-center gap-1">
-            Made with <Heart className="h-3.5 w-3.5 text-rose-500 fill-rose-500" /> for Indian online shoppers.
+            Made with <Heart className="h-3.5 w-3.5 text-rose-500 fill-rose-500" /> for global & Indian online shoppers.
           </p>
         </div>
       </div>

@@ -10,6 +10,7 @@ import { Badge } from '@/components/ui/Badge';
 import { Button } from '@/components/ui/Button';
 import { useLocalStorage } from '@/hooks/useLocalStorage';
 import { useToast } from '@/components/ui/Toast';
+import { useCurrency } from '@/context/CurrencyContext';
 
 interface ProductCardProps {
   product: Product;
@@ -22,6 +23,7 @@ export function ProductCard({
   onCompareToggle,
   isCompared = false,
 }: ProductCardProps) {
+  const { formatPrice } = useCurrency();
   const [, setCart] = useLocalStorage<CartItem[]>('amazon_cart', []);
   const [wishlist, setWishlist] = useLocalStorage<Product[]>('amazon_wishlist', []);
   const { toast } = useToast();
@@ -90,7 +92,7 @@ export function ProductCard({
       <div className="absolute top-3 left-3 z-10 flex flex-col gap-1 items-start">
         {dropVsAvg > 0 && (
           <Badge variant="accent" className="font-bold text-[11px] shadow-2xs">
-            ₹{dropVsAvg.toLocaleString('en-IN')} below usual
+            {formatPrice(dropVsAvg)} below usual
           </Badge>
         )}
         {isNearLow && (

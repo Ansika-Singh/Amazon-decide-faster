@@ -43,8 +43,17 @@ Modern e-commerce has degraded into an exhausting cognitive marathon. When shopp
 
 ## 2. Market Choice & Localization
 
-- **Target Audience:** Indian online shoppers.
-- **Currency & Pricing:** Formatted strictly in ₹ (INR) via `Intl.NumberFormat('en-IN')` with localized thousands grouping (lakhs/crores).
+- **Target Audience:** Indian & international shoppers seeking vetted products.
+- **Multi-Currency Support & Live Conversion:** Native support for 8 major world currencies with realistic conversion rates against base ₹ INR:
+  - 🇮🇳 **INR (₹)** - Indian Rupee (Base)
+  - 🇺🇸 **USD ($)** - US Dollar (`0.0116` | ≈ ₹86.2)
+  - 🇪🇺 **EUR (€)** - Euro (`0.0108` | ≈ ₹92.6)
+  - 🇬🇧 **GBP (£)** - British Pound (`0.0091` | ≈ ₹109.8)
+  - 🇦🇪 **AED (AED)** - UAE Dirham (`0.0425` | ≈ ₹23.5)
+  - 🇯🇵 **JPY (¥)** - Japanese Yen (`1.76` | ≈ ₹0.57)
+  - 🇨🇦 **CAD (CA$)** - Canadian Dollar (`0.0162` | ≈ ₹61.7)
+  - 🇦🇺 **AUD (AU$)** - Australian Dollar (`0.0181` | ≈ ₹55.2)
+  - *Interactive currency selectors located in the Header and Footer with reactive re-rendering across product cards, detail views, price drop signals, sparkline charts, budget sliders, cart, and checkout.*
 - **Delivery Guarantees:** Realistic localized delivery estimates (e.g. *"Get it by Tomorrow"* or *"Get it by Tue, 7 Oct"*), with free express delivery on all orders over ₹499.
 - **Payment Affordances:** Zero-friction simulated checkout supporting UPI (Google Pay, PhonePe, Paytm), RuPay/Visa/Mastercard, and Cash on Delivery.
 - **Domestic Brand Familiarity:** 107 realistic catalog items featuring domestic market leaders: boAt, Noise, Philips, CeraVe, Cetaphil, Minimalist, Boldfit, AS-IT-IS Nutrition, OnePlus, Apple, ASUS, Levi's, and Aurelia.

@@ -21,8 +21,9 @@ import { ImageWithFallback } from '@/components/ui/ImageWithFallback';
 import { products } from '@/data/products';
 import { Product, AssistResponse, CartItem } from '@/types';
 import { formatPrice } from '@/lib/formatters';
-import { useLocalStorage } from '@/hooks/useLocalStorage';
 import { useToast } from '@/components/ui/Toast';
+import { useLocalStorage } from '@/hooks/useLocalStorage';
+import { useCurrency } from '@/context/CurrencyContext';
 
 interface AiAssistantModalProps {
   open: boolean;
@@ -43,6 +44,7 @@ export function AiAssistantModal({
   onOpenChange,
   initialQuery = '',
 }: AiAssistantModalProps) {
+  const { formatPrice } = useCurrency();
   const [query, setQuery] = React.useState(initialQuery);
   const [loading, setLoading] = React.useState(false);
   const [result, setResult] = React.useState<AssistResponse | null>(null);

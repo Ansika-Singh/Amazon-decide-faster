@@ -9,6 +9,7 @@ import { ImageWithFallback } from '@/components/ui/ImageWithFallback';
 import { Button } from '@/components/ui/Button';
 import { useLocalStorage } from '@/hooks/useLocalStorage';
 import { useToast } from '@/components/ui/Toast';
+import { useCurrency } from '@/context/CurrencyContext';
 
 interface CompareDrawerProps {
   products: Product[];
@@ -17,6 +18,7 @@ interface CompareDrawerProps {
 }
 
 export function CompareDrawer({ products, onRemove, onClear }: CompareDrawerProps) {
+  const { formatPrice } = useCurrency();
   const [isOpen, setIsOpen] = React.useState(false);
   const [, setCart] = useLocalStorage<CartItem[]>('amazon_cart', []);
   const { toast } = useToast();

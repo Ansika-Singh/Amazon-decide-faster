@@ -9,8 +9,10 @@ import { formatPrice } from '@/lib/formatters';
 import { ImageWithFallback } from '@/components/ui/ImageWithFallback';
 import { Button } from '@/components/ui/Button';
 import { Badge } from '@/components/ui/Badge';
+import { useCurrency } from '@/context/CurrencyContext';
 
 export default function OrdersListPage() {
+  const { formatPrice } = useCurrency();
   const [orders, , isLoaded] = useLocalStorage<Order[]>('amazon_orders', []);
 
   if (!isLoaded) {

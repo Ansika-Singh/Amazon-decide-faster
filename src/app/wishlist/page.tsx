@@ -10,8 +10,10 @@ import { formatPrice, getDeliveryEstimate } from '@/lib/formatters';
 import { ImageWithFallback } from '@/components/ui/ImageWithFallback';
 import { Button } from '@/components/ui/Button';
 import { useToast } from '@/components/ui/Toast';
+import { useCurrency } from '@/context/CurrencyContext';
 
 export default function WishlistPage() {
+  const { formatPrice } = useCurrency();
   const router = useRouter();
   const { toast } = useToast();
   const [wishlist, setWishlist, isLoaded] = useLocalStorage<Product[]>('amazon_wishlist', []);
@@ -139,7 +141,7 @@ export default function WishlistPage() {
                 <div className="absolute top-3 left-3 z-10 flex flex-col gap-1 items-start">
                   {dropVsAvg > 0 && (
                     <span className="inline-flex items-center gap-0.5 text-[10px] font-bold px-2 py-0.5 rounded-full bg-amber-500 text-slate-950 shadow-xs">
-                      ₹{dropVsAvg.toLocaleString('en-IN')} below usual
+                      {formatPrice(dropVsAvg)} below usual
                     </span>
                   )}
                   {isNearLow && (

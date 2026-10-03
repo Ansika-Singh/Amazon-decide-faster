@@ -21,8 +21,10 @@ import { Button } from '@/components/ui/Button';
 import { Input } from '@/components/ui/Input';
 import { ImageWithFallback } from '@/components/ui/ImageWithFallback';
 import { useToast } from '@/components/ui/Toast';
+import { useCurrency } from '@/context/CurrencyContext';
 
 export default function CheckoutPage() {
+  const { formatPrice } = useCurrency();
   const router = useRouter();
   const [cartItems, setCartItems, isLoaded] = useLocalStorage<CartItem[]>('amazon_cart', []);
   const [, setOrders] = useLocalStorage<Order[]>('amazon_orders', []);
