@@ -12,57 +12,57 @@ export const categories: CategoryMeta[] = [
   {
     "name": "Audio",
     "slug": "audio",
-    "description": "Wireless earbuds, ANC headphones, and neckbands tuned for clarity.",
+    "description": "Wireless earbuds, ANC headphones, portable Bluetooth speakers, and neckbands tuned for clarity.",
     "icon": "Headphones",
-    "itemCount": 12
+    "itemCount": 16
   },
   {
     "name": "Electronics",
     "slug": "electronics",
-    "description": "Coding laptops, mechanical keyboards, gaming mice, SSDs, and monitors.",
+    "description": "Gaming laptops, PS5 consoles, mechanical keyboards, mice, external SSDs, USB-C hubs, and monitors.",
     "icon": "Laptop",
-    "itemCount": 16
+    "itemCount": 20
   },
   {
     "name": "Mobiles",
     "slug": "mobiles",
-    "description": "5G smartphones, flagship cameras, and ultra-protective armor cases.",
+    "description": "5G flagship smartphones, AI camera phones, fast chargers, and ultra-protective armor cases.",
     "icon": "Smartphone",
-    "itemCount": 6
+    "itemCount": 12
   },
   {
     "name": "Home & Kitchen",
     "slug": "home-kitchen",
-    "description": "Rapid air fryers, 900W mixer grinders, insulated flasks, and dry irons.",
+    "description": "Rapid air fryers, 900W mixer grinders, espresso coffee makers, electric kettles, water purifiers, and cookware.",
     "icon": "Home",
-    "itemCount": 13
+    "itemCount": 18
   },
   {
     "name": "Fashion",
     "slug": "fashion",
-    "description": "Kurtis, sarees, dresses, crop tops, cotton t-shirts, polo shirts, denim jeans, and sneakers.",
+    "description": "Kurtis, sarees, formal shirts, denim jackets, jeans, sweatpants, combat boots, and ethnic accessories.",
     "icon": "Shirt",
-    "itemCount": 24
+    "itemCount": 33
   },
   {
     "name": "Books",
     "slug": "books",
-    "description": "Transformative non-fiction, finance, investing psychology, and classic literature.",
+    "description": "Transformative non-fiction, startups, mental toughness, wealth mindset, investing, and biographies.",
     "icon": "BookOpen",
-    "itemCount": 10
+    "itemCount": 15
   },
   {
     "name": "Fitness",
     "slug": "fitness",
-    "description": "Home gym dumbbells, kettlebells, whey isolate, creatine, and yoga essentials.",
+    "description": "Hex dumbbells, speed jump ropes, whey isolate, creatine, shaker bottles, wrist wraps, and smart bands.",
     "icon": "Dumbbell",
-    "itemCount": 14
+    "itemCount": 19
   },
   {
     "name": "Beauty",
     "slug": "beauty",
-    "description": "Active serums, SPF 50 sunscreens, gentle cleansers, and grooming essentials.",
+    "description": "Snail mucin, active serums, SPF 50 sunscreens, gentle cleansers, hair serums, coffee scrubs, and conditioners.",
     "icon": "Sparkles",
-    "itemCount": 12
+    "itemCount": 17
   }
 ];
