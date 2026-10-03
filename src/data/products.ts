@@ -43524,8 +43524,8 @@ export const products: Product[] = [
   "rating": 4.5,
   "reviewCount": 11200,
   "images": [
-    "/products/aud-03.jpg"
-  ],
+      "/products/aud-15.jpg"
+    ],
   "bullets": [
     "2-way speaker system delivering loud, crystal-clear, powerful stereo acoustics",
     "Racetrack-shaped woofer delivers exceptional low frequencies and midrange",
@@ -44766,8 +44766,8 @@ export const products: Product[] = [
   "rating": 4.8,
   "reviewCount": 8850,
   "images": [
-    "/products/elec-01.jpg"
-  ],
+      "/products/elec-18.jpg"
+    ],
   "bullets": [
     "Slim design packing powerful next-generation gaming technology in a sleek form factor",
     "1TB of ultra-fast high-speed SSD storage for near-instant load times",
@@ -47658,8 +47658,8 @@ export const products: Product[] = [
   "rating": 4.6,
   "reviewCount": 68400,
   "images": [
-    "/products/mob-03.jpg"
-  ],
+      "/products/mob-11.jpg"
+    ],
   "bullets": [
     "Official Apple 20W USB-C Power Adapter offers fast, efficient charging at home or on the go",
     "Charges iPhone 15, 14, 13, and 12 series from 0 to 50% in approximately 30 minutes",
@@ -48482,8 +48482,8 @@ export const products: Product[] = [
   "rating": 4.4,
   "reviewCount": 31200,
   "images": [
-    "/products/hom-01.jpg"
-  ],
+      "/products/hom-14.jpg"
+    ],
   "bullets": [
     "1.5-litre capacity with 1800W heating element boiling water in under 3 minutes",
     "Food grade 304 stainless steel inner body ensures zero plastic contact with water",
@@ -48895,8 +48895,8 @@ export const products: Product[] = [
   "rating": 4.2,
   "reviewCount": 8400,
   "images": [
-    "/products/hom-02.jpg"
-  ],
+      "/products/hom-15.jpg"
+    ],
   "bullets": [
     "Makes 4 cups of rich, aromatic espresso with convenient steam pressure brewing",
     "Turbo cappuccino steam wand produces velvety micro-foam for lattes and cappuccinos",
@@ -51784,8 +51784,8 @@ export const products: Product[] = [
   "rating": 4.6,
   "reviewCount": 7800,
   "images": [
-    "/products/fas-01.jpg"
-  ],
+      "/products/fas-32.jpg"
+    ],
   "bullets": [
     "The original classic jean jacket since 1967: iconic silhouette that only gets better with age",
     "Crafted from 100% non-stretch heavyweight cotton denim for authentic vintage drape",
@@ -55498,8 +55498,8 @@ export const products: Product[] = [
   "rating": 4.7,
   "reviewCount": 38400,
   "images": [
-    "/products/fit-04.jpg"
-  ],
+      "/products/fit-17.jpg"
+    ],
   "bullets": [
     "Patented 316 surgical-grade stainless steel BlenderBall wire whisk eliminates protein clumps in seconds",
     "Upgraded rounded base allows the BlenderBall to mix every last bit of powder",
@@ -56735,8 +56735,8 @@ export const products: Product[] = [
   "rating": 4.6,
   "reviewCount": 32400,
   "images": [
-    "/products/bt-07.jpg"
-  ],
+      "/products/bt-13.jpg"
+    ],
   "bullets": [
     "Formulated with 96.3% Snail Secretion Filtrate to repair and hydrate damaged skin barriers",
     "Delivers intense hydration, soothes redness, and fades dark post-acne blemishes",
