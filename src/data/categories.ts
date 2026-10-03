@@ -14,35 +14,35 @@ export const categories: CategoryMeta[] = [
     "slug": "audio",
     "description": "Wireless earbuds, ANC headphones, portable Bluetooth speakers, and neckbands tuned for clarity.",
     "icon": "Headphones",
-    "itemCount": 16
+    "itemCount": 14
   },
   {
     "name": "Electronics",
     "slug": "electronics",
     "description": "Gaming laptops, PS5 consoles, mechanical keyboards, mice, external SSDs, USB-C hubs, and monitors.",
     "icon": "Laptop",
-    "itemCount": 20
+    "itemCount": 18
   },
   {
     "name": "Mobiles",
     "slug": "mobiles",
     "description": "5G flagship smartphones, AI camera phones, fast chargers, and ultra-protective armor cases.",
     "icon": "Smartphone",
-    "itemCount": 12
+    "itemCount": 7
   },
   {
     "name": "Home & Kitchen",
     "slug": "home-kitchen",
-    "description": "Rapid air fryers, 900W mixer grinders, espresso coffee makers, electric kettles, water purifiers, and cookware.",
+    "description": "Rapid air fryers, 900W mixer grinders, espresso coffee makers, electric kettles, and dry irons.",
     "icon": "Home",
-    "itemCount": 18
+    "itemCount": 15
   },
   {
     "name": "Fashion",
     "slug": "fashion",
-    "description": "Kurtis, sarees, formal shirts, denim jackets, jeans, sweatpants, combat boots, and ethnic accessories.",
+    "description": "Kurtis, sarees, formal shirts, denim jackets, jeans, combat boots, and ethnic dresses.",
     "icon": "Shirt",
-    "itemCount": 33
+    "itemCount": 31
   },
   {
     "name": "Books",
@@ -54,15 +54,15 @@ export const categories: CategoryMeta[] = [
   {
     "name": "Fitness",
     "slug": "fitness",
-    "description": "Hex dumbbells, speed jump ropes, whey isolate, creatine, shaker bottles, wrist wraps, and smart bands.",
+    "description": "Hex dumbbells, solid kettlebells, whey isolate, creatine, shaker bottles, and yoga essentials.",
     "icon": "Dumbbell",
-    "itemCount": 19
+    "itemCount": 16
   },
   {
     "name": "Beauty",
     "slug": "beauty",
-    "description": "Snail mucin, active serums, SPF 50 sunscreens, gentle cleansers, hair serums, coffee scrubs, and conditioners.",
+    "description": "Snail mucin, active serums, SPF 50 sunscreens, gentle cleansers, and grooming essentials.",
     "icon": "Sparkles",
-    "itemCount": 17
+    "itemCount": 13
   }
 ];

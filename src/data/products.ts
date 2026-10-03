@@ -46,7 +46,7 @@ export const products: Product[] = [
         "Microphone performance softens in windy outdoor conditions",
         "Treble can feel slightly warm for classical genres"
       ],
-      "verdict": "Unbeatable value for gym-goers and bass enthusiasts wanting ANC under \u20b91,500.",
+      "verdict": "Unbeatable value for gym-goers and bass enthusiasts wanting ANC under ₹1,500.",
       "sentiment": {
         "positive": 82,
         "neutral": 11,
@@ -875,7 +875,7 @@ export const products: Product[] = [
         "Bass is clean but not thunderous for extreme bass heads",
         "Glossy inner lid shows dust over time"
       ],
-      "verdict": "Best overall sound balance and brand reliability under \u20b91,500.",
+      "verdict": "Best overall sound balance and brand reliability under ₹1,500.",
       "sentiment": {
         "positive": 88,
         "neutral": 8,
@@ -1667,7 +1667,7 @@ export const products: Product[] = [
     "category": "Audio",
     "price": 999,
     "mrp": 3499,
-    "rating": 4.0,
+    "rating": 4,
     "reviewCount": 11800,
     "images": [
       "/products/aud-05.jpg"
@@ -1679,7 +1679,7 @@ export const products: Product[] = [
       "Hyper Sync technology for instant pairing upon opening the lid",
       "IPX5 sweat resistance rated for gym workouts and humidity"
     ],
-    "description": "At under \u20b91,000, Noise Buds VS104 punches well above its weight class with 13mm drivers and Hyper Sync instant pairing.",
+    "description": "At under ₹1,000, Noise Buds VS104 punches well above its weight class with 13mm drivers and Hyper Sync instant pairing.",
     "stock": 50,
     "deliveryDays": 1,
     "tags": [
@@ -1694,7 +1694,7 @@ export const products: Product[] = [
     ],
     "reviewSummary": {
       "pros": [
-        "Remarkable sound quality at under \u20b91,000",
+        "Remarkable sound quality at under ₹1,000",
         "Instant pairing without hesitation",
         "Strong battery longevity"
       ],
@@ -1703,7 +1703,7 @@ export const products: Product[] = [
         "Microphone captures some ambient background clatter",
         "Ear tips might need sizing swaps for small ears"
       ],
-      "verdict": "The best sub-\u20b91,000 wireless earbuds for tight budgets.",
+      "verdict": "The best sub-₹1,000 wireless earbuds for tight budgets.",
       "sentiment": {
         "positive": 80,
         "neutral": 12,
@@ -2118,7 +2118,7 @@ export const products: Product[] = [
         "Charging case lacks wireless charging",
         "Volume steps could be slightly more granular"
       ],
-      "verdict": "The undisputed #1 best overall earbuds under \u20b92,000 for music purity and gym durability.",
+      "verdict": "The undisputed #1 best overall earbuds under ₹2,000 for music purity and gym durability.",
       "sentiment": {
         "positive": 91,
         "neutral": 6,
@@ -2922,7 +2922,7 @@ export const products: Product[] = [
       "IPX4 water and sweat resistance",
       "Compact pocket-friendly case with Type-C port"
     ],
-    "description": "The ultrabudget champion. pTron Bassbuds Duo provides snappy connectivity, strong volume levels, and a comfortable in-ear seal for under \u20b9800.",
+    "description": "The ultrabudget champion. pTron Bassbuds Duo provides snappy connectivity, strong volume levels, and a comfortable in-ear seal for under ₹800.",
     "stock": 65,
     "deliveryDays": 2,
     "tags": [
@@ -4595,7 +4595,7 @@ export const products: Product[] = [
         "Recharges itself from empty in under an hour"
       ],
       "cons": [
-        "Heavy at 630g \u2014 not a pocket item",
+        "Heavy at 630g — not a pocket item",
         "High upfront investment",
         "Smooth finish scuffs if tossed with keys"
       ],
@@ -5839,7 +5839,7 @@ export const products: Product[] = [
         "No wireless charging",
         "No official IP68 rating (IP64 splash proof only)"
       ],
-      "verdict": "The performance and battery benchmark in the \u20b940,000 smartphone category.",
+      "verdict": "The performance and battery benchmark in the ₹40,000 smartphone category.",
       "sentiment": {
         "positive": 91,
         "neutral": 6,
@@ -7069,7 +7069,7 @@ export const products: Product[] = [
     ],
     "reviewSummary": {
       "pros": [
-        "1.5K AMOLED screen looks like a \u20b950,000 phone",
+        "1.5K AMOLED screen looks like a ₹50,000 phone",
         "Primary 200MP camera captures sharp daytime detail",
         "67W charger included in the box"
       ],
@@ -7078,7 +7078,7 @@ export const products: Product[] = [
         "Secondary cameras are mediocre",
         "Battery drain slightly higher on high brightness"
       ],
-      "verdict": "A visual treat in the \u20b920k-\u20b925k segment with flagship-grade screen and main shooter.",
+      "verdict": "A visual treat in the ₹20k-₹25k segment with flagship-grade screen and main shooter.",
       "sentiment": {
         "positive": 84,
         "neutral": 10,
@@ -7462,7 +7462,7 @@ export const products: Product[] = [
       "/products/mob-05.jpg"
     ],
     "bullets": [
-      "IP68 underwater protection \u2014 survive submersion in 1.5m of fresh water for 30 mins",
+      "IP68 underwater protection — survive submersion in 1.5m of fresh water for 30 mins",
       "144Hz 3D Curved pOLED display with Gorilla Glass 5",
       "Sony LYTIA 700C 50MP sensor with All-Pixel Focus and OIS",
       "Clean near-stock Android 14 experience with Hello UI and Moto Gestures",
@@ -7482,7 +7482,7 @@ export const products: Product[] = [
     ],
     "reviewSummary": {
       "pros": [
-        "True IP68 water protection at \u20b922,999",
+        "True IP68 water protection at ₹22,999",
         "Zero bloatware software experience",
         "Premium vegan leather finish in hand"
       ],
@@ -8701,7 +8701,7 @@ export const products: Product[] = [
     ],
     "bullets": [
       "Heavy-duty 900-Watt motor with double ball bearings for continuous heavy grinding",
-      "90 minutes continuous run-time rating \u2014 handles stubborn idli batter and turmeric root",
+      "90 minutes continuous run-time rating — handles stubborn idli batter and turmeric root",
       "3 robust stainless steel jars for wet grinding, dry grinding, and chutney paste",
       "High-grade stainless steel blades retain sharpness over years of tough usage",
       "Vibration-free heavy base with rotary 3-speed control and pulse mode"
@@ -9932,7 +9932,7 @@ export const products: Product[] = [
     "category": "Home & Kitchen",
     "price": 2899,
     "mrp": 6295,
-    "rating": 4.0,
+    "rating": 4,
     "reviewCount": 34100,
     "images": [
       "/products/hom-05.jpg"
@@ -10375,7 +10375,7 @@ export const products: Product[] = [
         "Lightweight and easy on wrists"
       ],
       "cons": [
-        "Dry iron only \u2014 no steam burst function",
+        "Dry iron only — no steam burst function",
         "Cord length is average (1.5 meters)",
         "Dial numbers are subtle"
       ],
@@ -11618,7 +11618,7 @@ export const products: Product[] = [
         "AOD mode reduces battery life to ~48 hours",
         "Step counter is mildly generous on bumpy bike rides"
       ],
-      "verdict": "A stylish, punchy AMOLED smartwatch from a trusted youth brand under \u20b92,000.",
+      "verdict": "A stylish, punchy AMOLED smartwatch from a trusted youth brand under ₹2,000.",
       "sentiment": {
         "positive": 83,
         "neutral": 10,
@@ -15742,7 +15742,7 @@ export const products: Product[] = [
         "Can roll up on loose cotton trackpants during deep squats",
         "Requires talcum powder storage in humid monsoon"
       ],
-      "verdict": "The best value sub-\u20b9500 home workout accessory for warmups and lower body toning.",
+      "verdict": "The best value sub-₹500 home workout accessory for warmups and lower body toning.",
       "sentiment": {
         "positive": 88,
         "neutral": 8,
@@ -17809,7 +17809,7 @@ export const products: Product[] = [
         "Plastic case lacks luxury feel",
         "Battery drains faster on gear 6"
       ],
-      "verdict": "Invaluable post-workout recovery gadget for runners and gym lifters under \u20b91,500.",
+      "verdict": "Invaluable post-workout recovery gadget for runners and gym lifters under ₹1,500.",
       "sentiment": {
         "positive": 86,
         "neutral": 9,
@@ -19462,7 +19462,7 @@ export const products: Product[] = [
         "No battery percentage indicator light",
         "Body groomer guard takes practice"
       ],
-      "verdict": "The most durable and versatile grooming kit under \u20b92,000.",
+      "verdict": "The most durable and versatile grooming kit under ₹2,000.",
       "sentiment": {
         "positive": 89,
         "neutral": 7,
@@ -20673,7 +20673,7 @@ export const products: Product[] = [
     "bullets": [
       "12th Gen Intel Core i5-1235U 10-core processor (up to 4.4 GHz) for effortless multitasking and code compilation",
       "16GB DDR4 3200MHz RAM and ultra-fast 512GB PCIe 4.0 NVMe M.2 SSD storage",
-      "15.6-inch Full HD (1920 x 1080) anti-glare display with 82% screen-to-body ratio and T\u00dcV Rheinland eye certification",
+      "15.6-inch Full HD (1920 x 1080) anti-glare display with 82% screen-to-body ratio and TÜV Rheinland eye certification",
       "Precision backlit chiclet keyboard with 1.4mm key travel and integrated fingerprint sensor on touchpad",
       "Military-grade MIL-STD-810H durability, 180-degree lay-flat hinge, and 6-hour battery life with fast charging"
     ],
@@ -20703,7 +20703,7 @@ export const products: Product[] = [
         "Webcam quality softens in dim indoor lighting",
         "Average gaming capability on integrated Intel Iris Xe"
       ],
-      "verdict": "The best value coding and development laptop under \u20b950,000 in India.",
+      "verdict": "The best value coding and development laptop under ₹50,000 in India.",
       "sentiment": {
         "positive": 86,
         "neutral": 10,
@@ -21093,7 +21093,7 @@ export const products: Product[] = [
       "Full-sized ergonomic backlit keyboard, physical HD webcam privacy shutter, and Dolby Audio stereo speakers",
       "Rapid Charge Boost gives 2 hours of runtime from a 15-minute quick top-up"
     ],
-    "description": "Boasting an 8-core, 16-thread Ryzen 7 powerhouse, the Lenovo IdeaPad Slim 3 is a workhorse for developers, data science enthusiasts, and tech creators demanding rapid compilation speeds under \u20b960,000.",
+    "description": "Boasting an 8-core, 16-thread Ryzen 7 powerhouse, the Lenovo IdeaPad Slim 3 is a workhorse for developers, data science enthusiasts, and tech creators demanding rapid compilation speeds under ₹60,000.",
     "stock": 35,
     "deliveryDays": 2,
     "tags": [
@@ -21118,7 +21118,7 @@ export const products: Product[] = [
         "Plastic chassis shows minor fingerprint smudges over time",
         "Charger brick is slightly bulky"
       ],
-      "verdict": "Unbeatable CPU performance for programming, virtual machines, and development under \u20b960,000.",
+      "verdict": "Unbeatable CPU performance for programming, virtual machines, and development under ₹60,000.",
       "sentiment": {
         "positive": 89,
         "neutral": 8,
@@ -21947,7 +21947,7 @@ export const products: Product[] = [
         "Keyboard lacks backlighting on this specific model",
         "Display viewing angles narrow past 45 degrees"
       ],
-      "verdict": "A reliable, household-name laptop for students and office workers needing 16GB RAM under \u20b955,000.",
+      "verdict": "A reliable, household-name laptop for students and office workers needing 16GB RAM under ₹55,000.",
       "sentiment": {
         "positive": 84,
         "neutral": 11,
@@ -22361,7 +22361,7 @@ export const products: Product[] = [
         "Wired only, no wireless mode",
         "Scroll wheel rubber grip can collect dust over time"
       ],
-      "verdict": "An unbeatable ergonomic wired mouse for gaming and desktop productivity under \u20b91,500.",
+      "verdict": "An unbeatable ergonomic wired mouse for gaming and desktop productivity under ₹1,500.",
       "sentiment": {
         "positive": 91,
         "neutral": 6,
@@ -23604,7 +23604,7 @@ export const products: Product[] = [
         "Non-detachable USB cable on standard edition",
         "Slight metallic ping on heavy key bottoming out"
       ],
-      "verdict": "Unrivaled mechanical keyboard build quality and value under \u20b93,000.",
+      "verdict": "Unrivaled mechanical keyboard build quality and value under ₹3,000.",
       "sentiment": {
         "positive": 87,
         "neutral": 9,
@@ -24433,7 +24433,7 @@ export const products: Product[] = [
         "Fixed stand without height adjustment",
         "Built-in speakers not included"
       ],
-      "verdict": "Top recommended curved monitor under \u20b99,000 for work, coding, and multimedia.",
+      "verdict": "Top recommended curved monitor under ₹9,000 for work, coding, and multimedia.",
       "sentiment": {
         "positive": 88,
         "neutral": 9,
@@ -24847,7 +24847,7 @@ export const products: Product[] = [
         "No 3.5mm wired audio backup jack",
         "Passive noise isolation only (no ANC)"
       ],
-      "verdict": "The undisputed king of lightweight wireless on-ear headphones under \u20b94,000.",
+      "verdict": "The undisputed king of lightweight wireless on-ear headphones under ₹4,000.",
       "sentiment": {
         "positive": 91,
         "neutral": 6,
@@ -25262,7 +25262,7 @@ export const products: Product[] = [
         "All-plastic exterior finish",
         "Microphone performance is basic in crowded outdoor areas"
       ],
-      "verdict": "A fun, bass-heavy wireless headphone for casual music lovers under \u20b93,000.",
+      "verdict": "A fun, bass-heavy wireless headphone for casual music lovers under ₹3,000.",
       "sentiment": {
         "positive": 85,
         "neutral": 10,
@@ -25677,7 +25677,7 @@ export const products: Product[] = [
         "No multi-device multipoint pairing",
         "Ear tips need careful sizing for optimal bass seal"
       ],
-      "verdict": "The best wireless neckband under \u20b92,000 for daily commuters, students, and runners.",
+      "verdict": "The best wireless neckband under ₹2,000 for daily commuters, students, and runners.",
       "sentiment": {
         "positive": 90,
         "neutral": 7,
@@ -26085,7 +26085,7 @@ export const products: Product[] = [
       "pros": [
         "60-hour battery life lasts over a week between charges",
         "IPX7 waterproof rating handles heavy monsoon rain and sweat",
-        "Incredible price-to-performance under \u20b91,300"
+        "Incredible price-to-performance under ₹1,300"
       ],
       "cons": [
         "Bass can slightly overpower mids on acoustic tracks",
@@ -26479,7 +26479,7 @@ export const products: Product[] = [
       "4.2 Liter non-stick cooking basket accommodates snacks and meals for family of 3-4",
       "360-degree rapid air circulation technology fries with up to 85% less oil than deep frying",
       "Intuitive digital LED touchscreen display with 8 pre-set cooking programs",
-      "Adjustable temperature control from 80\u00b0C to 200\u00b0C with 60-minute automatic shutoff timer",
+      "Adjustable temperature control from 80°C to 200°C with 60-minute automatic shutoff timer",
       "Non-stick food-grade basket is dishwasher safe for effortless after-dinner cleanup"
     ],
     "description": "Healthy frying made affordable. The Pigeon Healthifry 4.2L Digital Air Fryer lets you enjoy crispy samosas, french fries, and roasted chicken using up to 85% less oil, controlled by a sleek digital interface.",
@@ -26497,7 +26497,7 @@ export const products: Product[] = [
     ],
     "reviewSummary": {
       "pros": [
-        "Outstanding value for a digital touchscreen air fryer under \u20b93,000",
+        "Outstanding value for a digital touchscreen air fryer under ₹3,000",
         "4.2L basket holds generous portions of fries and nuggets",
         "Super easy to wash non-stick basket"
       ],
@@ -27333,7 +27333,7 @@ export const products: Product[] = [
         "700ml fits standard bike bottle holders snugly",
         "Slightly heavier than single-walled bottles"
       ],
-      "verdict": "The best everyday insulated sipper flask for office and gym hydration under \u20b9800.",
+      "verdict": "The best everyday insulated sipper flask for office and gym hydration under ₹800.",
       "sentiment": {
         "positive": 91,
         "neutral": 6,
@@ -28978,7 +28978,7 @@ export const products: Product[] = [
       "pros": [
         "Super lightweight; perfect for quick morning shirt touchups",
         "Heats up in under 30 seconds",
-        "Affordable price point under \u20b9900 backed by Bajaj reliability"
+        "Affordable price point under ₹900 backed by Bajaj reliability"
       ],
       "cons": [
         "Requires extra downward hand pressure on heavily wrinkled linen",
@@ -29805,7 +29805,7 @@ export const products: Product[] = [
       "pros": [
         "Trendy modern stonewashed fade looks great with white sneakers",
         "Comfortable stretch denim allows easy bike riding and walking",
-        "Great value under \u20b91,500"
+        "Great value under ₹1,500"
       ],
       "cons": [
         "Lighter fabric weight compared to heavy raw denim",
@@ -30226,7 +30226,7 @@ export const products: Product[] = [
         "Runs half a size small for wide feet",
         "White midsole requires occasional damp-cloth wiping"
       ],
-      "verdict": "A sharp, ultra-comfortable everyday sneaker from a global sports giant under \u20b91,800.",
+      "verdict": "A sharp, ultra-comfortable everyday sneaker from a global sports giant under ₹1,800.",
       "sentiment": {
         "positive": 89,
         "neutral": 8,
@@ -30632,7 +30632,7 @@ export const products: Product[] = [
     "reviewSummary": {
       "pros": [
         "Virtually indestructible durability for gym, morning jogs, and daily college use",
-        "Phenomenal value under \u20b91,000",
+        "Phenomenal value under ₹1,000",
         "Super lightweight with zero foot fatigue"
       ],
       "cons": [
@@ -31053,7 +31053,7 @@ export const products: Product[] = [
         "Step counter can register slight phantom steps during bumpy auto rides",
         "Battery drops faster when making multiple daily wrist calls"
       ],
-      "verdict": "The most feature-loaded Bluetooth calling smartwatch under \u20b91,500.",
+      "verdict": "The most feature-loaded Bluetooth calling smartwatch under ₹1,500.",
       "sentiment": {
         "positive": 86,
         "neutral": 10,
@@ -31443,7 +31443,7 @@ export const products: Product[] = [
       "100+ sports tracking modes, SpO2 blood oxygen monitor, and dynamic heart rate tracking",
       "IP67 water resistant against rain, splashes, and workout sweat"
     ],
-    "description": "Style meets smart connectivity. Fire-Boltt Ninja Call Pro Plus lets you dial contacts, track heart rate, and access Google Assistant/Siri directly from your wrist for under \u20b91,300.",
+    "description": "Style meets smart connectivity. Fire-Boltt Ninja Call Pro Plus lets you dial contacts, track heart rate, and access Google Assistant/Siri directly from your wrist for under ₹1,300.",
     "stock": 52,
     "deliveryDays": 2,
     "tags": [
@@ -31879,7 +31879,7 @@ export const products: Product[] = [
         "Base has standard padding; place laptop down gently",
         "Side bottle mesh pockets are snug for extra-wide bottles"
       ],
-      "verdict": "The best everyday 28L laptop backpack under \u20b91,500 from a world-renowned luggage brand.",
+      "verdict": "The best everyday 28L laptop backpack under ₹1,500 from a world-renowned luggage brand.",
       "sentiment": {
         "positive": 92,
         "neutral": 6,
@@ -32269,7 +32269,7 @@ export const products: Product[] = [
       "Vibrant teal blue exterior with weather-resistant polyester and contrast accents",
       "Padded breathable shoulder straps with adjustable sternum support"
     ],
-    "description": "Smart, colorful, and ready for Indian monsoons. The Safari Quill 26L comes with a dedicated rain cover and laptop compartment, making it an incredible value under \u20b91,000.",
+    "description": "Smart, colorful, and ready for Indian monsoons. The Safari Quill 26L comes with a dedicated rain cover and laptop compartment, making it an incredible value under ₹1,000.",
     "stock": 40,
     "deliveryDays": 2,
     "tags": [
@@ -32292,7 +32292,7 @@ export const products: Product[] = [
         "Bottle pocket elastic is slightly tight",
         "Padding is standard thickness"
       ],
-      "verdict": "An incredible value under \u20b91,000 with a free monsoon rain cover included.",
+      "verdict": "An incredible value under ₹1,000 with a free monsoon rain cover included.",
       "sentiment": {
         "positive": 88,
         "neutral": 8,
@@ -36415,7 +36415,7 @@ export const products: Product[] = [
       "pros": [
         "High density foam provides sturdy support with zero collapsing under weight",
         "Beveled smooth edges make gripping comfortable during balance poses",
-        "Incredible price for a pair of two bricks under \u20b9500"
+        "Incredible price for a pair of two bricks under ₹500"
       ],
       "cons": [
         "Can slip on polished tile floors if not placed on top of a yoga mat",
@@ -37241,14 +37241,14 @@ export const products: Product[] = [
       "pros": [
         "Noticeably fades fresh post-acne dark spots within 2-3 weeks",
         "Lightweight watery texture sinks in immediately with zero oiliness",
-        "Unbeatable price point for a daily Vitamin C serum under \u20b9450"
+        "Unbeatable price point for a daily Vitamin C serum under ₹450"
       ],
       "cons": [
         "Contains a mild citrus fragrance that sensitive noses may notice",
         "Must pair with sunscreen during daytime use",
         "Glass bottle requires careful handling on bathroom counters"
       ],
-      "verdict": "The most accessible and effective brightening Vitamin C serum for Indian skin under \u20b9500.",
+      "verdict": "The most accessible and effective brightening Vitamin C serum for Indian skin under ₹500.",
       "sentiment": {
         "positive": 86,
         "neutral": 9,
@@ -38898,7 +38898,7 @@ export const products: Product[] = [
       "pros": [
         "100% irritation-free for hyper-sensitive or eczema-prone faces",
         "Completely fragrance-free and leaves zero residue",
-        "Phenomenal everyday budget value under \u20b9350"
+        "Phenomenal everyday budget value under ₹350"
       ],
       "cons": [
         "Cannot remove waterproof mascara or heavy makeup on its own (use micellar water first)",
@@ -39311,7 +39311,7 @@ export const products: Product[] = [
     ],
     "reviewSummary": {
       "pros": [
-        "Outstanding value delivering 27g protein per scoop under \u20b91,800",
+        "Outstanding value delivering 27g protein per scoop under ₹1,800",
         "Digestive enzymes eliminate post-shake stomach cramps and heavy bloating",
         "Double Rich Chocolate flavor mixes easily with zero chalky lumps"
       ],
@@ -40105,18688 +40105,10017 @@ export const products: Product[] = [
         "price": 4299
       }
     ]
-  }
-,
-  {
-      "id": "fas-15",
-      "slug": "amazon-brand-symbol-mens-regular-fit-cotton-crew-neck-tshirt",
-      "title": "Amazon Brand - Symbol Men's Regular Fit Pure Cotton Graphic T-Shirt (Jet Black)",
-      "brand": "Symbol",
-      "category": "Fashion",
-      "price": 349,
-      "mrp": 799,
-      "rating": 4.2,
-      "reviewCount": 18240,
-      "images": [
-          "/products/fas-15.jpg"
-      ],
-      "bullets": [
-          "100% Premium Combed Cotton fabric for soft hand feel and all-day breathable comfort",
-          "Regular fit with ribbed crew neck collar that maintains shape after repeated washing",
-          "Durable bio-washed finish resists color fading and reduces surface fuzzing",
-          "Versatile everyday essential ideal for casual outings, lounging, and layering",
-          "Tagless neck label design ensures scratch-free neck comfort throughout the day"
-      ],
-      "description": "Crafted from 100% breathable combed cotton, this Symbol graphic crew neck t-shirt features a sleek chest print badge and regular fit that pairs effortlessly with jeans or chinos. The bio-washed jersey fabric stays soft and rich in color wash after wash.",
-      "stock": 85,
-      "deliveryDays": 1,
-      "tags": [
-          "fashion",
-          "clothing",
-          "clothes",
-          "cloths",
-          "tshirt",
-          "t-shirt",
-          "tee",
-          "cotton",
-          "crew neck",
-          "casual",
-          "under 500",
-          "symbol"
-      ],
-      "reviewSummary": {
-          "pros": [
-              "Remarkably soft and lightweight 100% cotton fabric",
-              "Ribbed neck collar stays snug without sagging or stretching out",
-              "Exceptional value under \u20b9400 for daily rotation wear"
-          ],
-          "cons": [
-              "Slight shrinkage (around 2-3%) on high-heat dryer cycles",
-              "Slightly relaxed fit; order a size down if you prefer a slim silhouette",
-              "Black shade requires gentle cold wash to preserve deepest tone"
-          ],
-          "verdict": "A reliable, comfortable pure cotton staple delivering unbeatable everyday value.",
-          "sentiment": {
-              "positive": 84,
-              "neutral": 11,
-              "negative": 5
-          }
-      },
-      "priceHistory": [
-          {
-              "date": "2026-09-02",
-              "price": 363
-          },
-          {
-              "date": "2026-09-03",
-              "price": 356
-          },
-          {
-              "date": "2026-09-04",
-              "price": 349
-          },
-          {
-              "date": "2026-09-05",
-              "price": 391
-          },
-          {
-              "date": "2026-09-06",
-              "price": 384
-          },
-          {
-              "date": "2026-09-07",
-              "price": 377
-          },
-          {
-              "date": "2026-09-08",
-              "price": 370
-          },
-          {
-              "date": "2026-09-09",
-              "price": 363
-          },
-          {
-              "date": "2026-09-10",
-              "price": 356
-          },
-          {
-              "date": "2026-09-11",
-              "price": 349
-          },
-          {
-              "date": "2026-09-12",
-              "price": 391
-          },
-          {
-              "date": "2026-09-13",
-              "price": 384
-          },
-          {
-              "date": "2026-09-14",
-              "price": 377
-          },
-          {
-              "date": "2026-09-15",
-              "price": 370
-          },
-          {
-              "date": "2026-09-16",
-              "price": 363
-          },
-          {
-              "date": "2026-09-17",
-              "price": 356
-          },
-          {
-              "date": "2026-09-18",
-              "price": 349
-          },
-          {
-              "date": "2026-09-19",
-              "price": 391
-          },
-          {
-              "date": "2026-09-20",
-              "price": 384
-          },
-          {
-              "date": "2026-09-21",
-              "price": 377
-          },
-          {
-              "date": "2026-09-22",
-              "price": 370
-          },
-          {
-              "date": "2026-09-23",
-              "price": 363
-          },
-          {
-              "date": "2026-09-24",
-              "price": 356
-          },
-          {
-              "date": "2026-09-25",
-              "price": 349
-          },
-          {
-              "date": "2026-09-26",
-              "price": 391
-          },
-          {
-              "date": "2026-09-27",
-              "price": 384
-          },
-          {
-              "date": "2026-09-28",
-              "price": 377
-          },
-          {
-              "date": "2026-09-29",
-              "price": 370
-          },
-          {
-              "date": "2026-09-30",
-              "price": 363
-          },
-          {
-              "date": "2026-10-01",
-              "price": 356
-          },
-          {
-              "date": "2026-10-02",
-              "price": 349
-          }
-      ]
   },
   {
-      "id": "fas-16",
-      "slug": "symbol-mens-regular-fit-cotton-pique-polo-tshirts-pack-of-4",
-      "title": "Amazon Brand - Symbol Men's Regular Fit Cotton Pique Polo T-Shirts (Multicolor Pack of 4)",
-      "brand": "Symbol",
-      "category": "Fashion",
-      "price": 899,
-      "mrp": 1999,
-      "rating": 4.3,
-      "reviewCount": 24500,
-      "images": [
-            "/products/fas-16.jpg"
+    "id": "fas-15",
+    "slug": "amazon-brand-symbol-mens-regular-fit-cotton-crew-neck-tshirt",
+    "title": "Amazon Brand - Symbol Men's Regular Fit Pure Cotton Graphic T-Shirt (Jet Black)",
+    "brand": "Symbol",
+    "category": "Fashion",
+    "price": 349,
+    "mrp": 799,
+    "rating": 4.2,
+    "reviewCount": 18240,
+    "images": [
+      "/products/fas-15.jpg"
+    ],
+    "bullets": [
+      "100% Premium Combed Cotton fabric for soft hand feel and all-day breathable comfort",
+      "Regular fit with ribbed crew neck collar that maintains shape after repeated washing",
+      "Durable bio-washed finish resists color fading and reduces surface fuzzing",
+      "Versatile everyday essential ideal for casual outings, lounging, and layering",
+      "Tagless neck label design ensures scratch-free neck comfort throughout the day"
+    ],
+    "description": "Crafted from 100% breathable combed cotton, this Symbol graphic crew neck t-shirt features a sleek chest print badge and regular fit that pairs effortlessly with jeans or chinos. The bio-washed jersey fabric stays soft and rich in color wash after wash.",
+    "stock": 85,
+    "deliveryDays": 1,
+    "tags": [
+      "fashion",
+      "clothing",
+      "clothes",
+      "cloths",
+      "tshirt",
+      "t-shirt",
+      "tee",
+      "cotton",
+      "crew neck",
+      "casual",
+      "under 500",
+      "symbol"
+    ],
+    "reviewSummary": {
+      "pros": [
+        "Remarkably soft and lightweight 100% cotton fabric",
+        "Ribbed neck collar stays snug without sagging or stretching out",
+        "Exceptional value under ₹400 for daily rotation wear"
       ],
-      "bullets": [
-            "Value combo pack of 4 premium cotton pique knit polo t-shirts in emerald green, coral, slate blue, and heather grey",
-            "Classic ribbed knit polo collar with durable two-button placket and woven neck branding",
-            "100% breathable combed cotton with pique honeycomb texture for smart casual wear",
-            "Fade-resistant bio-wash treatment ensures colors stay rich and vibrant across multiple washes",
-            "Comfortable regular fit with reinforced side slit vents for enhanced breathability and movement"
+      "cons": [
+        "Slight shrinkage (around 2-3%) on high-heat dryer cycles",
+        "Slightly relaxed fit; order a size down if you prefer a slim silhouette",
+        "Black shade requires gentle cold wash to preserve deepest tone"
       ],
-      "description": "Supercharge your weekly wardrobe with this versatile 4-pack of cotton pique polo shirts. Featuring vibrant emerald green, warm coral, slate blue, and classic heather grey, these polos effortlessly bridge office casuals and weekend style.",
-      "stock": 65,
-      "deliveryDays": 2,
-      "tags": [
-            "fashion",
-            "clothing",
-            "clothes",
-            "cloths",
-            "polo",
-            "polo t-shirt",
-            "tshirt",
-            "t-shirt",
-            "tee",
-            "pack of 4",
-            "combo",
-            "cotton",
-            "smart casual",
-            "symbol",
-            "mens"
-      ],
-      "reviewSummary": {
-            "pros": [
-                  "Tremendous value getting 4 distinct premium polo shirts in one pack",
-                  "Sturdy ribbed collar stays neat and does not curl after machine washing",
-                  "Breathable pique knit fabric feels soft on the skin in hot weather"
-            ],
-            "cons": [
-                  "Pique weave is slightly heavier than basic thin tees",
-                  "Order true-to-size; fit is standard regular rather than ultra-slim",
-                  "Wash with similar colors to maintain brightness"
-            ],
-            "verdict": "An absolute steal for daily office casuals and weekend outings with 4 distinct colorways.",
-            "sentiment": {
-                  "positive": 89,
-                  "neutral": 8,
-                  "negative": 3
-            }
+      "verdict": "A reliable, comfortable pure cotton staple delivering unbeatable everyday value.",
+      "sentiment": {
+        "positive": 84,
+        "neutral": 11,
+        "negative": 5
+      }
+    },
+    "priceHistory": [
+      {
+        "date": "2026-09-02",
+        "price": 363
       },
-      "priceHistory": [
-            {
-                  "date": "2026-09-02",
-                  "price": 1006
-            },
-            {
-                  "date": "2026-09-03",
-                  "price": 899
-            },
-            {
-                  "date": "2026-09-04",
-                  "price": 899
-            },
-            {
-                  "date": "2026-09-05",
-                  "price": 916
-            },
-            {
-                  "date": "2026-09-06",
-                  "price": 899
-            },
-            {
-                  "date": "2026-09-07",
-                  "price": 952
-            },
-            {
-                  "date": "2026-09-08",
-                  "price": 916
-            },
-            {
-                  "date": "2026-09-09",
-                  "price": 1006
-            },
-            {
-                  "date": "2026-09-10",
-                  "price": 899
-            },
-            {
-                  "date": "2026-09-11",
-                  "price": 916
-            },
-            {
-                  "date": "2026-09-12",
-                  "price": 952
-            },
-            {
-                  "date": "2026-09-13",
-                  "price": 899
-            },
-            {
-                  "date": "2026-09-14",
-                  "price": 916
-            },
-            {
-                  "date": "2026-09-15",
-                  "price": 899
-            },
-            {
-                  "date": "2026-09-16",
-                  "price": 1006
-            },
-            {
-                  "date": "2026-09-17",
-                  "price": 952
-            },
-            {
-                  "date": "2026-09-18",
-                  "price": 899
-            },
-            {
-                  "date": "2026-09-19",
-                  "price": 899
-            },
-            {
-                  "date": "2026-09-20",
-                  "price": 916
-            },
-            {
-                  "date": "2026-09-21",
-                  "price": 899
-            },
-            {
-                  "date": "2026-09-22",
-                  "price": 952
-            },
-            {
-                  "date": "2026-09-23",
-                  "price": 1006
-            },
-            {
-                  "date": "2026-09-24",
-                  "price": 899
-            },
-            {
-                  "date": "2026-09-25",
-                  "price": 899
-            },
-            {
-                  "date": "2026-09-26",
-                  "price": 916
-            },
-            {
-                  "date": "2026-09-27",
-                  "price": 952
-            },
-            {
-                  "date": "2026-09-28",
-                  "price": 899
-            },
-            {
-                  "date": "2026-09-29",
-                  "price": 916
-            },
-            {
-                  "date": "2026-09-30",
-                  "price": 1006
-            },
-            {
-                  "date": "2026-10-01",
-                  "price": 899
-            },
-            {
-                  "date": "2026-10-02",
-                  "price": 952
-            }
-      ]
-},
-  {
-      "id": "fas-17",
-      "slug": "only-womens-graphic-print-loose-fit-cotton-crop-tshirt",
-      "title": "ONLY Women's Graphic Print Loose Fit Cotton Crop T-Shirt (Midnight Black)",
-      "brand": "ONLY",
-      "category": "Fashion",
-      "price": 399,
-      "mrp": 999,
-      "rating": 4.5,
-      "reviewCount": 14200,
-      "images": [
-            "/products/fas-17.jpg"
-      ],
-      "bullets": [
-            "100% Premium lightweight cotton jersey with an airy, ultra-soft feel on the skin",
-            "Trendy relaxed cropped silhouette pairs perfectly with high-waisted jeans, cargo pants, and skirts",
-            "Striking monochrome skeleton peace hand graphic print made with eco-friendly durable inks",
-            "Ribbed crew neckline and dropped shoulders create a chic street-style aesthetic",
-            "Pre-shrunk fabric ensures shape and soft hand-feel retain integrity after machine washing"
-      ],
-      "description": "Channel effortlessly cool street vibes with the ONLY Women's Graphic Crop Tee. Designed in breathable midnight black cotton with a bold peace-sign hand graphic, it is the ultimate casual companion for campus days, coffee runs, and weekend concerts.",
-      "stock": 55,
-      "deliveryDays": 1,
-      "tags": [
-            "fashion",
-            "women",
-            "women fashion",
-            "women clothes",
-            "girls clothes",
-            "crop top",
-            "crop tee",
-            "tshirt",
-            "t-shirt",
-            "tee",
-            "graphic",
-            "printed",
-            "only",
-            "cotton",
-            "under 500",
-            "clothes",
-            "clothing"
-      ],
-      "reviewSummary": {
-            "pros": [
-                  "Super flattering boxy cropped cut that looks great with high-rise jeans",
-                  "Soft breathable pure cotton fabric that stays cool in summer",
-                  "Bold graphic does not crack or peel after multiple washes"
-            ],
-            "cons": [
-                  "Cropped hemline sits slightly above the navel; check size guide for length",
-                  "Best washed in cold water inside out to protect deep black color",
-                  "Relaxed loose fit may feel oversized if expecting tight fit"
-            ],
-            "verdict": "Trendy, premium street-style cropped tee at an irresistible under-\u20b9500 price point.",
-            "sentiment": {
-                  "positive": 91,
-                  "neutral": 6,
-                  "negative": 3
-            }
+      {
+        "date": "2026-09-03",
+        "price": 356
       },
-      "priceHistory": [
-            {
-                  "date": "2026-09-02",
-                  "price": 446
-            },
-            {
-                  "date": "2026-09-03",
-                  "price": 399
-            },
-            {
-                  "date": "2026-09-04",
-                  "price": 399
-            },
-            {
-                  "date": "2026-09-05",
-                  "price": 406
-            },
-            {
-                  "date": "2026-09-06",
-                  "price": 399
-            },
-            {
-                  "date": "2026-09-07",
-                  "price": 422
-            },
-            {
-                  "date": "2026-09-08",
-                  "price": 406
-            },
-            {
-                  "date": "2026-09-09",
-                  "price": 446
-            },
-            {
-                  "date": "2026-09-10",
-                  "price": 399
-            },
-            {
-                  "date": "2026-09-11",
-                  "price": 406
-            },
-            {
-                  "date": "2026-09-12",
-                  "price": 422
-            },
-            {
-                  "date": "2026-09-13",
-                  "price": 399
-            },
-            {
-                  "date": "2026-09-14",
-                  "price": 406
-            },
-            {
-                  "date": "2026-09-15",
-                  "price": 399
-            },
-            {
-                  "date": "2026-09-16",
-                  "price": 446
-            },
-            {
-                  "date": "2026-09-17",
-                  "price": 422
-            },
-            {
-                  "date": "2026-09-18",
-                  "price": 399
-            },
-            {
-                  "date": "2026-09-19",
-                  "price": 399
-            },
-            {
-                  "date": "2026-09-20",
-                  "price": 406
-            },
-            {
-                  "date": "2026-09-21",
-                  "price": 399
-            },
-            {
-                  "date": "2026-09-22",
-                  "price": 422
-            },
-            {
-                  "date": "2026-09-23",
-                  "price": 446
-            },
-            {
-                  "date": "2026-09-24",
-                  "price": 399
-            },
-            {
-                  "date": "2026-09-25",
-                  "price": 399
-            },
-            {
-                  "date": "2026-09-26",
-                  "price": 406
-            },
-            {
-                  "date": "2026-09-27",
-                  "price": 422
-            },
-            {
-                  "date": "2026-09-28",
-                  "price": 399
-            },
-            {
-                  "date": "2026-09-29",
-                  "price": 406
-            },
-            {
-                  "date": "2026-09-30",
-                  "price": 446
-            },
-            {
-                  "date": "2026-10-01",
-                  "price": 399
-            },
-            {
-                  "date": "2026-10-02",
-                  "price": 422
-            }
-      ]
-},
-  {
-      "id": "fas-18",
-      "slug": "dennis-lingo-mens-slim-fit-cotton-casual-shirt-sky-blue",
-      "title": "Dennis Lingo Men's Slim Fit 100% Cotton Formal & Casual Full Sleeve Shirt (Royal Blue)",
-      "brand": "Dennis Lingo",
-      "category": "Fashion",
-      "price": 489,
-      "mrp": 1849,
-      "rating": 4.1,
-      "reviewCount": 16750,
-      "images": [
-          "/products/fas-18.jpg"
-      ],
-      "bullets": [
-          "100% Pure breathable premium cotton fabric with a refined matte weave",
-          "Contemporary slim fit cut with curved hemline that looks sharp tucked in or untucked",
-          "Classic spread collar and single front patch pocket with durable tonal buttons",
-          "Pre-washed to eliminate unexpected shrinkage and ensure immediate buttery softness",
-          "Roll-up full sleeves with button tabs for versatile styling across seasons"
-      ],
-      "description": "A crisp modern wardrobe staple. The Dennis Lingo Casual Cotton Shirt features a tailored slim fit silhouette in vibrant royal blue. Pair it with dark wash jeans or formal trousers for effortless charm.",
-      "stock": 50,
-      "deliveryDays": 2,
-      "tags": [
-          "fashion",
-          "clothing",
-          "clothes",
-          "cloths",
-          "shirt",
-          "casual shirt",
-          "full sleeve",
-          "cotton",
-          "slim fit",
-          "dennis lingo",
-          "under 500"
-      ],
-      "reviewSummary": {
-          "pros": [
-              "Sharp tailoring and handsome spread collar design",
-              "Pure breathable cotton feels pleasant during warm office hours",
-              "Unbeatable price point for a full-sleeve button-down shirt"
-          ],
-          "cons": [
-              "Slim fit runs slightly narrow at the shoulders; size up if broad-shouldered",
-              "Requires light ironing to remove post-wash creases",
-              "Cuff buttons need gentle handling"
-          ],
-          "verdict": "A sleek, flattering casual shirt offering immense value under \u20b9500.",
-          "sentiment": {
-              "positive": 81,
-              "neutral": 12,
-              "negative": 7
-          }
+      {
+        "date": "2026-09-04",
+        "price": 349
       },
-      "priceHistory": [
-          {
-              "date": "2026-09-02",
-              "price": 509
-          },
-          {
-              "date": "2026-09-03",
-              "price": 499
-          },
-          {
-              "date": "2026-09-04",
-              "price": 489
-          },
-          {
-              "date": "2026-09-05",
-              "price": 548
-          },
-          {
-              "date": "2026-09-06",
-              "price": 538
-          },
-          {
-              "date": "2026-09-07",
-              "price": 528
-          },
-          {
-              "date": "2026-09-08",
-              "price": 518
-          },
-          {
-              "date": "2026-09-09",
-              "price": 509
-          },
-          {
-              "date": "2026-09-10",
-              "price": 499
-          },
-          {
-              "date": "2026-09-11",
-              "price": 489
-          },
-          {
-              "date": "2026-09-12",
-              "price": 548
-          },
-          {
-              "date": "2026-09-13",
-              "price": 538
-          },
-          {
-              "date": "2026-09-14",
-              "price": 528
-          },
-          {
-              "date": "2026-09-15",
-              "price": 518
-          },
-          {
-              "date": "2026-09-16",
-              "price": 509
-          },
-          {
-              "date": "2026-09-17",
-              "price": 499
-          },
-          {
-              "date": "2026-09-18",
-              "price": 489
-          },
-          {
-              "date": "2026-09-19",
-              "price": 548
-          },
-          {
-              "date": "2026-09-20",
-              "price": 538
-          },
-          {
-              "date": "2026-09-21",
-              "price": 528
-          },
-          {
-              "date": "2026-09-22",
-              "price": 518
-          },
-          {
-              "date": "2026-09-23",
-              "price": 509
-          },
-          {
-              "date": "2026-09-24",
-              "price": 499
-          },
-          {
-              "date": "2026-09-25",
-              "price": 489
-          },
-          {
-              "date": "2026-09-26",
-              "price": 548
-          },
-          {
-              "date": "2026-09-27",
-              "price": 538
-          },
-          {
-              "date": "2026-09-28",
-              "price": 528
-          },
-          {
-              "date": "2026-09-29",
-              "price": 518
-          },
-          {
-              "date": "2026-09-30",
-              "price": 509
-          },
-          {
-              "date": "2026-10-01",
-              "price": 499
-          },
-          {
-              "date": "2026-10-02",
-              "price": 489
-          }
-      ]
+      {
+        "date": "2026-09-05",
+        "price": 391
+      },
+      {
+        "date": "2026-09-06",
+        "price": 384
+      },
+      {
+        "date": "2026-09-07",
+        "price": 377
+      },
+      {
+        "date": "2026-09-08",
+        "price": 370
+      },
+      {
+        "date": "2026-09-09",
+        "price": 363
+      },
+      {
+        "date": "2026-09-10",
+        "price": 356
+      },
+      {
+        "date": "2026-09-11",
+        "price": 349
+      },
+      {
+        "date": "2026-09-12",
+        "price": 391
+      },
+      {
+        "date": "2026-09-13",
+        "price": 384
+      },
+      {
+        "date": "2026-09-14",
+        "price": 377
+      },
+      {
+        "date": "2026-09-15",
+        "price": 370
+      },
+      {
+        "date": "2026-09-16",
+        "price": 363
+      },
+      {
+        "date": "2026-09-17",
+        "price": 356
+      },
+      {
+        "date": "2026-09-18",
+        "price": 349
+      },
+      {
+        "date": "2026-09-19",
+        "price": 391
+      },
+      {
+        "date": "2026-09-20",
+        "price": 384
+      },
+      {
+        "date": "2026-09-21",
+        "price": 377
+      },
+      {
+        "date": "2026-09-22",
+        "price": 370
+      },
+      {
+        "date": "2026-09-23",
+        "price": 363
+      },
+      {
+        "date": "2026-09-24",
+        "price": 356
+      },
+      {
+        "date": "2026-09-25",
+        "price": 349
+      },
+      {
+        "date": "2026-09-26",
+        "price": 391
+      },
+      {
+        "date": "2026-09-27",
+        "price": 384
+      },
+      {
+        "date": "2026-09-28",
+        "price": 377
+      },
+      {
+        "date": "2026-09-29",
+        "price": 370
+      },
+      {
+        "date": "2026-09-30",
+        "price": 363
+      },
+      {
+        "date": "2026-10-01",
+        "price": 356
+      },
+      {
+        "date": "2026-10-02",
+        "price": 349
+      }
+    ]
   },
   {
-      "id": "fas-19",
-      "slug": "aurelia-womens-cotton-straight-fit-kurti-crimson-red",
-      "title": "AURELIA Women's Cotton Straight Fit Kurti with Mandarin Collar (Crimson Red)",
-      "brand": "AURELIA",
-      "category": "Fashion",
-      "price": 499,
-      "mrp": 1199,
-      "rating": 4.3,
-      "reviewCount": 18600,
-      "images": [
-            "/products/fas-19.jpg"
+    "id": "fas-16",
+    "slug": "symbol-mens-regular-fit-cotton-pique-polo-tshirts-pack-of-4",
+    "title": "Amazon Brand - Symbol Men's Regular Fit Cotton Pique Polo T-Shirts (Multicolor Pack of 4)",
+    "brand": "Symbol",
+    "category": "Fashion",
+    "price": 899,
+    "mrp": 1999,
+    "rating": 4.3,
+    "reviewCount": 24500,
+    "images": [
+      "/products/fas-16.jpg"
+    ],
+    "bullets": [
+      "Value combo pack of 4 premium cotton pique knit polo t-shirts in emerald green, coral, slate blue, and heather grey",
+      "Classic ribbed knit polo collar with durable two-button placket and woven neck branding",
+      "100% breathable combed cotton with pique honeycomb texture for smart casual wear",
+      "Fade-resistant bio-wash treatment ensures colors stay rich and vibrant across multiple washes",
+      "Comfortable regular fit with reinforced side slit vents for enhanced breathability and movement"
+    ],
+    "description": "Supercharge your weekly wardrobe with this versatile 4-pack of cotton pique polo shirts. Featuring vibrant emerald green, warm coral, slate blue, and classic heather grey, these polos effortlessly bridge office casuals and weekend style.",
+    "stock": 65,
+    "deliveryDays": 2,
+    "tags": [
+      "fashion",
+      "clothing",
+      "clothes",
+      "cloths",
+      "polo",
+      "polo t-shirt",
+      "tshirt",
+      "t-shirt",
+      "tee",
+      "pack of 4",
+      "combo",
+      "cotton",
+      "smart casual",
+      "symbol",
+      "mens"
+    ],
+    "reviewSummary": {
+      "pros": [
+        "Tremendous value getting 4 distinct premium polo shirts in one pack",
+        "Sturdy ribbed collar stays neat and does not curl after machine washing",
+        "Breathable pique knit fabric feels soft on the skin in hot weather"
       ],
-      "bullets": [
-            "100% Pure breathable cotton fabric tailored for comfortable daily, office, and campus wear",
-            "Straight fit silhouette with elegant vertical pin-tucks on the bodice for a slender look",
-            "Contemporary mandarin collar with front button-down placket and shimmering buttons",
-            "Three-quarter sleeves with neat fold-over cuffs and side slits for effortless movement",
-            "Vibrant crimson red color with color-fast dye that resists fading wash after wash"
+      "cons": [
+        "Pique weave is slightly heavier than basic thin tees",
+        "Order true-to-size; fit is standard regular rather than ultra-slim",
+        "Wash with similar colors to maintain brightness"
       ],
-      "description": "Add timeless grace to your daily ethnic rotation with the AURELIA Straight Fit Cotton Kurti. Crafted from 100% pure cotton in striking crimson red, it features refined chest pin-tucks and a mandarin collar, making it ideal for office, college, or casual gatherings.",
-      "stock": 80,
-      "deliveryDays": 1,
-      "tags": [
-            "fashion",
-            "women",
-            "women fashion",
-            "women clothes",
-            "girls clothes",
-            "kurti",
-            "kurtis",
-            "kurta",
-            "ethnic",
-            "traditional",
-            "under 500",
-            "cotton kurti",
-            "aurelia",
-            "clothes",
-            "clothing",
-            "red kurti"
-      ],
-      "reviewSummary": {
-            "pros": [
-                  "Extremely breathable and soft pure cotton fabric for hot Indian weather",
-                  "Subtle pin-tuck detailing gives a chic and tailored silhouette",
-                  "Fantastic price point under \u20b9500 for a branded Aurelia kurti"
-            ],
-            "cons": [
-                  "Requires gentle cold washing on first cycle to prevent dye transfer",
-                  "Pure cotton requires light steam ironing after drying",
-                  "Straight fit; if you have broader hips consider sizing up"
-            ],
-            "verdict": "The quintessential comfortable daily-wear ethnic kurti combining elegance and unbeatable value.",
-            "sentiment": {
-                  "positive": 87,
-                  "neutral": 9,
-                  "negative": 4
-            }
+      "verdict": "An absolute steal for daily office casuals and weekend outings with 4 distinct colorways.",
+      "sentiment": {
+        "positive": 89,
+        "neutral": 8,
+        "negative": 3
+      }
+    },
+    "priceHistory": [
+      {
+        "date": "2026-09-02",
+        "price": 1006
       },
-      "priceHistory": [
-            {
-                  "date": "2026-09-02",
-                  "price": 558
-            },
-            {
-                  "date": "2026-09-03",
-                  "price": 499
-            },
-            {
-                  "date": "2026-09-04",
-                  "price": 499
-            },
-            {
-                  "date": "2026-09-05",
-                  "price": 508
-            },
-            {
-                  "date": "2026-09-06",
-                  "price": 499
-            },
-            {
-                  "date": "2026-09-07",
-                  "price": 528
-            },
-            {
-                  "date": "2026-09-08",
-                  "price": 508
-            },
-            {
-                  "date": "2026-09-09",
-                  "price": 558
-            },
-            {
-                  "date": "2026-09-10",
-                  "price": 499
-            },
-            {
-                  "date": "2026-09-11",
-                  "price": 508
-            },
-            {
-                  "date": "2026-09-12",
-                  "price": 528
-            },
-            {
-                  "date": "2026-09-13",
-                  "price": 499
-            },
-            {
-                  "date": "2026-09-14",
-                  "price": 508
-            },
-            {
-                  "date": "2026-09-15",
-                  "price": 499
-            },
-            {
-                  "date": "2026-09-16",
-                  "price": 558
-            },
-            {
-                  "date": "2026-09-17",
-                  "price": 528
-            },
-            {
-                  "date": "2026-09-18",
-                  "price": 499
-            },
-            {
-                  "date": "2026-09-19",
-                  "price": 499
-            },
-            {
-                  "date": "2026-09-20",
-                  "price": 508
-            },
-            {
-                  "date": "2026-09-21",
-                  "price": 499
-            },
-            {
-                  "date": "2026-09-22",
-                  "price": 528
-            },
-            {
-                  "date": "2026-09-23",
-                  "price": 558
-            },
-            {
-                  "date": "2026-09-24",
-                  "price": 499
-            },
-            {
-                  "date": "2026-09-25",
-                  "price": 499
-            },
-            {
-                  "date": "2026-09-26",
-                  "price": 508
-            },
-            {
-                  "date": "2026-09-27",
-                  "price": 528
-            },
-            {
-                  "date": "2026-09-28",
-                  "price": 499
-            },
-            {
-                  "date": "2026-09-29",
-                  "price": 508
-            },
-            {
-                  "date": "2026-09-30",
-                  "price": 558
-            },
-            {
-                  "date": "2026-10-01",
-                  "price": 499
-            },
-            {
-                  "date": "2026-10-02",
-                  "price": 528
-            }
-      ]
-},
+      {
+        "date": "2026-09-03",
+        "price": 899
+      },
+      {
+        "date": "2026-09-04",
+        "price": 899
+      },
+      {
+        "date": "2026-09-05",
+        "price": 916
+      },
+      {
+        "date": "2026-09-06",
+        "price": 899
+      },
+      {
+        "date": "2026-09-07",
+        "price": 952
+      },
+      {
+        "date": "2026-09-08",
+        "price": 916
+      },
+      {
+        "date": "2026-09-09",
+        "price": 1006
+      },
+      {
+        "date": "2026-09-10",
+        "price": 899
+      },
+      {
+        "date": "2026-09-11",
+        "price": 916
+      },
+      {
+        "date": "2026-09-12",
+        "price": 952
+      },
+      {
+        "date": "2026-09-13",
+        "price": 899
+      },
+      {
+        "date": "2026-09-14",
+        "price": 916
+      },
+      {
+        "date": "2026-09-15",
+        "price": 899
+      },
+      {
+        "date": "2026-09-16",
+        "price": 1006
+      },
+      {
+        "date": "2026-09-17",
+        "price": 952
+      },
+      {
+        "date": "2026-09-18",
+        "price": 899
+      },
+      {
+        "date": "2026-09-19",
+        "price": 899
+      },
+      {
+        "date": "2026-09-20",
+        "price": 916
+      },
+      {
+        "date": "2026-09-21",
+        "price": 899
+      },
+      {
+        "date": "2026-09-22",
+        "price": 952
+      },
+      {
+        "date": "2026-09-23",
+        "price": 1006
+      },
+      {
+        "date": "2026-09-24",
+        "price": 899
+      },
+      {
+        "date": "2026-09-25",
+        "price": 899
+      },
+      {
+        "date": "2026-09-26",
+        "price": 916
+      },
+      {
+        "date": "2026-09-27",
+        "price": 952
+      },
+      {
+        "date": "2026-09-28",
+        "price": 899
+      },
+      {
+        "date": "2026-09-29",
+        "price": 916
+      },
+      {
+        "date": "2026-09-30",
+        "price": 1006
+      },
+      {
+        "date": "2026-10-01",
+        "price": 899
+      },
+      {
+        "date": "2026-10-02",
+        "price": 952
+      }
+    ]
+  },
   {
-      "id": "fas-20",
-      "slug": "biba-womens-georgette-embroidered-anarkali-kurta-sharara-set",
-      "title": "BIBA Women's Georgette Embroidered Anarkali Kurta with Sharara & Dupatta Set (Pastel Mint Green)",
-      "brand": "BIBA",
-      "category": "Fashion",
-      "price": 1499,
-      "mrp": 3999,
-      "rating": 4.6,
-      "reviewCount": 9450,
-      "images": [
-            "/products/fas-20.jpg"
+    "id": "fas-17",
+    "slug": "only-womens-graphic-print-loose-fit-cotton-crop-tshirt",
+    "title": "ONLY Women's Graphic Print Loose Fit Cotton Crop T-Shirt (Midnight Black)",
+    "brand": "ONLY",
+    "category": "Fashion",
+    "price": 399,
+    "mrp": 999,
+    "rating": 4.5,
+    "reviewCount": 14200,
+    "images": [
+      "/products/fas-17.jpg"
+    ],
+    "bullets": [
+      "100% Premium lightweight cotton jersey with an airy, ultra-soft feel on the skin",
+      "Trendy relaxed cropped silhouette pairs perfectly with high-waisted jeans, cargo pants, and skirts",
+      "Striking monochrome skeleton peace hand graphic print made with eco-friendly durable inks",
+      "Ribbed crew neckline and dropped shoulders create a chic street-style aesthetic",
+      "Pre-shrunk fabric ensures shape and soft hand-feel retain integrity after machine washing"
+    ],
+    "description": "Channel effortlessly cool street vibes with the ONLY Women's Graphic Crop Tee. Designed in breathable midnight black cotton with a bold peace-sign hand graphic, it is the ultimate casual companion for campus days, coffee runs, and weekend concerts.",
+    "stock": 55,
+    "deliveryDays": 1,
+    "tags": [
+      "fashion",
+      "women",
+      "women fashion",
+      "women clothes",
+      "girls clothes",
+      "crop top",
+      "crop tee",
+      "tshirt",
+      "t-shirt",
+      "tee",
+      "graphic",
+      "printed",
+      "only",
+      "cotton",
+      "under 500",
+      "clothes",
+      "clothing"
+    ],
+    "reviewSummary": {
+      "pros": [
+        "Super flattering boxy cropped cut that looks great with high-rise jeans",
+        "Soft breathable pure cotton fabric that stays cool in summer",
+        "Bold graphic does not crack or peel after multiple washes"
       ],
-      "bullets": [
-            "Complete 3-piece festive ethnic set: Flared Anarkali kurta, tiered flared sharara, and sheer dupatta",
-            "Delicate Lucknowi Chikankari inspired thread and sequin embroidery across the yoke and dupatta",
-            "Flowy lightweight georgette outer fabric paired with a soft, breathable santoon lining",
-            "Full-length tiered sharara with comfortable elasticated waistband for hassle-free movement",
-            "Graceful sheer dupatta finished with elegant zari lace borders and shimmering booties"
+      "cons": [
+        "Cropped hemline sits slightly above the navel; check size guide for length",
+        "Best washed in cold water inside out to protect deep black color",
+        "Relaxed loose fit may feel oversized if expecting tight fit"
       ],
-      "description": "Radiate celebratory elegance with the BIBA Embroidered Anarkali Kurta & Sharara Set. Designed in refreshing pastel mint green with intricate tone-on-tone embroidery and delicate sequin shimmer, this ensemble is tailor-made for weddings, festivals, and family celebrations.",
-      "stock": 35,
-      "deliveryDays": 2,
-      "tags": [
-            "fashion",
-            "women",
-            "women fashion",
-            "women clothes",
-            "girls clothes",
-            "kurti",
-            "kurta",
-            "anarkali",
-            "sharara",
-            "kurta set",
-            "ethnic",
-            "festive",
-            "biba",
-            "clothes",
-            "clothing",
-            "traditional"
-      ],
-      "reviewSummary": {
-            "pros": [
-                  "Breathtaking Chikankari-style sequin embroidery looks ultra-luxurious",
-                  "Full inner lining prevents any transparency while keeping it cool",
-                  "Flattering tiered sharara flares beautifully when walking or dancing"
-            ],
-            "cons": [
-                  "Dry clean recommended for the first 2 washes to protect delicate sequins",
-                  "Dupatta length is generous and requires careful draping pins",
-                  "Sharara length may need slight hemming for heights under 5'2\""
-            ],
-            "verdict": "A head-turning festive set delivering designer bridal and sangeet aesthetics at a fraction of boutique prices.",
-            "sentiment": {
-                  "positive": 93,
-                  "neutral": 5,
-                  "negative": 2
-            }
+      "verdict": "Trendy, premium street-style cropped tee at an irresistible under-₹500 price point.",
+      "sentiment": {
+        "positive": 91,
+        "neutral": 6,
+        "negative": 3
+      }
+    },
+    "priceHistory": [
+      {
+        "date": "2026-09-02",
+        "price": 446
       },
-      "priceHistory": [
-            {
-                  "date": "2026-09-02",
-                  "price": 1678
-            },
-            {
-                  "date": "2026-09-03",
-                  "price": 1499
-            },
-            {
-                  "date": "2026-09-04",
-                  "price": 1499
-            },
-            {
-                  "date": "2026-09-05",
-                  "price": 1528
-            },
-            {
-                  "date": "2026-09-06",
-                  "price": 1499
-            },
-            {
-                  "date": "2026-09-07",
-                  "price": 1588
-            },
-            {
-                  "date": "2026-09-08",
-                  "price": 1528
-            },
-            {
-                  "date": "2026-09-09",
-                  "price": 1678
-            },
-            {
-                  "date": "2026-09-10",
-                  "price": 1499
-            },
-            {
-                  "date": "2026-09-11",
-                  "price": 1528
-            },
-            {
-                  "date": "2026-09-12",
-                  "price": 1588
-            },
-            {
-                  "date": "2026-09-13",
-                  "price": 1499
-            },
-            {
-                  "date": "2026-09-14",
-                  "price": 1528
-            },
-            {
-                  "date": "2026-09-15",
-                  "price": 1499
-            },
-            {
-                  "date": "2026-09-16",
-                  "price": 1678
-            },
-            {
-                  "date": "2026-09-17",
-                  "price": 1588
-            },
-            {
-                  "date": "2026-09-18",
-                  "price": 1499
-            },
-            {
-                  "date": "2026-09-19",
-                  "price": 1499
-            },
-            {
-                  "date": "2026-09-20",
-                  "price": 1528
-            },
-            {
-                  "date": "2026-09-21",
-                  "price": 1499
-            },
-            {
-                  "date": "2026-09-22",
-                  "price": 1588
-            },
-            {
-                  "date": "2026-09-23",
-                  "price": 1678
-            },
-            {
-                  "date": "2026-09-24",
-                  "price": 1499
-            },
-            {
-                  "date": "2026-09-25",
-                  "price": 1499
-            },
-            {
-                  "date": "2026-09-26",
-                  "price": 1528
-            },
-            {
-                  "date": "2026-09-27",
-                  "price": 1588
-            },
-            {
-                  "date": "2026-09-28",
-                  "price": 1499
-            },
-            {
-                  "date": "2026-09-29",
-                  "price": 1528
-            },
-            {
-                  "date": "2026-09-30",
-                  "price": 1678
-            },
-            {
-                  "date": "2026-10-01",
-                  "price": 1499
-            },
-            {
-                  "date": "2026-10-02",
-                  "price": 1588
-            }
-      ]
-},
+      {
+        "date": "2026-09-03",
+        "price": 399
+      },
+      {
+        "date": "2026-09-04",
+        "price": 399
+      },
+      {
+        "date": "2026-09-05",
+        "price": 406
+      },
+      {
+        "date": "2026-09-06",
+        "price": 399
+      },
+      {
+        "date": "2026-09-07",
+        "price": 422
+      },
+      {
+        "date": "2026-09-08",
+        "price": 406
+      },
+      {
+        "date": "2026-09-09",
+        "price": 446
+      },
+      {
+        "date": "2026-09-10",
+        "price": 399
+      },
+      {
+        "date": "2026-09-11",
+        "price": 406
+      },
+      {
+        "date": "2026-09-12",
+        "price": 422
+      },
+      {
+        "date": "2026-09-13",
+        "price": 399
+      },
+      {
+        "date": "2026-09-14",
+        "price": 406
+      },
+      {
+        "date": "2026-09-15",
+        "price": 399
+      },
+      {
+        "date": "2026-09-16",
+        "price": 446
+      },
+      {
+        "date": "2026-09-17",
+        "price": 422
+      },
+      {
+        "date": "2026-09-18",
+        "price": 399
+      },
+      {
+        "date": "2026-09-19",
+        "price": 399
+      },
+      {
+        "date": "2026-09-20",
+        "price": 406
+      },
+      {
+        "date": "2026-09-21",
+        "price": 399
+      },
+      {
+        "date": "2026-09-22",
+        "price": 422
+      },
+      {
+        "date": "2026-09-23",
+        "price": 446
+      },
+      {
+        "date": "2026-09-24",
+        "price": 399
+      },
+      {
+        "date": "2026-09-25",
+        "price": 399
+      },
+      {
+        "date": "2026-09-26",
+        "price": 406
+      },
+      {
+        "date": "2026-09-27",
+        "price": 422
+      },
+      {
+        "date": "2026-09-28",
+        "price": 399
+      },
+      {
+        "date": "2026-09-29",
+        "price": 406
+      },
+      {
+        "date": "2026-09-30",
+        "price": 446
+      },
+      {
+        "date": "2026-10-01",
+        "price": 399
+      },
+      {
+        "date": "2026-10-02",
+        "price": 422
+      }
+    ]
+  },
   {
-      "id": "fas-21",
-      "slug": "suta-womens-traditional-banarasi-art-silk-saree-royal-violet",
-      "title": "Suta Women's Traditional Banarasi Art Silk Saree with Zari Woven Border & Blouse Piece (Royal Violet)",
-      "brand": "Suta",
-      "category": "Fashion",
-      "price": 899,
-      "mrp": 2499,
-      "rating": 4.4,
-      "reviewCount": 12300,
-      "images": [
-            "/products/fas-21.jpg"
+    "id": "fas-18",
+    "slug": "dennis-lingo-mens-slim-fit-cotton-casual-shirt-sky-blue",
+    "title": "Dennis Lingo Men's Slim Fit 100% Cotton Formal & Casual Full Sleeve Shirt (Royal Blue)",
+    "brand": "Dennis Lingo",
+    "category": "Fashion",
+    "price": 489,
+    "mrp": 1849,
+    "rating": 4.1,
+    "reviewCount": 16750,
+    "images": [
+      "/products/fas-18.jpg"
+    ],
+    "bullets": [
+      "100% Pure breathable premium cotton fabric with a refined matte weave",
+      "Contemporary slim fit cut with curved hemline that looks sharp tucked in or untucked",
+      "Classic spread collar and single front patch pocket with durable tonal buttons",
+      "Pre-washed to eliminate unexpected shrinkage and ensure immediate buttery softness",
+      "Roll-up full sleeves with button tabs for versatile styling across seasons"
+    ],
+    "description": "A crisp modern wardrobe staple. The Dennis Lingo Casual Cotton Shirt features a tailored slim fit silhouette in vibrant royal blue. Pair it with dark wash jeans or formal trousers for effortless charm.",
+    "stock": 50,
+    "deliveryDays": 2,
+    "tags": [
+      "fashion",
+      "clothing",
+      "clothes",
+      "cloths",
+      "shirt",
+      "casual shirt",
+      "full sleeve",
+      "cotton",
+      "slim fit",
+      "dennis lingo",
+      "under 500"
+    ],
+    "reviewSummary": {
+      "pros": [
+        "Sharp tailoring and handsome spread collar design",
+        "Pure breathable cotton feels pleasant during warm office hours",
+        "Unbeatable price point for a full-sleeve button-down shirt"
       ],
-      "bullets": [
-            "Exquisite Banarasi art silk fabric with a luxurious sheen and lightweight, easy-to-drape texture",
-            "Rich golden zari woven floral motifs across the wide border and grand ornamental pallu",
-            "Saree length: 5.5 meters with an unstitched 0.8 meter matching blouse piece included",
-            "Deep royal violet hue with contrast golden border suitable for festive puja and wedding occasions",
-            "Wrinkle-resistant fabric ensures pleats stay neat and crisp throughout long ceremonies"
+      "cons": [
+        "Slim fit runs slightly narrow at the shoulders; size up if broad-shouldered",
+        "Requires light ironing to remove post-wash creases",
+        "Cuff buttons need gentle handling"
       ],
-      "description": "Celebrate Indian heritage with the Suta Banarasi Art Silk Saree. Featuring intricate golden zari weave along majestic borders and an opulent pallu in regal violet, this saree drapes like a dream while feeling effortlessly light.",
-      "stock": 60,
-      "deliveryDays": 2,
-      "tags": [
-            "fashion",
-            "women",
-            "women fashion",
-            "women clothes",
-            "girls clothes",
-            "saree",
-            "sari",
-            "banarasi",
-            "silk saree",
-            "ethnic",
-            "festive",
-            "traditional",
-            "suta",
-            "clothes",
-            "clothing"
-      ],
-      "reviewSummary": {
-            "pros": [
-                  "Lustrous golden zari border and pallu weave gleam beautifully under evening lighting",
-                  "Surprisingly lightweight and easy to pleat compared to heavy raw silk",
-                  "Includes generous blouse fabric that matches the ornate border"
-            ],
-            "cons": [
-                  "Art silk weave has a slight initial stiffness that softens after first steam press",
-                  "Blouse piece requires tailoring prior to first wear",
-                  "Dry clean or gentle hand wash recommended"
-            ],
-            "verdict": "Royal Banarasi elegance made accessible, comfortable, and picture-perfect for weddings and festivals.",
-            "sentiment": {
-                  "positive": 88,
-                  "neutral": 8,
-                  "negative": 4
-            }
+      "verdict": "A sleek, flattering casual shirt offering immense value under ₹500.",
+      "sentiment": {
+        "positive": 81,
+        "neutral": 12,
+        "negative": 7
+      }
+    },
+    "priceHistory": [
+      {
+        "date": "2026-09-02",
+        "price": 509
       },
-      "priceHistory": [
-            {
-                  "date": "2026-09-02",
-                  "price": 1006
-            },
-            {
-                  "date": "2026-09-03",
-                  "price": 899
-            },
-            {
-                  "date": "2026-09-04",
-                  "price": 899
-            },
-            {
-                  "date": "2026-09-05",
-                  "price": 916
-            },
-            {
-                  "date": "2026-09-06",
-                  "price": 899
-            },
-            {
-                  "date": "2026-09-07",
-                  "price": 952
-            },
-            {
-                  "date": "2026-09-08",
-                  "price": 916
-            },
-            {
-                  "date": "2026-09-09",
-                  "price": 1006
-            },
-            {
-                  "date": "2026-09-10",
-                  "price": 899
-            },
-            {
-                  "date": "2026-09-11",
-                  "price": 916
-            },
-            {
-                  "date": "2026-09-12",
-                  "price": 952
-            },
-            {
-                  "date": "2026-09-13",
-                  "price": 899
-            },
-            {
-                  "date": "2026-09-14",
-                  "price": 916
-            },
-            {
-                  "date": "2026-09-15",
-                  "price": 899
-            },
-            {
-                  "date": "2026-09-16",
-                  "price": 1006
-            },
-            {
-                  "date": "2026-09-17",
-                  "price": 952
-            },
-            {
-                  "date": "2026-09-18",
-                  "price": 899
-            },
-            {
-                  "date": "2026-09-19",
-                  "price": 899
-            },
-            {
-                  "date": "2026-09-20",
-                  "price": 916
-            },
-            {
-                  "date": "2026-09-21",
-                  "price": 899
-            },
-            {
-                  "date": "2026-09-22",
-                  "price": 952
-            },
-            {
-                  "date": "2026-09-23",
-                  "price": 1006
-            },
-            {
-                  "date": "2026-09-24",
-                  "price": 899
-            },
-            {
-                  "date": "2026-09-25",
-                  "price": 899
-            },
-            {
-                  "date": "2026-09-26",
-                  "price": 916
-            },
-            {
-                  "date": "2026-09-27",
-                  "price": 952
-            },
-            {
-                  "date": "2026-09-28",
-                  "price": 899
-            },
-            {
-                  "date": "2026-09-29",
-                  "price": 916
-            },
-            {
-                  "date": "2026-09-30",
-                  "price": 1006
-            },
-            {
-                  "date": "2026-10-01",
-                  "price": 899
-            },
-            {
-                  "date": "2026-10-02",
-                  "price": 952
-            }
-      ]
-},
+      {
+        "date": "2026-09-03",
+        "price": 499
+      },
+      {
+        "date": "2026-09-04",
+        "price": 489
+      },
+      {
+        "date": "2026-09-05",
+        "price": 548
+      },
+      {
+        "date": "2026-09-06",
+        "price": 538
+      },
+      {
+        "date": "2026-09-07",
+        "price": 528
+      },
+      {
+        "date": "2026-09-08",
+        "price": 518
+      },
+      {
+        "date": "2026-09-09",
+        "price": 509
+      },
+      {
+        "date": "2026-09-10",
+        "price": 499
+      },
+      {
+        "date": "2026-09-11",
+        "price": 489
+      },
+      {
+        "date": "2026-09-12",
+        "price": 548
+      },
+      {
+        "date": "2026-09-13",
+        "price": 538
+      },
+      {
+        "date": "2026-09-14",
+        "price": 528
+      },
+      {
+        "date": "2026-09-15",
+        "price": 518
+      },
+      {
+        "date": "2026-09-16",
+        "price": 509
+      },
+      {
+        "date": "2026-09-17",
+        "price": 499
+      },
+      {
+        "date": "2026-09-18",
+        "price": 489
+      },
+      {
+        "date": "2026-09-19",
+        "price": 548
+      },
+      {
+        "date": "2026-09-20",
+        "price": 538
+      },
+      {
+        "date": "2026-09-21",
+        "price": 528
+      },
+      {
+        "date": "2026-09-22",
+        "price": 518
+      },
+      {
+        "date": "2026-09-23",
+        "price": 509
+      },
+      {
+        "date": "2026-09-24",
+        "price": 499
+      },
+      {
+        "date": "2026-09-25",
+        "price": 489
+      },
+      {
+        "date": "2026-09-26",
+        "price": 548
+      },
+      {
+        "date": "2026-09-27",
+        "price": 538
+      },
+      {
+        "date": "2026-09-28",
+        "price": 528
+      },
+      {
+        "date": "2026-09-29",
+        "price": 518
+      },
+      {
+        "date": "2026-09-30",
+        "price": 509
+      },
+      {
+        "date": "2026-10-01",
+        "price": 499
+      },
+      {
+        "date": "2026-10-02",
+        "price": 489
+      }
+    ]
+  },
   {
-      "id": "fas-22",
-      "slug": "max-womens-floral-print-fit-flare-midi-dress-cherry-red",
-      "title": "Max Women's Floral Print Fit & Flare Midi Dress with Statement Belt (Cherry Red)",
-      "brand": "Max",
-      "category": "Fashion",
-      "price": 699,
-      "mrp": 1599,
-      "rating": 4.3,
-      "reviewCount": 8700,
-      "images": [
-            "/products/fas-22.jpg"
+    "id": "fas-19",
+    "slug": "aurelia-womens-cotton-straight-fit-kurti-crimson-red",
+    "title": "AURELIA Women's Cotton Straight Fit Kurti with Mandarin Collar (Crimson Red)",
+    "brand": "AURELIA",
+    "category": "Fashion",
+    "price": 499,
+    "mrp": 1199,
+    "rating": 4.3,
+    "reviewCount": 18600,
+    "images": [
+      "/products/fas-19.jpg"
+    ],
+    "bullets": [
+      "100% Pure breathable cotton fabric tailored for comfortable daily, office, and campus wear",
+      "Straight fit silhouette with elegant vertical pin-tucks on the bodice for a slender look",
+      "Contemporary mandarin collar with front button-down placket and shimmering buttons",
+      "Three-quarter sleeves with neat fold-over cuffs and side slits for effortless movement",
+      "Vibrant crimson red color with color-fast dye that resists fading wash after wash"
+    ],
+    "description": "Add timeless grace to your daily ethnic rotation with the AURELIA Straight Fit Cotton Kurti. Crafted from 100% pure cotton in striking crimson red, it features refined chest pin-tucks and a mandarin collar, making it ideal for office, college, or casual gatherings.",
+    "stock": 80,
+    "deliveryDays": 1,
+    "tags": [
+      "fashion",
+      "women",
+      "women fashion",
+      "women clothes",
+      "girls clothes",
+      "kurti",
+      "kurtis",
+      "kurta",
+      "ethnic",
+      "traditional",
+      "under 500",
+      "cotton kurti",
+      "aurelia",
+      "clothes",
+      "clothing",
+      "red kurti"
+    ],
+    "reviewSummary": {
+      "pros": [
+        "Extremely breathable and soft pure cotton fabric for hot Indian weather",
+        "Subtle pin-tuck detailing gives a chic and tailored silhouette",
+        "Fantastic price point under ₹500 for a branded Aurelia kurti"
       ],
-      "bullets": [
-            "Flattering fit and flare silhouette with feminine crossover V-neckline",
-            "Vibrant all-over botanical and floral print set against a cheerful cherry red base",
-            "Includes an adjustable faux woven statement buckle belt to cinch the waist comfortably",
-            "Breathable lightweight rayon-blend fabric with a flowy tiered hemline",
-            "Cap sleeve design suitable for sunny brunch dates, vacations, and casual outings"
+      "cons": [
+        "Requires gentle cold washing on first cycle to prevent dye transfer",
+        "Pure cotton requires light steam ironing after drying",
+        "Straight fit; if you have broader hips consider sizing up"
       ],
-      "description": "Embrace effortless daytime romance with the Max Floral Fit & Flare Midi Dress. Crafted with a lively floral pattern on bright cherry red and complemented by a woven buckle belt, it delivers instant style for weekends and vacations.",
-      "stock": 48,
-      "deliveryDays": 2,
-      "tags": [
-            "fashion",
-            "women",
-            "women fashion",
-            "women clothes",
-            "girls clothes",
-            "dress",
-            "midi dress",
-            "floral dress",
-            "western",
-            "casual",
-            "max",
-            "clothes",
-            "clothing"
-      ],
-      "reviewSummary": {
-            "pros": [
-                  "Included woven belt cinches waist for an instantly flattering hourglass look",
-                  "Flowy, breathable rayon fabric drapes gracefully without clinging",
-                  "Vibrant cheerful cherry red floral print garners constant compliments"
-            ],
-            "cons": [
-                  "Crossover V-neckline may require a safety pin for modesty preference",
-                  "Rayon fabric softens further with wash but benefits from gentle steam",
-                  "Belt is detachable; store carefully to avoid misplacing"
-            ],
-            "verdict": "A breezy, feminine vacation dress that transitions seamlessly from weekend strolls to dinner dates.",
-            "sentiment": {
-                  "positive": 86,
-                  "neutral": 10,
-                  "negative": 4
-            }
+      "verdict": "The quintessential comfortable daily-wear ethnic kurti combining elegance and unbeatable value.",
+      "sentiment": {
+        "positive": 87,
+        "neutral": 9,
+        "negative": 4
+      }
+    },
+    "priceHistory": [
+      {
+        "date": "2026-09-02",
+        "price": 558
       },
-      "priceHistory": [
-            {
-                  "date": "2026-09-02",
-                  "price": 782
-            },
-            {
-                  "date": "2026-09-03",
-                  "price": 699
-            },
-            {
-                  "date": "2026-09-04",
-                  "price": 699
-            },
-            {
-                  "date": "2026-09-05",
-                  "price": 712
-            },
-            {
-                  "date": "2026-09-06",
-                  "price": 699
-            },
-            {
-                  "date": "2026-09-07",
-                  "price": 740
-            },
-            {
-                  "date": "2026-09-08",
-                  "price": 712
-            },
-            {
-                  "date": "2026-09-09",
-                  "price": 782
-            },
-            {
-                  "date": "2026-09-10",
-                  "price": 699
-            },
-            {
-                  "date": "2026-09-11",
-                  "price": 712
-            },
-            {
-                  "date": "2026-09-12",
-                  "price": 740
-            },
-            {
-                  "date": "2026-09-13",
-                  "price": 699
-            },
-            {
-                  "date": "2026-09-14",
-                  "price": 712
-            },
-            {
-                  "date": "2026-09-15",
-                  "price": 699
-            },
-            {
-                  "date": "2026-09-16",
-                  "price": 782
-            },
-            {
-                  "date": "2026-09-17",
-                  "price": 740
-            },
-            {
-                  "date": "2026-09-18",
-                  "price": 699
-            },
-            {
-                  "date": "2026-09-19",
-                  "price": 699
-            },
-            {
-                  "date": "2026-09-20",
-                  "price": 712
-            },
-            {
-                  "date": "2026-09-21",
-                  "price": 699
-            },
-            {
-                  "date": "2026-09-22",
-                  "price": 740
-            },
-            {
-                  "date": "2026-09-23",
-                  "price": 782
-            },
-            {
-                  "date": "2026-09-24",
-                  "price": 699
-            },
-            {
-                  "date": "2026-09-25",
-                  "price": 699
-            },
-            {
-                  "date": "2026-09-26",
-                  "price": 712
-            },
-            {
-                  "date": "2026-09-27",
-                  "price": 740
-            },
-            {
-                  "date": "2026-09-28",
-                  "price": 699
-            },
-            {
-                  "date": "2026-09-29",
-                  "price": 712
-            },
-            {
-                  "date": "2026-09-30",
-                  "price": 782
-            },
-            {
-                  "date": "2026-10-01",
-                  "price": 699
-            },
-            {
-                  "date": "2026-10-02",
-                  "price": 740
-            }
-      ]
-},
+      {
+        "date": "2026-09-03",
+        "price": 499
+      },
+      {
+        "date": "2026-09-04",
+        "price": 499
+      },
+      {
+        "date": "2026-09-05",
+        "price": 508
+      },
+      {
+        "date": "2026-09-06",
+        "price": 499
+      },
+      {
+        "date": "2026-09-07",
+        "price": 528
+      },
+      {
+        "date": "2026-09-08",
+        "price": 508
+      },
+      {
+        "date": "2026-09-09",
+        "price": 558
+      },
+      {
+        "date": "2026-09-10",
+        "price": 499
+      },
+      {
+        "date": "2026-09-11",
+        "price": 508
+      },
+      {
+        "date": "2026-09-12",
+        "price": 528
+      },
+      {
+        "date": "2026-09-13",
+        "price": 499
+      },
+      {
+        "date": "2026-09-14",
+        "price": 508
+      },
+      {
+        "date": "2026-09-15",
+        "price": 499
+      },
+      {
+        "date": "2026-09-16",
+        "price": 558
+      },
+      {
+        "date": "2026-09-17",
+        "price": 528
+      },
+      {
+        "date": "2026-09-18",
+        "price": 499
+      },
+      {
+        "date": "2026-09-19",
+        "price": 499
+      },
+      {
+        "date": "2026-09-20",
+        "price": 508
+      },
+      {
+        "date": "2026-09-21",
+        "price": 499
+      },
+      {
+        "date": "2026-09-22",
+        "price": 528
+      },
+      {
+        "date": "2026-09-23",
+        "price": 558
+      },
+      {
+        "date": "2026-09-24",
+        "price": 499
+      },
+      {
+        "date": "2026-09-25",
+        "price": 499
+      },
+      {
+        "date": "2026-09-26",
+        "price": 508
+      },
+      {
+        "date": "2026-09-27",
+        "price": 528
+      },
+      {
+        "date": "2026-09-28",
+        "price": 499
+      },
+      {
+        "date": "2026-09-29",
+        "price": 508
+      },
+      {
+        "date": "2026-09-30",
+        "price": 558
+      },
+      {
+        "date": "2026-10-01",
+        "price": 499
+      },
+      {
+        "date": "2026-10-02",
+        "price": 528
+      }
+    ]
+  },
   {
-      "id": "fas-23",
-      "slug": "levis-womens-711-distressed-skinny-fit-stretch-denim-jeans",
-      "title": "Levi's Women's 711 Distressed Ankle-Length Skinny Fit Denim Jeans (Indigo Blue)",
-      "brand": "Levi's",
-      "category": "Fashion",
-      "price": 1799,
-      "mrp": 3999,
-      "rating": 4.5,
-      "reviewCount": 15800,
-      "images": [
-            "/products/fas-23.jpg"
+    "id": "fas-20",
+    "slug": "biba-womens-georgette-embroidered-anarkali-kurta-sharara-set",
+    "title": "BIBA Women's Georgette Embroidered Anarkali Kurta with Sharara & Dupatta Set (Pastel Mint Green)",
+    "brand": "BIBA",
+    "category": "Fashion",
+    "price": 1499,
+    "mrp": 3999,
+    "rating": 4.6,
+    "reviewCount": 9450,
+    "images": [
+      "/products/fas-20.jpg"
+    ],
+    "bullets": [
+      "Complete 3-piece festive ethnic set: Flared Anarkali kurta, tiered flared sharara, and sheer dupatta",
+      "Delicate Lucknowi Chikankari inspired thread and sequin embroidery across the yoke and dupatta",
+      "Flowy lightweight georgette outer fabric paired with a soft, breathable santoon lining",
+      "Full-length tiered sharara with comfortable elasticated waistband for hassle-free movement",
+      "Graceful sheer dupatta finished with elegant zari lace borders and shimmering booties"
+    ],
+    "description": "Radiate celebratory elegance with the BIBA Embroidered Anarkali Kurta & Sharara Set. Designed in refreshing pastel mint green with intricate tone-on-tone embroidery and delicate sequin shimmer, this ensemble is tailor-made for weddings, festivals, and family celebrations.",
+    "stock": 35,
+    "deliveryDays": 2,
+    "tags": [
+      "fashion",
+      "women",
+      "women fashion",
+      "women clothes",
+      "girls clothes",
+      "kurti",
+      "kurta",
+      "anarkali",
+      "sharara",
+      "kurta set",
+      "ethnic",
+      "festive",
+      "biba",
+      "clothes",
+      "clothing",
+      "traditional"
+    ],
+    "reviewSummary": {
+      "pros": [
+        "Breathtaking Chikankari-style sequin embroidery looks ultra-luxurious",
+        "Full inner lining prevents any transparency while keeping it cool",
+        "Flattering tiered sharara flares beautifully when walking or dancing"
       ],
-      "bullets": [
-            "Iconic Levi's 711 Skinny Fit designed to contour through the hip and thigh with ankle-hugging cut",
-            "Innovative Levi's Sculpt Hyperstretch fabric holds shape and flatters curves all day without bagging",
-            "Edgy knee distress detailing and playful novelty patches for an on-trend street aesthetic",
-            "Mid-rise waistline with five-pocket styling and signature red tab back pocket embroidery",
-            "Ankle-skimming 28-inch inseam perfect for showcasing sneakers, boots, or heels"
+      "cons": [
+        "Dry clean recommended for the first 2 washes to protect delicate sequins",
+        "Dupatta length is generous and requires careful draping pins",
+        "Sharara length may need slight hemming for heights under 5'2\""
       ],
-      "description": "Designed to flatter, hold, and lift, the Levi's 711 Skinny Jeans deliver legendary denim craftsmanship. Features subtle knee abrasions and playful vintage patch details in super-stretchy authentic denim for unstoppable all-day comfort.",
-      "stock": 40,
-      "deliveryDays": 2,
-      "tags": [
-            "fashion",
-            "women",
-            "women fashion",
-            "women clothes",
-            "girls clothes",
-            "jeans",
-            "denim",
-            "skinny jeans",
-            "levis",
-            "clothes",
-            "clothing"
-      ],
-      "reviewSummary": {
-            "pros": [
-                  "Exceptional Hyperstretch recovery hugs curves without bagging at the knees",
-                  "Trendy patch embroidery and distressed knee add authentic vintage cool",
-                  "Ankle-crop length sits cleanly above sneakers and sandals"
-            ],
-            "cons": [
-                  "Distressed knee threads require care when stepping into the jeans",
-                  "Snug skinny fit; size up one waist size for a relaxed boyfriend fit",
-                  "Dark indigo wash should be washed inside out in cold water"
-            ],
-            "verdict": "The gold standard in flattering women's denim with expressive street-style flair.",
-            "sentiment": {
-                  "positive": 90,
-                  "neutral": 7,
-                  "negative": 3
-            }
+      "verdict": "A head-turning festive set delivering designer bridal and sangeet aesthetics at a fraction of boutique prices.",
+      "sentiment": {
+        "positive": 93,
+        "neutral": 5,
+        "negative": 2
+      }
+    },
+    "priceHistory": [
+      {
+        "date": "2026-09-02",
+        "price": 1678
       },
-      "priceHistory": [
-            {
-                  "date": "2026-09-02",
-                  "price": 2014
-            },
-            {
-                  "date": "2026-09-03",
-                  "price": 1799
-            },
-            {
-                  "date": "2026-09-04",
-                  "price": 1799
-            },
-            {
-                  "date": "2026-09-05",
-                  "price": 1834
-            },
-            {
-                  "date": "2026-09-06",
-                  "price": 1799
-            },
-            {
-                  "date": "2026-09-07",
-                  "price": 1906
-            },
-            {
-                  "date": "2026-09-08",
-                  "price": 1834
-            },
-            {
-                  "date": "2026-09-09",
-                  "price": 2014
-            },
-            {
-                  "date": "2026-09-10",
-                  "price": 1799
-            },
-            {
-                  "date": "2026-09-11",
-                  "price": 1834
-            },
-            {
-                  "date": "2026-09-12",
-                  "price": 1906
-            },
-            {
-                  "date": "2026-09-13",
-                  "price": 1799
-            },
-            {
-                  "date": "2026-09-14",
-                  "price": 1834
-            },
-            {
-                  "date": "2026-09-15",
-                  "price": 1799
-            },
-            {
-                  "date": "2026-09-16",
-                  "price": 2014
-            },
-            {
-                  "date": "2026-09-17",
-                  "price": 1906
-            },
-            {
-                  "date": "2026-09-18",
-                  "price": 1799
-            },
-            {
-                  "date": "2026-09-19",
-                  "price": 1799
-            },
-            {
-                  "date": "2026-09-20",
-                  "price": 1834
-            },
-            {
-                  "date": "2026-09-21",
-                  "price": 1799
-            },
-            {
-                  "date": "2026-09-22",
-                  "price": 1906
-            },
-            {
-                  "date": "2026-09-23",
-                  "price": 2014
-            },
-            {
-                  "date": "2026-09-24",
-                  "price": 1799
-            },
-            {
-                  "date": "2026-09-25",
-                  "price": 1799
-            },
-            {
-                  "date": "2026-09-26",
-                  "price": 1834
-            },
-            {
-                  "date": "2026-09-27",
-                  "price": 1906
-            },
-            {
-                  "date": "2026-09-28",
-                  "price": 1799
-            },
-            {
-                  "date": "2026-09-29",
-                  "price": 1834
-            },
-            {
-                  "date": "2026-09-30",
-                  "price": 2014
-            },
-            {
-                  "date": "2026-10-01",
-                  "price": 1799
-            },
-            {
-                  "date": "2026-10-02",
-                  "price": 1906
-            }
-      ]
-},
+      {
+        "date": "2026-09-03",
+        "price": 1499
+      },
+      {
+        "date": "2026-09-04",
+        "price": 1499
+      },
+      {
+        "date": "2026-09-05",
+        "price": 1528
+      },
+      {
+        "date": "2026-09-06",
+        "price": 1499
+      },
+      {
+        "date": "2026-09-07",
+        "price": 1588
+      },
+      {
+        "date": "2026-09-08",
+        "price": 1528
+      },
+      {
+        "date": "2026-09-09",
+        "price": 1678
+      },
+      {
+        "date": "2026-09-10",
+        "price": 1499
+      },
+      {
+        "date": "2026-09-11",
+        "price": 1528
+      },
+      {
+        "date": "2026-09-12",
+        "price": 1588
+      },
+      {
+        "date": "2026-09-13",
+        "price": 1499
+      },
+      {
+        "date": "2026-09-14",
+        "price": 1528
+      },
+      {
+        "date": "2026-09-15",
+        "price": 1499
+      },
+      {
+        "date": "2026-09-16",
+        "price": 1678
+      },
+      {
+        "date": "2026-09-17",
+        "price": 1588
+      },
+      {
+        "date": "2026-09-18",
+        "price": 1499
+      },
+      {
+        "date": "2026-09-19",
+        "price": 1499
+      },
+      {
+        "date": "2026-09-20",
+        "price": 1528
+      },
+      {
+        "date": "2026-09-21",
+        "price": 1499
+      },
+      {
+        "date": "2026-09-22",
+        "price": 1588
+      },
+      {
+        "date": "2026-09-23",
+        "price": 1678
+      },
+      {
+        "date": "2026-09-24",
+        "price": 1499
+      },
+      {
+        "date": "2026-09-25",
+        "price": 1499
+      },
+      {
+        "date": "2026-09-26",
+        "price": 1528
+      },
+      {
+        "date": "2026-09-27",
+        "price": 1588
+      },
+      {
+        "date": "2026-09-28",
+        "price": 1499
+      },
+      {
+        "date": "2026-09-29",
+        "price": 1528
+      },
+      {
+        "date": "2026-09-30",
+        "price": 1678
+      },
+      {
+        "date": "2026-10-01",
+        "price": 1499
+      },
+      {
+        "date": "2026-10-02",
+        "price": 1588
+      }
+    ]
+  },
   {
-      "id": "fas-24",
-      "slug": "vero-moda-womens-crochet-lace-cutout-maxi-dress-navy",
-      "title": "VERO MODA Women's Crochet Lace Cut-Out Maxi Dress (Royal Navy Blue)",
-      "brand": "VERO MODA",
-      "category": "Fashion",
-      "price": 1899,
-      "mrp": 4499,
-      "rating": 4.6,
-      "reviewCount": 6200,
-      "images": [
-            "/products/fas-24.jpg"
+    "id": "fas-21",
+    "slug": "suta-womens-traditional-banarasi-art-silk-saree-royal-violet",
+    "title": "Suta Women's Traditional Banarasi Art Silk Saree with Zari Woven Border & Blouse Piece (Royal Violet)",
+    "brand": "Suta",
+    "category": "Fashion",
+    "price": 899,
+    "mrp": 2499,
+    "rating": 4.4,
+    "reviewCount": 12300,
+    "images": [
+      "/products/fas-21.jpg"
+    ],
+    "bullets": [
+      "Exquisite Banarasi art silk fabric with a luxurious sheen and lightweight, easy-to-drape texture",
+      "Rich golden zari woven floral motifs across the wide border and grand ornamental pallu",
+      "Saree length: 5.5 meters with an unstitched 0.8 meter matching blouse piece included",
+      "Deep royal violet hue with contrast golden border suitable for festive puja and wedding occasions",
+      "Wrinkle-resistant fabric ensures pleats stay neat and crisp throughout long ceremonies"
+    ],
+    "description": "Celebrate Indian heritage with the Suta Banarasi Art Silk Saree. Featuring intricate golden zari weave along majestic borders and an opulent pallu in regal violet, this saree drapes like a dream while feeling effortlessly light.",
+    "stock": 60,
+    "deliveryDays": 2,
+    "tags": [
+      "fashion",
+      "women",
+      "women fashion",
+      "women clothes",
+      "girls clothes",
+      "saree",
+      "sari",
+      "banarasi",
+      "silk saree",
+      "ethnic",
+      "festive",
+      "traditional",
+      "suta",
+      "clothes",
+      "clothing"
+    ],
+    "reviewSummary": {
+      "pros": [
+        "Lustrous golden zari border and pallu weave gleam beautifully under evening lighting",
+        "Surprisingly lightweight and easy to pleat compared to heavy raw silk",
+        "Includes generous blouse fabric that matches the ornate border"
       ],
-      "bullets": [
-            "Intricate bohemian crochet lace construction with elegant floral openwork patterns",
-            "Sultry side waist cut-outs that accentuate the natural waistline while maintaining sophisticated poise",
-            "Full-length long sheer lace sleeves with comfortable fitted cuffs",
-            "Lined bodice and skirt for opacity while keeping the look airy and ethereal",
-            "Stately floor-skimming maxi length ideal for evening parties, beach dinners, and resort wear"
+      "cons": [
+        "Art silk weave has a slight initial stiffness that softens after first steam press",
+        "Blouse piece requires tailoring prior to first wear",
+        "Dry clean or gentle hand wash recommended"
       ],
-      "description": "Make an unforgettable entrance with the VERO MODA Crochet Lace Maxi Dress. Styled with artistic cut-out waist detailing, sheer long sleeves, and textured royal navy lace, it brings runway glamour to seaside dinners and evening soirees.",
-      "stock": 25,
-      "deliveryDays": 2,
-      "tags": [
-            "fashion",
-            "women",
-            "women fashion",
-            "women clothes",
-            "girls clothes",
-            "dress",
-            "maxi dress",
-            "lace dress",
-            "party",
-            "evening",
-            "vero moda",
-            "clothes",
-            "clothing"
-      ],
-      "reviewSummary": {
-            "pros": [
-                  "Stunning artisan crochet lace makes a dramatic, expensive impression",
-                  "Subtle waist cut-outs create an hourglass silhouette gracefully",
-                  "Rich royal navy color stands out against standard black evening gowns"
-            ],
-            "cons": [
-                  "Crochet lace requires care around sharp jewelry to avoid snags",
-                  "Dry clean only to maintain lace structure and tension",
-                  "Tall silhouette; pair with heels for heights under 5'4\""
-            ],
-            "verdict": "Show-stopping European high-fashion aesthetic for cocktail parties and resort vacations.",
-            "sentiment": {
-                  "positive": 92,
-                  "neutral": 6,
-                  "negative": 2
-            }
+      "verdict": "Royal Banarasi elegance made accessible, comfortable, and picture-perfect for weddings and festivals.",
+      "sentiment": {
+        "positive": 88,
+        "neutral": 8,
+        "negative": 4
+      }
+    },
+    "priceHistory": [
+      {
+        "date": "2026-09-02",
+        "price": 1006
       },
-      "priceHistory": [
-            {
-                  "date": "2026-09-02",
-                  "price": 2126
-            },
-            {
-                  "date": "2026-09-03",
-                  "price": 1899
-            },
-            {
-                  "date": "2026-09-04",
-                  "price": 1899
-            },
-            {
-                  "date": "2026-09-05",
-                  "price": 1936
-            },
-            {
-                  "date": "2026-09-06",
-                  "price": 1899
-            },
-            {
-                  "date": "2026-09-07",
-                  "price": 2012
-            },
-            {
-                  "date": "2026-09-08",
-                  "price": 1936
-            },
-            {
-                  "date": "2026-09-09",
-                  "price": 2126
-            },
-            {
-                  "date": "2026-09-10",
-                  "price": 1899
-            },
-            {
-                  "date": "2026-09-11",
-                  "price": 1936
-            },
-            {
-                  "date": "2026-09-12",
-                  "price": 2012
-            },
-            {
-                  "date": "2026-09-13",
-                  "price": 1899
-            },
-            {
-                  "date": "2026-09-14",
-                  "price": 1936
-            },
-            {
-                  "date": "2026-09-15",
-                  "price": 1899
-            },
-            {
-                  "date": "2026-09-16",
-                  "price": 2126
-            },
-            {
-                  "date": "2026-09-17",
-                  "price": 2012
-            },
-            {
-                  "date": "2026-09-18",
-                  "price": 1899
-            },
-            {
-                  "date": "2026-09-19",
-                  "price": 1899
-            },
-            {
-                  "date": "2026-09-20",
-                  "price": 1936
-            },
-            {
-                  "date": "2026-09-21",
-                  "price": 1899
-            },
-            {
-                  "date": "2026-09-22",
-                  "price": 2012
-            },
-            {
-                  "date": "2026-09-23",
-                  "price": 2126
-            },
-            {
-                  "date": "2026-09-24",
-                  "price": 1899
-            },
-            {
-                  "date": "2026-09-25",
-                  "price": 1899
-            },
-            {
-                  "date": "2026-09-26",
-                  "price": 1936
-            },
-            {
-                  "date": "2026-09-27",
-                  "price": 2012
-            },
-            {
-                  "date": "2026-09-28",
-                  "price": 1899
-            },
-            {
-                  "date": "2026-09-29",
-                  "price": 1936
-            },
-            {
-                  "date": "2026-09-30",
-                  "price": 2126
-            },
-            {
-                  "date": "2026-10-01",
-                  "price": 1899
-            },
-            {
-                  "date": "2026-10-02",
-                  "price": 2012
-            }
-      ]
-},
-{
-  "id": "fas-25",
-  "slug": "libas-womens-cotton-printed-aline-kurti-indigo-blue",
-  "title": "Libas Women's Pure Cotton Floral Printed A-Line Kurti (Indigo Blue)",
-  "brand": "Libas",
-  "category": "Fashion",
-  "price": 699,
-  "mrp": 1799,
-  "rating": 4.4,
-  "reviewCount": 16800,
-  "images": [
-    "/products/fas-25.jpg"
-  ],
-  "bullets": [
-    "100% Breathable premium pure cambric cotton crafted for daily office and festive comfort",
-    "Flattering A-line silhouette with calf length and graceful side and front slit accents",
-    "V-neck styling embellished with subtle thread zari embroidery around the yoke",
-    "Three-quarter bell sleeves and vibrant indigo blue floral hand-block inspired motifs",
-    "Color-lock technology ensures fabric retains deep indigo brilliance over repeated washes"
-  ],
-  "description": "Embrace ethnic sophistication with the Libas Pure Cotton Printed A-Line Kurti. Fashioned in rich indigo blue with artisanal floral motifs and refined neckline embroidery, it pairs effortlessly with leggings, palazzos, or denim for office and festive celebrations.",
-  "stock": 65,
-  "deliveryDays": 1,
-  "tags": [
-    "fashion",
-    "women",
-    "women fashion",
-    "women clothes",
-    "girls clothes",
-    "kurti",
-    "kurtis",
-    "kurta",
-    "ethnic",
-    "traditional",
-    "under 1000",
-    "cotton kurti",
-    "libas",
-    "clothes",
-    "clothing",
-    "blue kurti"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "Very soft and airy pure cambric cotton that stays comfortable during long commutes",
-      "Artisanal indigo block print looks tasteful and premium",
-      "Flattering A-line cut that suits all body types"
-    ],
-    "cons": [
-      "Hand wash recommended for initial wash to preserve natural indigo dye",
-      "Slightly longer calf length; shorter buyers might prefer pairing with heels"
-    ],
-    "verdict": "A versatile, breathable everyday ethnic staple that balances artisanal charm with supreme comfort.",
-    "sentiment": {
-      "positive": 89,
-      "neutral": 8,
-      "negative": 3
-    }
+      {
+        "date": "2026-09-03",
+        "price": 899
+      },
+      {
+        "date": "2026-09-04",
+        "price": 899
+      },
+      {
+        "date": "2026-09-05",
+        "price": 916
+      },
+      {
+        "date": "2026-09-06",
+        "price": 899
+      },
+      {
+        "date": "2026-09-07",
+        "price": 952
+      },
+      {
+        "date": "2026-09-08",
+        "price": 916
+      },
+      {
+        "date": "2026-09-09",
+        "price": 1006
+      },
+      {
+        "date": "2026-09-10",
+        "price": 899
+      },
+      {
+        "date": "2026-09-11",
+        "price": 916
+      },
+      {
+        "date": "2026-09-12",
+        "price": 952
+      },
+      {
+        "date": "2026-09-13",
+        "price": 899
+      },
+      {
+        "date": "2026-09-14",
+        "price": 916
+      },
+      {
+        "date": "2026-09-15",
+        "price": 899
+      },
+      {
+        "date": "2026-09-16",
+        "price": 1006
+      },
+      {
+        "date": "2026-09-17",
+        "price": 952
+      },
+      {
+        "date": "2026-09-18",
+        "price": 899
+      },
+      {
+        "date": "2026-09-19",
+        "price": 899
+      },
+      {
+        "date": "2026-09-20",
+        "price": 916
+      },
+      {
+        "date": "2026-09-21",
+        "price": 899
+      },
+      {
+        "date": "2026-09-22",
+        "price": 952
+      },
+      {
+        "date": "2026-09-23",
+        "price": 1006
+      },
+      {
+        "date": "2026-09-24",
+        "price": 899
+      },
+      {
+        "date": "2026-09-25",
+        "price": 899
+      },
+      {
+        "date": "2026-09-26",
+        "price": 916
+      },
+      {
+        "date": "2026-09-27",
+        "price": 952
+      },
+      {
+        "date": "2026-09-28",
+        "price": 899
+      },
+      {
+        "date": "2026-09-29",
+        "price": 916
+      },
+      {
+        "date": "2026-09-30",
+        "price": 1006
+      },
+      {
+        "date": "2026-10-01",
+        "price": 899
+      },
+      {
+        "date": "2026-10-02",
+        "price": 952
+      }
+    ]
   },
-  "priceHistory": [
-    {
-      "date": "2026-09-02",
-      "price": 755
-    },
-    {
-      "date": "2026-09-03",
-      "price": 699
-    },
-    {
-      "date": "2026-09-04",
-      "price": 699
-    },
-    {
-      "date": "2026-09-05",
-      "price": 727
-    },
-    {
-      "date": "2026-09-06",
-      "price": 699
-    },
-    {
-      "date": "2026-09-07",
-      "price": 755
-    },
-    {
-      "date": "2026-09-08",
-      "price": 727
-    },
-    {
-      "date": "2026-09-09",
-      "price": 699
-    },
-    {
-      "date": "2026-09-10",
-      "price": 699
-    },
-    {
-      "date": "2026-09-11",
-      "price": 727
-    },
-    {
-      "date": "2026-09-12",
-      "price": 755
-    },
-    {
-      "date": "2026-09-13",
-      "price": 699
-    },
-    {
-      "date": "2026-09-14",
-      "price": 727
-    },
-    {
-      "date": "2026-09-15",
-      "price": 699
-    },
-    {
-      "date": "2026-09-16",
-      "price": 699
-    },
-    {
-      "date": "2026-09-17",
-      "price": 755
-    },
-    {
-      "date": "2026-09-18",
-      "price": 699
-    },
-    {
-      "date": "2026-09-19",
-      "price": 699
-    },
-    {
-      "date": "2026-09-20",
-      "price": 727
-    },
-    {
-      "date": "2026-09-21",
-      "price": 699
-    },
-    {
-      "date": "2026-09-22",
-      "price": 755
-    },
-    {
-      "date": "2026-09-23",
-      "price": 727
-    },
-    {
-      "date": "2026-09-24",
-      "price": 699
-    },
-    {
-      "date": "2026-09-25",
-      "price": 699
-    },
-    {
-      "date": "2026-09-26",
-      "price": 727
-    },
-    {
-      "date": "2026-09-27",
-      "price": 755
-    },
-    {
-      "date": "2026-09-28",
-      "price": 699
-    },
-    {
-      "date": "2026-09-29",
-      "price": 727
-    },
-    {
-      "date": "2026-09-30",
-      "price": 699
-    },
-    {
-      "date": "2026-10-01",
-      "price": 699
-    },
-    {
-      "date": "2026-10-02",
-      "price": 755
-    }
-  ]
-},
-{
-  "id": "fas-26",
-  "slug": "w-for-woman-rayon-foil-print-straight-kurti-emerald-green",
-  "title": "W for Woman Women's Rayon Gold Foil Printed Straight Kurti (Emerald Green)",
-  "brand": "W for Woman",
-  "category": "Fashion",
-  "price": 799,
-  "mrp": 1999,
-  "rating": 4.5,
-  "reviewCount": 12400,
-  "images": [
-    "/products/fas-26.jpg"
-  ],
-  "bullets": [
-    "Ultra-soft viscose rayon fabric offering superior fluid drape and lightweight breathability",
-    "Classic straight fit with jewel round neck and concealed placket",
-    "Intricate metallic gold foil ethnic geometric print along the border and sleeves",
-    "Ideal for workwear, cultural events, and evening gatherings with zero sheer transparency",
-    "Side slits engineered for relaxed stride and comfortable all-day sitting"
-  ],
-  "description": "Elevate your festive wardrobe with W for Woman's Emerald Green Foil Printed Kurti. Tailored in sumptuous viscose rayon, it dazzles with tasteful gold foil geometric borders and an impeccable tailored straight cut.",
-  "stock": 50,
-  "deliveryDays": 2,
-  "tags": [
-    "fashion",
-    "women",
-    "women fashion",
-    "women clothes",
-    "girls clothes",
-    "kurti",
-    "kurtis",
-    "kurta",
-    "ethnic",
-    "traditional",
-    "under 1000",
-    "rayon kurti",
-    "w for woman",
-    "clothes",
-    "clothing",
-    "green kurti"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "Gold foil prints stay radiant and do not peel or crack after washing",
-      "Lustrous rayon fabric feels silky against sensitive skin",
-      "Rich jewel-toned emerald green hue looks splendid in photographs"
+  {
+    "id": "fas-22",
+    "slug": "max-womens-floral-print-fit-flare-midi-dress-cherry-red",
+    "title": "Max Women's Floral Print Fit & Flare Midi Dress with Statement Belt (Cherry Red)",
+    "brand": "Max",
+    "category": "Fashion",
+    "price": 699,
+    "mrp": 1599,
+    "rating": 4.3,
+    "reviewCount": 8700,
+    "images": [
+      "/products/fas-22.jpg"
     ],
-    "cons": [
-      "Iron inside-out on low heat to safeguard the gold foil embellishments",
-      "Straight cut is tailored; order one size larger for a relaxed silhouette"
+    "bullets": [
+      "Flattering fit and flare silhouette with feminine crossover V-neckline",
+      "Vibrant all-over botanical and floral print set against a cheerful cherry red base",
+      "Includes an adjustable faux woven statement buckle belt to cinch the waist comfortably",
+      "Breathable lightweight rayon-blend fabric with a flowy tiered hemline",
+      "Cap sleeve design suitable for sunny brunch dates, vacations, and casual outings"
     ],
-    "verdict": "A dazzling ethnic standout that delivers luxury boutique aesthetics at an affordable high-street price.",
-    "sentiment": {
-      "positive": 91,
-      "neutral": 6,
-      "negative": 3
-    }
+    "description": "Embrace effortless daytime romance with the Max Floral Fit & Flare Midi Dress. Crafted with a lively floral pattern on bright cherry red and complemented by a woven buckle belt, it delivers instant style for weekends and vacations.",
+    "stock": 48,
+    "deliveryDays": 2,
+    "tags": [
+      "fashion",
+      "women",
+      "women fashion",
+      "women clothes",
+      "girls clothes",
+      "dress",
+      "midi dress",
+      "floral dress",
+      "western",
+      "casual",
+      "max",
+      "clothes",
+      "clothing"
+    ],
+    "reviewSummary": {
+      "pros": [
+        "Included woven belt cinches waist for an instantly flattering hourglass look",
+        "Flowy, breathable rayon fabric drapes gracefully without clinging",
+        "Vibrant cheerful cherry red floral print garners constant compliments"
+      ],
+      "cons": [
+        "Crossover V-neckline may require a safety pin for modesty preference",
+        "Rayon fabric softens further with wash but benefits from gentle steam",
+        "Belt is detachable; store carefully to avoid misplacing"
+      ],
+      "verdict": "A breezy, feminine vacation dress that transitions seamlessly from weekend strolls to dinner dates.",
+      "sentiment": {
+        "positive": 86,
+        "neutral": 10,
+        "negative": 4
+      }
+    },
+    "priceHistory": [
+      {
+        "date": "2026-09-02",
+        "price": 782
+      },
+      {
+        "date": "2026-09-03",
+        "price": 699
+      },
+      {
+        "date": "2026-09-04",
+        "price": 699
+      },
+      {
+        "date": "2026-09-05",
+        "price": 712
+      },
+      {
+        "date": "2026-09-06",
+        "price": 699
+      },
+      {
+        "date": "2026-09-07",
+        "price": 740
+      },
+      {
+        "date": "2026-09-08",
+        "price": 712
+      },
+      {
+        "date": "2026-09-09",
+        "price": 782
+      },
+      {
+        "date": "2026-09-10",
+        "price": 699
+      },
+      {
+        "date": "2026-09-11",
+        "price": 712
+      },
+      {
+        "date": "2026-09-12",
+        "price": 740
+      },
+      {
+        "date": "2026-09-13",
+        "price": 699
+      },
+      {
+        "date": "2026-09-14",
+        "price": 712
+      },
+      {
+        "date": "2026-09-15",
+        "price": 699
+      },
+      {
+        "date": "2026-09-16",
+        "price": 782
+      },
+      {
+        "date": "2026-09-17",
+        "price": 740
+      },
+      {
+        "date": "2026-09-18",
+        "price": 699
+      },
+      {
+        "date": "2026-09-19",
+        "price": 699
+      },
+      {
+        "date": "2026-09-20",
+        "price": 712
+      },
+      {
+        "date": "2026-09-21",
+        "price": 699
+      },
+      {
+        "date": "2026-09-22",
+        "price": 740
+      },
+      {
+        "date": "2026-09-23",
+        "price": 782
+      },
+      {
+        "date": "2026-09-24",
+        "price": 699
+      },
+      {
+        "date": "2026-09-25",
+        "price": 699
+      },
+      {
+        "date": "2026-09-26",
+        "price": 712
+      },
+      {
+        "date": "2026-09-27",
+        "price": 740
+      },
+      {
+        "date": "2026-09-28",
+        "price": 699
+      },
+      {
+        "date": "2026-09-29",
+        "price": 712
+      },
+      {
+        "date": "2026-09-30",
+        "price": 782
+      },
+      {
+        "date": "2026-10-01",
+        "price": 699
+      },
+      {
+        "date": "2026-10-02",
+        "price": 740
+      }
+    ]
   },
-  "priceHistory": [
-    {
-      "date": "2026-09-02",
-      "price": 863
-    },
-    {
-      "date": "2026-09-03",
-      "price": 799
-    },
-    {
-      "date": "2026-09-04",
-      "price": 799
-    },
-    {
-      "date": "2026-09-05",
-      "price": 831
-    },
-    {
-      "date": "2026-09-06",
-      "price": 799
-    },
-    {
-      "date": "2026-09-07",
-      "price": 863
-    },
-    {
-      "date": "2026-09-08",
-      "price": 831
-    },
-    {
-      "date": "2026-09-09",
-      "price": 799
-    },
-    {
-      "date": "2026-09-10",
-      "price": 799
-    },
-    {
-      "date": "2026-09-11",
-      "price": 831
-    },
-    {
-      "date": "2026-09-12",
-      "price": 863
-    },
-    {
-      "date": "2026-09-13",
-      "price": 799
-    },
-    {
-      "date": "2026-09-14",
-      "price": 831
-    },
-    {
-      "date": "2026-09-15",
-      "price": 799
-    },
-    {
-      "date": "2026-09-16",
-      "price": 799
-    },
-    {
-      "date": "2026-09-17",
-      "price": 863
-    },
-    {
-      "date": "2026-09-18",
-      "price": 799
-    },
-    {
-      "date": "2026-09-19",
-      "price": 799
-    },
-    {
-      "date": "2026-09-20",
-      "price": 831
-    },
-    {
-      "date": "2026-09-21",
-      "price": 799
-    },
-    {
-      "date": "2026-09-22",
-      "price": 863
-    },
-    {
-      "date": "2026-09-23",
-      "price": 831
-    },
-    {
-      "date": "2026-09-24",
-      "price": 799
-    },
-    {
-      "date": "2026-09-25",
-      "price": 799
-    },
-    {
-      "date": "2026-09-26",
-      "price": 831
-    },
-    {
-      "date": "2026-09-27",
-      "price": 863
-    },
-    {
-      "date": "2026-09-28",
-      "price": 799
-    },
-    {
-      "date": "2026-09-29",
-      "price": 831
-    },
-    {
-      "date": "2026-09-30",
-      "price": 799
-    },
-    {
-      "date": "2026-10-01",
-      "price": 799
-    },
-    {
-      "date": "2026-10-02",
-      "price": 863
-    }
-  ]
-},
-{
-  "id": "fas-27",
-  "slug": "gosriki-womens-cotton-blend-anarkali-kurti-dusty-rose",
-  "title": "GoSriKi Women's Cotton Blend Flared Anarkali Kurti with Pockets (Dusty Rose Pink)",
-  "brand": "GoSriKi",
-  "category": "Fashion",
-  "price": 549,
-  "mrp": 1499,
-  "rating": 4.2,
-  "reviewCount": 21900,
-  "images": [
-    "/products/fas-27.jpg"
-  ],
-  "bullets": [
-    "Lightweight cotton blend fabric with soft pre-shrunk finish for easy machine washability",
-    "Graceful flared Anarkali cut with empire waist pleating that flows effortlessly",
-    "Round neckline with decorative hand-crafted wooden potli buttons",
-    "Two functional deep side pockets to hold your smartphone and keys discreetly",
-    "Charming pastel dusty rose pink shade adorned with minimal floral buttis"
-  ],
-  "description": "Combining comfort and practical utility, the GoSriKi Anarkali Kurti features two discreet side pockets and a sweeping flared silhouette in soothing dusty rose pink. Perfect for college, travel, and casual outings.",
-  "stock": 75,
-  "deliveryDays": 1,
-  "tags": [
-    "fashion",
-    "women",
-    "women fashion",
-    "women clothes",
-    "girls clothes",
-    "kurti",
-    "kurtis",
-    "kurta",
-    "anarkali",
-    "ethnic",
-    "under 1000",
-    "under 500",
-    "gosriki",
-    "clothes",
-    "clothing",
-    "pink kurti"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "Deep side pockets are genuinely practical for everyday convenience",
-      "Very flattering flared cut that conceals tummy and hips gracefully",
-      "Terrific value for money for an everyday Anarkali"
+  {
+    "id": "fas-23",
+    "slug": "levis-womens-711-distressed-skinny-fit-stretch-denim-jeans",
+    "title": "Levi's Women's 711 Distressed Ankle-Length Skinny Fit Denim Jeans (Indigo Blue)",
+    "brand": "Levi's",
+    "category": "Fashion",
+    "price": 1799,
+    "mrp": 3999,
+    "rating": 4.5,
+    "reviewCount": 15800,
+    "images": [
+      "/products/fas-23.jpg"
     ],
-    "cons": [
-      "Slight stiffness on first unboxing; softens considerably after one wash",
-      "Cotton blend may require light ironing for crisp collar lines"
+    "bullets": [
+      "Iconic Levi's 711 Skinny Fit designed to contour through the hip and thigh with ankle-hugging cut",
+      "Innovative Levi's Sculpt Hyperstretch fabric holds shape and flatters curves all day without bagging",
+      "Edgy knee distress detailing and playful novelty patches for an on-trend street aesthetic",
+      "Mid-rise waistline with five-pocket styling and signature red tab back pocket embroidery",
+      "Ankle-skimming 28-inch inseam perfect for showcasing sneakers, boots, or heels"
     ],
-    "verdict": "The most practical everyday Anarkali featuring generous side pockets and effortless pastel charm.",
-    "sentiment": {
-      "positive": 86,
-      "neutral": 10,
-      "negative": 4
-    }
+    "description": "Designed to flatter, hold, and lift, the Levi's 711 Skinny Jeans deliver legendary denim craftsmanship. Features subtle knee abrasions and playful vintage patch details in super-stretchy authentic denim for unstoppable all-day comfort.",
+    "stock": 40,
+    "deliveryDays": 2,
+    "tags": [
+      "fashion",
+      "women",
+      "women fashion",
+      "women clothes",
+      "girls clothes",
+      "jeans",
+      "denim",
+      "skinny jeans",
+      "levis",
+      "clothes",
+      "clothing"
+    ],
+    "reviewSummary": {
+      "pros": [
+        "Exceptional Hyperstretch recovery hugs curves without bagging at the knees",
+        "Trendy patch embroidery and distressed knee add authentic vintage cool",
+        "Ankle-crop length sits cleanly above sneakers and sandals"
+      ],
+      "cons": [
+        "Distressed knee threads require care when stepping into the jeans",
+        "Snug skinny fit; size up one waist size for a relaxed boyfriend fit",
+        "Dark indigo wash should be washed inside out in cold water"
+      ],
+      "verdict": "The gold standard in flattering women's denim with expressive street-style flair.",
+      "sentiment": {
+        "positive": 90,
+        "neutral": 7,
+        "negative": 3
+      }
+    },
+    "priceHistory": [
+      {
+        "date": "2026-09-02",
+        "price": 2014
+      },
+      {
+        "date": "2026-09-03",
+        "price": 1799
+      },
+      {
+        "date": "2026-09-04",
+        "price": 1799
+      },
+      {
+        "date": "2026-09-05",
+        "price": 1834
+      },
+      {
+        "date": "2026-09-06",
+        "price": 1799
+      },
+      {
+        "date": "2026-09-07",
+        "price": 1906
+      },
+      {
+        "date": "2026-09-08",
+        "price": 1834
+      },
+      {
+        "date": "2026-09-09",
+        "price": 2014
+      },
+      {
+        "date": "2026-09-10",
+        "price": 1799
+      },
+      {
+        "date": "2026-09-11",
+        "price": 1834
+      },
+      {
+        "date": "2026-09-12",
+        "price": 1906
+      },
+      {
+        "date": "2026-09-13",
+        "price": 1799
+      },
+      {
+        "date": "2026-09-14",
+        "price": 1834
+      },
+      {
+        "date": "2026-09-15",
+        "price": 1799
+      },
+      {
+        "date": "2026-09-16",
+        "price": 2014
+      },
+      {
+        "date": "2026-09-17",
+        "price": 1906
+      },
+      {
+        "date": "2026-09-18",
+        "price": 1799
+      },
+      {
+        "date": "2026-09-19",
+        "price": 1799
+      },
+      {
+        "date": "2026-09-20",
+        "price": 1834
+      },
+      {
+        "date": "2026-09-21",
+        "price": 1799
+      },
+      {
+        "date": "2026-09-22",
+        "price": 1906
+      },
+      {
+        "date": "2026-09-23",
+        "price": 2014
+      },
+      {
+        "date": "2026-09-24",
+        "price": 1799
+      },
+      {
+        "date": "2026-09-25",
+        "price": 1799
+      },
+      {
+        "date": "2026-09-26",
+        "price": 1834
+      },
+      {
+        "date": "2026-09-27",
+        "price": 1906
+      },
+      {
+        "date": "2026-09-28",
+        "price": 1799
+      },
+      {
+        "date": "2026-09-29",
+        "price": 1834
+      },
+      {
+        "date": "2026-09-30",
+        "price": 2014
+      },
+      {
+        "date": "2026-10-01",
+        "price": 1799
+      },
+      {
+        "date": "2026-10-02",
+        "price": 1906
+      }
+    ]
   },
-  "priceHistory": [
-    {
-      "date": "2026-09-02",
-      "price": 593
-    },
-    {
-      "date": "2026-09-03",
-      "price": 549
-    },
-    {
-      "date": "2026-09-04",
-      "price": 549
-    },
-    {
-      "date": "2026-09-05",
-      "price": 571
-    },
-    {
-      "date": "2026-09-06",
-      "price": 549
-    },
-    {
-      "date": "2026-09-07",
-      "price": 593
-    },
-    {
-      "date": "2026-09-08",
-      "price": 571
-    },
-    {
-      "date": "2026-09-09",
-      "price": 549
-    },
-    {
-      "date": "2026-09-10",
-      "price": 549
-    },
-    {
-      "date": "2026-09-11",
-      "price": 571
-    },
-    {
-      "date": "2026-09-12",
-      "price": 593
-    },
-    {
-      "date": "2026-09-13",
-      "price": 549
-    },
-    {
-      "date": "2026-09-14",
-      "price": 571
-    },
-    {
-      "date": "2026-09-15",
-      "price": 549
-    },
-    {
-      "date": "2026-09-16",
-      "price": 549
-    },
-    {
-      "date": "2026-09-17",
-      "price": 593
-    },
-    {
-      "date": "2026-09-18",
-      "price": 549
-    },
-    {
-      "date": "2026-09-19",
-      "price": 549
-    },
-    {
-      "date": "2026-09-20",
-      "price": 571
-    },
-    {
-      "date": "2026-09-21",
-      "price": 549
-    },
-    {
-      "date": "2026-09-22",
-      "price": 593
-    },
-    {
-      "date": "2026-09-23",
-      "price": 571
-    },
-    {
-      "date": "2026-09-24",
-      "price": 549
-    },
-    {
-      "date": "2026-09-25",
-      "price": 549
-    },
-    {
-      "date": "2026-09-26",
-      "price": 571
-    },
-    {
-      "date": "2026-09-27",
-      "price": 593
-    },
-    {
-      "date": "2026-09-28",
-      "price": 549
-    },
-    {
-      "date": "2026-09-29",
-      "price": 571
-    },
-    {
-      "date": "2026-09-30",
-      "price": 549
-    },
-    {
-      "date": "2026-10-01",
-      "price": 549
-    },
-    {
-      "date": "2026-10-02",
-      "price": 593
-    }
-  ]
-},
-{
-  "id": "fas-28",
-  "slug": "vaamsi-womens-poly-silk-daily-wear-straight-kurti-mustard-yellow",
-  "title": "Vaamsi Women's Poly Silk Daily Wear Straight Kurti (Mustard Yellow)",
-  "brand": "Vaamsi",
-  "category": "Fashion",
-  "price": 399,
-  "mrp": 999,
-  "rating": 4.1,
-  "reviewCount": 15200,
-  "images": [
-    "/products/fas-28.jpg"
-  ],
-  "bullets": [
-    "Smooth poly silk crepe fabric that resists wrinkles and requires zero ironing",
-    "Vibrant festive mustard yellow shade with black ethnic motif prints",
-    "Boat neckline and straight cut knee-length hemline with side slits",
-    "Quick-dry lightweight fabric suitable for busy weekday routines",
-    "Pair with black leggings or denim trousers for an effortless Indo-western look"
-  ],
-  "description": "Brighten your everyday look with the Vaamsi Mustard Yellow Straight Kurti. Featuring crease-resistant poly silk fabric and traditional motifs, it delivers reliable style and wash-and-wear convenience on a budget.",
-  "stock": 90,
-  "deliveryDays": 1,
-  "tags": [
-    "fashion",
-    "women",
-    "women fashion",
-    "women clothes",
-    "girls clothes",
-    "kurti",
-    "kurtis",
-    "kurta",
-    "ethnic",
-    "under 500",
-    "under 1000",
-    "vaamsi",
-    "clothes",
-    "clothing",
-    "yellow kurti"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "Wrinkle-resistant wash-and-wear crepe fabric needs no ironing",
-      "Unbeatable price point under ₹400 for college or office rotation",
-      "Bright cheerful mustard yellow color looks great in sunlight"
+  {
+    "id": "fas-24",
+    "slug": "vero-moda-womens-crochet-lace-cutout-maxi-dress-navy",
+    "title": "VERO MODA Women's Crochet Lace Cut-Out Maxi Dress (Royal Navy Blue)",
+    "brand": "VERO MODA",
+    "category": "Fashion",
+    "price": 1899,
+    "mrp": 4499,
+    "rating": 4.6,
+    "reviewCount": 6200,
+    "images": [
+      "/products/fas-24.jpg"
     ],
-    "cons": [
-      "Synthetic poly silk is slightly warmer than pure cotton during peak summer",
-      "No lining, although fabric is sufficiently opaque"
+    "bullets": [
+      "Intricate bohemian crochet lace construction with elegant floral openwork patterns",
+      "Sultry side waist cut-outs that accentuate the natural waistline while maintaining sophisticated poise",
+      "Full-length long sheer lace sleeves with comfortable fitted cuffs",
+      "Lined bodice and skirt for opacity while keeping the look airy and ethereal",
+      "Stately floor-skimming maxi length ideal for evening parties, beach dinners, and resort wear"
     ],
-    "verdict": "An unbeatable low-maintenance daily kurti that looks crisp all day without ironing.",
-    "sentiment": {
-      "positive": 85,
-      "neutral": 10,
-      "negative": 5
-    }
+    "description": "Make an unforgettable entrance with the VERO MODA Crochet Lace Maxi Dress. Styled with artistic cut-out waist detailing, sheer long sleeves, and textured royal navy lace, it brings runway glamour to seaside dinners and evening soirees.",
+    "stock": 25,
+    "deliveryDays": 2,
+    "tags": [
+      "fashion",
+      "women",
+      "women fashion",
+      "women clothes",
+      "girls clothes",
+      "dress",
+      "maxi dress",
+      "lace dress",
+      "party",
+      "evening",
+      "vero moda",
+      "clothes",
+      "clothing"
+    ],
+    "reviewSummary": {
+      "pros": [
+        "Stunning artisan crochet lace makes a dramatic, expensive impression",
+        "Subtle waist cut-outs create an hourglass silhouette gracefully",
+        "Rich royal navy color stands out against standard black evening gowns"
+      ],
+      "cons": [
+        "Crochet lace requires care around sharp jewelry to avoid snags",
+        "Dry clean only to maintain lace structure and tension",
+        "Tall silhouette; pair with heels for heights under 5'4\""
+      ],
+      "verdict": "Show-stopping European high-fashion aesthetic for cocktail parties and resort vacations.",
+      "sentiment": {
+        "positive": 92,
+        "neutral": 6,
+        "negative": 2
+      }
+    },
+    "priceHistory": [
+      {
+        "date": "2026-09-02",
+        "price": 2126
+      },
+      {
+        "date": "2026-09-03",
+        "price": 1899
+      },
+      {
+        "date": "2026-09-04",
+        "price": 1899
+      },
+      {
+        "date": "2026-09-05",
+        "price": 1936
+      },
+      {
+        "date": "2026-09-06",
+        "price": 1899
+      },
+      {
+        "date": "2026-09-07",
+        "price": 2012
+      },
+      {
+        "date": "2026-09-08",
+        "price": 1936
+      },
+      {
+        "date": "2026-09-09",
+        "price": 2126
+      },
+      {
+        "date": "2026-09-10",
+        "price": 1899
+      },
+      {
+        "date": "2026-09-11",
+        "price": 1936
+      },
+      {
+        "date": "2026-09-12",
+        "price": 2012
+      },
+      {
+        "date": "2026-09-13",
+        "price": 1899
+      },
+      {
+        "date": "2026-09-14",
+        "price": 1936
+      },
+      {
+        "date": "2026-09-15",
+        "price": 1899
+      },
+      {
+        "date": "2026-09-16",
+        "price": 2126
+      },
+      {
+        "date": "2026-09-17",
+        "price": 2012
+      },
+      {
+        "date": "2026-09-18",
+        "price": 1899
+      },
+      {
+        "date": "2026-09-19",
+        "price": 1899
+      },
+      {
+        "date": "2026-09-20",
+        "price": 1936
+      },
+      {
+        "date": "2026-09-21",
+        "price": 1899
+      },
+      {
+        "date": "2026-09-22",
+        "price": 2012
+      },
+      {
+        "date": "2026-09-23",
+        "price": 2126
+      },
+      {
+        "date": "2026-09-24",
+        "price": 1899
+      },
+      {
+        "date": "2026-09-25",
+        "price": 1899
+      },
+      {
+        "date": "2026-09-26",
+        "price": 1936
+      },
+      {
+        "date": "2026-09-27",
+        "price": 2012
+      },
+      {
+        "date": "2026-09-28",
+        "price": 1899
+      },
+      {
+        "date": "2026-09-29",
+        "price": 1936
+      },
+      {
+        "date": "2026-09-30",
+        "price": 2126
+      },
+      {
+        "date": "2026-10-01",
+        "price": 1899
+      },
+      {
+        "date": "2026-10-02",
+        "price": 2012
+      }
+    ]
   },
-  "priceHistory": [
-    {
-      "date": "2026-09-02",
-      "price": 431
-    },
-    {
-      "date": "2026-09-03",
-      "price": 399
-    },
-    {
-      "date": "2026-09-04",
-      "price": 399
-    },
-    {
-      "date": "2026-09-05",
-      "price": 415
-    },
-    {
-      "date": "2026-09-06",
-      "price": 399
-    },
-    {
-      "date": "2026-09-07",
-      "price": 431
-    },
-    {
-      "date": "2026-09-08",
-      "price": 415
-    },
-    {
-      "date": "2026-09-09",
-      "price": 399
-    },
-    {
-      "date": "2026-09-10",
-      "price": 399
-    },
-    {
-      "date": "2026-09-11",
-      "price": 415
-    },
-    {
-      "date": "2026-09-12",
-      "price": 431
-    },
-    {
-      "date": "2026-09-13",
-      "price": 399
-    },
-    {
-      "date": "2026-09-14",
-      "price": 415
-    },
-    {
-      "date": "2026-09-15",
-      "price": 399
-    },
-    {
-      "date": "2026-09-16",
-      "price": 399
-    },
-    {
-      "date": "2026-09-17",
-      "price": 431
-    },
-    {
-      "date": "2026-09-18",
-      "price": 399
-    },
-    {
-      "date": "2026-09-19",
-      "price": 399
-    },
-    {
-      "date": "2026-09-20",
-      "price": 415
-    },
-    {
-      "date": "2026-09-21",
-      "price": 399
-    },
-    {
-      "date": "2026-09-22",
-      "price": 431
-    },
-    {
-      "date": "2026-09-23",
-      "price": 415
-    },
-    {
-      "date": "2026-09-24",
-      "price": 399
-    },
-    {
-      "date": "2026-09-25",
-      "price": 399
-    },
-    {
-      "date": "2026-09-26",
-      "price": 415
-    },
-    {
-      "date": "2026-09-27",
-      "price": 431
-    },
-    {
-      "date": "2026-09-28",
-      "price": 399
-    },
-    {
-      "date": "2026-09-29",
-      "price": 415
-    },
-    {
-      "date": "2026-09-30",
-      "price": 399
-    },
-    {
-      "date": "2026-10-01",
-      "price": 399
-    },
-    {
-      "date": "2026-10-02",
-      "price": 431
-    }
-  ]
-},
-{
-  "id": "aud-13",
-  "slug": "sony-wh-1000xm5-wireless-noise-canceling-headphones",
-  "title": "Sony WH-1000XM5 Wireless Industry-Leading Active Noise Canceling Headphones",
-  "brand": "Sony",
-  "category": "Audio",
-  "price": 26990,
-  "mrp": 34990,
-  "rating": 4.6,
-  "reviewCount": 9420,
-  "images": [
-    "/products/aud-01.jpg"
-  ],
-  "bullets": [
-    "Industry-leading Noise Cancellation with two processors and 8 microphones for unparalleled quiet",
-    "Magnificent Sound engineered with new Integrated Processor V1 and 30mm carbon fiber driver unit",
-    "Up to 30-hour battery life with quick charging (3 min charge gives 3 hours playback)",
-    "Ultra-comfortable lightweight design finished with soft fit synthetic leather",
-    "Multipoint connection allows swift pairing with two Bluetooth devices simultaneously"
-  ],
-  "description": "The Sony WH-1000XM5 rewrites the rules for distraction-free listening with industry-benchmark active noise cancellation and crystal clear hands-free calling.",
-  "stock": 18,
-  "deliveryDays": 1,
-  "tags": [
-    "audio",
-    "headphones",
-    "anc",
-    "over-ear",
-    "sony",
-    "premium",
-    "bluetooth",
-    "travel",
-    "noise cancelling"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "Benchmark-setting ANC silencing office chatter and jet engines",
-      "Sublime soundstage with deep sub-bass and airy highs",
-      "Incredible lightweight ergonomic comfort for 8+ hour wear"
+  {
+    "id": "fas-25",
+    "slug": "libas-womens-cotton-printed-aline-kurti-indigo-blue",
+    "title": "Libas Women's Pure Cotton Floral Printed A-Line Kurti (Indigo Blue)",
+    "brand": "Libas",
+    "category": "Fashion",
+    "price": 699,
+    "mrp": 1799,
+    "rating": 4.4,
+    "reviewCount": 16800,
+    "images": [
+      "/products/fas-25.jpg"
     ],
-    "cons": [
-      "Cannot fold into a compact hinge like XM4",
-      "Premium price tier requires budget commitment"
+    "bullets": [
+      "100% Breathable premium pure cambric cotton crafted for daily office and festive comfort",
+      "Flattering A-line silhouette with calf length and graceful side and front slit accents",
+      "V-neck styling embellished with subtle thread zari embroidery around the yoke",
+      "Three-quarter bell sleeves and vibrant indigo blue floral hand-block inspired motifs",
+      "Color-lock technology ensures fabric retains deep indigo brilliance over repeated washes"
     ],
-    "verdict": "The undisputed king of active noise cancellation for frequent flyers and focus-driven professionals.",
-    "sentiment": {
-      "positive": 91,
-      "neutral": 6,
-      "negative": 3
-    }
+    "description": "Embrace ethnic sophistication with the Libas Pure Cotton Printed A-Line Kurti. Fashioned in rich indigo blue with artisanal floral motifs and refined neckline embroidery, it pairs effortlessly with leggings, palazzos, or denim for office and festive celebrations.",
+    "stock": 65,
+    "deliveryDays": 1,
+    "tags": [
+      "fashion",
+      "women",
+      "women fashion",
+      "women clothes",
+      "girls clothes",
+      "kurti",
+      "kurtis",
+      "kurta",
+      "ethnic",
+      "traditional",
+      "under 1000",
+      "cotton kurti",
+      "libas",
+      "clothes",
+      "clothing",
+      "blue kurti"
+    ],
+    "reviewSummary": {
+      "pros": [
+        "Very soft and airy pure cambric cotton that stays comfortable during long commutes",
+        "Artisanal indigo block print looks tasteful and premium",
+        "Flattering A-line cut that suits all body types"
+      ],
+      "cons": [
+        "Hand wash recommended for initial wash to preserve natural indigo dye",
+        "Slightly longer calf length; shorter buyers might prefer pairing with heels"
+      ],
+      "verdict": "A versatile, breathable everyday ethnic staple that balances artisanal charm with supreme comfort.",
+      "sentiment": {
+        "positive": 89,
+        "neutral": 8,
+        "negative": 3
+      }
+    },
+    "priceHistory": [
+      {
+        "date": "2026-09-02",
+        "price": 755
+      },
+      {
+        "date": "2026-09-03",
+        "price": 699
+      },
+      {
+        "date": "2026-09-04",
+        "price": 699
+      },
+      {
+        "date": "2026-09-05",
+        "price": 727
+      },
+      {
+        "date": "2026-09-06",
+        "price": 699
+      },
+      {
+        "date": "2026-09-07",
+        "price": 755
+      },
+      {
+        "date": "2026-09-08",
+        "price": 727
+      },
+      {
+        "date": "2026-09-09",
+        "price": 699
+      },
+      {
+        "date": "2026-09-10",
+        "price": 699
+      },
+      {
+        "date": "2026-09-11",
+        "price": 727
+      },
+      {
+        "date": "2026-09-12",
+        "price": 755
+      },
+      {
+        "date": "2026-09-13",
+        "price": 699
+      },
+      {
+        "date": "2026-09-14",
+        "price": 727
+      },
+      {
+        "date": "2026-09-15",
+        "price": 699
+      },
+      {
+        "date": "2026-09-16",
+        "price": 699
+      },
+      {
+        "date": "2026-09-17",
+        "price": 755
+      },
+      {
+        "date": "2026-09-18",
+        "price": 699
+      },
+      {
+        "date": "2026-09-19",
+        "price": 699
+      },
+      {
+        "date": "2026-09-20",
+        "price": 727
+      },
+      {
+        "date": "2026-09-21",
+        "price": 699
+      },
+      {
+        "date": "2026-09-22",
+        "price": 755
+      },
+      {
+        "date": "2026-09-23",
+        "price": 727
+      },
+      {
+        "date": "2026-09-24",
+        "price": 699
+      },
+      {
+        "date": "2026-09-25",
+        "price": 699
+      },
+      {
+        "date": "2026-09-26",
+        "price": 727
+      },
+      {
+        "date": "2026-09-27",
+        "price": 755
+      },
+      {
+        "date": "2026-09-28",
+        "price": 699
+      },
+      {
+        "date": "2026-09-29",
+        "price": 727
+      },
+      {
+        "date": "2026-09-30",
+        "price": 699
+      },
+      {
+        "date": "2026-10-01",
+        "price": 699
+      },
+      {
+        "date": "2026-10-02",
+        "price": 755
+      }
+    ]
   },
-  "priceHistory": [
-    {
-      "date": "2026-07-05",
-      "price": 28718
-    },
-    {
-      "date": "2026-07-06",
-      "price": 29150
-    },
-    {
-      "date": "2026-07-07",
-      "price": 29285
-    },
-    {
-      "date": "2026-07-08",
-      "price": 28924
-    },
-    {
-      "date": "2026-07-09",
-      "price": 28565
-    },
-    {
-      "date": "2026-07-10",
-      "price": 29376
-    },
-    {
-      "date": "2026-07-11",
-      "price": 29423
-    },
-    {
-      "date": "2026-07-12",
-      "price": 30019
-    },
-    {
-      "date": "2026-07-13",
-      "price": 30154
-    },
-    {
-      "date": "2026-07-14",
-      "price": 30322
-    },
-    {
-      "date": "2026-07-15",
-      "price": 30626
-    },
-    {
-      "date": "2026-07-16",
-      "price": 30938
-    },
-    {
-      "date": "2026-07-17",
-      "price": 30286
-    },
-    {
-      "date": "2026-07-18",
-      "price": 31121
-    },
-    {
-      "date": "2026-07-19",
-      "price": 31928
-    },
-    {
-      "date": "2026-07-20",
-      "price": 31702
-    },
-    {
-      "date": "2026-07-21",
-      "price": 31319
-    },
-    {
-      "date": "2026-07-22",
-      "price": 31597
-    },
-    {
-      "date": "2026-07-23",
-      "price": 32078
-    },
-    {
-      "date": "2026-07-24",
-      "price": 32043
-    },
-    {
-      "date": "2026-07-25",
-      "price": 32502
-    },
-    {
-      "date": "2026-07-26",
-      "price": 32928
-    },
-    {
-      "date": "2026-07-27",
-      "price": 32928
-    },
-    {
-      "date": "2026-07-28",
-      "price": 32928
-    },
-    {
-      "date": "2026-07-29",
-      "price": 32161
-    },
-    {
-      "date": "2026-07-30",
-      "price": 32147
-    },
-    {
-      "date": "2026-07-31",
-      "price": 31992
-    },
-    {
-      "date": "2026-08-01",
-      "price": 31687
-    },
-    {
-      "date": "2026-08-02",
-      "price": 31175
-    },
-    {
-      "date": "2026-08-03",
-      "price": 32010
-    },
-    {
-      "date": "2026-08-04",
-      "price": 31615
-    },
-    {
-      "date": "2026-08-05",
-      "price": 31077
-    },
-    {
-      "date": "2026-08-06",
-      "price": 31805
-    },
-    {
-      "date": "2026-08-07",
-      "price": 31993
-    },
-    {
-      "date": "2026-08-08",
-      "price": 32914
-    },
-    {
-      "date": "2026-08-09",
-      "price": 32544
-    },
-    {
-      "date": "2026-08-10",
-      "price": 32341
-    },
-    {
-      "date": "2026-08-11",
-      "price": 32928
-    },
-    {
-      "date": "2026-08-12",
-      "price": 32928
-    },
-    {
-      "date": "2026-08-13",
-      "price": 32928
-    },
-    {
-      "date": "2026-08-14",
-      "price": 32928
-    },
-    {
-      "date": "2026-08-15",
-      "price": 32905
-    },
-    {
-      "date": "2026-08-16",
-      "price": 32655
-    },
-    {
-      "date": "2026-08-17",
-      "price": 32928
-    },
-    {
-      "date": "2026-08-18",
-      "price": 32928
-    },
-    {
-      "date": "2026-08-19",
-      "price": 32364
-    },
-    {
-      "date": "2026-08-20",
-      "price": 32396
-    },
-    {
-      "date": "2026-08-21",
-      "price": 32561
-    },
-    {
-      "date": "2026-08-22",
-      "price": 32928
-    },
-    {
-      "date": "2026-08-23",
-      "price": 32928
-    },
-    {
-      "date": "2026-08-24",
-      "price": 32034
-    },
-    {
-      "date": "2026-08-25",
-      "price": 32928
-    },
-    {
-      "date": "2026-08-26",
-      "price": 32928
-    },
-    {
-      "date": "2026-08-27",
-      "price": 32928
-    },
-    {
-      "date": "2026-08-28",
-      "price": 32508
-    },
-    {
-      "date": "2026-08-29",
-      "price": 32928
-    },
-    {
-      "date": "2026-08-30",
-      "price": 32928
-    },
-    {
-      "date": "2026-08-31",
-      "price": 32524
-    },
-    {
-      "date": "2026-09-01",
-      "price": 31789
-    },
-    {
-      "date": "2026-09-02",
-      "price": 31464
-    },
-    {
-      "date": "2026-09-03",
-      "price": 32355
-    },
-    {
-      "date": "2026-09-04",
-      "price": 32745
-    },
-    {
-      "date": "2026-09-05",
-      "price": 32376
-    },
-    {
-      "date": "2026-09-06",
-      "price": 32500
-    },
-    {
-      "date": "2026-09-07",
-      "price": 32928
-    },
-    {
-      "date": "2026-09-08",
-      "price": 31948
-    },
-    {
-      "date": "2026-09-09",
-      "price": 32855
-    },
-    {
-      "date": "2026-09-10",
-      "price": 32928
-    },
-    {
-      "date": "2026-09-11",
-      "price": 32928
-    },
-    {
-      "date": "2026-09-12",
-      "price": 32928
-    },
-    {
-      "date": "2026-09-13",
-      "price": 32263
-    },
-    {
-      "date": "2026-09-14",
-      "price": 32307
-    },
-    {
-      "date": "2026-09-15",
-      "price": 32928
-    },
-    {
-      "date": "2026-09-16",
-      "price": 32928
-    },
-    {
-      "date": "2026-09-17",
-      "price": 32928
-    },
-    {
-      "date": "2026-09-18",
-      "price": 32928
-    },
-    {
-      "date": "2026-09-19",
-      "price": 31988
-    },
-    {
-      "date": "2026-09-20",
-      "price": 32145
-    },
-    {
-      "date": "2026-09-21",
-      "price": 31937
-    },
-    {
-      "date": "2026-09-22",
-      "price": 31648
-    },
-    {
-      "date": "2026-09-23",
-      "price": 31471
-    },
-    {
-      "date": "2026-09-24",
-      "price": 31012
-    },
-    {
-      "date": "2026-09-25",
-      "price": 30513
-    },
-    {
-      "date": "2026-09-26",
-      "price": 30640
-    },
-    {
-      "date": "2026-09-27",
-      "price": 30507
-    },
-    {
-      "date": "2026-09-28",
-      "price": 30418
-    },
-    {
-      "date": "2026-09-29",
-      "price": 31166
-    },
-    {
-      "date": "2026-09-30",
-      "price": 30874
-    },
-    {
-      "date": "2026-10-01",
-      "price": 30518
-    },
-    {
-      "date": "2026-10-02",
-      "price": 26990
-    }
-  ]
-},
-{
-  "id": "aud-14",
-  "slug": "oneplus-nord-buds-2-tws-with-active-noise-cancellation",
-  "title": "OnePlus Nord Buds 2 TWS Earbuds with 25dB Active Noise Cancellation & BassWave",
-  "brand": "OnePlus",
-  "category": "Audio",
-  "price": 2299,
-  "mrp": 3299,
-  "rating": 4.2,
-  "reviewCount": 14200,
-  "images": [
-    "/products/aud-02.jpg"
-  ],
-  "bullets": [
-    "Up to 25dB Active Noise Cancellation with dynamic BassWave algorithm enhancement",
-    "12.4mm dynamic titanium drivers for deep thump and crisp vocal acoustics",
-    "Total playback of up to 36 hours with fast charge (10 mins = 5 hours)",
-    "Dual mic AI clear call noise cancellation for crystal-clear phone calls",
-    "IP55 water and sweat resistance against gym sessions and splashes"
-  ],
-  "description": "OnePlus Nord Buds 2 delivers rich, bass-heavy acoustic performance with dependable 25dB active noise reduction at a wallet-friendly price.",
-  "stock": 55,
-  "deliveryDays": 2,
-  "tags": [
-    "audio",
-    "earbuds",
-    "budget",
-    "oneplus",
-    "nord",
-    "anc",
-    "wireless",
-    "under 3000",
-    "gym"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "Impressive BassWave punch without muddying mids",
-      "Effective ANC for a sub-₹2,500 budget earbud",
-      "Excellent mic clarity on cellular and Teams calls"
+  {
+    "id": "fas-26",
+    "slug": "w-for-woman-rayon-foil-print-straight-kurti-emerald-green",
+    "title": "W for Woman Women's Rayon Gold Foil Printed Straight Kurti (Emerald Green)",
+    "brand": "W for Woman",
+    "category": "Fashion",
+    "price": 799,
+    "mrp": 1999,
+    "rating": 4.5,
+    "reviewCount": 12400,
+    "images": [
+      "/products/fas-26.jpg"
     ],
-    "cons": [
-      "Case plastic finish catches light scuffs easily",
-      "No custom EQ unless using HeyMelody app on non-OnePlus phones"
+    "bullets": [
+      "Ultra-soft viscose rayon fabric offering superior fluid drape and lightweight breathability",
+      "Classic straight fit with jewel round neck and concealed placket",
+      "Intricate metallic gold foil ethnic geometric print along the border and sleeves",
+      "Ideal for workwear, cultural events, and evening gatherings with zero sheer transparency",
+      "Side slits engineered for relaxed stride and comfortable all-day sitting"
     ],
-    "verdict": "Best value commuter earbuds under ₹2,500 with real ANC and punchy bass.",
-    "sentiment": {
-      "positive": 84,
-      "neutral": 10,
-      "negative": 6
-    }
+    "description": "Elevate your festive wardrobe with W for Woman's Emerald Green Foil Printed Kurti. Tailored in sumptuous viscose rayon, it dazzles with tasteful gold foil geometric borders and an impeccable tailored straight cut.",
+    "stock": 50,
+    "deliveryDays": 2,
+    "tags": [
+      "fashion",
+      "women",
+      "women fashion",
+      "women clothes",
+      "girls clothes",
+      "kurti",
+      "kurtis",
+      "kurta",
+      "ethnic",
+      "traditional",
+      "under 1000",
+      "rayon kurti",
+      "w for woman",
+      "clothes",
+      "clothing",
+      "green kurti"
+    ],
+    "reviewSummary": {
+      "pros": [
+        "Gold foil prints stay radiant and do not peel or crack after washing",
+        "Lustrous rayon fabric feels silky against sensitive skin",
+        "Rich jewel-toned emerald green hue looks splendid in photographs"
+      ],
+      "cons": [
+        "Iron inside-out on low heat to safeguard the gold foil embellishments",
+        "Straight cut is tailored; order one size larger for a relaxed silhouette"
+      ],
+      "verdict": "A dazzling ethnic standout that delivers luxury boutique aesthetics at an affordable high-street price.",
+      "sentiment": {
+        "positive": 91,
+        "neutral": 6,
+        "negative": 3
+      }
+    },
+    "priceHistory": [
+      {
+        "date": "2026-09-02",
+        "price": 863
+      },
+      {
+        "date": "2026-09-03",
+        "price": 799
+      },
+      {
+        "date": "2026-09-04",
+        "price": 799
+      },
+      {
+        "date": "2026-09-05",
+        "price": 831
+      },
+      {
+        "date": "2026-09-06",
+        "price": 799
+      },
+      {
+        "date": "2026-09-07",
+        "price": 863
+      },
+      {
+        "date": "2026-09-08",
+        "price": 831
+      },
+      {
+        "date": "2026-09-09",
+        "price": 799
+      },
+      {
+        "date": "2026-09-10",
+        "price": 799
+      },
+      {
+        "date": "2026-09-11",
+        "price": 831
+      },
+      {
+        "date": "2026-09-12",
+        "price": 863
+      },
+      {
+        "date": "2026-09-13",
+        "price": 799
+      },
+      {
+        "date": "2026-09-14",
+        "price": 831
+      },
+      {
+        "date": "2026-09-15",
+        "price": 799
+      },
+      {
+        "date": "2026-09-16",
+        "price": 799
+      },
+      {
+        "date": "2026-09-17",
+        "price": 863
+      },
+      {
+        "date": "2026-09-18",
+        "price": 799
+      },
+      {
+        "date": "2026-09-19",
+        "price": 799
+      },
+      {
+        "date": "2026-09-20",
+        "price": 831
+      },
+      {
+        "date": "2026-09-21",
+        "price": 799
+      },
+      {
+        "date": "2026-09-22",
+        "price": 863
+      },
+      {
+        "date": "2026-09-23",
+        "price": 831
+      },
+      {
+        "date": "2026-09-24",
+        "price": 799
+      },
+      {
+        "date": "2026-09-25",
+        "price": 799
+      },
+      {
+        "date": "2026-09-26",
+        "price": 831
+      },
+      {
+        "date": "2026-09-27",
+        "price": 863
+      },
+      {
+        "date": "2026-09-28",
+        "price": 799
+      },
+      {
+        "date": "2026-09-29",
+        "price": 831
+      },
+      {
+        "date": "2026-09-30",
+        "price": 799
+      },
+      {
+        "date": "2026-10-01",
+        "price": 799
+      },
+      {
+        "date": "2026-10-02",
+        "price": 863
+      }
+    ]
   },
-  "priceHistory": [
-    {
-      "date": "2026-07-05",
-      "price": 2551
-    },
-    {
-      "date": "2026-07-06",
-      "price": 2558
-    },
-    {
-      "date": "2026-07-07",
-      "price": 2629
-    },
-    {
-      "date": "2026-07-08",
-      "price": 2608
-    },
-    {
-      "date": "2026-07-09",
-      "price": 2551
-    },
-    {
-      "date": "2026-07-10",
-      "price": 2511
-    },
-    {
-      "date": "2026-07-11",
-      "price": 2445
-    },
-    {
-      "date": "2026-07-12",
-      "price": 2451
-    },
-    {
-      "date": "2026-07-13",
-      "price": 2426
-    },
-    {
-      "date": "2026-07-14",
-      "price": 2450
-    },
-    {
-      "date": "2026-07-15",
-      "price": 2515
-    },
-    {
-      "date": "2026-07-16",
-      "price": 2473
-    },
-    {
-      "date": "2026-07-17",
-      "price": 2524
-    },
-    {
-      "date": "2026-07-18",
-      "price": 2466
-    },
-    {
-      "date": "2026-07-19",
-      "price": 2489
-    },
-    {
-      "date": "2026-07-20",
-      "price": 2520
-    },
-    {
-      "date": "2026-07-21",
-      "price": 2457
-    },
-    {
-      "date": "2026-07-22",
-      "price": 2525
-    },
-    {
-      "date": "2026-07-23",
-      "price": 2595
-    },
-    {
-      "date": "2026-07-24",
-      "price": 2667
-    },
-    {
-      "date": "2026-07-25",
-      "price": 2621
-    },
-    {
-      "date": "2026-07-26",
-      "price": 2646
-    },
-    {
-      "date": "2026-07-27",
-      "price": 2696
-    },
-    {
-      "date": "2026-07-28",
-      "price": 2743
-    },
-    {
-      "date": "2026-07-29",
-      "price": 2723
-    },
-    {
-      "date": "2026-07-30",
-      "price": 2650
-    },
-    {
-      "date": "2026-07-31",
-      "price": 2593
-    },
-    {
-      "date": "2026-08-01",
-      "price": 2580
-    },
-    {
-      "date": "2026-08-02",
-      "price": 2610
-    },
-    {
-      "date": "2026-08-03",
-      "price": 2655
-    },
-    {
-      "date": "2026-08-04",
-      "price": 2607
-    },
-    {
-      "date": "2026-08-05",
-      "price": 2530
-    },
-    {
-      "date": "2026-08-06",
-      "price": 2529
-    },
-    {
-      "date": "2026-08-07",
-      "price": 2589
-    },
-    {
-      "date": "2026-08-08",
-      "price": 2632
-    },
-    {
-      "date": "2026-08-09",
-      "price": 2708
-    },
-    {
-      "date": "2026-08-10",
-      "price": 2739
-    },
-    {
-      "date": "2026-08-11",
-      "price": 2746
-    },
-    {
-      "date": "2026-08-12",
-      "price": 2700
-    },
-    {
-      "date": "2026-08-13",
-      "price": 2770
-    },
-    {
-      "date": "2026-08-14",
-      "price": 2701
-    },
-    {
-      "date": "2026-08-15",
-      "price": 2739
-    },
-    {
-      "date": "2026-08-16",
-      "price": 2711
-    },
-    {
-      "date": "2026-08-17",
-      "price": 2730
-    },
-    {
-      "date": "2026-08-18",
-      "price": 2797
-    },
-    {
-      "date": "2026-08-19",
-      "price": 2773
-    },
-    {
-      "date": "2026-08-20",
-      "price": 2805
-    },
-    {
-      "date": "2026-08-21",
-      "price": 2805
-    },
-    {
-      "date": "2026-08-22",
-      "price": 2805
-    },
-    {
-      "date": "2026-08-23",
-      "price": 2805
-    },
-    {
-      "date": "2026-08-24",
-      "price": 2744
-    },
-    {
-      "date": "2026-08-25",
-      "price": 2798
-    },
-    {
-      "date": "2026-08-26",
-      "price": 2805
-    },
-    {
-      "date": "2026-08-27",
-      "price": 2805
-    },
-    {
-      "date": "2026-08-28",
-      "price": 2778
-    },
-    {
-      "date": "2026-08-29",
-      "price": 2805
-    },
-    {
-      "date": "2026-08-30",
-      "price": 2805
-    },
-    {
-      "date": "2026-08-31",
-      "price": 2800
-    },
-    {
-      "date": "2026-09-01",
-      "price": 2805
-    },
-    {
-      "date": "2026-09-02",
-      "price": 2805
-    },
-    {
-      "date": "2026-09-03",
-      "price": 2779
-    },
-    {
-      "date": "2026-09-04",
-      "price": 2805
-    },
-    {
-      "date": "2026-09-05",
-      "price": 2745
-    },
-    {
-      "date": "2026-09-06",
-      "price": 2692
-    },
-    {
-      "date": "2026-09-07",
-      "price": 2650
-    },
-    {
-      "date": "2026-09-08",
-      "price": 2637
-    },
-    {
-      "date": "2026-09-09",
-      "price": 2701
-    },
-    {
-      "date": "2026-09-10",
-      "price": 2757
-    },
-    {
-      "date": "2026-09-11",
-      "price": 2751
-    },
-    {
-      "date": "2026-09-12",
-      "price": 2805
-    },
-    {
-      "date": "2026-09-13",
-      "price": 2725
-    },
-    {
-      "date": "2026-09-14",
-      "price": 2648
-    },
-    {
-      "date": "2026-09-15",
-      "price": 2628
-    },
-    {
-      "date": "2026-09-16",
-      "price": 2639
-    },
-    {
-      "date": "2026-09-17",
-      "price": 2580
-    },
-    {
-      "date": "2026-09-18",
-      "price": 2642
-    },
-    {
-      "date": "2026-09-19",
-      "price": 2711
-    },
-    {
-      "date": "2026-09-20",
-      "price": 2747
-    },
-    {
-      "date": "2026-09-21",
-      "price": 2744
-    },
-    {
-      "date": "2026-09-22",
-      "price": 2805
-    },
-    {
-      "date": "2026-09-23",
-      "price": 2805
-    },
-    {
-      "date": "2026-09-24",
-      "price": 2805
-    },
-    {
-      "date": "2026-09-25",
-      "price": 2756
-    },
-    {
-      "date": "2026-09-26",
-      "price": 2796
-    },
-    {
-      "date": "2026-09-27",
-      "price": 2727
-    },
-    {
-      "date": "2026-09-28",
-      "price": 2760
-    },
-    {
-      "date": "2026-09-29",
-      "price": 2805
-    },
-    {
-      "date": "2026-09-30",
-      "price": 2749
-    },
-    {
-      "date": "2026-10-01",
-      "price": 2692
-    },
-    {
-      "date": "2026-10-02",
-      "price": 2299
-    }
-  ]
-},
-{
-  "id": "aud-15",
-  "slug": "jbl-flip-6-wireless-portable-bluetooth-speaker",
-  "title": "JBL Flip 6 Wireless Portable Bluetooth Speaker with IP67 Waterproof & Deep Bass",
-  "brand": "JBL",
-  "category": "Audio",
-  "price": 9999,
-  "mrp": 13999,
-  "rating": 4.5,
-  "reviewCount": 11200,
-  "images": [
+  {
+    "id": "fas-27",
+    "slug": "gosriki-womens-cotton-blend-anarkali-kurti-dusty-rose",
+    "title": "GoSriKi Women's Cotton Blend Flared Anarkali Kurti with Pockets (Dusty Rose Pink)",
+    "brand": "GoSriKi",
+    "category": "Fashion",
+    "price": 549,
+    "mrp": 1499,
+    "rating": 4.2,
+    "reviewCount": 21900,
+    "images": [
+      "/products/fas-27.jpg"
+    ],
+    "bullets": [
+      "Lightweight cotton blend fabric with soft pre-shrunk finish for easy machine washability",
+      "Graceful flared Anarkali cut with empire waist pleating that flows effortlessly",
+      "Round neckline with decorative hand-crafted wooden potli buttons",
+      "Two functional deep side pockets to hold your smartphone and keys discreetly",
+      "Charming pastel dusty rose pink shade adorned with minimal floral buttis"
+    ],
+    "description": "Combining comfort and practical utility, the GoSriKi Anarkali Kurti features two discreet side pockets and a sweeping flared silhouette in soothing dusty rose pink. Perfect for college, travel, and casual outings.",
+    "stock": 75,
+    "deliveryDays": 1,
+    "tags": [
+      "fashion",
+      "women",
+      "women fashion",
+      "women clothes",
+      "girls clothes",
+      "kurti",
+      "kurtis",
+      "kurta",
+      "anarkali",
+      "ethnic",
+      "under 1000",
+      "under 500",
+      "gosriki",
+      "clothes",
+      "clothing",
+      "pink kurti"
+    ],
+    "reviewSummary": {
+      "pros": [
+        "Deep side pockets are genuinely practical for everyday convenience",
+        "Very flattering flared cut that conceals tummy and hips gracefully",
+        "Terrific value for money for an everyday Anarkali"
+      ],
+      "cons": [
+        "Slight stiffness on first unboxing; softens considerably after one wash",
+        "Cotton blend may require light ironing for crisp collar lines"
+      ],
+      "verdict": "The most practical everyday Anarkali featuring generous side pockets and effortless pastel charm.",
+      "sentiment": {
+        "positive": 86,
+        "neutral": 10,
+        "negative": 4
+      }
+    },
+    "priceHistory": [
+      {
+        "date": "2026-09-02",
+        "price": 593
+      },
+      {
+        "date": "2026-09-03",
+        "price": 549
+      },
+      {
+        "date": "2026-09-04",
+        "price": 549
+      },
+      {
+        "date": "2026-09-05",
+        "price": 571
+      },
+      {
+        "date": "2026-09-06",
+        "price": 549
+      },
+      {
+        "date": "2026-09-07",
+        "price": 593
+      },
+      {
+        "date": "2026-09-08",
+        "price": 571
+      },
+      {
+        "date": "2026-09-09",
+        "price": 549
+      },
+      {
+        "date": "2026-09-10",
+        "price": 549
+      },
+      {
+        "date": "2026-09-11",
+        "price": 571
+      },
+      {
+        "date": "2026-09-12",
+        "price": 593
+      },
+      {
+        "date": "2026-09-13",
+        "price": 549
+      },
+      {
+        "date": "2026-09-14",
+        "price": 571
+      },
+      {
+        "date": "2026-09-15",
+        "price": 549
+      },
+      {
+        "date": "2026-09-16",
+        "price": 549
+      },
+      {
+        "date": "2026-09-17",
+        "price": 593
+      },
+      {
+        "date": "2026-09-18",
+        "price": 549
+      },
+      {
+        "date": "2026-09-19",
+        "price": 549
+      },
+      {
+        "date": "2026-09-20",
+        "price": 571
+      },
+      {
+        "date": "2026-09-21",
+        "price": 549
+      },
+      {
+        "date": "2026-09-22",
+        "price": 593
+      },
+      {
+        "date": "2026-09-23",
+        "price": 571
+      },
+      {
+        "date": "2026-09-24",
+        "price": 549
+      },
+      {
+        "date": "2026-09-25",
+        "price": 549
+      },
+      {
+        "date": "2026-09-26",
+        "price": 571
+      },
+      {
+        "date": "2026-09-27",
+        "price": 593
+      },
+      {
+        "date": "2026-09-28",
+        "price": 549
+      },
+      {
+        "date": "2026-09-29",
+        "price": 571
+      },
+      {
+        "date": "2026-09-30",
+        "price": 549
+      },
+      {
+        "date": "2026-10-01",
+        "price": 549
+      },
+      {
+        "date": "2026-10-02",
+        "price": 593
+      }
+    ]
+  },
+  {
+    "id": "fas-28",
+    "slug": "vaamsi-womens-poly-silk-daily-wear-straight-kurti-mustard-yellow",
+    "title": "Vaamsi Women's Poly Silk Daily Wear Straight Kurti (Mustard Yellow)",
+    "brand": "Vaamsi",
+    "category": "Fashion",
+    "price": 399,
+    "mrp": 999,
+    "rating": 4.1,
+    "reviewCount": 15200,
+    "images": [
+      "/products/fas-28.jpg"
+    ],
+    "bullets": [
+      "Smooth poly silk crepe fabric that resists wrinkles and requires zero ironing",
+      "Vibrant festive mustard yellow shade with black ethnic motif prints",
+      "Boat neckline and straight cut knee-length hemline with side slits",
+      "Quick-dry lightweight fabric suitable for busy weekday routines",
+      "Pair with black leggings or denim trousers for an effortless Indo-western look"
+    ],
+    "description": "Brighten your everyday look with the Vaamsi Mustard Yellow Straight Kurti. Featuring crease-resistant poly silk fabric and traditional motifs, it delivers reliable style and wash-and-wear convenience on a budget.",
+    "stock": 90,
+    "deliveryDays": 1,
+    "tags": [
+      "fashion",
+      "women",
+      "women fashion",
+      "women clothes",
+      "girls clothes",
+      "kurti",
+      "kurtis",
+      "kurta",
+      "ethnic",
+      "under 500",
+      "under 1000",
+      "vaamsi",
+      "clothes",
+      "clothing",
+      "yellow kurti"
+    ],
+    "reviewSummary": {
+      "pros": [
+        "Wrinkle-resistant wash-and-wear crepe fabric needs no ironing",
+        "Unbeatable price point under ₹400 for college or office rotation",
+        "Bright cheerful mustard yellow color looks great in sunlight"
+      ],
+      "cons": [
+        "Synthetic poly silk is slightly warmer than pure cotton during peak summer",
+        "No lining, although fabric is sufficiently opaque"
+      ],
+      "verdict": "An unbeatable low-maintenance daily kurti that looks crisp all day without ironing.",
+      "sentiment": {
+        "positive": 85,
+        "neutral": 10,
+        "negative": 5
+      }
+    },
+    "priceHistory": [
+      {
+        "date": "2026-09-02",
+        "price": 431
+      },
+      {
+        "date": "2026-09-03",
+        "price": 399
+      },
+      {
+        "date": "2026-09-04",
+        "price": 399
+      },
+      {
+        "date": "2026-09-05",
+        "price": 415
+      },
+      {
+        "date": "2026-09-06",
+        "price": 399
+      },
+      {
+        "date": "2026-09-07",
+        "price": 431
+      },
+      {
+        "date": "2026-09-08",
+        "price": 415
+      },
+      {
+        "date": "2026-09-09",
+        "price": 399
+      },
+      {
+        "date": "2026-09-10",
+        "price": 399
+      },
+      {
+        "date": "2026-09-11",
+        "price": 415
+      },
+      {
+        "date": "2026-09-12",
+        "price": 431
+      },
+      {
+        "date": "2026-09-13",
+        "price": 399
+      },
+      {
+        "date": "2026-09-14",
+        "price": 415
+      },
+      {
+        "date": "2026-09-15",
+        "price": 399
+      },
+      {
+        "date": "2026-09-16",
+        "price": 399
+      },
+      {
+        "date": "2026-09-17",
+        "price": 431
+      },
+      {
+        "date": "2026-09-18",
+        "price": 399
+      },
+      {
+        "date": "2026-09-19",
+        "price": 399
+      },
+      {
+        "date": "2026-09-20",
+        "price": 415
+      },
+      {
+        "date": "2026-09-21",
+        "price": 399
+      },
+      {
+        "date": "2026-09-22",
+        "price": 431
+      },
+      {
+        "date": "2026-09-23",
+        "price": 415
+      },
+      {
+        "date": "2026-09-24",
+        "price": 399
+      },
+      {
+        "date": "2026-09-25",
+        "price": 399
+      },
+      {
+        "date": "2026-09-26",
+        "price": 415
+      },
+      {
+        "date": "2026-09-27",
+        "price": 431
+      },
+      {
+        "date": "2026-09-28",
+        "price": 399
+      },
+      {
+        "date": "2026-09-29",
+        "price": 415
+      },
+      {
+        "date": "2026-09-30",
+        "price": 399
+      },
+      {
+        "date": "2026-10-01",
+        "price": 399
+      },
+      {
+        "date": "2026-10-02",
+        "price": 431
+      }
+    ]
+  },
+  {
+    "id": "aud-13",
+    "slug": "sony-wh-1000xm5-wireless-noise-canceling-headphones",
+    "title": "Sony WH-1000XM5 Wireless Industry-Leading Active Noise Canceling Headphones",
+    "brand": "Sony",
+    "category": "Audio",
+    "price": 26990,
+    "mrp": 34990,
+    "rating": 4.6,
+    "reviewCount": 9420,
+    "images": [
+      "/products/aud-13.jpg"
+    ],
+    "bullets": [
+      "Industry-leading Noise Cancellation with two processors and 8 microphones for unparalleled quiet",
+      "Magnificent Sound engineered with new Integrated Processor V1 and 30mm carbon fiber driver unit",
+      "Up to 30-hour battery life with quick charging (3 min charge gives 3 hours playback)",
+      "Ultra-comfortable lightweight design finished with soft fit synthetic leather",
+      "Multipoint connection allows swift pairing with two Bluetooth devices simultaneously"
+    ],
+    "description": "The Sony WH-1000XM5 rewrites the rules for distraction-free listening with industry-benchmark active noise cancellation and crystal clear hands-free calling.",
+    "stock": 18,
+    "deliveryDays": 1,
+    "tags": [
+      "audio",
+      "headphones",
+      "anc",
+      "over-ear",
+      "sony",
+      "premium",
+      "bluetooth",
+      "travel",
+      "noise cancelling"
+    ],
+    "reviewSummary": {
+      "pros": [
+        "Benchmark-setting ANC silencing office chatter and jet engines",
+        "Sublime soundstage with deep sub-bass and airy highs",
+        "Incredible lightweight ergonomic comfort for 8+ hour wear"
+      ],
+      "cons": [
+        "Cannot fold into a compact hinge like XM4",
+        "Premium price tier requires budget commitment"
+      ],
+      "verdict": "The undisputed king of active noise cancellation for frequent flyers and focus-driven professionals.",
+      "sentiment": {
+        "positive": 91,
+        "neutral": 6,
+        "negative": 3
+      }
+    },
+    "priceHistory": [
+      {
+        "date": "2026-07-05",
+        "price": 28718
+      },
+      {
+        "date": "2026-07-06",
+        "price": 29150
+      },
+      {
+        "date": "2026-07-07",
+        "price": 29285
+      },
+      {
+        "date": "2026-07-08",
+        "price": 28924
+      },
+      {
+        "date": "2026-07-09",
+        "price": 28565
+      },
+      {
+        "date": "2026-07-10",
+        "price": 29376
+      },
+      {
+        "date": "2026-07-11",
+        "price": 29423
+      },
+      {
+        "date": "2026-07-12",
+        "price": 30019
+      },
+      {
+        "date": "2026-07-13",
+        "price": 30154
+      },
+      {
+        "date": "2026-07-14",
+        "price": 30322
+      },
+      {
+        "date": "2026-07-15",
+        "price": 30626
+      },
+      {
+        "date": "2026-07-16",
+        "price": 30938
+      },
+      {
+        "date": "2026-07-17",
+        "price": 30286
+      },
+      {
+        "date": "2026-07-18",
+        "price": 31121
+      },
+      {
+        "date": "2026-07-19",
+        "price": 31928
+      },
+      {
+        "date": "2026-07-20",
+        "price": 31702
+      },
+      {
+        "date": "2026-07-21",
+        "price": 31319
+      },
+      {
+        "date": "2026-07-22",
+        "price": 31597
+      },
+      {
+        "date": "2026-07-23",
+        "price": 32078
+      },
+      {
+        "date": "2026-07-24",
+        "price": 32043
+      },
+      {
+        "date": "2026-07-25",
+        "price": 32502
+      },
+      {
+        "date": "2026-07-26",
+        "price": 32928
+      },
+      {
+        "date": "2026-07-27",
+        "price": 32928
+      },
+      {
+        "date": "2026-07-28",
+        "price": 32928
+      },
+      {
+        "date": "2026-07-29",
+        "price": 32161
+      },
+      {
+        "date": "2026-07-30",
+        "price": 32147
+      },
+      {
+        "date": "2026-07-31",
+        "price": 31992
+      },
+      {
+        "date": "2026-08-01",
+        "price": 31687
+      },
+      {
+        "date": "2026-08-02",
+        "price": 31175
+      },
+      {
+        "date": "2026-08-03",
+        "price": 32010
+      },
+      {
+        "date": "2026-08-04",
+        "price": 31615
+      },
+      {
+        "date": "2026-08-05",
+        "price": 31077
+      },
+      {
+        "date": "2026-08-06",
+        "price": 31805
+      },
+      {
+        "date": "2026-08-07",
+        "price": 31993
+      },
+      {
+        "date": "2026-08-08",
+        "price": 32914
+      },
+      {
+        "date": "2026-08-09",
+        "price": 32544
+      },
+      {
+        "date": "2026-08-10",
+        "price": 32341
+      },
+      {
+        "date": "2026-08-11",
+        "price": 32928
+      },
+      {
+        "date": "2026-08-12",
+        "price": 32928
+      },
+      {
+        "date": "2026-08-13",
+        "price": 32928
+      },
+      {
+        "date": "2026-08-14",
+        "price": 32928
+      },
+      {
+        "date": "2026-08-15",
+        "price": 32905
+      },
+      {
+        "date": "2026-08-16",
+        "price": 32655
+      },
+      {
+        "date": "2026-08-17",
+        "price": 32928
+      },
+      {
+        "date": "2026-08-18",
+        "price": 32928
+      },
+      {
+        "date": "2026-08-19",
+        "price": 32364
+      },
+      {
+        "date": "2026-08-20",
+        "price": 32396
+      },
+      {
+        "date": "2026-08-21",
+        "price": 32561
+      },
+      {
+        "date": "2026-08-22",
+        "price": 32928
+      },
+      {
+        "date": "2026-08-23",
+        "price": 32928
+      },
+      {
+        "date": "2026-08-24",
+        "price": 32034
+      },
+      {
+        "date": "2026-08-25",
+        "price": 32928
+      },
+      {
+        "date": "2026-08-26",
+        "price": 32928
+      },
+      {
+        "date": "2026-08-27",
+        "price": 32928
+      },
+      {
+        "date": "2026-08-28",
+        "price": 32508
+      },
+      {
+        "date": "2026-08-29",
+        "price": 32928
+      },
+      {
+        "date": "2026-08-30",
+        "price": 32928
+      },
+      {
+        "date": "2026-08-31",
+        "price": 32524
+      },
+      {
+        "date": "2026-09-01",
+        "price": 31789
+      },
+      {
+        "date": "2026-09-02",
+        "price": 31464
+      },
+      {
+        "date": "2026-09-03",
+        "price": 32355
+      },
+      {
+        "date": "2026-09-04",
+        "price": 32745
+      },
+      {
+        "date": "2026-09-05",
+        "price": 32376
+      },
+      {
+        "date": "2026-09-06",
+        "price": 32500
+      },
+      {
+        "date": "2026-09-07",
+        "price": 32928
+      },
+      {
+        "date": "2026-09-08",
+        "price": 31948
+      },
+      {
+        "date": "2026-09-09",
+        "price": 32855
+      },
+      {
+        "date": "2026-09-10",
+        "price": 32928
+      },
+      {
+        "date": "2026-09-11",
+        "price": 32928
+      },
+      {
+        "date": "2026-09-12",
+        "price": 32928
+      },
+      {
+        "date": "2026-09-13",
+        "price": 32263
+      },
+      {
+        "date": "2026-09-14",
+        "price": 32307
+      },
+      {
+        "date": "2026-09-15",
+        "price": 32928
+      },
+      {
+        "date": "2026-09-16",
+        "price": 32928
+      },
+      {
+        "date": "2026-09-17",
+        "price": 32928
+      },
+      {
+        "date": "2026-09-18",
+        "price": 32928
+      },
+      {
+        "date": "2026-09-19",
+        "price": 31988
+      },
+      {
+        "date": "2026-09-20",
+        "price": 32145
+      },
+      {
+        "date": "2026-09-21",
+        "price": 31937
+      },
+      {
+        "date": "2026-09-22",
+        "price": 31648
+      },
+      {
+        "date": "2026-09-23",
+        "price": 31471
+      },
+      {
+        "date": "2026-09-24",
+        "price": 31012
+      },
+      {
+        "date": "2026-09-25",
+        "price": 30513
+      },
+      {
+        "date": "2026-09-26",
+        "price": 30640
+      },
+      {
+        "date": "2026-09-27",
+        "price": 30507
+      },
+      {
+        "date": "2026-09-28",
+        "price": 30418
+      },
+      {
+        "date": "2026-09-29",
+        "price": 31166
+      },
+      {
+        "date": "2026-09-30",
+        "price": 30874
+      },
+      {
+        "date": "2026-10-01",
+        "price": 30518
+      },
+      {
+        "date": "2026-10-02",
+        "price": 26990
+      }
+    ]
+  },
+  {
+    "id": "aud-15",
+    "slug": "jbl-flip-6-wireless-portable-bluetooth-speaker",
+    "title": "JBL Flip 6 Wireless Portable Bluetooth Speaker with IP67 Waterproof & Deep Bass",
+    "brand": "JBL",
+    "category": "Audio",
+    "price": 9999,
+    "mrp": 13999,
+    "rating": 4.5,
+    "reviewCount": 11200,
+    "images": [
       "/products/aud-15.jpg"
     ],
-  "bullets": [
-    "2-way speaker system delivering loud, crystal-clear, powerful stereo acoustics",
-    "Racetrack-shaped woofer delivers exceptional low frequencies and midrange",
-    "IP67 waterproof and dustproof for poolside, beach, and mountain treks",
-    "Up to 12 hours of non-stop playtime on a single USB-C charge",
-    "PartyBoost lets you pair multiple compatible JBL speakers for immersive stereo"
-  ],
-  "description": "The JBL Flip 6 is engineered to deliver powerful JBL Original Pro Sound with exceptional clarity thanks to its 2-way speaker system and dual passive radiators.",
-  "stock": 30,
-  "deliveryDays": 1,
-  "tags": [
-    "audio",
-    "speaker",
-    "bluetooth",
-    "jbl",
-    "portable",
-    "waterproof",
-    "outdoor",
-    "party",
-    "bass"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "Huge, room-filling sound and deep bass from a compact cylinder",
-      "True IP67 rugged build that survives drops and water submersion",
-      "Long 12-hour real world battery life"
+    "bullets": [
+      "2-way speaker system delivering loud, crystal-clear, powerful stereo acoustics",
+      "Racetrack-shaped woofer delivers exceptional low frequencies and midrange",
+      "IP67 waterproof and dustproof for poolside, beach, and mountain treks",
+      "Up to 12 hours of non-stop playtime on a single USB-C charge",
+      "PartyBoost lets you pair multiple compatible JBL speakers for immersive stereo"
     ],
-    "cons": [
-      "No auxiliary 3.5mm jack",
-      "No built-in microphone for speakerphone calls"
+    "description": "The JBL Flip 6 is engineered to deliver powerful JBL Original Pro Sound with exceptional clarity thanks to its 2-way speaker system and dual passive radiators.",
+    "stock": 30,
+    "deliveryDays": 1,
+    "tags": [
+      "audio",
+      "speaker",
+      "bluetooth",
+      "jbl",
+      "portable",
+      "waterproof",
+      "outdoor",
+      "party",
+      "bass"
     ],
-    "verdict": "The definitive outdoor portable speaker for travel, poolside gatherings, and weekend treks.",
-    "sentiment": {
-      "positive": 89,
-      "neutral": 8,
-      "negative": 3
-    }
+    "reviewSummary": {
+      "pros": [
+        "Huge, room-filling sound and deep bass from a compact cylinder",
+        "True IP67 rugged build that survives drops and water submersion",
+        "Long 12-hour real world battery life"
+      ],
+      "cons": [
+        "No auxiliary 3.5mm jack",
+        "No built-in microphone for speakerphone calls"
+      ],
+      "verdict": "The definitive outdoor portable speaker for travel, poolside gatherings, and weekend treks.",
+      "sentiment": {
+        "positive": 89,
+        "neutral": 8,
+        "negative": 3
+      }
+    },
+    "priceHistory": [
+      {
+        "date": "2026-07-05",
+        "price": 10994
+      },
+      {
+        "date": "2026-07-06",
+        "price": 11201
+      },
+      {
+        "date": "2026-07-07",
+        "price": 11273
+      },
+      {
+        "date": "2026-07-08",
+        "price": 11250
+      },
+      {
+        "date": "2026-07-09",
+        "price": 11352
+      },
+      {
+        "date": "2026-07-10",
+        "price": 11521
+      },
+      {
+        "date": "2026-07-11",
+        "price": 11713
+      },
+      {
+        "date": "2026-07-12",
+        "price": 11376
+      },
+      {
+        "date": "2026-07-13",
+        "price": 11240
+      },
+      {
+        "date": "2026-07-14",
+        "price": 11046
+      },
+      {
+        "date": "2026-07-15",
+        "price": 11255
+      },
+      {
+        "date": "2026-07-16",
+        "price": 11412
+      },
+      {
+        "date": "2026-07-17",
+        "price": 11420
+      },
+      {
+        "date": "2026-07-18",
+        "price": 11380
+      },
+      {
+        "date": "2026-07-19",
+        "price": 11697
+      },
+      {
+        "date": "2026-07-20",
+        "price": 11973
+      },
+      {
+        "date": "2026-07-21",
+        "price": 11881
+      },
+      {
+        "date": "2026-07-22",
+        "price": 12086
+      },
+      {
+        "date": "2026-07-23",
+        "price": 12199
+      },
+      {
+        "date": "2026-07-24",
+        "price": 12199
+      },
+      {
+        "date": "2026-07-25",
+        "price": 12062
+      },
+      {
+        "date": "2026-07-26",
+        "price": 11881
+      },
+      {
+        "date": "2026-07-27",
+        "price": 11791
+      },
+      {
+        "date": "2026-07-28",
+        "price": 11844
+      },
+      {
+        "date": "2026-07-29",
+        "price": 11675
+      },
+      {
+        "date": "2026-07-30",
+        "price": 11814
+      },
+      {
+        "date": "2026-07-31",
+        "price": 11752
+      },
+      {
+        "date": "2026-08-01",
+        "price": 11740
+      },
+      {
+        "date": "2026-08-02",
+        "price": 11828
+      },
+      {
+        "date": "2026-08-03",
+        "price": 11964
+      },
+      {
+        "date": "2026-08-04",
+        "price": 11854
+      },
+      {
+        "date": "2026-08-05",
+        "price": 11928
+      },
+      {
+        "date": "2026-08-06",
+        "price": 11997
+      },
+      {
+        "date": "2026-08-07",
+        "price": 12072
+      },
+      {
+        "date": "2026-08-08",
+        "price": 12026
+      },
+      {
+        "date": "2026-08-09",
+        "price": 11682
+      },
+      {
+        "date": "2026-08-10",
+        "price": 11590
+      },
+      {
+        "date": "2026-08-11",
+        "price": 11776
+      },
+      {
+        "date": "2026-08-12",
+        "price": 11474
+      },
+      {
+        "date": "2026-08-13",
+        "price": 11266
+      },
+      {
+        "date": "2026-08-14",
+        "price": 11282
+      },
+      {
+        "date": "2026-08-15",
+        "price": 11042
+      },
+      {
+        "date": "2026-08-16",
+        "price": 11220
+      },
+      {
+        "date": "2026-08-17",
+        "price": 11384
+      },
+      {
+        "date": "2026-08-18",
+        "price": 11671
+      },
+      {
+        "date": "2026-08-19",
+        "price": 11352
+      },
+      {
+        "date": "2026-08-20",
+        "price": 11232
+      },
+      {
+        "date": "2026-08-21",
+        "price": 11006
+      },
+      {
+        "date": "2026-08-22",
+        "price": 11267
+      },
+      {
+        "date": "2026-08-23",
+        "price": 11497
+      },
+      {
+        "date": "2026-08-24",
+        "price": 11738
+      },
+      {
+        "date": "2026-08-25",
+        "price": 11620
+      },
+      {
+        "date": "2026-08-26",
+        "price": 11302
+      },
+      {
+        "date": "2026-08-27",
+        "price": 11012
+      },
+      {
+        "date": "2026-08-28",
+        "price": 11332
+      },
+      {
+        "date": "2026-08-29",
+        "price": 10996
+      },
+      {
+        "date": "2026-08-30",
+        "price": 11256
+      },
+      {
+        "date": "2026-08-31",
+        "price": 11407
+      },
+      {
+        "date": "2026-09-01",
+        "price": 11353
+      },
+      {
+        "date": "2026-09-02",
+        "price": 11681
+      },
+      {
+        "date": "2026-09-03",
+        "price": 11690
+      },
+      {
+        "date": "2026-09-04",
+        "price": 11535
+      },
+      {
+        "date": "2026-09-05",
+        "price": 11338
+      },
+      {
+        "date": "2026-09-06",
+        "price": 11355
+      },
+      {
+        "date": "2026-09-07",
+        "price": 11396
+      },
+      {
+        "date": "2026-09-08",
+        "price": 11729
+      },
+      {
+        "date": "2026-09-09",
+        "price": 11826
+      },
+      {
+        "date": "2026-09-10",
+        "price": 11870
+      },
+      {
+        "date": "2026-09-11",
+        "price": 11848
+      },
+      {
+        "date": "2026-09-12",
+        "price": 11789
+      },
+      {
+        "date": "2026-09-13",
+        "price": 11618
+      },
+      {
+        "date": "2026-09-14",
+        "price": 11407
+      },
+      {
+        "date": "2026-09-15",
+        "price": 11742
+      },
+      {
+        "date": "2026-09-16",
+        "price": 12020
+      },
+      {
+        "date": "2026-09-17",
+        "price": 12182
+      },
+      {
+        "date": "2026-09-18",
+        "price": 12199
+      },
+      {
+        "date": "2026-09-19",
+        "price": 12064
+      },
+      {
+        "date": "2026-09-20",
+        "price": 12014
+      },
+      {
+        "date": "2026-09-21",
+        "price": 12199
+      },
+      {
+        "date": "2026-09-22",
+        "price": 12199
+      },
+      {
+        "date": "2026-09-23",
+        "price": 12116
+      },
+      {
+        "date": "2026-09-24",
+        "price": 12103
+      },
+      {
+        "date": "2026-09-25",
+        "price": 12124
+      },
+      {
+        "date": "2026-09-26",
+        "price": 12048
+      },
+      {
+        "date": "2026-09-27",
+        "price": 12102
+      },
+      {
+        "date": "2026-09-28",
+        "price": 12001
+      },
+      {
+        "date": "2026-09-29",
+        "price": 12062
+      },
+      {
+        "date": "2026-09-30",
+        "price": 12199
+      },
+      {
+        "date": "2026-10-01",
+        "price": 11859
+      },
+      {
+        "date": "2026-10-02",
+        "price": 9999
+      }
+    ]
   },
-  "priceHistory": [
-    {
-      "date": "2026-07-05",
-      "price": 10994
-    },
-    {
-      "date": "2026-07-06",
-      "price": 11201
-    },
-    {
-      "date": "2026-07-07",
-      "price": 11273
-    },
-    {
-      "date": "2026-07-08",
-      "price": 11250
-    },
-    {
-      "date": "2026-07-09",
-      "price": 11352
-    },
-    {
-      "date": "2026-07-10",
-      "price": 11521
-    },
-    {
-      "date": "2026-07-11",
-      "price": 11713
-    },
-    {
-      "date": "2026-07-12",
-      "price": 11376
-    },
-    {
-      "date": "2026-07-13",
-      "price": 11240
-    },
-    {
-      "date": "2026-07-14",
-      "price": 11046
-    },
-    {
-      "date": "2026-07-15",
-      "price": 11255
-    },
-    {
-      "date": "2026-07-16",
-      "price": 11412
-    },
-    {
-      "date": "2026-07-17",
-      "price": 11420
-    },
-    {
-      "date": "2026-07-18",
-      "price": 11380
-    },
-    {
-      "date": "2026-07-19",
-      "price": 11697
-    },
-    {
-      "date": "2026-07-20",
-      "price": 11973
-    },
-    {
-      "date": "2026-07-21",
-      "price": 11881
-    },
-    {
-      "date": "2026-07-22",
-      "price": 12086
-    },
-    {
-      "date": "2026-07-23",
-      "price": 12199
-    },
-    {
-      "date": "2026-07-24",
-      "price": 12199
-    },
-    {
-      "date": "2026-07-25",
-      "price": 12062
-    },
-    {
-      "date": "2026-07-26",
-      "price": 11881
-    },
-    {
-      "date": "2026-07-27",
-      "price": 11791
-    },
-    {
-      "date": "2026-07-28",
-      "price": 11844
-    },
-    {
-      "date": "2026-07-29",
-      "price": 11675
-    },
-    {
-      "date": "2026-07-30",
-      "price": 11814
-    },
-    {
-      "date": "2026-07-31",
-      "price": 11752
-    },
-    {
-      "date": "2026-08-01",
-      "price": 11740
-    },
-    {
-      "date": "2026-08-02",
-      "price": 11828
-    },
-    {
-      "date": "2026-08-03",
-      "price": 11964
-    },
-    {
-      "date": "2026-08-04",
-      "price": 11854
-    },
-    {
-      "date": "2026-08-05",
-      "price": 11928
-    },
-    {
-      "date": "2026-08-06",
-      "price": 11997
-    },
-    {
-      "date": "2026-08-07",
-      "price": 12072
-    },
-    {
-      "date": "2026-08-08",
-      "price": 12026
-    },
-    {
-      "date": "2026-08-09",
-      "price": 11682
-    },
-    {
-      "date": "2026-08-10",
-      "price": 11590
-    },
-    {
-      "date": "2026-08-11",
-      "price": 11776
-    },
-    {
-      "date": "2026-08-12",
-      "price": 11474
-    },
-    {
-      "date": "2026-08-13",
-      "price": 11266
-    },
-    {
-      "date": "2026-08-14",
-      "price": 11282
-    },
-    {
-      "date": "2026-08-15",
-      "price": 11042
-    },
-    {
-      "date": "2026-08-16",
-      "price": 11220
-    },
-    {
-      "date": "2026-08-17",
-      "price": 11384
-    },
-    {
-      "date": "2026-08-18",
-      "price": 11671
-    },
-    {
-      "date": "2026-08-19",
-      "price": 11352
-    },
-    {
-      "date": "2026-08-20",
-      "price": 11232
-    },
-    {
-      "date": "2026-08-21",
-      "price": 11006
-    },
-    {
-      "date": "2026-08-22",
-      "price": 11267
-    },
-    {
-      "date": "2026-08-23",
-      "price": 11497
-    },
-    {
-      "date": "2026-08-24",
-      "price": 11738
-    },
-    {
-      "date": "2026-08-25",
-      "price": 11620
-    },
-    {
-      "date": "2026-08-26",
-      "price": 11302
-    },
-    {
-      "date": "2026-08-27",
-      "price": 11012
-    },
-    {
-      "date": "2026-08-28",
-      "price": 11332
-    },
-    {
-      "date": "2026-08-29",
-      "price": 10996
-    },
-    {
-      "date": "2026-08-30",
-      "price": 11256
-    },
-    {
-      "date": "2026-08-31",
-      "price": 11407
-    },
-    {
-      "date": "2026-09-01",
-      "price": 11353
-    },
-    {
-      "date": "2026-09-02",
-      "price": 11681
-    },
-    {
-      "date": "2026-09-03",
-      "price": 11690
-    },
-    {
-      "date": "2026-09-04",
-      "price": 11535
-    },
-    {
-      "date": "2026-09-05",
-      "price": 11338
-    },
-    {
-      "date": "2026-09-06",
-      "price": 11355
-    },
-    {
-      "date": "2026-09-07",
-      "price": 11396
-    },
-    {
-      "date": "2026-09-08",
-      "price": 11729
-    },
-    {
-      "date": "2026-09-09",
-      "price": 11826
-    },
-    {
-      "date": "2026-09-10",
-      "price": 11870
-    },
-    {
-      "date": "2026-09-11",
-      "price": 11848
-    },
-    {
-      "date": "2026-09-12",
-      "price": 11789
-    },
-    {
-      "date": "2026-09-13",
-      "price": 11618
-    },
-    {
-      "date": "2026-09-14",
-      "price": 11407
-    },
-    {
-      "date": "2026-09-15",
-      "price": 11742
-    },
-    {
-      "date": "2026-09-16",
-      "price": 12020
-    },
-    {
-      "date": "2026-09-17",
-      "price": 12182
-    },
-    {
-      "date": "2026-09-18",
-      "price": 12199
-    },
-    {
-      "date": "2026-09-19",
-      "price": 12064
-    },
-    {
-      "date": "2026-09-20",
-      "price": 12014
-    },
-    {
-      "date": "2026-09-21",
-      "price": 12199
-    },
-    {
-      "date": "2026-09-22",
-      "price": 12199
-    },
-    {
-      "date": "2026-09-23",
-      "price": 12116
-    },
-    {
-      "date": "2026-09-24",
-      "price": 12103
-    },
-    {
-      "date": "2026-09-25",
-      "price": 12124
-    },
-    {
-      "date": "2026-09-26",
-      "price": 12048
-    },
-    {
-      "date": "2026-09-27",
-      "price": 12102
-    },
-    {
-      "date": "2026-09-28",
-      "price": 12001
-    },
-    {
-      "date": "2026-09-29",
-      "price": 12062
-    },
-    {
-      "date": "2026-09-30",
-      "price": 12199
-    },
-    {
-      "date": "2026-10-01",
-      "price": 11859
-    },
-    {
-      "date": "2026-10-02",
-      "price": 9999
-    }
-  ]
-},
-{
-  "id": "aud-16",
-  "slug": "boat-stone-350-10w-portable-bluetooth-speaker",
-  "title": "boAt Stone 350 10W Portable Wireless Bluetooth Speaker with 12H Playtime",
-  "brand": "boAt",
-  "category": "Audio",
-  "price": 1299,
-  "mrp": 3490,
-  "rating": 4.1,
-  "reviewCount": 22100,
-  "images": [
-    "/products/aud-04.jpg"
-  ],
-  "bullets": [
-    "10W stereo sound with immersive boAt Signature dynamic acoustics",
-    "Up to 12 hours of total playtime on a single charge",
-    "IPX5 splash and water resistance for worry-free outdoor picnics",
-    "Multi-compatibility modes: Bluetooth v5.0, TF Card, and AUX audio playback",
-    "TWS feature to connect two Stone 350 speakers for doubled volume"
-  ],
-  "description": "Compact yet powerful, the boAt Stone 350 delivers 10W of punchy acoustic power with rugged cylindrical aesthetics and IPX5 splash protection.",
-  "stock": 70,
-  "deliveryDays": 2,
-  "tags": [
-    "audio",
-    "speaker",
-    "bluetooth",
-    "boAt",
-    "budget",
-    "under 1500",
-    "portable",
-    "waterproof"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "Shockingly loud 10W sound for its compact size",
-      "Rugged shock-resistant rubberized outer ring",
-      "Great value under ₹1,500 with multiple input modes"
+  {
+    "id": "elec-17",
+    "slug": "asus-rog-zephyrus-g14-oled-gaming-laptop",
+    "title": "ASUS ROG Zephyrus G14 (2024) 14-inch 3K 120Hz OLED Gaming Laptop (AMD Ryzen 9, RTX 4060)",
+    "brand": "ASUS",
+    "category": "Electronics",
+    "price": 144990,
+    "mrp": 174990,
+    "rating": 4.7,
+    "reviewCount": 1420,
+    "images": [
+      "/products/elec-17.jpg"
     ],
-    "cons": [
-      "Bass distorts slightly at maximum 100% volume",
-      "Standard charging takes around 2.5 hours"
+    "bullets": [
+      "AMD Ryzen 9 8945HS Processor with Ryzen AI and NVIDIA GeForce RTX 4060 Laptop GPU",
+      "14-inch 3K 120Hz 0.2ms ROG Nebula OLED Display (100% DCI-P3, G-SYNC)",
+      "Ultra-slim 1.59cm CNC aluminum unibody weighing only 1.50 kg",
+      "16GB LPDDR5X 6400MHz RAM and 1TB PCIe 4.0 NVMe M.2 SSD",
+      "Slash Lighting array on lid with customizable dynamic animations"
     ],
-    "verdict": "The ultimate budget wireless speaker for hostel rooms, study tables, and light outdoor picnics.",
-    "sentiment": {
-      "positive": 81,
-      "neutral": 12,
-      "negative": 7
-    }
+    "description": "The ASUS ROG Zephyrus G14 pairs breathtaking OLED visuals with high-performance gaming internals inside an ultra-portable CNC milled chassis.",
+    "stock": 12,
+    "deliveryDays": 1,
+    "tags": [
+      "electronics",
+      "laptop",
+      "gaming",
+      "asus",
+      "rog",
+      "oled",
+      "rtx 4060",
+      "coding",
+      "creator",
+      "premium"
+    ],
+    "reviewSummary": {
+      "pros": [
+        "Jaw-dropping 3K 120Hz OLED panel with deep blacks and vibrant color",
+        "MacBook-grade CNC aluminum build and hinge quality",
+        "Lightweight 1.5kg chassis easily portable for everyday work"
+      ],
+      "cons": [
+        "Memory is soldered and cannot be upgraded later",
+        "Fans get audible under intense AAA gaming loads"
+      ],
+      "verdict": "The premier Windows portable laptop for software developers, video editors, and PC gamers.",
+      "sentiment": {
+        "positive": 93,
+        "neutral": 5,
+        "negative": 2
+      }
+    },
+    "priceHistory": [
+      {
+        "date": "2026-07-05",
+        "price": 153760
+      },
+      {
+        "date": "2026-07-06",
+        "price": 150350
+      },
+      {
+        "date": "2026-07-07",
+        "price": 149060
+      },
+      {
+        "date": "2026-07-08",
+        "price": 147945
+      },
+      {
+        "date": "2026-07-09",
+        "price": 147091
+      },
+      {
+        "date": "2026-07-10",
+        "price": 149778
+      },
+      {
+        "date": "2026-07-11",
+        "price": 150316
+      },
+      {
+        "date": "2026-07-12",
+        "price": 149623
+      },
+      {
+        "date": "2026-07-13",
+        "price": 153805
+      },
+      {
+        "date": "2026-07-14",
+        "price": 149718
+      },
+      {
+        "date": "2026-07-15",
+        "price": 150223
+      },
+      {
+        "date": "2026-07-16",
+        "price": 151993
+      },
+      {
+        "date": "2026-07-17",
+        "price": 156329
+      },
+      {
+        "date": "2026-07-18",
+        "price": 153076
+      },
+      {
+        "date": "2026-07-19",
+        "price": 150359
+      },
+      {
+        "date": "2026-07-20",
+        "price": 151246
+      },
+      {
+        "date": "2026-07-21",
+        "price": 147292
+      },
+      {
+        "date": "2026-07-22",
+        "price": 144174
+      },
+      {
+        "date": "2026-07-23",
+        "price": 143592
+      },
+      {
+        "date": "2026-07-24",
+        "price": 143882
+      },
+      {
+        "date": "2026-07-25",
+        "price": 148058
+      },
+      {
+        "date": "2026-07-26",
+        "price": 145021
+      },
+      {
+        "date": "2026-07-27",
+        "price": 148123
+      },
+      {
+        "date": "2026-07-28",
+        "price": 144079
+      },
+      {
+        "date": "2026-07-29",
+        "price": 143679
+      },
+      {
+        "date": "2026-07-30",
+        "price": 142867
+      },
+      {
+        "date": "2026-07-31",
+        "price": 141894
+      },
+      {
+        "date": "2026-08-01",
+        "price": 143571
+      },
+      {
+        "date": "2026-08-02",
+        "price": 140748
+      },
+      {
+        "date": "2026-08-03",
+        "price": 139334
+      },
+      {
+        "date": "2026-08-04",
+        "price": 139187
+      },
+      {
+        "date": "2026-08-05",
+        "price": 136303
+      },
+      {
+        "date": "2026-08-06",
+        "price": 138099
+      },
+      {
+        "date": "2026-08-07",
+        "price": 140914
+      },
+      {
+        "date": "2026-08-08",
+        "price": 142897
+      },
+      {
+        "date": "2026-08-09",
+        "price": 139369
+      },
+      {
+        "date": "2026-08-10",
+        "price": 136551
+      },
+      {
+        "date": "2026-08-11",
+        "price": 136040
+      },
+      {
+        "date": "2026-08-12",
+        "price": 138673
+      },
+      {
+        "date": "2026-08-13",
+        "price": 140230
+      },
+      {
+        "date": "2026-08-14",
+        "price": 144300
+      },
+      {
+        "date": "2026-08-15",
+        "price": 142096
+      },
+      {
+        "date": "2026-08-16",
+        "price": 138913
+      },
+      {
+        "date": "2026-08-17",
+        "price": 137833
+      },
+      {
+        "date": "2026-08-18",
+        "price": 138827
+      },
+      {
+        "date": "2026-08-19",
+        "price": 139327
+      },
+      {
+        "date": "2026-08-20",
+        "price": 137616
+      },
+      {
+        "date": "2026-08-21",
+        "price": 135820
+      },
+      {
+        "date": "2026-08-22",
+        "price": 132451
+      },
+      {
+        "date": "2026-08-23",
+        "price": 128559
+      },
+      {
+        "date": "2026-08-24",
+        "price": 132046
+      },
+      {
+        "date": "2026-08-25",
+        "price": 129491
+      },
+      {
+        "date": "2026-08-26",
+        "price": 127700
+      },
+      {
+        "date": "2026-08-27",
+        "price": 127591
+      },
+      {
+        "date": "2026-08-28",
+        "price": 127591
+      },
+      {
+        "date": "2026-08-29",
+        "price": 128442
+      },
+      {
+        "date": "2026-08-30",
+        "price": 131076
+      },
+      {
+        "date": "2026-08-31",
+        "price": 130649
+      },
+      {
+        "date": "2026-09-01",
+        "price": 128388
+      },
+      {
+        "date": "2026-09-02",
+        "price": 128493
+      },
+      {
+        "date": "2026-09-03",
+        "price": 130427
+      },
+      {
+        "date": "2026-09-04",
+        "price": 133169
+      },
+      {
+        "date": "2026-09-05",
+        "price": 130513
+      },
+      {
+        "date": "2026-09-06",
+        "price": 127591
+      },
+      {
+        "date": "2026-09-07",
+        "price": 127591
+      },
+      {
+        "date": "2026-09-08",
+        "price": 127591
+      },
+      {
+        "date": "2026-09-09",
+        "price": 127815
+      },
+      {
+        "date": "2026-09-10",
+        "price": 130934
+      },
+      {
+        "date": "2026-09-11",
+        "price": 132905
+      },
+      {
+        "date": "2026-09-12",
+        "price": 133378
+      },
+      {
+        "date": "2026-09-13",
+        "price": 131348
+      },
+      {
+        "date": "2026-09-14",
+        "price": 129014
+      },
+      {
+        "date": "2026-09-15",
+        "price": 128226
+      },
+      {
+        "date": "2026-09-16",
+        "price": 130805
+      },
+      {
+        "date": "2026-09-17",
+        "price": 129541
+      },
+      {
+        "date": "2026-09-18",
+        "price": 129329
+      },
+      {
+        "date": "2026-09-19",
+        "price": 127591
+      },
+      {
+        "date": "2026-09-20",
+        "price": 127591
+      },
+      {
+        "date": "2026-09-21",
+        "price": 131219
+      },
+      {
+        "date": "2026-09-22",
+        "price": 134765
+      },
+      {
+        "date": "2026-09-23",
+        "price": 135438
+      },
+      {
+        "date": "2026-09-24",
+        "price": 132078
+      },
+      {
+        "date": "2026-09-25",
+        "price": 135963
+      },
+      {
+        "date": "2026-09-26",
+        "price": 132346
+      },
+      {
+        "date": "2026-09-27",
+        "price": 133397
+      },
+      {
+        "date": "2026-09-28",
+        "price": 132494
+      },
+      {
+        "date": "2026-09-29",
+        "price": 130343
+      },
+      {
+        "date": "2026-09-30",
+        "price": 127591
+      },
+      {
+        "date": "2026-10-01",
+        "price": 127591
+      },
+      {
+        "date": "2026-10-02",
+        "price": 144990
+      }
+    ]
   },
-  "priceHistory": [
-    {
-      "date": "2026-07-05",
-      "price": 1389
-    },
-    {
-      "date": "2026-07-06",
-      "price": 1409
-    },
-    {
-      "date": "2026-07-07",
-      "price": 1370
-    },
-    {
-      "date": "2026-07-08",
-      "price": 1387
-    },
-    {
-      "date": "2026-07-09",
-      "price": 1390
-    },
-    {
-      "date": "2026-07-10",
-      "price": 1428
-    },
-    {
-      "date": "2026-07-11",
-      "price": 1390
-    },
-    {
-      "date": "2026-07-12",
-      "price": 1407
-    },
-    {
-      "date": "2026-07-13",
-      "price": 1422
-    },
-    {
-      "date": "2026-07-14",
-      "price": 1432
-    },
-    {
-      "date": "2026-07-15",
-      "price": 1409
-    },
-    {
-      "date": "2026-07-16",
-      "price": 1390
-    },
-    {
-      "date": "2026-07-17",
-      "price": 1376
-    },
-    {
-      "date": "2026-07-18",
-      "price": 1402
-    },
-    {
-      "date": "2026-07-19",
-      "price": 1410
-    },
-    {
-      "date": "2026-07-20",
-      "price": 1403
-    },
-    {
-      "date": "2026-07-21",
-      "price": 1402
-    },
-    {
-      "date": "2026-07-22",
-      "price": 1418
-    },
-    {
-      "date": "2026-07-23",
-      "price": 1426
-    },
-    {
-      "date": "2026-07-24",
-      "price": 1423
-    },
-    {
-      "date": "2026-07-25",
-      "price": 1462
-    },
-    {
-      "date": "2026-07-26",
-      "price": 1427
-    },
-    {
-      "date": "2026-07-27",
-      "price": 1406
-    },
-    {
-      "date": "2026-07-28",
-      "price": 1437
-    },
-    {
-      "date": "2026-07-29",
-      "price": 1473
-    },
-    {
-      "date": "2026-07-30",
-      "price": 1476
-    },
-    {
-      "date": "2026-07-31",
-      "price": 1506
-    },
-    {
-      "date": "2026-08-01",
-      "price": 1480
-    },
-    {
-      "date": "2026-08-02",
-      "price": 1509
-    },
-    {
-      "date": "2026-08-03",
-      "price": 1479
-    },
-    {
-      "date": "2026-08-04",
-      "price": 1504
-    },
-    {
-      "date": "2026-08-05",
-      "price": 1490
-    },
-    {
-      "date": "2026-08-06",
-      "price": 1459
-    },
-    {
-      "date": "2026-08-07",
-      "price": 1471
-    },
-    {
-      "date": "2026-08-08",
-      "price": 1488
-    },
-    {
-      "date": "2026-08-09",
-      "price": 1477
-    },
-    {
-      "date": "2026-08-10",
-      "price": 1501
-    },
-    {
-      "date": "2026-08-11",
-      "price": 1535
-    },
-    {
-      "date": "2026-08-12",
-      "price": 1540
-    },
-    {
-      "date": "2026-08-13",
-      "price": 1536
-    },
-    {
-      "date": "2026-08-14",
-      "price": 1490
-    },
-    {
-      "date": "2026-08-15",
-      "price": 1522
-    },
-    {
-      "date": "2026-08-16",
-      "price": 1511
-    },
-    {
-      "date": "2026-08-17",
-      "price": 1472
-    },
-    {
-      "date": "2026-08-18",
-      "price": 1496
-    },
-    {
-      "date": "2026-08-19",
-      "price": 1481
-    },
-    {
-      "date": "2026-08-20",
-      "price": 1446
-    },
-    {
-      "date": "2026-08-21",
-      "price": 1414
-    },
-    {
-      "date": "2026-08-22",
-      "price": 1438
-    },
-    {
-      "date": "2026-08-23",
-      "price": 1416
-    },
-    {
-      "date": "2026-08-24",
-      "price": 1434
-    },
-    {
-      "date": "2026-08-25",
-      "price": 1400
-    },
-    {
-      "date": "2026-08-26",
-      "price": 1410
-    },
-    {
-      "date": "2026-08-27",
-      "price": 1400
-    },
-    {
-      "date": "2026-08-28",
-      "price": 1435
-    },
-    {
-      "date": "2026-08-29",
-      "price": 1424
-    },
-    {
-      "date": "2026-08-30",
-      "price": 1412
-    },
-    {
-      "date": "2026-08-31",
-      "price": 1394
-    },
-    {
-      "date": "2026-09-01",
-      "price": 1410
-    },
-    {
-      "date": "2026-09-02",
-      "price": 1384
-    },
-    {
-      "date": "2026-09-03",
-      "price": 1386
-    },
-    {
-      "date": "2026-09-04",
-      "price": 1409
-    },
-    {
-      "date": "2026-09-05",
-      "price": 1371
-    },
-    {
-      "date": "2026-09-06",
-      "price": 1347
-    },
-    {
-      "date": "2026-09-07",
-      "price": 1337
-    },
-    {
-      "date": "2026-09-08",
-      "price": 1377
-    },
-    {
-      "date": "2026-09-09",
-      "price": 1385
-    },
-    {
-      "date": "2026-09-10",
-      "price": 1398
-    },
-    {
-      "date": "2026-09-11",
-      "price": 1383
-    },
-    {
-      "date": "2026-09-12",
-      "price": 1373
-    },
-    {
-      "date": "2026-09-13",
-      "price": 1372
-    },
-    {
-      "date": "2026-09-14",
-      "price": 1371
-    },
-    {
-      "date": "2026-09-15",
-      "price": 1386
-    },
-    {
-      "date": "2026-09-16",
-      "price": 1381
-    },
-    {
-      "date": "2026-09-17",
-      "price": 1414
-    },
-    {
-      "date": "2026-09-18",
-      "price": 1453
-    },
-    {
-      "date": "2026-09-19",
-      "price": 1466
-    },
-    {
-      "date": "2026-09-20",
-      "price": 1499
-    },
-    {
-      "date": "2026-09-21",
-      "price": 1483
-    },
-    {
-      "date": "2026-09-22",
-      "price": 1498
-    },
-    {
-      "date": "2026-09-23",
-      "price": 1456
-    },
-    {
-      "date": "2026-09-24",
-      "price": 1494
-    },
-    {
-      "date": "2026-09-25",
-      "price": 1459
-    },
-    {
-      "date": "2026-09-26",
-      "price": 1464
-    },
-    {
-      "date": "2026-09-27",
-      "price": 1478
-    },
-    {
-      "date": "2026-09-28",
-      "price": 1436
-    },
-    {
-      "date": "2026-09-29",
-      "price": 1440
-    },
-    {
-      "date": "2026-09-30",
-      "price": 1400
-    },
-    {
-      "date": "2026-10-01",
-      "price": 1377
-    },
-    {
-      "date": "2026-10-02",
-      "price": 1299
-    }
-  ]
-},
-{
-  "id": "elec-17",
-  "slug": "asus-rog-zephyrus-g14-oled-gaming-laptop",
-  "title": "ASUS ROG Zephyrus G14 (2024) 14-inch 3K 120Hz OLED Gaming Laptop (AMD Ryzen 9, RTX 4060)",
-  "brand": "ASUS",
-  "category": "Electronics",
-  "price": 144990,
-  "mrp": 174990,
-  "rating": 4.7,
-  "reviewCount": 1420,
-  "images": [
-    "/products/elec-07.jpg"
-  ],
-  "bullets": [
-    "AMD Ryzen 9 8945HS Processor with Ryzen AI and NVIDIA GeForce RTX 4060 Laptop GPU",
-    "14-inch 3K 120Hz 0.2ms ROG Nebula OLED Display (100% DCI-P3, G-SYNC)",
-    "Ultra-slim 1.59cm CNC aluminum unibody weighing only 1.50 kg",
-    "16GB LPDDR5X 6400MHz RAM and 1TB PCIe 4.0 NVMe M.2 SSD",
-    "Slash Lighting array on lid with customizable dynamic animations"
-  ],
-  "description": "The ASUS ROG Zephyrus G14 pairs breathtaking OLED visuals with high-performance gaming internals inside an ultra-portable CNC milled chassis.",
-  "stock": 12,
-  "deliveryDays": 1,
-  "tags": [
-    "electronics",
-    "laptop",
-    "gaming",
-    "asus",
-    "rog",
-    "oled",
-    "rtx 4060",
-    "coding",
-    "creator",
-    "premium"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "Jaw-dropping 3K 120Hz OLED panel with deep blacks and vibrant color",
-      "MacBook-grade CNC aluminum build and hinge quality",
-      "Lightweight 1.5kg chassis easily portable for everyday work"
-    ],
-    "cons": [
-      "Memory is soldered and cannot be upgraded later",
-      "Fans get audible under intense AAA gaming loads"
-    ],
-    "verdict": "The premier Windows portable laptop for software developers, video editors, and PC gamers.",
-    "sentiment": {
-      "positive": 93,
-      "neutral": 5,
-      "negative": 2
-    }
-  },
-  "priceHistory": [
-    {
-      "date": "2026-07-05",
-      "price": 153760
-    },
-    {
-      "date": "2026-07-06",
-      "price": 150350
-    },
-    {
-      "date": "2026-07-07",
-      "price": 149060
-    },
-    {
-      "date": "2026-07-08",
-      "price": 147945
-    },
-    {
-      "date": "2026-07-09",
-      "price": 147091
-    },
-    {
-      "date": "2026-07-10",
-      "price": 149778
-    },
-    {
-      "date": "2026-07-11",
-      "price": 150316
-    },
-    {
-      "date": "2026-07-12",
-      "price": 149623
-    },
-    {
-      "date": "2026-07-13",
-      "price": 153805
-    },
-    {
-      "date": "2026-07-14",
-      "price": 149718
-    },
-    {
-      "date": "2026-07-15",
-      "price": 150223
-    },
-    {
-      "date": "2026-07-16",
-      "price": 151993
-    },
-    {
-      "date": "2026-07-17",
-      "price": 156329
-    },
-    {
-      "date": "2026-07-18",
-      "price": 153076
-    },
-    {
-      "date": "2026-07-19",
-      "price": 150359
-    },
-    {
-      "date": "2026-07-20",
-      "price": 151246
-    },
-    {
-      "date": "2026-07-21",
-      "price": 147292
-    },
-    {
-      "date": "2026-07-22",
-      "price": 144174
-    },
-    {
-      "date": "2026-07-23",
-      "price": 143592
-    },
-    {
-      "date": "2026-07-24",
-      "price": 143882
-    },
-    {
-      "date": "2026-07-25",
-      "price": 148058
-    },
-    {
-      "date": "2026-07-26",
-      "price": 145021
-    },
-    {
-      "date": "2026-07-27",
-      "price": 148123
-    },
-    {
-      "date": "2026-07-28",
-      "price": 144079
-    },
-    {
-      "date": "2026-07-29",
-      "price": 143679
-    },
-    {
-      "date": "2026-07-30",
-      "price": 142867
-    },
-    {
-      "date": "2026-07-31",
-      "price": 141894
-    },
-    {
-      "date": "2026-08-01",
-      "price": 143571
-    },
-    {
-      "date": "2026-08-02",
-      "price": 140748
-    },
-    {
-      "date": "2026-08-03",
-      "price": 139334
-    },
-    {
-      "date": "2026-08-04",
-      "price": 139187
-    },
-    {
-      "date": "2026-08-05",
-      "price": 136303
-    },
-    {
-      "date": "2026-08-06",
-      "price": 138099
-    },
-    {
-      "date": "2026-08-07",
-      "price": 140914
-    },
-    {
-      "date": "2026-08-08",
-      "price": 142897
-    },
-    {
-      "date": "2026-08-09",
-      "price": 139369
-    },
-    {
-      "date": "2026-08-10",
-      "price": 136551
-    },
-    {
-      "date": "2026-08-11",
-      "price": 136040
-    },
-    {
-      "date": "2026-08-12",
-      "price": 138673
-    },
-    {
-      "date": "2026-08-13",
-      "price": 140230
-    },
-    {
-      "date": "2026-08-14",
-      "price": 144300
-    },
-    {
-      "date": "2026-08-15",
-      "price": 142096
-    },
-    {
-      "date": "2026-08-16",
-      "price": 138913
-    },
-    {
-      "date": "2026-08-17",
-      "price": 137833
-    },
-    {
-      "date": "2026-08-18",
-      "price": 138827
-    },
-    {
-      "date": "2026-08-19",
-      "price": 139327
-    },
-    {
-      "date": "2026-08-20",
-      "price": 137616
-    },
-    {
-      "date": "2026-08-21",
-      "price": 135820
-    },
-    {
-      "date": "2026-08-22",
-      "price": 132451
-    },
-    {
-      "date": "2026-08-23",
-      "price": 128559
-    },
-    {
-      "date": "2026-08-24",
-      "price": 132046
-    },
-    {
-      "date": "2026-08-25",
-      "price": 129491
-    },
-    {
-      "date": "2026-08-26",
-      "price": 127700
-    },
-    {
-      "date": "2026-08-27",
-      "price": 127591
-    },
-    {
-      "date": "2026-08-28",
-      "price": 127591
-    },
-    {
-      "date": "2026-08-29",
-      "price": 128442
-    },
-    {
-      "date": "2026-08-30",
-      "price": 131076
-    },
-    {
-      "date": "2026-08-31",
-      "price": 130649
-    },
-    {
-      "date": "2026-09-01",
-      "price": 128388
-    },
-    {
-      "date": "2026-09-02",
-      "price": 128493
-    },
-    {
-      "date": "2026-09-03",
-      "price": 130427
-    },
-    {
-      "date": "2026-09-04",
-      "price": 133169
-    },
-    {
-      "date": "2026-09-05",
-      "price": 130513
-    },
-    {
-      "date": "2026-09-06",
-      "price": 127591
-    },
-    {
-      "date": "2026-09-07",
-      "price": 127591
-    },
-    {
-      "date": "2026-09-08",
-      "price": 127591
-    },
-    {
-      "date": "2026-09-09",
-      "price": 127815
-    },
-    {
-      "date": "2026-09-10",
-      "price": 130934
-    },
-    {
-      "date": "2026-09-11",
-      "price": 132905
-    },
-    {
-      "date": "2026-09-12",
-      "price": 133378
-    },
-    {
-      "date": "2026-09-13",
-      "price": 131348
-    },
-    {
-      "date": "2026-09-14",
-      "price": 129014
-    },
-    {
-      "date": "2026-09-15",
-      "price": 128226
-    },
-    {
-      "date": "2026-09-16",
-      "price": 130805
-    },
-    {
-      "date": "2026-09-17",
-      "price": 129541
-    },
-    {
-      "date": "2026-09-18",
-      "price": 129329
-    },
-    {
-      "date": "2026-09-19",
-      "price": 127591
-    },
-    {
-      "date": "2026-09-20",
-      "price": 127591
-    },
-    {
-      "date": "2026-09-21",
-      "price": 131219
-    },
-    {
-      "date": "2026-09-22",
-      "price": 134765
-    },
-    {
-      "date": "2026-09-23",
-      "price": 135438
-    },
-    {
-      "date": "2026-09-24",
-      "price": 132078
-    },
-    {
-      "date": "2026-09-25",
-      "price": 135963
-    },
-    {
-      "date": "2026-09-26",
-      "price": 132346
-    },
-    {
-      "date": "2026-09-27",
-      "price": 133397
-    },
-    {
-      "date": "2026-09-28",
-      "price": 132494
-    },
-    {
-      "date": "2026-09-29",
-      "price": 130343
-    },
-    {
-      "date": "2026-09-30",
-      "price": 127591
-    },
-    {
-      "date": "2026-10-01",
-      "price": 127591
-    },
-    {
-      "date": "2026-10-02",
-      "price": 144990
-    }
-  ]
-},
-{
-  "id": "elec-18",
-  "slug": "sony-playstation-5-console-slim-disc-edition",
-  "title": "Sony PlayStation 5 Console (Slim Disc Edition) with DualSense Wireless Controller",
-  "brand": "Sony",
-  "category": "Electronics",
-  "price": 49990,
-  "mrp": 54990,
-  "rating": 4.8,
-  "reviewCount": 8850,
-  "images": [
+  {
+    "id": "elec-18",
+    "slug": "sony-playstation-5-console-slim-disc-edition",
+    "title": "Sony PlayStation 5 Console (Slim Disc Edition) with DualSense Wireless Controller",
+    "brand": "Sony",
+    "category": "Electronics",
+    "price": 49990,
+    "mrp": 54990,
+    "rating": 4.8,
+    "reviewCount": 8850,
+    "images": [
       "/products/elec-18.jpg"
     ],
-  "bullets": [
-    "Slim design packing powerful next-generation gaming technology in a sleek form factor",
-    "1TB of ultra-fast high-speed SSD storage for near-instant load times",
-    "Haptic feedback and adaptive triggers via the included DualSense Wireless Controller",
-    "Stunning 4K-TV gaming up to 120fps with HDR technology and ray tracing support",
-    "Tempest 3D AudioTech puts you at the center of rich soundscapes"
-  ],
-  "description": "Experience lightning-fast loading with an ultra-high speed SSD, deeper immersion with haptic feedback, adaptive triggers, and 3D Audio.",
-  "stock": 15,
-  "deliveryDays": 1,
-  "tags": [
-    "electronics",
-    "gaming",
-    "console",
-    "ps5",
-    "sony",
-    "playstation",
-    "4k",
-    "controller"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "Near-instant game loading times thanks to the custom NVMe SSD",
-      "Revolutionary DualSense haptics and dynamic tension triggers",
-      "Vast library of award-winning exclusive titles in 4K 60fps"
+    "bullets": [
+      "Slim design packing powerful next-generation gaming technology in a sleek form factor",
+      "1TB of ultra-fast high-speed SSD storage for near-instant load times",
+      "Haptic feedback and adaptive triggers via the included DualSense Wireless Controller",
+      "Stunning 4K-TV gaming up to 120fps with HDR technology and ray tracing support",
+      "Tempest 3D AudioTech puts you at the center of rich soundscapes"
     ],
-    "cons": [
-      "1TB SSD fills up fast with modern 100GB+ titles",
-      "Vertical stand is sold separately in the slim edition"
+    "description": "Experience lightning-fast loading with an ultra-high speed SSD, deeper immersion with haptic feedback, adaptive triggers, and 3D Audio.",
+    "stock": 15,
+    "deliveryDays": 1,
+    "tags": [
+      "electronics",
+      "gaming",
+      "console",
+      "ps5",
+      "sony",
+      "playstation",
+      "4k",
+      "controller"
     ],
-    "verdict": "The ultimate living-room gaming console with unrivaled exclusives and tactile controller immersion.",
-    "sentiment": {
-      "positive": 95,
-      "neutral": 3,
-      "negative": 2
-    }
+    "reviewSummary": {
+      "pros": [
+        "Near-instant game loading times thanks to the custom NVMe SSD",
+        "Revolutionary DualSense haptics and dynamic tension triggers",
+        "Vast library of award-winning exclusive titles in 4K 60fps"
+      ],
+      "cons": [
+        "1TB SSD fills up fast with modern 100GB+ titles",
+        "Vertical stand is sold separately in the slim edition"
+      ],
+      "verdict": "The ultimate living-room gaming console with unrivaled exclusives and tactile controller immersion.",
+      "sentiment": {
+        "positive": 95,
+        "neutral": 3,
+        "negative": 2
+      }
+    },
+    "priceHistory": [
+      {
+        "date": "2026-07-05",
+        "price": 54898
+      },
+      {
+        "date": "2026-07-06",
+        "price": 54674
+      },
+      {
+        "date": "2026-07-07",
+        "price": 54059
+      },
+      {
+        "date": "2026-07-08",
+        "price": 52858
+      },
+      {
+        "date": "2026-07-09",
+        "price": 51796
+      },
+      {
+        "date": "2026-07-10",
+        "price": 52029
+      },
+      {
+        "date": "2026-07-11",
+        "price": 50880
+      },
+      {
+        "date": "2026-07-12",
+        "price": 50891
+      },
+      {
+        "date": "2026-07-13",
+        "price": 50961
+      },
+      {
+        "date": "2026-07-14",
+        "price": 51986
+      },
+      {
+        "date": "2026-07-15",
+        "price": 51163
+      },
+      {
+        "date": "2026-07-16",
+        "price": 51194
+      },
+      {
+        "date": "2026-07-17",
+        "price": 51365
+      },
+      {
+        "date": "2026-07-18",
+        "price": 52290
+      },
+      {
+        "date": "2026-07-19",
+        "price": 51819
+      },
+      {
+        "date": "2026-07-20",
+        "price": 52663
+      },
+      {
+        "date": "2026-07-21",
+        "price": 51608
+      },
+      {
+        "date": "2026-07-22",
+        "price": 50214
+      },
+      {
+        "date": "2026-07-23",
+        "price": 50122
+      },
+      {
+        "date": "2026-07-24",
+        "price": 50810
+      },
+      {
+        "date": "2026-07-25",
+        "price": 51591
+      },
+      {
+        "date": "2026-07-26",
+        "price": 51457
+      },
+      {
+        "date": "2026-07-27",
+        "price": 50742
+      },
+      {
+        "date": "2026-07-28",
+        "price": 50702
+      },
+      {
+        "date": "2026-07-29",
+        "price": 51544
+      },
+      {
+        "date": "2026-07-30",
+        "price": 51768
+      },
+      {
+        "date": "2026-07-31",
+        "price": 50397
+      },
+      {
+        "date": "2026-08-01",
+        "price": 51822
+      },
+      {
+        "date": "2026-08-02",
+        "price": 50680
+      },
+      {
+        "date": "2026-08-03",
+        "price": 50864
+      },
+      {
+        "date": "2026-08-04",
+        "price": 51491
+      },
+      {
+        "date": "2026-08-05",
+        "price": 52068
+      },
+      {
+        "date": "2026-08-06",
+        "price": 53625
+      },
+      {
+        "date": "2026-08-07",
+        "price": 53354
+      },
+      {
+        "date": "2026-08-08",
+        "price": 54825
+      },
+      {
+        "date": "2026-08-09",
+        "price": 54990
+      },
+      {
+        "date": "2026-08-10",
+        "price": 54696
+      },
+      {
+        "date": "2026-08-11",
+        "price": 53210
+      },
+      {
+        "date": "2026-08-12",
+        "price": 54145
+      },
+      {
+        "date": "2026-08-13",
+        "price": 53844
+      },
+      {
+        "date": "2026-08-14",
+        "price": 52742
+      },
+      {
+        "date": "2026-08-15",
+        "price": 51574
+      },
+      {
+        "date": "2026-08-16",
+        "price": 52864
+      },
+      {
+        "date": "2026-08-17",
+        "price": 52885
+      },
+      {
+        "date": "2026-08-18",
+        "price": 51639
+      },
+      {
+        "date": "2026-08-19",
+        "price": 51602
+      },
+      {
+        "date": "2026-08-20",
+        "price": 52337
+      },
+      {
+        "date": "2026-08-21",
+        "price": 51347
+      },
+      {
+        "date": "2026-08-22",
+        "price": 51387
+      },
+      {
+        "date": "2026-08-23",
+        "price": 51537
+      },
+      {
+        "date": "2026-08-24",
+        "price": 50405
+      },
+      {
+        "date": "2026-08-25",
+        "price": 50528
+      },
+      {
+        "date": "2026-08-26",
+        "price": 51940
+      },
+      {
+        "date": "2026-08-27",
+        "price": 50702
+      },
+      {
+        "date": "2026-08-28",
+        "price": 51491
+      },
+      {
+        "date": "2026-08-29",
+        "price": 52953
+      },
+      {
+        "date": "2026-08-30",
+        "price": 52843
+      },
+      {
+        "date": "2026-08-31",
+        "price": 51522
+      },
+      {
+        "date": "2026-09-01",
+        "price": 51801
+      },
+      {
+        "date": "2026-09-02",
+        "price": 51275
+      },
+      {
+        "date": "2026-09-03",
+        "price": 50567
+      },
+      {
+        "date": "2026-09-04",
+        "price": 51577
+      },
+      {
+        "date": "2026-09-05",
+        "price": 52443
+      },
+      {
+        "date": "2026-09-06",
+        "price": 53775
+      },
+      {
+        "date": "2026-09-07",
+        "price": 52718
+      },
+      {
+        "date": "2026-09-08",
+        "price": 51771
+      },
+      {
+        "date": "2026-09-09",
+        "price": 51035
+      },
+      {
+        "date": "2026-09-10",
+        "price": 50404
+      },
+      {
+        "date": "2026-09-11",
+        "price": 51181
+      },
+      {
+        "date": "2026-09-12",
+        "price": 50963
+      },
+      {
+        "date": "2026-09-13",
+        "price": 51251
+      },
+      {
+        "date": "2026-09-14",
+        "price": 52674
+      },
+      {
+        "date": "2026-09-15",
+        "price": 51698
+      },
+      {
+        "date": "2026-09-16",
+        "price": 52961
+      },
+      {
+        "date": "2026-09-17",
+        "price": 54406
+      },
+      {
+        "date": "2026-09-18",
+        "price": 54990
+      },
+      {
+        "date": "2026-09-19",
+        "price": 54596
+      },
+      {
+        "date": "2026-09-20",
+        "price": 54990
+      },
+      {
+        "date": "2026-09-21",
+        "price": 54990
+      },
+      {
+        "date": "2026-09-22",
+        "price": 53542
+      },
+      {
+        "date": "2026-09-23",
+        "price": 53987
+      },
+      {
+        "date": "2026-09-24",
+        "price": 54940
+      },
+      {
+        "date": "2026-09-25",
+        "price": 54565
+      },
+      {
+        "date": "2026-09-26",
+        "price": 54990
+      },
+      {
+        "date": "2026-09-27",
+        "price": 54990
+      },
+      {
+        "date": "2026-09-28",
+        "price": 54990
+      },
+      {
+        "date": "2026-09-29",
+        "price": 54990
+      },
+      {
+        "date": "2026-09-30",
+        "price": 53720
+      },
+      {
+        "date": "2026-10-01",
+        "price": 52485
+      },
+      {
+        "date": "2026-10-02",
+        "price": 49990
+      }
+    ]
   },
-  "priceHistory": [
-    {
-      "date": "2026-07-05",
-      "price": 54898
-    },
-    {
-      "date": "2026-07-06",
-      "price": 54674
-    },
-    {
-      "date": "2026-07-07",
-      "price": 54059
-    },
-    {
-      "date": "2026-07-08",
-      "price": 52858
-    },
-    {
-      "date": "2026-07-09",
-      "price": 51796
-    },
-    {
-      "date": "2026-07-10",
-      "price": 52029
-    },
-    {
-      "date": "2026-07-11",
-      "price": 50880
-    },
-    {
-      "date": "2026-07-12",
-      "price": 50891
-    },
-    {
-      "date": "2026-07-13",
-      "price": 50961
-    },
-    {
-      "date": "2026-07-14",
-      "price": 51986
-    },
-    {
-      "date": "2026-07-15",
-      "price": 51163
-    },
-    {
-      "date": "2026-07-16",
-      "price": 51194
-    },
-    {
-      "date": "2026-07-17",
-      "price": 51365
-    },
-    {
-      "date": "2026-07-18",
-      "price": 52290
-    },
-    {
-      "date": "2026-07-19",
-      "price": 51819
-    },
-    {
-      "date": "2026-07-20",
-      "price": 52663
-    },
-    {
-      "date": "2026-07-21",
-      "price": 51608
-    },
-    {
-      "date": "2026-07-22",
-      "price": 50214
-    },
-    {
-      "date": "2026-07-23",
-      "price": 50122
-    },
-    {
-      "date": "2026-07-24",
-      "price": 50810
-    },
-    {
-      "date": "2026-07-25",
-      "price": 51591
-    },
-    {
-      "date": "2026-07-26",
-      "price": 51457
-    },
-    {
-      "date": "2026-07-27",
-      "price": 50742
-    },
-    {
-      "date": "2026-07-28",
-      "price": 50702
-    },
-    {
-      "date": "2026-07-29",
-      "price": 51544
-    },
-    {
-      "date": "2026-07-30",
-      "price": 51768
-    },
-    {
-      "date": "2026-07-31",
-      "price": 50397
-    },
-    {
-      "date": "2026-08-01",
-      "price": 51822
-    },
-    {
-      "date": "2026-08-02",
-      "price": 50680
-    },
-    {
-      "date": "2026-08-03",
-      "price": 50864
-    },
-    {
-      "date": "2026-08-04",
-      "price": 51491
-    },
-    {
-      "date": "2026-08-05",
-      "price": 52068
-    },
-    {
-      "date": "2026-08-06",
-      "price": 53625
-    },
-    {
-      "date": "2026-08-07",
-      "price": 53354
-    },
-    {
-      "date": "2026-08-08",
-      "price": 54825
-    },
-    {
-      "date": "2026-08-09",
-      "price": 54990
-    },
-    {
-      "date": "2026-08-10",
-      "price": 54696
-    },
-    {
-      "date": "2026-08-11",
-      "price": 53210
-    },
-    {
-      "date": "2026-08-12",
-      "price": 54145
-    },
-    {
-      "date": "2026-08-13",
-      "price": 53844
-    },
-    {
-      "date": "2026-08-14",
-      "price": 52742
-    },
-    {
-      "date": "2026-08-15",
-      "price": 51574
-    },
-    {
-      "date": "2026-08-16",
-      "price": 52864
-    },
-    {
-      "date": "2026-08-17",
-      "price": 52885
-    },
-    {
-      "date": "2026-08-18",
-      "price": 51639
-    },
-    {
-      "date": "2026-08-19",
-      "price": 51602
-    },
-    {
-      "date": "2026-08-20",
-      "price": 52337
-    },
-    {
-      "date": "2026-08-21",
-      "price": 51347
-    },
-    {
-      "date": "2026-08-22",
-      "price": 51387
-    },
-    {
-      "date": "2026-08-23",
-      "price": 51537
-    },
-    {
-      "date": "2026-08-24",
-      "price": 50405
-    },
-    {
-      "date": "2026-08-25",
-      "price": 50528
-    },
-    {
-      "date": "2026-08-26",
-      "price": 51940
-    },
-    {
-      "date": "2026-08-27",
-      "price": 50702
-    },
-    {
-      "date": "2026-08-28",
-      "price": 51491
-    },
-    {
-      "date": "2026-08-29",
-      "price": 52953
-    },
-    {
-      "date": "2026-08-30",
-      "price": 52843
-    },
-    {
-      "date": "2026-08-31",
-      "price": 51522
-    },
-    {
-      "date": "2026-09-01",
-      "price": 51801
-    },
-    {
-      "date": "2026-09-02",
-      "price": 51275
-    },
-    {
-      "date": "2026-09-03",
-      "price": 50567
-    },
-    {
-      "date": "2026-09-04",
-      "price": 51577
-    },
-    {
-      "date": "2026-09-05",
-      "price": 52443
-    },
-    {
-      "date": "2026-09-06",
-      "price": 53775
-    },
-    {
-      "date": "2026-09-07",
-      "price": 52718
-    },
-    {
-      "date": "2026-09-08",
-      "price": 51771
-    },
-    {
-      "date": "2026-09-09",
-      "price": 51035
-    },
-    {
-      "date": "2026-09-10",
-      "price": 50404
-    },
-    {
-      "date": "2026-09-11",
-      "price": 51181
-    },
-    {
-      "date": "2026-09-12",
-      "price": 50963
-    },
-    {
-      "date": "2026-09-13",
-      "price": 51251
-    },
-    {
-      "date": "2026-09-14",
-      "price": 52674
-    },
-    {
-      "date": "2026-09-15",
-      "price": 51698
-    },
-    {
-      "date": "2026-09-16",
-      "price": 52961
-    },
-    {
-      "date": "2026-09-17",
-      "price": 54406
-    },
-    {
-      "date": "2026-09-18",
-      "price": 54990
-    },
-    {
-      "date": "2026-09-19",
-      "price": 54596
-    },
-    {
-      "date": "2026-09-20",
-      "price": 54990
-    },
-    {
-      "date": "2026-09-21",
-      "price": 54990
-    },
-    {
-      "date": "2026-09-22",
-      "price": 53542
-    },
-    {
-      "date": "2026-09-23",
-      "price": 53987
-    },
-    {
-      "date": "2026-09-24",
-      "price": 54940
-    },
-    {
-      "date": "2026-09-25",
-      "price": 54565
-    },
-    {
-      "date": "2026-09-26",
-      "price": 54990
-    },
-    {
-      "date": "2026-09-27",
-      "price": 54990
-    },
-    {
-      "date": "2026-09-28",
-      "price": 54990
-    },
-    {
-      "date": "2026-09-29",
-      "price": 54990
-    },
-    {
-      "date": "2026-09-30",
-      "price": 53720
-    },
-    {
-      "date": "2026-10-01",
-      "price": 52485
-    },
-    {
-      "date": "2026-10-02",
-      "price": 49990
-    }
-  ]
-},
-{
-  "id": "elec-19",
-  "slug": "seagate-expansion-2tb-external-hard-drive-hdd",
-  "title": "Seagate Expansion 2TB External Hard Drive HDD USB 3.0 for PC, Mac & Laptop",
-  "brand": "Seagate",
-  "category": "Electronics",
-  "price": 5999,
-  "mrp": 8500,
-  "rating": 4.4,
-  "reviewCount": 42300,
-  "images": [
-    "/products/elec-03.jpg"
-  ],
-  "bullets": [
-    "2TB high-capacity storage for family photos, 4K movies, and system backups",
-    "Plug-and-play USB 3.0 connectivity with zero software installation needed",
-    "Fast drag-and-drop file saving straight out of the box",
-    "Includes 3-year Rescue Data Recovery Services for complete peace of mind",
-    "Compact portable design that fits comfortably into your laptop bag pocket"
-  ],
-  "description": "The Seagate Expansion portable drive offers an easy-to-use solution when you need to instantly add storage to your computer and take files on the go.",
-  "stock": 40,
-  "deliveryDays": 2,
-  "tags": [
-    "electronics",
-    "storage",
-    "hard drive",
-    "hdd",
-    "seagate",
-    "backup",
-    "external",
-    "usb 3.0"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "Dependable, hassle-free drag-and-drop backup on Windows and Mac",
-      "Includes 3-year Seagate Rescue data recovery warranty",
-      "Substantial 2TB storage capacity at an affordable price per gigabyte"
-    ],
-    "cons": [
-      "Slower transfer speeds compared to solid state drives (SSDs)",
-      "Sensitive to drops while actively spinning"
-    ],
-    "verdict": "The most economical, reliable backup solution for extensive media libraries and local system archives.",
-    "sentiment": {
-      "positive": 86,
-      "neutral": 10,
-      "negative": 4
-    }
-  },
-  "priceHistory": [
-    {
-      "date": "2026-07-05",
-      "price": 6363
-    },
-    {
-      "date": "2026-07-06",
-      "price": 6547
-    },
-    {
-      "date": "2026-07-07",
-      "price": 6569
-    },
-    {
-      "date": "2026-07-08",
-      "price": 6710
-    },
-    {
-      "date": "2026-07-09",
-      "price": 6823
-    },
-    {
-      "date": "2026-07-10",
-      "price": 6748
-    },
-    {
-      "date": "2026-07-11",
-      "price": 6686
-    },
-    {
-      "date": "2026-07-12",
-      "price": 6503
-    },
-    {
-      "date": "2026-07-13",
-      "price": 6349
-    },
-    {
-      "date": "2026-07-14",
-      "price": 6355
-    },
-    {
-      "date": "2026-07-15",
-      "price": 6306
-    },
-    {
-      "date": "2026-07-16",
-      "price": 6286
-    },
-    {
-      "date": "2026-07-17",
-      "price": 6108
-    },
-    {
-      "date": "2026-07-18",
-      "price": 6119
-    },
-    {
-      "date": "2026-07-19",
-      "price": 6219
-    },
-    {
-      "date": "2026-07-20",
-      "price": 6049
-    },
-    {
-      "date": "2026-07-21",
-      "price": 6107
-    },
-    {
-      "date": "2026-07-22",
-      "price": 6081
-    },
-    {
-      "date": "2026-07-23",
-      "price": 6069
-    },
-    {
-      "date": "2026-07-24",
-      "price": 6197
-    },
-    {
-      "date": "2026-07-25",
-      "price": 6024
-    },
-    {
-      "date": "2026-07-26",
-      "price": 6190
-    },
-    {
-      "date": "2026-07-27",
-      "price": 6189
-    },
-    {
-      "date": "2026-07-28",
-      "price": 6347
-    },
-    {
-      "date": "2026-07-29",
-      "price": 6516
-    },
-    {
-      "date": "2026-07-30",
-      "price": 6493
-    },
-    {
-      "date": "2026-07-31",
-      "price": 6377
-    },
-    {
-      "date": "2026-08-01",
-      "price": 6373
-    },
-    {
-      "date": "2026-08-02",
-      "price": 6307
-    },
-    {
-      "date": "2026-08-03",
-      "price": 6490
-    },
-    {
-      "date": "2026-08-04",
-      "price": 6523
-    },
-    {
-      "date": "2026-08-05",
-      "price": 6532
-    },
-    {
-      "date": "2026-08-06",
-      "price": 6443
-    },
-    {
-      "date": "2026-08-07",
-      "price": 6332
-    },
-    {
-      "date": "2026-08-08",
-      "price": 6453
-    },
-    {
-      "date": "2026-08-09",
-      "price": 6265
-    },
-    {
-      "date": "2026-08-10",
-      "price": 6178
-    },
-    {
-      "date": "2026-08-11",
-      "price": 6253
-    },
-    {
-      "date": "2026-08-12",
-      "price": 6103
-    },
-    {
-      "date": "2026-08-13",
-      "price": 6056
-    },
-    {
-      "date": "2026-08-14",
-      "price": 6058
-    },
-    {
-      "date": "2026-08-15",
-      "price": 6175
-    },
-    {
-      "date": "2026-08-16",
-      "price": 6235
-    },
-    {
-      "date": "2026-08-17",
-      "price": 6077
-    },
-    {
-      "date": "2026-08-18",
-      "price": 5975
-    },
-    {
-      "date": "2026-08-19",
-      "price": 5879
-    },
-    {
-      "date": "2026-08-20",
-      "price": 5951
-    },
-    {
-      "date": "2026-08-21",
-      "price": 5776
-    },
-    {
-      "date": "2026-08-22",
-      "price": 5746
-    },
-    {
-      "date": "2026-08-23",
-      "price": 5577
-    },
-    {
-      "date": "2026-08-24",
-      "price": 5719
-    },
-    {
-      "date": "2026-08-25",
-      "price": 5619
-    },
-    {
-      "date": "2026-08-26",
-      "price": 5583
-    },
-    {
-      "date": "2026-08-27",
-      "price": 5420
-    },
-    {
-      "date": "2026-08-28",
-      "price": 5558
-    },
-    {
-      "date": "2026-08-29",
-      "price": 5429
-    },
-    {
-      "date": "2026-08-30",
-      "price": 5424
-    },
-    {
-      "date": "2026-08-31",
-      "price": 5569
-    },
-    {
-      "date": "2026-09-01",
-      "price": 5455
-    },
-    {
-      "date": "2026-09-02",
-      "price": 5317
-    },
-    {
-      "date": "2026-09-03",
-      "price": 5291
-    },
-    {
-      "date": "2026-09-04",
-      "price": 5371
-    },
-    {
-      "date": "2026-09-05",
-      "price": 5498
-    },
-    {
-      "date": "2026-09-06",
-      "price": 5388
-    },
-    {
-      "date": "2026-09-07",
-      "price": 5279
-    },
-    {
-      "date": "2026-09-08",
-      "price": 5412
-    },
-    {
-      "date": "2026-09-09",
-      "price": 5293
-    },
-    {
-      "date": "2026-09-10",
-      "price": 5307
-    },
-    {
-      "date": "2026-09-11",
-      "price": 5279
-    },
-    {
-      "date": "2026-09-12",
-      "price": 5307
-    },
-    {
-      "date": "2026-09-13",
-      "price": 5279
-    },
-    {
-      "date": "2026-09-14",
-      "price": 5279
-    },
-    {
-      "date": "2026-09-15",
-      "price": 5279
-    },
-    {
-      "date": "2026-09-16",
-      "price": 5310
-    },
-    {
-      "date": "2026-09-17",
-      "price": 5279
-    },
-    {
-      "date": "2026-09-18",
-      "price": 5279
-    },
-    {
-      "date": "2026-09-19",
-      "price": 5279
-    },
-    {
-      "date": "2026-09-20",
-      "price": 5366
-    },
-    {
-      "date": "2026-09-21",
-      "price": 5373
-    },
-    {
-      "date": "2026-09-22",
-      "price": 5477
-    },
-    {
-      "date": "2026-09-23",
-      "price": 5351
-    },
-    {
-      "date": "2026-09-24",
-      "price": 5458
-    },
-    {
-      "date": "2026-09-25",
-      "price": 5351
-    },
-    {
-      "date": "2026-09-26",
-      "price": 5489
-    },
-    {
-      "date": "2026-09-27",
-      "price": 5483
-    },
-    {
-      "date": "2026-09-28",
-      "price": 5320
-    },
-    {
-      "date": "2026-09-29",
-      "price": 5405
-    },
-    {
-      "date": "2026-09-30",
-      "price": 5452
-    },
-    {
-      "date": "2026-10-01",
-      "price": 5509
-    },
-    {
-      "date": "2026-10-02",
-      "price": 5999
-    }
-  ]
-},
-{
-  "id": "elec-20",
-  "slug": "anker-powerexpand-7-in-1-usb-c-pd-media-hub",
-  "title": "Anker PowerExpand 7-in-1 USB-C PD Media Hub Adapter (4K HDMI, 100W PD, SD Reader)",
-  "brand": "Anker",
-  "category": "Electronics",
-  "price": 3499,
-  "mrp": 4999,
-  "rating": 4.5,
-  "reviewCount": 16700,
-  "images": [
-    "/products/elec-04.jpg"
-  ],
-  "bullets": [
-    "Massive 7-port expansion: 4K 30Hz HDMI, 100W Power Delivery, SD & microSD card readers",
-    "Two high-speed USB-A 3.0 data ports and one USB-C data transfer port (up to 5 Gbps)",
-    "Supports up to 85W pass-through laptop charging while powering connected peripherals",
-    "Sturdy brushed aluminum casing with heat dissipation and compact travel pouch",
-    "Universal plug-and-play compatibility with MacBook Pro/Air, Dell XPS, and iPad Pro"
-  ],
-  "description": "Turn a single USB-C port into a complete workstation hub with 4K HDMI video output, high-speed data transfer, and 100W pass-through charging.",
-  "stock": 35,
-  "deliveryDays": 1,
-  "tags": [
-    "electronics",
-    "hub",
-    "usb-c",
-    "anker",
-    "adapter",
-    "hdmi",
-    "macbook",
-    "accessories",
-    "dongle"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "All essential ports in a sturdy, pocketable aluminum enclosure",
-      "Reliable 85W pass-through charging without throttling laptops",
-      "Seamless HDMI output without screen flickering"
-    ],
-    "cons": [
-      "Gets warm to the touch during heavy simultaneous transfers",
-      "HDMI is capped at 4K 30Hz rather than 60Hz"
-    ],
-    "verdict": "The indispensable desk and travel companion for modern single-port laptops and tablets.",
-    "sentiment": {
-      "positive": 90,
-      "neutral": 7,
-      "negative": 3
-    }
-  },
-  "priceHistory": [
-    {
-      "date": "2026-07-05",
-      "price": 3857
-    },
-    {
-      "date": "2026-07-06",
-      "price": 3898
-    },
-    {
-      "date": "2026-07-07",
-      "price": 3886
-    },
-    {
-      "date": "2026-07-08",
-      "price": 3828
-    },
-    {
-      "date": "2026-07-09",
-      "price": 3821
-    },
-    {
-      "date": "2026-07-10",
-      "price": 3826
-    },
-    {
-      "date": "2026-07-11",
-      "price": 3843
-    },
-    {
-      "date": "2026-07-12",
-      "price": 3868
-    },
-    {
-      "date": "2026-07-13",
-      "price": 3826
-    },
-    {
-      "date": "2026-07-14",
-      "price": 3920
-    },
-    {
-      "date": "2026-07-15",
-      "price": 3877
-    },
-    {
-      "date": "2026-07-16",
-      "price": 3857
-    },
-    {
-      "date": "2026-07-17",
-      "price": 3938
-    },
-    {
-      "date": "2026-07-18",
-      "price": 3963
-    },
-    {
-      "date": "2026-07-19",
-      "price": 3924
-    },
-    {
-      "date": "2026-07-20",
-      "price": 3915
-    },
-    {
-      "date": "2026-07-21",
-      "price": 3964
-    },
-    {
-      "date": "2026-07-22",
-      "price": 4081
-    },
-    {
-      "date": "2026-07-23",
-      "price": 3977
-    },
-    {
-      "date": "2026-07-24",
-      "price": 3987
-    },
-    {
-      "date": "2026-07-25",
-      "price": 4102
-    },
-    {
-      "date": "2026-07-26",
-      "price": 4132
-    },
-    {
-      "date": "2026-07-27",
-      "price": 4249
-    },
-    {
-      "date": "2026-07-28",
-      "price": 4269
-    },
-    {
-      "date": "2026-07-29",
-      "price": 4151
-    },
-    {
-      "date": "2026-07-30",
-      "price": 4178
-    },
-    {
-      "date": "2026-07-31",
-      "price": 4118
-    },
-    {
-      "date": "2026-08-01",
-      "price": 4223
-    },
-    {
-      "date": "2026-08-02",
-      "price": 4106
-    },
-    {
-      "date": "2026-08-03",
-      "price": 4018
-    },
-    {
-      "date": "2026-08-04",
-      "price": 4071
-    },
-    {
-      "date": "2026-08-05",
-      "price": 4119
-    },
-    {
-      "date": "2026-08-06",
-      "price": 4096
-    },
-    {
-      "date": "2026-08-07",
-      "price": 3985
-    },
-    {
-      "date": "2026-08-08",
-      "price": 3871
-    },
-    {
-      "date": "2026-08-09",
-      "price": 3884
-    },
-    {
-      "date": "2026-08-10",
-      "price": 3958
-    },
-    {
-      "date": "2026-08-11",
-      "price": 4015
-    },
-    {
-      "date": "2026-08-12",
-      "price": 3967
-    },
-    {
-      "date": "2026-08-13",
-      "price": 3937
-    },
-    {
-      "date": "2026-08-14",
-      "price": 3922
-    },
-    {
-      "date": "2026-08-15",
-      "price": 4011
-    },
-    {
-      "date": "2026-08-16",
-      "price": 4049
-    },
-    {
-      "date": "2026-08-17",
-      "price": 4107
-    },
-    {
-      "date": "2026-08-18",
-      "price": 4165
-    },
-    {
-      "date": "2026-08-19",
-      "price": 4175
-    },
-    {
-      "date": "2026-08-20",
-      "price": 4221
-    },
-    {
-      "date": "2026-08-21",
-      "price": 4117
-    },
-    {
-      "date": "2026-08-22",
-      "price": 4230
-    },
-    {
-      "date": "2026-08-23",
-      "price": 4269
-    },
-    {
-      "date": "2026-08-24",
-      "price": 4267
-    },
-    {
-      "date": "2026-08-25",
-      "price": 4269
-    },
-    {
-      "date": "2026-08-26",
-      "price": 4269
-    },
-    {
-      "date": "2026-08-27",
-      "price": 4269
-    },
-    {
-      "date": "2026-08-28",
-      "price": 4218
-    },
-    {
-      "date": "2026-08-29",
-      "price": 4164
-    },
-    {
-      "date": "2026-08-30",
-      "price": 4062
-    },
-    {
-      "date": "2026-08-31",
-      "price": 4022
-    },
-    {
-      "date": "2026-09-01",
-      "price": 4141
-    },
-    {
-      "date": "2026-09-02",
-      "price": 4031
-    },
-    {
-      "date": "2026-09-03",
-      "price": 4115
-    },
-    {
-      "date": "2026-09-04",
-      "price": 4138
-    },
-    {
-      "date": "2026-09-05",
-      "price": 4247
-    },
-    {
-      "date": "2026-09-06",
-      "price": 4269
-    },
-    {
-      "date": "2026-09-07",
-      "price": 4269
-    },
-    {
-      "date": "2026-09-08",
-      "price": 4269
-    },
-    {
-      "date": "2026-09-09",
-      "price": 4269
-    },
-    {
-      "date": "2026-09-10",
-      "price": 4199
-    },
-    {
-      "date": "2026-09-11",
-      "price": 4218
-    },
-    {
-      "date": "2026-09-12",
-      "price": 4114
-    },
-    {
-      "date": "2026-09-13",
-      "price": 4200
-    },
-    {
-      "date": "2026-09-14",
-      "price": 4269
-    },
-    {
-      "date": "2026-09-15",
-      "price": 4207
-    },
-    {
-      "date": "2026-09-16",
-      "price": 4105
-    },
-    {
-      "date": "2026-09-17",
-      "price": 4186
-    },
-    {
-      "date": "2026-09-18",
-      "price": 4253
-    },
-    {
-      "date": "2026-09-19",
-      "price": 4269
-    },
-    {
-      "date": "2026-09-20",
-      "price": 4197
-    },
-    {
-      "date": "2026-09-21",
-      "price": 4098
-    },
-    {
-      "date": "2026-09-22",
-      "price": 4193
-    },
-    {
-      "date": "2026-09-23",
-      "price": 4149
-    },
-    {
-      "date": "2026-09-24",
-      "price": 4097
-    },
-    {
-      "date": "2026-09-25",
-      "price": 4217
-    },
-    {
-      "date": "2026-09-26",
-      "price": 4269
-    },
-    {
-      "date": "2026-09-27",
-      "price": 4269
-    },
-    {
-      "date": "2026-09-28",
-      "price": 4228
-    },
-    {
-      "date": "2026-09-29",
-      "price": 4269
-    },
-    {
-      "date": "2026-09-30",
-      "price": 4269
-    },
-    {
-      "date": "2026-10-01",
-      "price": 4269
-    },
-    {
-      "date": "2026-10-02",
-      "price": 3499
-    }
-  ]
-},
-{
-  "id": "mob-07",
-  "slug": "google-pixel-8a-5g-smartphone",
-  "title": "Google Pixel 8a 5G (Bay Blue, 128GB) with Google Tensor G3 & 64MP AI Camera",
-  "brand": "Google",
-  "category": "Mobiles",
-  "price": 47999,
-  "mrp": 52999,
-  "rating": 4.4,
-  "reviewCount": 5200,
-  "images": [
-    "/products/mob-01.jpg"
-  ],
-  "bullets": [
-    "Google Tensor G3 chip powering on-device AI features like Best Take, Audio Magic Eraser, and Circle to Search",
-    "6.1-inch Actua display with smooth 120Hz refresh rate and up to 2000 nits peak brightness",
-    "Advanced 64MP main camera and 13MP ultrawide with Night Sight and Real Tone technology",
-    "Guaranteed 7 full years of OS upgrades, security updates, and Feature Drops",
-    "All-day battery life with Extreme Battery Saver mode extending up to 72 hours"
-  ],
-  "description": "The Google Pixel 8a combines Google's flagship AI photography, vibrant Actua display, and industry-leading 7 years of software support.",
-  "stock": 22,
-  "deliveryDays": 1,
-  "tags": [
-    "mobiles",
-    "smartphone",
-    "google",
-    "pixel",
-    "5g",
-    "camera",
-    "ai",
-    "android"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "Class-leading still photography that rivals ₹1 lakh flagships",
-      "Guaranteed 7 years of Android OS and security updates",
-      "Clean, bloatware-free Android experience with helpful Pixel AI"
-    ],
-    "cons": [
-      "Charging speed is limited to 18W wired",
-      "Bezels are slightly thicker than competing flagships"
-    ],
-    "verdict": "The ultimate compact camera phone under ₹50,000 with unrivaled software longevity.",
-    "sentiment": {
-      "positive": 88,
-      "neutral": 8,
-      "negative": 4
-    }
-  },
-  "priceHistory": [
-    {
-      "date": "2026-07-05",
-      "price": 52212
-    },
-    {
-      "date": "2026-07-06",
-      "price": 51289
-    },
-    {
-      "date": "2026-07-07",
-      "price": 51168
-    },
-    {
-      "date": "2026-07-08",
-      "price": 51799
-    },
-    {
-      "date": "2026-07-09",
-      "price": 50326
-    },
-    {
-      "date": "2026-07-10",
-      "price": 49487
-    },
-    {
-      "date": "2026-07-11",
-      "price": 49711
-    },
-    {
-      "date": "2026-07-12",
-      "price": 48870
-    },
-    {
-      "date": "2026-07-13",
-      "price": 49171
-    },
-    {
-      "date": "2026-07-14",
-      "price": 48443
-    },
-    {
-      "date": "2026-07-15",
-      "price": 48658
-    },
-    {
-      "date": "2026-07-16",
-      "price": 49269
-    },
-    {
-      "date": "2026-07-17",
-      "price": 50707
-    },
-    {
-      "date": "2026-07-18",
-      "price": 50160
-    },
-    {
-      "date": "2026-07-19",
-      "price": 48807
-    },
-    {
-      "date": "2026-07-20",
-      "price": 49984
-    },
-    {
-      "date": "2026-07-21",
-      "price": 50492
-    },
-    {
-      "date": "2026-07-22",
-      "price": 49686
-    },
-    {
-      "date": "2026-07-23",
-      "price": 50574
-    },
-    {
-      "date": "2026-07-24",
-      "price": 49876
-    },
-    {
-      "date": "2026-07-25",
-      "price": 48700
-    },
-    {
-      "date": "2026-07-26",
-      "price": 49739
-    },
-    {
-      "date": "2026-07-27",
-      "price": 50730
-    },
-    {
-      "date": "2026-07-28",
-      "price": 49471
-    },
-    {
-      "date": "2026-07-29",
-      "price": 48444
-    },
-    {
-      "date": "2026-07-30",
-      "price": 49544
-    },
-    {
-      "date": "2026-07-31",
-      "price": 48169
-    },
-    {
-      "date": "2026-08-01",
-      "price": 49091
-    },
-    {
-      "date": "2026-08-02",
-      "price": 50192
-    },
-    {
-      "date": "2026-08-03",
-      "price": 50893
-    },
-    {
-      "date": "2026-08-04",
-      "price": 51872
-    },
-    {
-      "date": "2026-08-05",
-      "price": 50515
-    },
-    {
-      "date": "2026-08-06",
-      "price": 50122
-    },
-    {
-      "date": "2026-08-07",
-      "price": 51083
-    },
-    {
-      "date": "2026-08-08",
-      "price": 51377
-    },
-    {
-      "date": "2026-08-09",
-      "price": 51450
-    },
-    {
-      "date": "2026-08-10",
-      "price": 50112
-    },
-    {
-      "date": "2026-08-11",
-      "price": 49993
-    },
-    {
-      "date": "2026-08-12",
-      "price": 50818
-    },
-    {
-      "date": "2026-08-13",
-      "price": 52087
-    },
-    {
-      "date": "2026-08-14",
-      "price": 52999
-    },
-    {
-      "date": "2026-08-15",
-      "price": 52134
-    },
-    {
-      "date": "2026-08-16",
-      "price": 52999
-    },
-    {
-      "date": "2026-08-17",
-      "price": 52999
-    },
-    {
-      "date": "2026-08-18",
-      "price": 52999
-    },
-    {
-      "date": "2026-08-19",
-      "price": 52826
-    },
-    {
-      "date": "2026-08-20",
-      "price": 51831
-    },
-    {
-      "date": "2026-08-21",
-      "price": 52999
-    },
-    {
-      "date": "2026-08-22",
-      "price": 52376
-    },
-    {
-      "date": "2026-08-23",
-      "price": 51254
-    },
-    {
-      "date": "2026-08-24",
-      "price": 52343
-    },
-    {
-      "date": "2026-08-25",
-      "price": 52902
-    },
-    {
-      "date": "2026-08-26",
-      "price": 51844
-    },
-    {
-      "date": "2026-08-27",
-      "price": 51969
-    },
-    {
-      "date": "2026-08-28",
-      "price": 51935
-    },
-    {
-      "date": "2026-08-29",
-      "price": 50918
-    },
-    {
-      "date": "2026-08-30",
-      "price": 49598
-    },
-    {
-      "date": "2026-08-31",
-      "price": 50009
-    },
-    {
-      "date": "2026-09-01",
-      "price": 50281
-    },
-    {
-      "date": "2026-09-02",
-      "price": 49165
-    },
-    {
-      "date": "2026-09-03",
-      "price": 49077
-    },
-    {
-      "date": "2026-09-04",
-      "price": 49014
-    },
-    {
-      "date": "2026-09-05",
-      "price": 50269
-    },
-    {
-      "date": "2026-09-06",
-      "price": 49422
-    },
-    {
-      "date": "2026-09-07",
-      "price": 49598
-    },
-    {
-      "date": "2026-09-08",
-      "price": 49516
-    },
-    {
-      "date": "2026-09-09",
-      "price": 48809
-    },
-    {
-      "date": "2026-09-10",
-      "price": 48969
-    },
-    {
-      "date": "2026-09-11",
-      "price": 50412
-    },
-    {
-      "date": "2026-09-12",
-      "price": 51494
-    },
-    {
-      "date": "2026-09-13",
-      "price": 50687
-    },
-    {
-      "date": "2026-09-14",
-      "price": 50203
-    },
-    {
-      "date": "2026-09-15",
-      "price": 49201
-    },
-    {
-      "date": "2026-09-16",
-      "price": 49067
-    },
-    {
-      "date": "2026-09-17",
-      "price": 49392
-    },
-    {
-      "date": "2026-09-18",
-      "price": 50321
-    },
-    {
-      "date": "2026-09-19",
-      "price": 51555
-    },
-    {
-      "date": "2026-09-20",
-      "price": 51948
-    },
-    {
-      "date": "2026-09-21",
-      "price": 50970
-    },
-    {
-      "date": "2026-09-22",
-      "price": 49942
-    },
-    {
-      "date": "2026-09-23",
-      "price": 48857
-    },
-    {
-      "date": "2026-09-24",
-      "price": 49391
-    },
-    {
-      "date": "2026-09-25",
-      "price": 49128
-    },
-    {
-      "date": "2026-09-26",
-      "price": 49835
-    },
-    {
-      "date": "2026-09-27",
-      "price": 48592
-    },
-    {
-      "date": "2026-09-28",
-      "price": 48432
-    },
-    {
-      "date": "2026-09-29",
-      "price": 48016
-    },
-    {
-      "date": "2026-09-30",
-      "price": 46941
-    },
-    {
-      "date": "2026-10-01",
-      "price": 48267
-    },
-    {
-      "date": "2026-10-02",
-      "price": 47999
-    }
-  ]
-},
-{
-  "id": "mob-08",
-  "slug": "samsung-galaxy-s23-fe-5g-smartphone",
-  "title": "Samsung Galaxy S23 FE 5G (Graphite, 8GB RAM, 128GB Storage, 50MP Camera)",
-  "brand": "Samsung",
-  "category": "Mobiles",
-  "price": 36999,
-  "mrp": 59999,
-  "rating": 4.3,
-  "reviewCount": 12400,
-  "images": [
-    "/products/mob-02.jpg"
-  ],
-  "bullets": [
-    "Flagship 50MP primary sensor with 3x optical telephoto lens and Nightography",
-    "6.4-inch Dynamic AMOLED 2X display with adaptive 120Hz refresh rate and Vision Booster",
-    "Samsung Knox multi-layered vault security and 4 OS updates guaranteed",
-    "IP68 water and dust resistance with durable Corning Gorilla Glass 5 front and back",
-    "Galaxy AI suite including Live Translate, Note Assist, and Circle to Search"
-  ],
-  "description": "The Galaxy S23 FE brings iconic flagship styling, pro-grade 3x telephoto cameras, and vibrant Dynamic AMOLED displays to an accessible fan edition.",
-  "stock": 28,
-  "deliveryDays": 1,
-  "tags": [
-    "mobiles",
-    "smartphone",
-    "samsung",
-    "galaxy",
-    "5g",
-    "amoled",
-    "telephoto",
-    "under 40000"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "True 3x optical zoom camera rare in the sub-₹40k category",
-      "Gorgeous vibrant 120Hz Dynamic AMOLED 2X display",
-      "IP68 water resistance and premium metal-glass build"
-    ],
-    "cons": [
-      "Exynos 2200 processor runs warm during prolonged heavy gaming",
-      "Battery life is average, requiring evening top-ups under heavy use"
-    ],
-    "verdict": "The most feature-packed all-rounder smartphone for buyers wanting a genuine telephoto camera and IP68 rating under ₹40,000.",
-    "sentiment": {
-      "positive": 84,
-      "neutral": 10,
-      "negative": 6
-    }
-  },
-  "priceHistory": [
-    {
-      "date": "2026-07-05",
-      "price": 39417
-    },
-    {
-      "date": "2026-07-06",
-      "price": 38834
-    },
-    {
-      "date": "2026-07-07",
-      "price": 38258
-    },
-    {
-      "date": "2026-07-08",
-      "price": 37938
-    },
-    {
-      "date": "2026-07-09",
-      "price": 37789
-    },
-    {
-      "date": "2026-07-10",
-      "price": 37077
-    },
-    {
-      "date": "2026-07-11",
-      "price": 37033
-    },
-    {
-      "date": "2026-07-12",
-      "price": 36049
-    },
-    {
-      "date": "2026-07-13",
-      "price": 36355
-    },
-    {
-      "date": "2026-07-14",
-      "price": 36634
-    },
-    {
-      "date": "2026-07-15",
-      "price": 35877
-    },
-    {
-      "date": "2026-07-16",
-      "price": 35472
-    },
-    {
-      "date": "2026-07-17",
-      "price": 34453
-    },
-    {
-      "date": "2026-07-18",
-      "price": 33795
-    },
-    {
-      "date": "2026-07-19",
-      "price": 34410
-    },
-    {
-      "date": "2026-07-20",
-      "price": 34958
-    },
-    {
-      "date": "2026-07-21",
-      "price": 34980
-    },
-    {
-      "date": "2026-07-22",
-      "price": 35443
-    },
-    {
-      "date": "2026-07-23",
-      "price": 35797
-    },
-    {
-      "date": "2026-07-24",
-      "price": 35155
-    },
-    {
-      "date": "2026-07-25",
-      "price": 34882
-    },
-    {
-      "date": "2026-07-26",
-      "price": 34323
-    },
-    {
-      "date": "2026-07-27",
-      "price": 33574
-    },
-    {
-      "date": "2026-07-28",
-      "price": 33608
-    },
-    {
-      "date": "2026-07-29",
-      "price": 32943
-    },
-    {
-      "date": "2026-07-30",
-      "price": 32889
-    },
-    {
-      "date": "2026-07-31",
-      "price": 33079
-    },
-    {
-      "date": "2026-08-01",
-      "price": 32856
-    },
-    {
-      "date": "2026-08-02",
-      "price": 33030
-    },
-    {
-      "date": "2026-08-03",
-      "price": 32559
-    },
-    {
-      "date": "2026-08-04",
-      "price": 32736
-    },
-    {
-      "date": "2026-08-05",
-      "price": 32950
-    },
-    {
-      "date": "2026-08-06",
-      "price": 32819
-    },
-    {
-      "date": "2026-08-07",
-      "price": 32559
-    },
-    {
-      "date": "2026-08-08",
-      "price": 32559
-    },
-    {
-      "date": "2026-08-09",
-      "price": 32631
-    },
-    {
-      "date": "2026-08-10",
-      "price": 32559
-    },
-    {
-      "date": "2026-08-11",
-      "price": 33124
-    },
-    {
-      "date": "2026-08-12",
-      "price": 33398
-    },
-    {
-      "date": "2026-08-13",
-      "price": 34272
-    },
-    {
-      "date": "2026-08-14",
-      "price": 33513
-    },
-    {
-      "date": "2026-08-15",
-      "price": 33646
-    },
-    {
-      "date": "2026-08-16",
-      "price": 33728
-    },
-    {
-      "date": "2026-08-17",
-      "price": 34726
-    },
-    {
-      "date": "2026-08-18",
-      "price": 33888
-    },
-    {
-      "date": "2026-08-19",
-      "price": 33982
-    },
-    {
-      "date": "2026-08-20",
-      "price": 33357
-    },
-    {
-      "date": "2026-08-21",
-      "price": 33442
-    },
-    {
-      "date": "2026-08-22",
-      "price": 33859
-    },
-    {
-      "date": "2026-08-23",
-      "price": 33140
-    },
-    {
-      "date": "2026-08-24",
-      "price": 32897
-    },
-    {
-      "date": "2026-08-25",
-      "price": 33420
-    },
-    {
-      "date": "2026-08-26",
-      "price": 32723
-    },
-    {
-      "date": "2026-08-27",
-      "price": 32559
-    },
-    {
-      "date": "2026-08-28",
-      "price": 33526
-    },
-    {
-      "date": "2026-08-29",
-      "price": 33526
-    },
-    {
-      "date": "2026-08-30",
-      "price": 33490
-    },
-    {
-      "date": "2026-08-31",
-      "price": 34334
-    },
-    {
-      "date": "2026-09-01",
-      "price": 35233
-    },
-    {
-      "date": "2026-09-02",
-      "price": 34917
-    },
-    {
-      "date": "2026-09-03",
-      "price": 35625
-    },
-    {
-      "date": "2026-09-04",
-      "price": 35689
-    },
-    {
-      "date": "2026-09-05",
-      "price": 35378
-    },
-    {
-      "date": "2026-09-06",
-      "price": 35068
-    },
-    {
-      "date": "2026-09-07",
-      "price": 34558
-    },
-    {
-      "date": "2026-09-08",
-      "price": 34720
-    },
-    {
-      "date": "2026-09-09",
-      "price": 34198
-    },
-    {
-      "date": "2026-09-10",
-      "price": 33882
-    },
-    {
-      "date": "2026-09-11",
-      "price": 33057
-    },
-    {
-      "date": "2026-09-12",
-      "price": 32559
-    },
-    {
-      "date": "2026-09-13",
-      "price": 32559
-    },
-    {
-      "date": "2026-09-14",
-      "price": 32659
-    },
-    {
-      "date": "2026-09-15",
-      "price": 32810
-    },
-    {
-      "date": "2026-09-16",
-      "price": 33136
-    },
-    {
-      "date": "2026-09-17",
-      "price": 33777
-    },
-    {
-      "date": "2026-09-18",
-      "price": 33796
-    },
-    {
-      "date": "2026-09-19",
-      "price": 33853
-    },
-    {
-      "date": "2026-09-20",
-      "price": 34478
-    },
-    {
-      "date": "2026-09-21",
-      "price": 34838
-    },
-    {
-      "date": "2026-09-22",
-      "price": 35289
-    },
-    {
-      "date": "2026-09-23",
-      "price": 34770
-    },
-    {
-      "date": "2026-09-24",
-      "price": 34986
-    },
-    {
-      "date": "2026-09-25",
-      "price": 34325
-    },
-    {
-      "date": "2026-09-26",
-      "price": 33455
-    },
-    {
-      "date": "2026-09-27",
-      "price": 34394
-    },
-    {
-      "date": "2026-09-28",
-      "price": 33557
-    },
-    {
-      "date": "2026-09-29",
-      "price": 32617
-    },
-    {
-      "date": "2026-09-30",
-      "price": 33130
-    },
-    {
-      "date": "2026-10-01",
-      "price": 33941
-    },
-    {
-      "date": "2026-10-02",
-      "price": 36999
-    }
-  ]
-},
-{
-  "id": "mob-09",
-  "slug": "oneplus-nord-ce4-5g-smartphone",
-  "title": "OnePlus Nord CE4 5G (Dark Chrome, 8GB RAM, 128GB Storage, 100W SuperVOOC)",
-  "brand": "OnePlus",
-  "category": "Mobiles",
-  "price": 24999,
-  "mrp": 27999,
-  "rating": 4.3,
-  "reviewCount": 16800,
-  "images": [
-    "/products/mob-01.jpg"
-  ],
-  "bullets": [
-    "Qualcomm Snapdragon 7 Gen 3 processor for responsive multitasking and fluid gaming",
-    "100W SUPERVOOC charging: 1-100% in just 29 minutes with durable 5500mAh battery",
-    "6.7-inch 120Hz Fluid AMOLED display with Aqua Touch technology for wet hands",
-    "50MP Sony LYT-600 camera with Optical Image Stabilization (OIS) and 4K recording",
-    "Expandable storage up to 1TB via microSD card slot"
-  ],
-  "description": "OnePlus Nord CE4 pairs blistering 100W charging speeds with a massive 5500mAh cell and smooth 120Hz AMOLED viewing.",
-  "stock": 45,
-  "deliveryDays": 1,
-  "tags": [
-    "mobiles",
-    "smartphone",
-    "oneplus",
-    "nord",
-    "5g",
-    "fast charging",
-    "under 25000",
-    "battery"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "Blazing 100W charging refills the huge 5500mAh battery in under 30 mins",
-      "Smooth everyday performance powered by Snapdragon 7 Gen 3",
-      "Clean OxygenOS interface with minimal bloatware"
-    ],
-    "cons": [
-      "No dedicated telephoto lens (2x is digital crop)",
-      "Plastic frame and rear panel"
-    ],
-    "verdict": "The benchmark mid-ranger under ₹25,000 for users who prioritize battery life, charging speed, and software reliability.",
-    "sentiment": {
-      "positive": 86,
-      "neutral": 9,
-      "negative": 5
-    }
-  },
-  "priceHistory": [
-    {
-      "date": "2026-07-05",
-      "price": 27016
-    },
-    {
-      "date": "2026-07-06",
-      "price": 26364
-    },
-    {
-      "date": "2026-07-07",
-      "price": 25598
-    },
-    {
-      "date": "2026-07-08",
-      "price": 25845
-    },
-    {
-      "date": "2026-07-09",
-      "price": 26283
-    },
-    {
-      "date": "2026-07-10",
-      "price": 27060
-    },
-    {
-      "date": "2026-07-11",
-      "price": 27109
-    },
-    {
-      "date": "2026-07-12",
-      "price": 27275
-    },
-    {
-      "date": "2026-07-13",
-      "price": 26669
-    },
-    {
-      "date": "2026-07-14",
-      "price": 26498
-    },
-    {
-      "date": "2026-07-15",
-      "price": 26887
-    },
-    {
-      "date": "2026-07-16",
-      "price": 26298
-    },
-    {
-      "date": "2026-07-17",
-      "price": 26779
-    },
-    {
-      "date": "2026-07-18",
-      "price": 26612
-    },
-    {
-      "date": "2026-07-19",
-      "price": 26592
-    },
-    {
-      "date": "2026-07-20",
-      "price": 26151
-    },
-    {
-      "date": "2026-07-21",
-      "price": 26206
-    },
-    {
-      "date": "2026-07-22",
-      "price": 25768
-    },
-    {
-      "date": "2026-07-23",
-      "price": 26014
-    },
-    {
-      "date": "2026-07-24",
-      "price": 25682
-    },
-    {
-      "date": "2026-07-25",
-      "price": 25496
-    },
-    {
-      "date": "2026-07-26",
-      "price": 25955
-    },
-    {
-      "date": "2026-07-27",
-      "price": 25459
-    },
-    {
-      "date": "2026-07-28",
-      "price": 25594
-    },
-    {
-      "date": "2026-07-29",
-      "price": 25295
-    },
-    {
-      "date": "2026-07-30",
-      "price": 26046
-    },
-    {
-      "date": "2026-07-31",
-      "price": 25953
-    },
-    {
-      "date": "2026-08-01",
-      "price": 25807
-    },
-    {
-      "date": "2026-08-02",
-      "price": 25070
-    },
-    {
-      "date": "2026-08-03",
-      "price": 25714
-    },
-    {
-      "date": "2026-08-04",
-      "price": 25906
-    },
-    {
-      "date": "2026-08-05",
-      "price": 25969
-    },
-    {
-      "date": "2026-08-06",
-      "price": 26023
-    },
-    {
-      "date": "2026-08-07",
-      "price": 25444
-    },
-    {
-      "date": "2026-08-08",
-      "price": 25740
-    },
-    {
-      "date": "2026-08-09",
-      "price": 26284
-    },
-    {
-      "date": "2026-08-10",
-      "price": 26418
-    },
-    {
-      "date": "2026-08-11",
-      "price": 26831
-    },
-    {
-      "date": "2026-08-12",
-      "price": 26752
-    },
-    {
-      "date": "2026-08-13",
-      "price": 27177
-    },
-    {
-      "date": "2026-08-14",
-      "price": 27184
-    },
-    {
-      "date": "2026-08-15",
-      "price": 26675
-    },
-    {
-      "date": "2026-08-16",
-      "price": 25882
-    },
-    {
-      "date": "2026-08-17",
-      "price": 26068
-    },
-    {
-      "date": "2026-08-18",
-      "price": 26346
-    },
-    {
-      "date": "2026-08-19",
-      "price": 26203
-    },
-    {
-      "date": "2026-08-20",
-      "price": 25705
-    },
-    {
-      "date": "2026-08-21",
-      "price": 25836
-    },
-    {
-      "date": "2026-08-22",
-      "price": 25867
-    },
-    {
-      "date": "2026-08-23",
-      "price": 26356
-    },
-    {
-      "date": "2026-08-24",
-      "price": 26254
-    },
-    {
-      "date": "2026-08-25",
-      "price": 25717
-    },
-    {
-      "date": "2026-08-26",
-      "price": 26219
-    },
-    {
-      "date": "2026-08-27",
-      "price": 26257
-    },
-    {
-      "date": "2026-08-28",
-      "price": 26539
-    },
-    {
-      "date": "2026-08-29",
-      "price": 26798
-    },
-    {
-      "date": "2026-08-30",
-      "price": 27087
-    },
-    {
-      "date": "2026-08-31",
-      "price": 27186
-    },
-    {
-      "date": "2026-09-01",
-      "price": 26482
-    },
-    {
-      "date": "2026-09-02",
-      "price": 27205
-    },
-    {
-      "date": "2026-09-03",
-      "price": 27627
-    },
-    {
-      "date": "2026-09-04",
-      "price": 27123
-    },
-    {
-      "date": "2026-09-05",
-      "price": 27100
-    },
-    {
-      "date": "2026-09-06",
-      "price": 26994
-    },
-    {
-      "date": "2026-09-07",
-      "price": 27164
-    },
-    {
-      "date": "2026-09-08",
-      "price": 27935
-    },
-    {
-      "date": "2026-09-09",
-      "price": 27851
-    },
-    {
-      "date": "2026-09-10",
-      "price": 27999
-    },
-    {
-      "date": "2026-09-11",
-      "price": 27381
-    },
-    {
-      "date": "2026-09-12",
-      "price": 27622
-    },
-    {
-      "date": "2026-09-13",
-      "price": 27283
-    },
-    {
-      "date": "2026-09-14",
-      "price": 27999
-    },
-    {
-      "date": "2026-09-15",
-      "price": 27454
-    },
-    {
-      "date": "2026-09-16",
-      "price": 27999
-    },
-    {
-      "date": "2026-09-17",
-      "price": 27999
-    },
-    {
-      "date": "2026-09-18",
-      "price": 27999
-    },
-    {
-      "date": "2026-09-19",
-      "price": 27726
-    },
-    {
-      "date": "2026-09-20",
-      "price": 27568
-    },
-    {
-      "date": "2026-09-21",
-      "price": 27694
-    },
-    {
-      "date": "2026-09-22",
-      "price": 27999
-    },
-    {
-      "date": "2026-09-23",
-      "price": 27533
-    },
-    {
-      "date": "2026-09-24",
-      "price": 27788
-    },
-    {
-      "date": "2026-09-25",
-      "price": 27035
-    },
-    {
-      "date": "2026-09-26",
-      "price": 26843
-    },
-    {
-      "date": "2026-09-27",
-      "price": 27395
-    },
-    {
-      "date": "2026-09-28",
-      "price": 26673
-    },
-    {
-      "date": "2026-09-29",
-      "price": 26884
-    },
-    {
-      "date": "2026-09-30",
-      "price": 26781
-    },
-    {
-      "date": "2026-10-01",
-      "price": 26751
-    },
-    {
-      "date": "2026-10-02",
-      "price": 24999
-    }
-  ]
-},
-{
-  "id": "mob-10",
-  "slug": "iqoo-z9s-5g-smartphone",
-  "title": "iQOO Z9s 5G (Onyx Green, 8GB RAM, 128GB Storage, Sony IMX882 OIS Camera)",
-  "brand": "iQOO",
-  "category": "Mobiles",
-  "price": 19999,
-  "mrp": 25999,
-  "rating": 4.3,
-  "reviewCount": 9300,
-  "images": [
-    "/products/mob-04.jpg"
-  ],
-  "bullets": [
-    "MediaTek Dimensity 7300 4nm processor delivering 700K+ AnTuTu performance score",
-    "Segment-slimmest 3D curved 120Hz AMOLED display with 1800 nits local peak brightness",
-    "50MP Sony IMX882 main camera with Optical Image Stabilization (OIS) and 4K video",
-    "5500mAh high-density battery with 44W FlashCharge support",
-    "Wet-touch display technology and IP64 dust and water splash resistance"
-  ],
-  "description": "The iQOO Z9s delivers stunning 3D curved screen visuals and snappy 4nm processing power at an aggressive sub-₹20,000 price point.",
-  "stock": 50,
-  "deliveryDays": 2,
-  "tags": [
-    "mobiles",
-    "smartphone",
-    "iqoo",
-    "5g",
-    "curved display",
-    "under 20000",
-    "camera",
-    "budget"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "Stunning 120Hz 3D curved AMOLED screen looks like a ₹40,000 device",
-      "Capable Sony IMX882 OIS camera captures crisp low-light photos",
-      "Exceptional 2-day battery endurance from the 5500mAh cell"
-    ],
-    "cons": [
-      "Pre-installed apps require 5 minutes of initial cleanup",
-      "44W charging is slightly slower than rivals with 67W+"
-    ],
-    "verdict": "The most premium-looking curved display smartphone you can purchase under ₹20,000.",
-    "sentiment": {
-      "positive": 85,
-      "neutral": 10,
-      "negative": 5
-    }
-  },
-  "priceHistory": [
-    {
-      "date": "2026-07-05",
-      "price": 21898
-    },
-    {
-      "date": "2026-07-06",
-      "price": 21415
-    },
-    {
-      "date": "2026-07-07",
-      "price": 21917
-    },
-    {
-      "date": "2026-07-08",
-      "price": 22166
-    },
-    {
-      "date": "2026-07-09",
-      "price": 22236
-    },
-    {
-      "date": "2026-07-10",
-      "price": 22761
-    },
-    {
-      "date": "2026-07-11",
-      "price": 22947
-    },
-    {
-      "date": "2026-07-12",
-      "price": 23504
-    },
-    {
-      "date": "2026-07-13",
-      "price": 23883
-    },
-    {
-      "date": "2026-07-14",
-      "price": 23899
-    },
-    {
-      "date": "2026-07-15",
-      "price": 24399
-    },
-    {
-      "date": "2026-07-16",
-      "price": 24399
-    },
-    {
-      "date": "2026-07-17",
-      "price": 24399
-    },
-    {
-      "date": "2026-07-18",
-      "price": 24399
-    },
-    {
-      "date": "2026-07-19",
-      "price": 24078
-    },
-    {
-      "date": "2026-07-20",
-      "price": 24399
-    },
-    {
-      "date": "2026-07-21",
-      "price": 24399
-    },
-    {
-      "date": "2026-07-22",
-      "price": 23892
-    },
-    {
-      "date": "2026-07-23",
-      "price": 23684
-    },
-    {
-      "date": "2026-07-24",
-      "price": 23380
-    },
-    {
-      "date": "2026-07-25",
-      "price": 22865
-    },
-    {
-      "date": "2026-07-26",
-      "price": 22739
-    },
-    {
-      "date": "2026-07-27",
-      "price": 23264
-    },
-    {
-      "date": "2026-07-28",
-      "price": 23754
-    },
-    {
-      "date": "2026-07-29",
-      "price": 23852
-    },
-    {
-      "date": "2026-07-30",
-      "price": 24013
-    },
-    {
-      "date": "2026-07-31",
-      "price": 24399
-    },
-    {
-      "date": "2026-08-01",
-      "price": 23894
-    },
-    {
-      "date": "2026-08-02",
-      "price": 24286
-    },
-    {
-      "date": "2026-08-03",
-      "price": 23619
-    },
-    {
-      "date": "2026-08-04",
-      "price": 23286
-    },
-    {
-      "date": "2026-08-05",
-      "price": 23113
-    },
-    {
-      "date": "2026-08-06",
-      "price": 23266
-    },
-    {
-      "date": "2026-08-07",
-      "price": 23786
-    },
-    {
-      "date": "2026-08-08",
-      "price": 23214
-    },
-    {
-      "date": "2026-08-09",
-      "price": 23255
-    },
-    {
-      "date": "2026-08-10",
-      "price": 23113
-    },
-    {
-      "date": "2026-08-11",
-      "price": 23773
-    },
-    {
-      "date": "2026-08-12",
-      "price": 24387
-    },
-    {
-      "date": "2026-08-13",
-      "price": 24399
-    },
-    {
-      "date": "2026-08-14",
-      "price": 24151
-    },
-    {
-      "date": "2026-08-15",
-      "price": 24111
-    },
-    {
-      "date": "2026-08-16",
-      "price": 24399
-    },
-    {
-      "date": "2026-08-17",
-      "price": 24399
-    },
-    {
-      "date": "2026-08-18",
-      "price": 24392
-    },
-    {
-      "date": "2026-08-19",
-      "price": 24399
-    },
-    {
-      "date": "2026-08-20",
-      "price": 24399
-    },
-    {
-      "date": "2026-08-21",
-      "price": 23746
-    },
-    {
-      "date": "2026-08-22",
-      "price": 24281
-    },
-    {
-      "date": "2026-08-23",
-      "price": 24058
-    },
-    {
-      "date": "2026-08-24",
-      "price": 24399
-    },
-    {
-      "date": "2026-08-25",
-      "price": 24399
-    },
-    {
-      "date": "2026-08-26",
-      "price": 24275
-    },
-    {
-      "date": "2026-08-27",
-      "price": 24018
-    },
-    {
-      "date": "2026-08-28",
-      "price": 24399
-    },
-    {
-      "date": "2026-08-29",
-      "price": 24169
-    },
-    {
-      "date": "2026-08-30",
-      "price": 24399
-    },
-    {
-      "date": "2026-08-31",
-      "price": 24399
-    },
-    {
-      "date": "2026-09-01",
-      "price": 24340
-    },
-    {
-      "date": "2026-09-02",
-      "price": 24399
-    },
-    {
-      "date": "2026-09-03",
-      "price": 24107
-    },
-    {
-      "date": "2026-09-04",
-      "price": 23792
-    },
-    {
-      "date": "2026-09-05",
-      "price": 23671
-    },
-    {
-      "date": "2026-09-06",
-      "price": 23228
-    },
-    {
-      "date": "2026-09-07",
-      "price": 22713
-    },
-    {
-      "date": "2026-09-08",
-      "price": 22181
-    },
-    {
-      "date": "2026-09-09",
-      "price": 21865
-    },
-    {
-      "date": "2026-09-10",
-      "price": 21386
-    },
-    {
-      "date": "2026-09-11",
-      "price": 21833
-    },
-    {
-      "date": "2026-09-12",
-      "price": 21349
-    },
-    {
-      "date": "2026-09-13",
-      "price": 21697
-    },
-    {
-      "date": "2026-09-14",
-      "price": 21226
-    },
-    {
-      "date": "2026-09-15",
-      "price": 21755
-    },
-    {
-      "date": "2026-09-16",
-      "price": 21207
-    },
-    {
-      "date": "2026-09-17",
-      "price": 21596
-    },
-    {
-      "date": "2026-09-18",
-      "price": 21505
-    },
-    {
-      "date": "2026-09-19",
-      "price": 21987
-    },
-    {
-      "date": "2026-09-20",
-      "price": 21787
-    },
-    {
-      "date": "2026-09-21",
-      "price": 21588
-    },
-    {
-      "date": "2026-09-22",
-      "price": 21236
-    },
-    {
-      "date": "2026-09-23",
-      "price": 21470
-    },
-    {
-      "date": "2026-09-24",
-      "price": 21740
-    },
-    {
-      "date": "2026-09-25",
-      "price": 21302
-    },
-    {
-      "date": "2026-09-26",
-      "price": 21917
-    },
-    {
-      "date": "2026-09-27",
-      "price": 21720
-    },
-    {
-      "date": "2026-09-28",
-      "price": 22135
-    },
-    {
-      "date": "2026-09-29",
-      "price": 22579
-    },
-    {
-      "date": "2026-09-30",
-      "price": 22277
-    },
-    {
-      "date": "2026-10-01",
-      "price": 21852
-    },
-    {
-      "date": "2026-10-02",
-      "price": 19999
-    }
-  ]
-},
-{
-  "id": "mob-11",
-  "slug": "apple-20w-usb-c-power-adapter",
-  "title": "Apple 20W USB-C Power Adapter for Fast Charging iPhone and iPad",
-  "brand": "Apple",
-  "category": "Mobiles",
-  "price": 1699,
-  "mrp": 1900,
-  "rating": 4.6,
-  "reviewCount": 68400,
-  "images": [
+  {
+    "id": "mob-11",
+    "slug": "apple-20w-usb-c-power-adapter",
+    "title": "Apple 20W USB-C Power Adapter for Fast Charging iPhone and iPad",
+    "brand": "Apple",
+    "category": "Mobiles",
+    "price": 1699,
+    "mrp": 1900,
+    "rating": 4.6,
+    "reviewCount": 68400,
+    "images": [
       "/products/mob-11.jpg"
     ],
-  "bullets": [
-    "Official Apple 20W USB-C Power Adapter offers fast, efficient charging at home or on the go",
-    "Charges iPhone 15, 14, 13, and 12 series from 0 to 50% in approximately 30 minutes",
-    "Compatible with any USB-C enabled device including iPad Pro and Apple Watch fast charger",
-    "Built-in temperature monitoring and over-voltage safety circuits protect your battery health",
-    "Compact prongs engineered for Indian standard 2-pin electrical wall sockets"
-  ],
-  "description": "The Apple 20W USB-C Power Adapter provides rapid charging performance for iPhone and iPad devices with certified power delivery safety.",
-  "stock": 60,
-  "deliveryDays": 1,
-  "tags": [
-    "mobiles",
-    "charger",
-    "apple",
-    "iphone",
-    "accessories",
-    "fast charging",
-    "power adapter"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "Authentic Apple charger ensures optimal long-term iPhone battery health",
-      "Reliable 50% charge in 30 minutes for modern iPhones",
-      "High build quality with sturdy non-heating housing"
+    "bullets": [
+      "Official Apple 20W USB-C Power Adapter offers fast, efficient charging at home or on the go",
+      "Charges iPhone 15, 14, 13, and 12 series from 0 to 50% in approximately 30 minutes",
+      "Compatible with any USB-C enabled device including iPad Pro and Apple Watch fast charger",
+      "Built-in temperature monitoring and over-voltage safety circuits protect your battery health",
+      "Compact prongs engineered for Indian standard 2-pin electrical wall sockets"
     ],
-    "cons": [
-      "USB-C charging cable sold separately",
-      "Fixed prongs do not fold flat"
+    "description": "The Apple 20W USB-C Power Adapter provides rapid charging performance for iPhone and iPad devices with certified power delivery safety.",
+    "stock": 60,
+    "deliveryDays": 1,
+    "tags": [
+      "mobiles",
+      "charger",
+      "apple",
+      "iphone",
+      "accessories",
+      "fast charging",
+      "power adapter"
     ],
-    "verdict": "Essential official fast charger for every iPhone owner seeking certified safety and battery longevity.",
-    "sentiment": {
-      "positive": 91,
-      "neutral": 6,
-      "negative": 3
-    }
+    "reviewSummary": {
+      "pros": [
+        "Authentic Apple charger ensures optimal long-term iPhone battery health",
+        "Reliable 50% charge in 30 minutes for modern iPhones",
+        "High build quality with sturdy non-heating housing"
+      ],
+      "cons": [
+        "USB-C charging cable sold separately",
+        "Fixed prongs do not fold flat"
+      ],
+      "verdict": "Essential official fast charger for every iPhone owner seeking certified safety and battery longevity.",
+      "sentiment": {
+        "positive": 91,
+        "neutral": 6,
+        "negative": 3
+      }
+    },
+    "priceHistory": [
+      {
+        "date": "2026-07-05",
+        "price": 1859
+      },
+      {
+        "date": "2026-07-06",
+        "price": 1900
+      },
+      {
+        "date": "2026-07-07",
+        "price": 1850
+      },
+      {
+        "date": "2026-07-08",
+        "price": 1804
+      },
+      {
+        "date": "2026-07-09",
+        "price": 1769
+      },
+      {
+        "date": "2026-07-10",
+        "price": 1791
+      },
+      {
+        "date": "2026-07-11",
+        "price": 1782
+      },
+      {
+        "date": "2026-07-12",
+        "price": 1771
+      },
+      {
+        "date": "2026-07-13",
+        "price": 1781
+      },
+      {
+        "date": "2026-07-14",
+        "price": 1799
+      },
+      {
+        "date": "2026-07-15",
+        "price": 1786
+      },
+      {
+        "date": "2026-07-16",
+        "price": 1793
+      },
+      {
+        "date": "2026-07-17",
+        "price": 1837
+      },
+      {
+        "date": "2026-07-18",
+        "price": 1836
+      },
+      {
+        "date": "2026-07-19",
+        "price": 1788
+      },
+      {
+        "date": "2026-07-20",
+        "price": 1831
+      },
+      {
+        "date": "2026-07-21",
+        "price": 1860
+      },
+      {
+        "date": "2026-07-22",
+        "price": 1891
+      },
+      {
+        "date": "2026-07-23",
+        "price": 1837
+      },
+      {
+        "date": "2026-07-24",
+        "price": 1847
+      },
+      {
+        "date": "2026-07-25",
+        "price": 1886
+      },
+      {
+        "date": "2026-07-26",
+        "price": 1900
+      },
+      {
+        "date": "2026-07-27",
+        "price": 1854
+      },
+      {
+        "date": "2026-07-28",
+        "price": 1896
+      },
+      {
+        "date": "2026-07-29",
+        "price": 1900
+      },
+      {
+        "date": "2026-07-30",
+        "price": 1900
+      },
+      {
+        "date": "2026-07-31",
+        "price": 1847
+      },
+      {
+        "date": "2026-08-01",
+        "price": 1818
+      },
+      {
+        "date": "2026-08-02",
+        "price": 1793
+      },
+      {
+        "date": "2026-08-03",
+        "price": 1746
+      },
+      {
+        "date": "2026-08-04",
+        "price": 1786
+      },
+      {
+        "date": "2026-08-05",
+        "price": 1743
+      },
+      {
+        "date": "2026-08-06",
+        "price": 1705
+      },
+      {
+        "date": "2026-08-07",
+        "price": 1679
+      },
+      {
+        "date": "2026-08-08",
+        "price": 1683
+      },
+      {
+        "date": "2026-08-09",
+        "price": 1670
+      },
+      {
+        "date": "2026-08-10",
+        "price": 1720
+      },
+      {
+        "date": "2026-08-11",
+        "price": 1751
+      },
+      {
+        "date": "2026-08-12",
+        "price": 1767
+      },
+      {
+        "date": "2026-08-13",
+        "price": 1819
+      },
+      {
+        "date": "2026-08-14",
+        "price": 1800
+      },
+      {
+        "date": "2026-08-15",
+        "price": 1848
+      },
+      {
+        "date": "2026-08-16",
+        "price": 1828
+      },
+      {
+        "date": "2026-08-17",
+        "price": 1797
+      },
+      {
+        "date": "2026-08-18",
+        "price": 1760
+      },
+      {
+        "date": "2026-08-19",
+        "price": 1763
+      },
+      {
+        "date": "2026-08-20",
+        "price": 1749
+      },
+      {
+        "date": "2026-08-21",
+        "price": 1730
+      },
+      {
+        "date": "2026-08-22",
+        "price": 1708
+      },
+      {
+        "date": "2026-08-23",
+        "price": 1709
+      },
+      {
+        "date": "2026-08-24",
+        "price": 1748
+      },
+      {
+        "date": "2026-08-25",
+        "price": 1733
+      },
+      {
+        "date": "2026-08-26",
+        "price": 1732
+      },
+      {
+        "date": "2026-08-27",
+        "price": 1768
+      },
+      {
+        "date": "2026-08-28",
+        "price": 1800
+      },
+      {
+        "date": "2026-08-29",
+        "price": 1848
+      },
+      {
+        "date": "2026-08-30",
+        "price": 1900
+      },
+      {
+        "date": "2026-08-31",
+        "price": 1866
+      },
+      {
+        "date": "2026-09-01",
+        "price": 1810
+      },
+      {
+        "date": "2026-09-02",
+        "price": 1799
+      },
+      {
+        "date": "2026-09-03",
+        "price": 1845
+      },
+      {
+        "date": "2026-09-04",
+        "price": 1863
+      },
+      {
+        "date": "2026-09-05",
+        "price": 1825
+      },
+      {
+        "date": "2026-09-06",
+        "price": 1846
+      },
+      {
+        "date": "2026-09-07",
+        "price": 1809
+      },
+      {
+        "date": "2026-09-08",
+        "price": 1833
+      },
+      {
+        "date": "2026-09-09",
+        "price": 1840
+      },
+      {
+        "date": "2026-09-10",
+        "price": 1808
+      },
+      {
+        "date": "2026-09-11",
+        "price": 1816
+      },
+      {
+        "date": "2026-09-12",
+        "price": 1785
+      },
+      {
+        "date": "2026-09-13",
+        "price": 1827
+      },
+      {
+        "date": "2026-09-14",
+        "price": 1808
+      },
+      {
+        "date": "2026-09-15",
+        "price": 1808
+      },
+      {
+        "date": "2026-09-16",
+        "price": 1773
+      },
+      {
+        "date": "2026-09-17",
+        "price": 1758
+      },
+      {
+        "date": "2026-09-18",
+        "price": 1751
+      },
+      {
+        "date": "2026-09-19",
+        "price": 1709
+      },
+      {
+        "date": "2026-09-20",
+        "price": 1697
+      },
+      {
+        "date": "2026-09-21",
+        "price": 1663
+      },
+      {
+        "date": "2026-09-22",
+        "price": 1647
+      },
+      {
+        "date": "2026-09-23",
+        "price": 1693
+      },
+      {
+        "date": "2026-09-24",
+        "price": 1720
+      },
+      {
+        "date": "2026-09-25",
+        "price": 1707
+      },
+      {
+        "date": "2026-09-26",
+        "price": 1752
+      },
+      {
+        "date": "2026-09-27",
+        "price": 1718
+      },
+      {
+        "date": "2026-09-28",
+        "price": 1690
+      },
+      {
+        "date": "2026-09-29",
+        "price": 1698
+      },
+      {
+        "date": "2026-09-30",
+        "price": 1656
+      },
+      {
+        "date": "2026-10-01",
+        "price": 1622
+      },
+      {
+        "date": "2026-10-02",
+        "price": 1699
+      }
+    ]
   },
-  "priceHistory": [
-    {
-      "date": "2026-07-05",
-      "price": 1859
-    },
-    {
-      "date": "2026-07-06",
-      "price": 1900
-    },
-    {
-      "date": "2026-07-07",
-      "price": 1850
-    },
-    {
-      "date": "2026-07-08",
-      "price": 1804
-    },
-    {
-      "date": "2026-07-09",
-      "price": 1769
-    },
-    {
-      "date": "2026-07-10",
-      "price": 1791
-    },
-    {
-      "date": "2026-07-11",
-      "price": 1782
-    },
-    {
-      "date": "2026-07-12",
-      "price": 1771
-    },
-    {
-      "date": "2026-07-13",
-      "price": 1781
-    },
-    {
-      "date": "2026-07-14",
-      "price": 1799
-    },
-    {
-      "date": "2026-07-15",
-      "price": 1786
-    },
-    {
-      "date": "2026-07-16",
-      "price": 1793
-    },
-    {
-      "date": "2026-07-17",
-      "price": 1837
-    },
-    {
-      "date": "2026-07-18",
-      "price": 1836
-    },
-    {
-      "date": "2026-07-19",
-      "price": 1788
-    },
-    {
-      "date": "2026-07-20",
-      "price": 1831
-    },
-    {
-      "date": "2026-07-21",
-      "price": 1860
-    },
-    {
-      "date": "2026-07-22",
-      "price": 1891
-    },
-    {
-      "date": "2026-07-23",
-      "price": 1837
-    },
-    {
-      "date": "2026-07-24",
-      "price": 1847
-    },
-    {
-      "date": "2026-07-25",
-      "price": 1886
-    },
-    {
-      "date": "2026-07-26",
-      "price": 1900
-    },
-    {
-      "date": "2026-07-27",
-      "price": 1854
-    },
-    {
-      "date": "2026-07-28",
-      "price": 1896
-    },
-    {
-      "date": "2026-07-29",
-      "price": 1900
-    },
-    {
-      "date": "2026-07-30",
-      "price": 1900
-    },
-    {
-      "date": "2026-07-31",
-      "price": 1847
-    },
-    {
-      "date": "2026-08-01",
-      "price": 1818
-    },
-    {
-      "date": "2026-08-02",
-      "price": 1793
-    },
-    {
-      "date": "2026-08-03",
-      "price": 1746
-    },
-    {
-      "date": "2026-08-04",
-      "price": 1786
-    },
-    {
-      "date": "2026-08-05",
-      "price": 1743
-    },
-    {
-      "date": "2026-08-06",
-      "price": 1705
-    },
-    {
-      "date": "2026-08-07",
-      "price": 1679
-    },
-    {
-      "date": "2026-08-08",
-      "price": 1683
-    },
-    {
-      "date": "2026-08-09",
-      "price": 1670
-    },
-    {
-      "date": "2026-08-10",
-      "price": 1720
-    },
-    {
-      "date": "2026-08-11",
-      "price": 1751
-    },
-    {
-      "date": "2026-08-12",
-      "price": 1767
-    },
-    {
-      "date": "2026-08-13",
-      "price": 1819
-    },
-    {
-      "date": "2026-08-14",
-      "price": 1800
-    },
-    {
-      "date": "2026-08-15",
-      "price": 1848
-    },
-    {
-      "date": "2026-08-16",
-      "price": 1828
-    },
-    {
-      "date": "2026-08-17",
-      "price": 1797
-    },
-    {
-      "date": "2026-08-18",
-      "price": 1760
-    },
-    {
-      "date": "2026-08-19",
-      "price": 1763
-    },
-    {
-      "date": "2026-08-20",
-      "price": 1749
-    },
-    {
-      "date": "2026-08-21",
-      "price": 1730
-    },
-    {
-      "date": "2026-08-22",
-      "price": 1708
-    },
-    {
-      "date": "2026-08-23",
-      "price": 1709
-    },
-    {
-      "date": "2026-08-24",
-      "price": 1748
-    },
-    {
-      "date": "2026-08-25",
-      "price": 1733
-    },
-    {
-      "date": "2026-08-26",
-      "price": 1732
-    },
-    {
-      "date": "2026-08-27",
-      "price": 1768
-    },
-    {
-      "date": "2026-08-28",
-      "price": 1800
-    },
-    {
-      "date": "2026-08-29",
-      "price": 1848
-    },
-    {
-      "date": "2026-08-30",
-      "price": 1900
-    },
-    {
-      "date": "2026-08-31",
-      "price": 1866
-    },
-    {
-      "date": "2026-09-01",
-      "price": 1810
-    },
-    {
-      "date": "2026-09-02",
-      "price": 1799
-    },
-    {
-      "date": "2026-09-03",
-      "price": 1845
-    },
-    {
-      "date": "2026-09-04",
-      "price": 1863
-    },
-    {
-      "date": "2026-09-05",
-      "price": 1825
-    },
-    {
-      "date": "2026-09-06",
-      "price": 1846
-    },
-    {
-      "date": "2026-09-07",
-      "price": 1809
-    },
-    {
-      "date": "2026-09-08",
-      "price": 1833
-    },
-    {
-      "date": "2026-09-09",
-      "price": 1840
-    },
-    {
-      "date": "2026-09-10",
-      "price": 1808
-    },
-    {
-      "date": "2026-09-11",
-      "price": 1816
-    },
-    {
-      "date": "2026-09-12",
-      "price": 1785
-    },
-    {
-      "date": "2026-09-13",
-      "price": 1827
-    },
-    {
-      "date": "2026-09-14",
-      "price": 1808
-    },
-    {
-      "date": "2026-09-15",
-      "price": 1808
-    },
-    {
-      "date": "2026-09-16",
-      "price": 1773
-    },
-    {
-      "date": "2026-09-17",
-      "price": 1758
-    },
-    {
-      "date": "2026-09-18",
-      "price": 1751
-    },
-    {
-      "date": "2026-09-19",
-      "price": 1709
-    },
-    {
-      "date": "2026-09-20",
-      "price": 1697
-    },
-    {
-      "date": "2026-09-21",
-      "price": 1663
-    },
-    {
-      "date": "2026-09-22",
-      "price": 1647
-    },
-    {
-      "date": "2026-09-23",
-      "price": 1693
-    },
-    {
-      "date": "2026-09-24",
-      "price": 1720
-    },
-    {
-      "date": "2026-09-25",
-      "price": 1707
-    },
-    {
-      "date": "2026-09-26",
-      "price": 1752
-    },
-    {
-      "date": "2026-09-27",
-      "price": 1718
-    },
-    {
-      "date": "2026-09-28",
-      "price": 1690
-    },
-    {
-      "date": "2026-09-29",
-      "price": 1698
-    },
-    {
-      "date": "2026-09-30",
-      "price": 1656
-    },
-    {
-      "date": "2026-10-01",
-      "price": 1622
-    },
-    {
-      "date": "2026-10-02",
-      "price": 1699
-    }
-  ]
-},
-{
-  "id": "mob-12",
-  "slug": "spigen-liquid-air-case-for-oneplus-12r",
-  "title": "Spigen Liquid Air Back Cover Case for OnePlus 12R 5G (Matte Black)",
-  "brand": "Spigen",
-  "category": "Mobiles",
-  "price": 1299,
-  "mrp": 1999,
-  "rating": 4.5,
-  "reviewCount": 15300,
-  "images": [
-    "/products/mob-06.jpg"
-  ],
-  "bullets": [
-    "Signature geometric pattern with modern matte finish for enhanced non-slip grip",
-    "Air Cushion Technology deployed at all four corners for military-grade shock absorption",
-    "Raised lips protect the fragile curved screen and camera lenses from flat surfaces",
-    "Form-fitted slim profile adds zero bulk while retaining tactile button feedback",
-    "Compatible with wireless chargers and reverse wireless charging"
-  ],
-  "description": "The Spigen Liquid Air delivers timeless geometric style and military-grade shock protection in an ultra-slim, grip-friendly package.",
-  "stock": 45,
-  "deliveryDays": 2,
-  "tags": [
-    "mobiles",
-    "case",
-    "cover",
-    "spigen",
-    "oneplus",
-    "accessories",
-    "protective"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "Superb textured grip prevents drops without sticky pocket cling",
-      "Air cushion corners protect against accidental concrete drops",
-      "Precise cutouts for alert slider and USB-C port"
-    ],
-    "cons": [
-      "Collects occasional dust inside the geometric grooves",
-      "Only available in matte black colorway"
-    ],
-    "verdict": "The benchmark daily protective case combining slim ergonomics and proven shock resistance.",
-    "sentiment": {
-      "positive": 89,
-      "neutral": 8,
-      "negative": 3
-    }
-  },
-  "priceHistory": [
-    {
-      "date": "2026-07-05",
-      "price": 1362
-    },
-    {
-      "date": "2026-07-06",
-      "price": 1364
-    },
-    {
-      "date": "2026-07-07",
-      "price": 1362
-    },
-    {
-      "date": "2026-07-08",
-      "price": 1337
-    },
-    {
-      "date": "2026-07-09",
-      "price": 1317
-    },
-    {
-      "date": "2026-07-10",
-      "price": 1312
-    },
-    {
-      "date": "2026-07-11",
-      "price": 1325
-    },
-    {
-      "date": "2026-07-12",
-      "price": 1364
-    },
-    {
-      "date": "2026-07-13",
-      "price": 1385
-    },
-    {
-      "date": "2026-07-14",
-      "price": 1392
-    },
-    {
-      "date": "2026-07-15",
-      "price": 1407
-    },
-    {
-      "date": "2026-07-16",
-      "price": 1444
-    },
-    {
-      "date": "2026-07-17",
-      "price": 1468
-    },
-    {
-      "date": "2026-07-18",
-      "price": 1485
-    },
-    {
-      "date": "2026-07-19",
-      "price": 1469
-    },
-    {
-      "date": "2026-07-20",
-      "price": 1492
-    },
-    {
-      "date": "2026-07-21",
-      "price": 1465
-    },
-    {
-      "date": "2026-07-22",
-      "price": 1501
-    },
-    {
-      "date": "2026-07-23",
-      "price": 1516
-    },
-    {
-      "date": "2026-07-24",
-      "price": 1559
-    },
-    {
-      "date": "2026-07-25",
-      "price": 1534
-    },
-    {
-      "date": "2026-07-26",
-      "price": 1498
-    },
-    {
-      "date": "2026-07-27",
-      "price": 1521
-    },
-    {
-      "date": "2026-07-28",
-      "price": 1536
-    },
-    {
-      "date": "2026-07-29",
-      "price": 1491
-    },
-    {
-      "date": "2026-07-30",
-      "price": 1453
-    },
-    {
-      "date": "2026-07-31",
-      "price": 1478
-    },
-    {
-      "date": "2026-08-01",
-      "price": 1437
-    },
-    {
-      "date": "2026-08-02",
-      "price": 1423
-    },
-    {
-      "date": "2026-08-03",
-      "price": 1388
-    },
-    {
-      "date": "2026-08-04",
-      "price": 1416
-    },
-    {
-      "date": "2026-08-05",
-      "price": 1419
-    },
-    {
-      "date": "2026-08-06",
-      "price": 1426
-    },
-    {
-      "date": "2026-08-07",
-      "price": 1467
-    },
-    {
-      "date": "2026-08-08",
-      "price": 1471
-    },
-    {
-      "date": "2026-08-09",
-      "price": 1434
-    },
-    {
-      "date": "2026-08-10",
-      "price": 1455
-    },
-    {
-      "date": "2026-08-11",
-      "price": 1459
-    },
-    {
-      "date": "2026-08-12",
-      "price": 1466
-    },
-    {
-      "date": "2026-08-13",
-      "price": 1428
-    },
-    {
-      "date": "2026-08-14",
-      "price": 1405
-    },
-    {
-      "date": "2026-08-15",
-      "price": 1435
-    },
-    {
-      "date": "2026-08-16",
-      "price": 1440
-    },
-    {
-      "date": "2026-08-17",
-      "price": 1422
-    },
-    {
-      "date": "2026-08-18",
-      "price": 1439
-    },
-    {
-      "date": "2026-08-19",
-      "price": 1409
-    },
-    {
-      "date": "2026-08-20",
-      "price": 1389
-    },
-    {
-      "date": "2026-08-21",
-      "price": 1398
-    },
-    {
-      "date": "2026-08-22",
-      "price": 1359
-    },
-    {
-      "date": "2026-08-23",
-      "price": 1391
-    },
-    {
-      "date": "2026-08-24",
-      "price": 1384
-    },
-    {
-      "date": "2026-08-25",
-      "price": 1358
-    },
-    {
-      "date": "2026-08-26",
-      "price": 1375
-    },
-    {
-      "date": "2026-08-27",
-      "price": 1413
-    },
-    {
-      "date": "2026-08-28",
-      "price": 1400
-    },
-    {
-      "date": "2026-08-29",
-      "price": 1387
-    },
-    {
-      "date": "2026-08-30",
-      "price": 1400
-    },
-    {
-      "date": "2026-08-31",
-      "price": 1411
-    },
-    {
-      "date": "2026-09-01",
-      "price": 1445
-    },
-    {
-      "date": "2026-09-02",
-      "price": 1427
-    },
-    {
-      "date": "2026-09-03",
-      "price": 1464
-    },
-    {
-      "date": "2026-09-04",
-      "price": 1500
-    },
-    {
-      "date": "2026-09-05",
-      "price": 1478
-    },
-    {
-      "date": "2026-09-06",
-      "price": 1465
-    },
-    {
-      "date": "2026-09-07",
-      "price": 1422
-    },
-    {
-      "date": "2026-09-08",
-      "price": 1392
-    },
-    {
-      "date": "2026-09-09",
-      "price": 1412
-    },
-    {
-      "date": "2026-09-10",
-      "price": 1428
-    },
-    {
-      "date": "2026-09-11",
-      "price": 1399
-    },
-    {
-      "date": "2026-09-12",
-      "price": 1359
-    },
-    {
-      "date": "2026-09-13",
-      "price": 1371
-    },
-    {
-      "date": "2026-09-14",
-      "price": 1368
-    },
-    {
-      "date": "2026-09-15",
-      "price": 1393
-    },
-    {
-      "date": "2026-09-16",
-      "price": 1366
-    },
-    {
-      "date": "2026-09-17",
-      "price": 1328
-    },
-    {
-      "date": "2026-09-18",
-      "price": 1334
-    },
-    {
-      "date": "2026-09-19",
-      "price": 1331
-    },
-    {
-      "date": "2026-09-20",
-      "price": 1299
-    },
-    {
-      "date": "2026-09-21",
-      "price": 1281
-    },
-    {
-      "date": "2026-09-22",
-      "price": 1297
-    },
-    {
-      "date": "2026-09-23",
-      "price": 1271
-    },
-    {
-      "date": "2026-09-24",
-      "price": 1254
-    },
-    {
-      "date": "2026-09-25",
-      "price": 1255
-    },
-    {
-      "date": "2026-09-26",
-      "price": 1233
-    },
-    {
-      "date": "2026-09-27",
-      "price": 1241
-    },
-    {
-      "date": "2026-09-28",
-      "price": 1233
-    },
-    {
-      "date": "2026-09-29",
-      "price": 1199
-    },
-    {
-      "date": "2026-09-30",
-      "price": 1169
-    },
-    {
-      "date": "2026-10-01",
-      "price": 1199
-    },
-    {
-      "date": "2026-10-02",
-      "price": 1299
-    }
-  ]
-},
-{
-  "id": "hom-14",
-  "slug": "philips-hd9306-electric-kettle-1-5l",
-  "title": "Philips HD9306/06 1.5-Litre Electric Kettle with Food Grade Stainless Steel",
-  "brand": "Philips",
-  "category": "Home & Kitchen",
-  "price": 1895,
-  "mrp": 2795,
-  "rating": 4.4,
-  "reviewCount": 31200,
-  "images": [
+  {
+    "id": "hom-14",
+    "slug": "philips-hd9306-electric-kettle-1-5l",
+    "title": "Philips HD9306/06 1.5-Litre Electric Kettle with Food Grade Stainless Steel",
+    "brand": "Philips",
+    "category": "Home & Kitchen",
+    "price": 1895,
+    "mrp": 2795,
+    "rating": 4.4,
+    "reviewCount": 31200,
+    "images": [
       "/products/hom-14.jpg"
     ],
-  "bullets": [
-    "1.5-litre capacity with 1800W heating element boiling water in under 3 minutes",
-    "Food grade 304 stainless steel inner body ensures zero plastic contact with water",
-    "Steam sensor, dry-boil prevention, and overheating auto shut-off safety protection",
-    "360-degree cordless pirouette base for easy lifting and one-touch spring lid",
-    "Concealed heating element prevents mineral scale buildup and simplifies cleaning"
-  ],
-  "description": "The Philips HD9306/06 electric kettle boils water rapidly and safely with food-grade 304 stainless steel construction and automatic shut-off.",
-  "stock": 40,
-  "deliveryDays": 1,
-  "tags": [
-    "home-kitchen",
-    "kettle",
-    "philips",
-    "boiling",
-    "tea",
-    "coffee",
-    "appliances",
-    "stainless steel"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "Boils a full 1.5L batch in under 3 minutes",
-      "100% food-grade stainless steel inside with zero plastic odor",
-      "Reliable automatic cutoff prevents boiling dry"
+    "bullets": [
+      "1.5-litre capacity with 1800W heating element boiling water in under 3 minutes",
+      "Food grade 304 stainless steel inner body ensures zero plastic contact with water",
+      "Steam sensor, dry-boil prevention, and overheating auto shut-off safety protection",
+      "360-degree cordless pirouette base for easy lifting and one-touch spring lid",
+      "Concealed heating element prevents mineral scale buildup and simplifies cleaning"
     ],
-    "cons": [
-      "Outer metal body gets hot to touch when boiling",
-      "Cord length is slightly short at around 0.75m"
+    "description": "The Philips HD9306/06 electric kettle boils water rapidly and safely with food-grade 304 stainless steel construction and automatic shut-off.",
+    "stock": 40,
+    "deliveryDays": 1,
+    "tags": [
+      "home-kitchen",
+      "kettle",
+      "philips",
+      "boiling",
+      "tea",
+      "coffee",
+      "appliances",
+      "stainless steel"
     ],
-    "verdict": "The most durable, hygienic stainless steel electric kettle for morning tea, coffee, and quick noodles.",
-    "sentiment": {
-      "positive": 88,
-      "neutral": 8,
-      "negative": 4
-    }
+    "reviewSummary": {
+      "pros": [
+        "Boils a full 1.5L batch in under 3 minutes",
+        "100% food-grade stainless steel inside with zero plastic odor",
+        "Reliable automatic cutoff prevents boiling dry"
+      ],
+      "cons": [
+        "Outer metal body gets hot to touch when boiling",
+        "Cord length is slightly short at around 0.75m"
+      ],
+      "verdict": "The most durable, hygienic stainless steel electric kettle for morning tea, coffee, and quick noodles.",
+      "sentiment": {
+        "positive": 88,
+        "neutral": 8,
+        "negative": 4
+      }
+    },
+    "priceHistory": [
+      {
+        "date": "2026-07-05",
+        "price": 1987
+      },
+      {
+        "date": "2026-07-06",
+        "price": 2021
+      },
+      {
+        "date": "2026-07-07",
+        "price": 2021
+      },
+      {
+        "date": "2026-07-08",
+        "price": 1970
+      },
+      {
+        "date": "2026-07-09",
+        "price": 2014
+      },
+      {
+        "date": "2026-07-10",
+        "price": 2054
+      },
+      {
+        "date": "2026-07-11",
+        "price": 2076
+      },
+      {
+        "date": "2026-07-12",
+        "price": 2021
+      },
+      {
+        "date": "2026-07-13",
+        "price": 2048
+      },
+      {
+        "date": "2026-07-14",
+        "price": 2091
+      },
+      {
+        "date": "2026-07-15",
+        "price": 2110
+      },
+      {
+        "date": "2026-07-16",
+        "price": 2104
+      },
+      {
+        "date": "2026-07-17",
+        "price": 2148
+      },
+      {
+        "date": "2026-07-18",
+        "price": 2197
+      },
+      {
+        "date": "2026-07-19",
+        "price": 2139
+      },
+      {
+        "date": "2026-07-20",
+        "price": 2189
+      },
+      {
+        "date": "2026-07-21",
+        "price": 2223
+      },
+      {
+        "date": "2026-07-22",
+        "price": 2234
+      },
+      {
+        "date": "2026-07-23",
+        "price": 2186
+      },
+      {
+        "date": "2026-07-24",
+        "price": 2130
+      },
+      {
+        "date": "2026-07-25",
+        "price": 2172
+      },
+      {
+        "date": "2026-07-26",
+        "price": 2199
+      },
+      {
+        "date": "2026-07-27",
+        "price": 2233
+      },
+      {
+        "date": "2026-07-28",
+        "price": 2280
+      },
+      {
+        "date": "2026-07-29",
+        "price": 2258
+      },
+      {
+        "date": "2026-07-30",
+        "price": 2312
+      },
+      {
+        "date": "2026-07-31",
+        "price": 2312
+      },
+      {
+        "date": "2026-08-01",
+        "price": 2312
+      },
+      {
+        "date": "2026-08-02",
+        "price": 2286
+      },
+      {
+        "date": "2026-08-03",
+        "price": 2292
+      },
+      {
+        "date": "2026-08-04",
+        "price": 2312
+      },
+      {
+        "date": "2026-08-05",
+        "price": 2281
+      },
+      {
+        "date": "2026-08-06",
+        "price": 2272
+      },
+      {
+        "date": "2026-08-07",
+        "price": 2296
+      },
+      {
+        "date": "2026-08-08",
+        "price": 2265
+      },
+      {
+        "date": "2026-08-09",
+        "price": 2210
+      },
+      {
+        "date": "2026-08-10",
+        "price": 2256
+      },
+      {
+        "date": "2026-08-11",
+        "price": 2278
+      },
+      {
+        "date": "2026-08-12",
+        "price": 2298
+      },
+      {
+        "date": "2026-08-13",
+        "price": 2312
+      },
+      {
+        "date": "2026-08-14",
+        "price": 2312
+      },
+      {
+        "date": "2026-08-15",
+        "price": 2257
+      },
+      {
+        "date": "2026-08-16",
+        "price": 2312
+      },
+      {
+        "date": "2026-08-17",
+        "price": 2262
+      },
+      {
+        "date": "2026-08-18",
+        "price": 2200
+      },
+      {
+        "date": "2026-08-19",
+        "price": 2153
+      },
+      {
+        "date": "2026-08-20",
+        "price": 2178
+      },
+      {
+        "date": "2026-08-21",
+        "price": 2235
+      },
+      {
+        "date": "2026-08-22",
+        "price": 2297
+      },
+      {
+        "date": "2026-08-23",
+        "price": 2312
+      },
+      {
+        "date": "2026-08-24",
+        "price": 2312
+      },
+      {
+        "date": "2026-08-25",
+        "price": 2312
+      },
+      {
+        "date": "2026-08-26",
+        "price": 2312
+      },
+      {
+        "date": "2026-08-27",
+        "price": 2303
+      },
+      {
+        "date": "2026-08-28",
+        "price": 2312
+      },
+      {
+        "date": "2026-08-29",
+        "price": 2257
+      },
+      {
+        "date": "2026-08-30",
+        "price": 2213
+      },
+      {
+        "date": "2026-08-31",
+        "price": 2247
+      },
+      {
+        "date": "2026-09-01",
+        "price": 2282
+      },
+      {
+        "date": "2026-09-02",
+        "price": 2312
+      },
+      {
+        "date": "2026-09-03",
+        "price": 2276
+      },
+      {
+        "date": "2026-09-04",
+        "price": 2312
+      },
+      {
+        "date": "2026-09-05",
+        "price": 2276
+      },
+      {
+        "date": "2026-09-06",
+        "price": 2231
+      },
+      {
+        "date": "2026-09-07",
+        "price": 2254
+      },
+      {
+        "date": "2026-09-08",
+        "price": 2267
+      },
+      {
+        "date": "2026-09-09",
+        "price": 2230
+      },
+      {
+        "date": "2026-09-10",
+        "price": 2210
+      },
+      {
+        "date": "2026-09-11",
+        "price": 2196
+      },
+      {
+        "date": "2026-09-12",
+        "price": 2168
+      },
+      {
+        "date": "2026-09-13",
+        "price": 2227
+      },
+      {
+        "date": "2026-09-14",
+        "price": 2208
+      },
+      {
+        "date": "2026-09-15",
+        "price": 2232
+      },
+      {
+        "date": "2026-09-16",
+        "price": 2214
+      },
+      {
+        "date": "2026-09-17",
+        "price": 2156
+      },
+      {
+        "date": "2026-09-18",
+        "price": 2147
+      },
+      {
+        "date": "2026-09-19",
+        "price": 2150
+      },
+      {
+        "date": "2026-09-20",
+        "price": 2152
+      },
+      {
+        "date": "2026-09-21",
+        "price": 2123
+      },
+      {
+        "date": "2026-09-22",
+        "price": 2097
+      },
+      {
+        "date": "2026-09-23",
+        "price": 2149
+      },
+      {
+        "date": "2026-09-24",
+        "price": 2178
+      },
+      {
+        "date": "2026-09-25",
+        "price": 2217
+      },
+      {
+        "date": "2026-09-26",
+        "price": 2206
+      },
+      {
+        "date": "2026-09-27",
+        "price": 2189
+      },
+      {
+        "date": "2026-09-28",
+        "price": 2180
+      },
+      {
+        "date": "2026-09-29",
+        "price": 2207
+      },
+      {
+        "date": "2026-09-30",
+        "price": 2142
+      },
+      {
+        "date": "2026-10-01",
+        "price": 2181
+      },
+      {
+        "date": "2026-10-02",
+        "price": 1895
+      }
+    ]
   },
-  "priceHistory": [
-    {
-      "date": "2026-07-05",
-      "price": 1987
-    },
-    {
-      "date": "2026-07-06",
-      "price": 2021
-    },
-    {
-      "date": "2026-07-07",
-      "price": 2021
-    },
-    {
-      "date": "2026-07-08",
-      "price": 1970
-    },
-    {
-      "date": "2026-07-09",
-      "price": 2014
-    },
-    {
-      "date": "2026-07-10",
-      "price": 2054
-    },
-    {
-      "date": "2026-07-11",
-      "price": 2076
-    },
-    {
-      "date": "2026-07-12",
-      "price": 2021
-    },
-    {
-      "date": "2026-07-13",
-      "price": 2048
-    },
-    {
-      "date": "2026-07-14",
-      "price": 2091
-    },
-    {
-      "date": "2026-07-15",
-      "price": 2110
-    },
-    {
-      "date": "2026-07-16",
-      "price": 2104
-    },
-    {
-      "date": "2026-07-17",
-      "price": 2148
-    },
-    {
-      "date": "2026-07-18",
-      "price": 2197
-    },
-    {
-      "date": "2026-07-19",
-      "price": 2139
-    },
-    {
-      "date": "2026-07-20",
-      "price": 2189
-    },
-    {
-      "date": "2026-07-21",
-      "price": 2223
-    },
-    {
-      "date": "2026-07-22",
-      "price": 2234
-    },
-    {
-      "date": "2026-07-23",
-      "price": 2186
-    },
-    {
-      "date": "2026-07-24",
-      "price": 2130
-    },
-    {
-      "date": "2026-07-25",
-      "price": 2172
-    },
-    {
-      "date": "2026-07-26",
-      "price": 2199
-    },
-    {
-      "date": "2026-07-27",
-      "price": 2233
-    },
-    {
-      "date": "2026-07-28",
-      "price": 2280
-    },
-    {
-      "date": "2026-07-29",
-      "price": 2258
-    },
-    {
-      "date": "2026-07-30",
-      "price": 2312
-    },
-    {
-      "date": "2026-07-31",
-      "price": 2312
-    },
-    {
-      "date": "2026-08-01",
-      "price": 2312
-    },
-    {
-      "date": "2026-08-02",
-      "price": 2286
-    },
-    {
-      "date": "2026-08-03",
-      "price": 2292
-    },
-    {
-      "date": "2026-08-04",
-      "price": 2312
-    },
-    {
-      "date": "2026-08-05",
-      "price": 2281
-    },
-    {
-      "date": "2026-08-06",
-      "price": 2272
-    },
-    {
-      "date": "2026-08-07",
-      "price": 2296
-    },
-    {
-      "date": "2026-08-08",
-      "price": 2265
-    },
-    {
-      "date": "2026-08-09",
-      "price": 2210
-    },
-    {
-      "date": "2026-08-10",
-      "price": 2256
-    },
-    {
-      "date": "2026-08-11",
-      "price": 2278
-    },
-    {
-      "date": "2026-08-12",
-      "price": 2298
-    },
-    {
-      "date": "2026-08-13",
-      "price": 2312
-    },
-    {
-      "date": "2026-08-14",
-      "price": 2312
-    },
-    {
-      "date": "2026-08-15",
-      "price": 2257
-    },
-    {
-      "date": "2026-08-16",
-      "price": 2312
-    },
-    {
-      "date": "2026-08-17",
-      "price": 2262
-    },
-    {
-      "date": "2026-08-18",
-      "price": 2200
-    },
-    {
-      "date": "2026-08-19",
-      "price": 2153
-    },
-    {
-      "date": "2026-08-20",
-      "price": 2178
-    },
-    {
-      "date": "2026-08-21",
-      "price": 2235
-    },
-    {
-      "date": "2026-08-22",
-      "price": 2297
-    },
-    {
-      "date": "2026-08-23",
-      "price": 2312
-    },
-    {
-      "date": "2026-08-24",
-      "price": 2312
-    },
-    {
-      "date": "2026-08-25",
-      "price": 2312
-    },
-    {
-      "date": "2026-08-26",
-      "price": 2312
-    },
-    {
-      "date": "2026-08-27",
-      "price": 2303
-    },
-    {
-      "date": "2026-08-28",
-      "price": 2312
-    },
-    {
-      "date": "2026-08-29",
-      "price": 2257
-    },
-    {
-      "date": "2026-08-30",
-      "price": 2213
-    },
-    {
-      "date": "2026-08-31",
-      "price": 2247
-    },
-    {
-      "date": "2026-09-01",
-      "price": 2282
-    },
-    {
-      "date": "2026-09-02",
-      "price": 2312
-    },
-    {
-      "date": "2026-09-03",
-      "price": 2276
-    },
-    {
-      "date": "2026-09-04",
-      "price": 2312
-    },
-    {
-      "date": "2026-09-05",
-      "price": 2276
-    },
-    {
-      "date": "2026-09-06",
-      "price": 2231
-    },
-    {
-      "date": "2026-09-07",
-      "price": 2254
-    },
-    {
-      "date": "2026-09-08",
-      "price": 2267
-    },
-    {
-      "date": "2026-09-09",
-      "price": 2230
-    },
-    {
-      "date": "2026-09-10",
-      "price": 2210
-    },
-    {
-      "date": "2026-09-11",
-      "price": 2196
-    },
-    {
-      "date": "2026-09-12",
-      "price": 2168
-    },
-    {
-      "date": "2026-09-13",
-      "price": 2227
-    },
-    {
-      "date": "2026-09-14",
-      "price": 2208
-    },
-    {
-      "date": "2026-09-15",
-      "price": 2232
-    },
-    {
-      "date": "2026-09-16",
-      "price": 2214
-    },
-    {
-      "date": "2026-09-17",
-      "price": 2156
-    },
-    {
-      "date": "2026-09-18",
-      "price": 2147
-    },
-    {
-      "date": "2026-09-19",
-      "price": 2150
-    },
-    {
-      "date": "2026-09-20",
-      "price": 2152
-    },
-    {
-      "date": "2026-09-21",
-      "price": 2123
-    },
-    {
-      "date": "2026-09-22",
-      "price": 2097
-    },
-    {
-      "date": "2026-09-23",
-      "price": 2149
-    },
-    {
-      "date": "2026-09-24",
-      "price": 2178
-    },
-    {
-      "date": "2026-09-25",
-      "price": 2217
-    },
-    {
-      "date": "2026-09-26",
-      "price": 2206
-    },
-    {
-      "date": "2026-09-27",
-      "price": 2189
-    },
-    {
-      "date": "2026-09-28",
-      "price": 2180
-    },
-    {
-      "date": "2026-09-29",
-      "price": 2207
-    },
-    {
-      "date": "2026-09-30",
-      "price": 2142
-    },
-    {
-      "date": "2026-10-01",
-      "price": 2181
-    },
-    {
-      "date": "2026-10-02",
-      "price": 1895
-    }
-  ]
-},
-{
-  "id": "hom-15",
-  "slug": "morphy-richards-europa-espresso-coffee-maker",
-  "title": "Morphy Richards Europa 800W Espresso & Cappuccino Coffee Maker with Milk Frother",
-  "brand": "Morphy Richards",
-  "category": "Home & Kitchen",
-  "price": 4699,
-  "mrp": 7495,
-  "rating": 4.2,
-  "reviewCount": 8400,
-  "images": [
+  {
+    "id": "hom-15",
+    "slug": "morphy-richards-europa-espresso-coffee-maker",
+    "title": "Morphy Richards Europa 800W Espresso & Cappuccino Coffee Maker with Milk Frother",
+    "brand": "Morphy Richards",
+    "category": "Home & Kitchen",
+    "price": 4699,
+    "mrp": 7495,
+    "rating": 4.2,
+    "reviewCount": 8400,
+    "images": [
       "/products/hom-15.jpg"
     ],
-  "bullets": [
-    "Makes 4 cups of rich, aromatic espresso with convenient steam pressure brewing",
-    "Turbo cappuccino steam wand produces velvety micro-foam for lattes and cappuccinos",
-    "Removable drip tray with stainless steel grid for effortless countertop cleaning",
-    "Heat-resistant glass carafe with clear water level markings and ergonomic handle",
-    "Attractive matte black and silver aesthetic fits stylish modern coffee corners"
-  ],
-  "description": "Brew barista-quality espresso, creamy cappuccinos, and rich lattes in the comfort of your kitchen with the Morphy Richards Europa.",
-  "stock": 20,
-  "deliveryDays": 2,
-  "tags": [
-    "home-kitchen",
-    "coffee",
-    "espresso",
-    "cappuccino",
-    "coffee maker",
-    "frother",
-    "appliances"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "Produces rich espresso and authentic frothy cappuccino foam at home",
-      "Great entry-level price for aspiring home baristas",
-      "Compact footprint fits snug on kitchen countertops"
+    "bullets": [
+      "Makes 4 cups of rich, aromatic espresso with convenient steam pressure brewing",
+      "Turbo cappuccino steam wand produces velvety micro-foam for lattes and cappuccinos",
+      "Removable drip tray with stainless steel grid for effortless countertop cleaning",
+      "Heat-resistant glass carafe with clear water level markings and ergonomic handle",
+      "Attractive matte black and silver aesthetic fits stylish modern coffee corners"
     ],
-    "cons": [
-      "Steam pressure requires cool-down time before brewing a second batch",
-      "Steam nozzle needs immediate wipe-down to prevent milk drying"
+    "description": "Brew barista-quality espresso, creamy cappuccinos, and rich lattes in the comfort of your kitchen with the Morphy Richards Europa.",
+    "stock": 20,
+    "deliveryDays": 2,
+    "tags": [
+      "home-kitchen",
+      "coffee",
+      "espresso",
+      "cappuccino",
+      "coffee maker",
+      "frother",
+      "appliances"
     ],
-    "verdict": "The best affordable home espresso machine for upgrading your morning cappuccino ritual.",
-    "sentiment": {
-      "positive": 83,
-      "neutral": 11,
-      "negative": 6
-    }
+    "reviewSummary": {
+      "pros": [
+        "Produces rich espresso and authentic frothy cappuccino foam at home",
+        "Great entry-level price for aspiring home baristas",
+        "Compact footprint fits snug on kitchen countertops"
+      ],
+      "cons": [
+        "Steam pressure requires cool-down time before brewing a second batch",
+        "Steam nozzle needs immediate wipe-down to prevent milk drying"
+      ],
+      "verdict": "The best affordable home espresso machine for upgrading your morning cappuccino ritual.",
+      "sentiment": {
+        "positive": 83,
+        "neutral": 11,
+        "negative": 6
+      }
+    },
+    "priceHistory": [
+      {
+        "date": "2026-07-05",
+        "price": 5063
+      },
+      {
+        "date": "2026-07-06",
+        "price": 5113
+      },
+      {
+        "date": "2026-07-07",
+        "price": 5036
+      },
+      {
+        "date": "2026-07-08",
+        "price": 4887
+      },
+      {
+        "date": "2026-07-09",
+        "price": 5022
+      },
+      {
+        "date": "2026-07-10",
+        "price": 5128
+      },
+      {
+        "date": "2026-07-11",
+        "price": 5015
+      },
+      {
+        "date": "2026-07-12",
+        "price": 4936
+      },
+      {
+        "date": "2026-07-13",
+        "price": 4889
+      },
+      {
+        "date": "2026-07-14",
+        "price": 4750
+      },
+      {
+        "date": "2026-07-15",
+        "price": 4860
+      },
+      {
+        "date": "2026-07-16",
+        "price": 4915
+      },
+      {
+        "date": "2026-07-17",
+        "price": 4961
+      },
+      {
+        "date": "2026-07-18",
+        "price": 5065
+      },
+      {
+        "date": "2026-07-19",
+        "price": 4967
+      },
+      {
+        "date": "2026-07-20",
+        "price": 4979
+      },
+      {
+        "date": "2026-07-21",
+        "price": 4940
+      },
+      {
+        "date": "2026-07-22",
+        "price": 4939
+      },
+      {
+        "date": "2026-07-23",
+        "price": 4941
+      },
+      {
+        "date": "2026-07-24",
+        "price": 4837
+      },
+      {
+        "date": "2026-07-25",
+        "price": 4979
+      },
+      {
+        "date": "2026-07-26",
+        "price": 5064
+      },
+      {
+        "date": "2026-07-27",
+        "price": 5159
+      },
+      {
+        "date": "2026-07-28",
+        "price": 5170
+      },
+      {
+        "date": "2026-07-29",
+        "price": 5153
+      },
+      {
+        "date": "2026-07-30",
+        "price": 5000
+      },
+      {
+        "date": "2026-07-31",
+        "price": 4941
+      },
+      {
+        "date": "2026-08-01",
+        "price": 4807
+      },
+      {
+        "date": "2026-08-02",
+        "price": 4938
+      },
+      {
+        "date": "2026-08-03",
+        "price": 5060
+      },
+      {
+        "date": "2026-08-04",
+        "price": 4917
+      },
+      {
+        "date": "2026-08-05",
+        "price": 4889
+      },
+      {
+        "date": "2026-08-06",
+        "price": 4873
+      },
+      {
+        "date": "2026-08-07",
+        "price": 4834
+      },
+      {
+        "date": "2026-08-08",
+        "price": 4839
+      },
+      {
+        "date": "2026-08-09",
+        "price": 4703
+      },
+      {
+        "date": "2026-08-10",
+        "price": 4578
+      },
+      {
+        "date": "2026-08-11",
+        "price": 4616
+      },
+      {
+        "date": "2026-08-12",
+        "price": 4624
+      },
+      {
+        "date": "2026-08-13",
+        "price": 4669
+      },
+      {
+        "date": "2026-08-14",
+        "price": 4730
+      },
+      {
+        "date": "2026-08-15",
+        "price": 4831
+      },
+      {
+        "date": "2026-08-16",
+        "price": 4969
+      },
+      {
+        "date": "2026-08-17",
+        "price": 4902
+      },
+      {
+        "date": "2026-08-18",
+        "price": 4783
+      },
+      {
+        "date": "2026-08-19",
+        "price": 4911
+      },
+      {
+        "date": "2026-08-20",
+        "price": 4869
+      },
+      {
+        "date": "2026-08-21",
+        "price": 4766
+      },
+      {
+        "date": "2026-08-22",
+        "price": 4637
+      },
+      {
+        "date": "2026-08-23",
+        "price": 4740
+      },
+      {
+        "date": "2026-08-24",
+        "price": 4610
+      },
+      {
+        "date": "2026-08-25",
+        "price": 4533
+      },
+      {
+        "date": "2026-08-26",
+        "price": 4513
+      },
+      {
+        "date": "2026-08-27",
+        "price": 4581
+      },
+      {
+        "date": "2026-08-28",
+        "price": 4669
+      },
+      {
+        "date": "2026-08-29",
+        "price": 4801
+      },
+      {
+        "date": "2026-08-30",
+        "price": 4660
+      },
+      {
+        "date": "2026-08-31",
+        "price": 4702
+      },
+      {
+        "date": "2026-09-01",
+        "price": 4619
+      },
+      {
+        "date": "2026-09-02",
+        "price": 4549
+      },
+      {
+        "date": "2026-09-03",
+        "price": 4597
+      },
+      {
+        "date": "2026-09-04",
+        "price": 4656
+      },
+      {
+        "date": "2026-09-05",
+        "price": 4596
+      },
+      {
+        "date": "2026-09-06",
+        "price": 4718
+      },
+      {
+        "date": "2026-09-07",
+        "price": 4685
+      },
+      {
+        "date": "2026-09-08",
+        "price": 4642
+      },
+      {
+        "date": "2026-09-09",
+        "price": 4503
+      },
+      {
+        "date": "2026-09-10",
+        "price": 4378
+      },
+      {
+        "date": "2026-09-11",
+        "price": 4396
+      },
+      {
+        "date": "2026-09-12",
+        "price": 4449
+      },
+      {
+        "date": "2026-09-13",
+        "price": 4319
+      },
+      {
+        "date": "2026-09-14",
+        "price": 4325
+      },
+      {
+        "date": "2026-09-15",
+        "price": 4339
+      },
+      {
+        "date": "2026-09-16",
+        "price": 4442
+      },
+      {
+        "date": "2026-09-17",
+        "price": 4511
+      },
+      {
+        "date": "2026-09-18",
+        "price": 4622
+      },
+      {
+        "date": "2026-09-19",
+        "price": 4591
+      },
+      {
+        "date": "2026-09-20",
+        "price": 4706
+      },
+      {
+        "date": "2026-09-21",
+        "price": 4713
+      },
+      {
+        "date": "2026-09-22",
+        "price": 4589
+      },
+      {
+        "date": "2026-09-23",
+        "price": 4705
+      },
+      {
+        "date": "2026-09-24",
+        "price": 4692
+      },
+      {
+        "date": "2026-09-25",
+        "price": 4647
+      },
+      {
+        "date": "2026-09-26",
+        "price": 4528
+      },
+      {
+        "date": "2026-09-27",
+        "price": 4602
+      },
+      {
+        "date": "2026-09-28",
+        "price": 4643
+      },
+      {
+        "date": "2026-09-29",
+        "price": 4774
+      },
+      {
+        "date": "2026-09-30",
+        "price": 4680
+      },
+      {
+        "date": "2026-10-01",
+        "price": 4751
+      },
+      {
+        "date": "2026-10-02",
+        "price": 4699
+      }
+    ]
   },
-  "priceHistory": [
-    {
-      "date": "2026-07-05",
-      "price": 5063
-    },
-    {
-      "date": "2026-07-06",
-      "price": 5113
-    },
-    {
-      "date": "2026-07-07",
-      "price": 5036
-    },
-    {
-      "date": "2026-07-08",
-      "price": 4887
-    },
-    {
-      "date": "2026-07-09",
-      "price": 5022
-    },
-    {
-      "date": "2026-07-10",
-      "price": 5128
-    },
-    {
-      "date": "2026-07-11",
-      "price": 5015
-    },
-    {
-      "date": "2026-07-12",
-      "price": 4936
-    },
-    {
-      "date": "2026-07-13",
-      "price": 4889
-    },
-    {
-      "date": "2026-07-14",
-      "price": 4750
-    },
-    {
-      "date": "2026-07-15",
-      "price": 4860
-    },
-    {
-      "date": "2026-07-16",
-      "price": 4915
-    },
-    {
-      "date": "2026-07-17",
-      "price": 4961
-    },
-    {
-      "date": "2026-07-18",
-      "price": 5065
-    },
-    {
-      "date": "2026-07-19",
-      "price": 4967
-    },
-    {
-      "date": "2026-07-20",
-      "price": 4979
-    },
-    {
-      "date": "2026-07-21",
-      "price": 4940
-    },
-    {
-      "date": "2026-07-22",
-      "price": 4939
-    },
-    {
-      "date": "2026-07-23",
-      "price": 4941
-    },
-    {
-      "date": "2026-07-24",
-      "price": 4837
-    },
-    {
-      "date": "2026-07-25",
-      "price": 4979
-    },
-    {
-      "date": "2026-07-26",
-      "price": 5064
-    },
-    {
-      "date": "2026-07-27",
-      "price": 5159
-    },
-    {
-      "date": "2026-07-28",
-      "price": 5170
-    },
-    {
-      "date": "2026-07-29",
-      "price": 5153
-    },
-    {
-      "date": "2026-07-30",
-      "price": 5000
-    },
-    {
-      "date": "2026-07-31",
-      "price": 4941
-    },
-    {
-      "date": "2026-08-01",
-      "price": 4807
-    },
-    {
-      "date": "2026-08-02",
-      "price": 4938
-    },
-    {
-      "date": "2026-08-03",
-      "price": 5060
-    },
-    {
-      "date": "2026-08-04",
-      "price": 4917
-    },
-    {
-      "date": "2026-08-05",
-      "price": 4889
-    },
-    {
-      "date": "2026-08-06",
-      "price": 4873
-    },
-    {
-      "date": "2026-08-07",
-      "price": 4834
-    },
-    {
-      "date": "2026-08-08",
-      "price": 4839
-    },
-    {
-      "date": "2026-08-09",
-      "price": 4703
-    },
-    {
-      "date": "2026-08-10",
-      "price": 4578
-    },
-    {
-      "date": "2026-08-11",
-      "price": 4616
-    },
-    {
-      "date": "2026-08-12",
-      "price": 4624
-    },
-    {
-      "date": "2026-08-13",
-      "price": 4669
-    },
-    {
-      "date": "2026-08-14",
-      "price": 4730
-    },
-    {
-      "date": "2026-08-15",
-      "price": 4831
-    },
-    {
-      "date": "2026-08-16",
-      "price": 4969
-    },
-    {
-      "date": "2026-08-17",
-      "price": 4902
-    },
-    {
-      "date": "2026-08-18",
-      "price": 4783
-    },
-    {
-      "date": "2026-08-19",
-      "price": 4911
-    },
-    {
-      "date": "2026-08-20",
-      "price": 4869
-    },
-    {
-      "date": "2026-08-21",
-      "price": 4766
-    },
-    {
-      "date": "2026-08-22",
-      "price": 4637
-    },
-    {
-      "date": "2026-08-23",
-      "price": 4740
-    },
-    {
-      "date": "2026-08-24",
-      "price": 4610
-    },
-    {
-      "date": "2026-08-25",
-      "price": 4533
-    },
-    {
-      "date": "2026-08-26",
-      "price": 4513
-    },
-    {
-      "date": "2026-08-27",
-      "price": 4581
-    },
-    {
-      "date": "2026-08-28",
-      "price": 4669
-    },
-    {
-      "date": "2026-08-29",
-      "price": 4801
-    },
-    {
-      "date": "2026-08-30",
-      "price": 4660
-    },
-    {
-      "date": "2026-08-31",
-      "price": 4702
-    },
-    {
-      "date": "2026-09-01",
-      "price": 4619
-    },
-    {
-      "date": "2026-09-02",
-      "price": 4549
-    },
-    {
-      "date": "2026-09-03",
-      "price": 4597
-    },
-    {
-      "date": "2026-09-04",
-      "price": 4656
-    },
-    {
-      "date": "2026-09-05",
-      "price": 4596
-    },
-    {
-      "date": "2026-09-06",
-      "price": 4718
-    },
-    {
-      "date": "2026-09-07",
-      "price": 4685
-    },
-    {
-      "date": "2026-09-08",
-      "price": 4642
-    },
-    {
-      "date": "2026-09-09",
-      "price": 4503
-    },
-    {
-      "date": "2026-09-10",
-      "price": 4378
-    },
-    {
-      "date": "2026-09-11",
-      "price": 4396
-    },
-    {
-      "date": "2026-09-12",
-      "price": 4449
-    },
-    {
-      "date": "2026-09-13",
-      "price": 4319
-    },
-    {
-      "date": "2026-09-14",
-      "price": 4325
-    },
-    {
-      "date": "2026-09-15",
-      "price": 4339
-    },
-    {
-      "date": "2026-09-16",
-      "price": 4442
-    },
-    {
-      "date": "2026-09-17",
-      "price": 4511
-    },
-    {
-      "date": "2026-09-18",
-      "price": 4622
-    },
-    {
-      "date": "2026-09-19",
-      "price": 4591
-    },
-    {
-      "date": "2026-09-20",
-      "price": 4706
-    },
-    {
-      "date": "2026-09-21",
-      "price": 4713
-    },
-    {
-      "date": "2026-09-22",
-      "price": 4589
-    },
-    {
-      "date": "2026-09-23",
-      "price": 4705
-    },
-    {
-      "date": "2026-09-24",
-      "price": 4692
-    },
-    {
-      "date": "2026-09-25",
-      "price": 4647
-    },
-    {
-      "date": "2026-09-26",
-      "price": 4528
-    },
-    {
-      "date": "2026-09-27",
-      "price": 4602
-    },
-    {
-      "date": "2026-09-28",
-      "price": 4643
-    },
-    {
-      "date": "2026-09-29",
-      "price": 4774
-    },
-    {
-      "date": "2026-09-30",
-      "price": 4680
-    },
-    {
-      "date": "2026-10-01",
-      "price": 4751
-    },
-    {
-      "date": "2026-10-02",
-      "price": 4699
-    }
-  ]
-},
-{
-  "id": "hom-16",
-  "slug": "prestige-deluxe-alpha-stainless-steel-pressure-cooker-3l",
-  "title": "Prestige Deluxe Alpha Stainless Steel Pressure Cooker (3 Litre, Induction & Gas)",
-  "brand": "Prestige",
-  "category": "Home & Kitchen",
-  "price": 2150,
-  "mrp": 2820,
-  "rating": 4.5,
-  "reviewCount": 24600,
-  "images": [
-    "/products/hom-05.jpg"
-  ],
-  "bullets": [
-    "Alpha base with heavy-gauge aluminum sandwiched between two layers of stainless steel",
-    "Induction and gas stove compatible base for maximum kitchen versatility",
-    "Controlled Gasket Release System (CGRS) and pressure indicator safety mechanism",
-    "High-grade 304 stainless steel resists pitting, discoloration, and corrosion",
-    "Durable double-screw Bakelite handles offer sturdy, heat-insulated grip"
-  ],
-  "description": "The Prestige Deluxe Alpha 3-litre pressure cooker offers high safety standards, induction versatility, and heavy-gauge stainless steel longevity.",
-  "stock": 35,
-  "deliveryDays": 1,
-  "tags": [
-    "home-kitchen",
-    "pressure cooker",
-    "prestige",
-    "cookware",
-    "stainless steel",
-    "induction",
-    "cooking"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "Heavy-duty Alpha base distributes heat evenly without burning dal or rice",
-      "Compatible with both gas and modern induction cooktops",
-      "High safety standard with controlled gasket release system"
+  {
+    "id": "fas-29",
+    "slug": "allen-solly-mens-cotton-formal-shirt-white",
+    "title": "Allen Solly Men's Regular Fit Cotton Formal Plain Shirt (Royal Blue)",
+    "brand": "Allen Solly",
+    "category": "Fashion",
+    "price": 1099,
+    "mrp": 1899,
+    "rating": 4.3,
+    "reviewCount": 8400,
+    "images": [
+      "/products/fas-18.jpg"
     ],
-    "cons": [
-      "Heavier than standard aluminum cookers",
-      "Requires occasional gasket replacement every couple of years"
+    "bullets": [
+      "100% premium breathable combed cotton fabric keeps you comfortable all day long",
+      "Crisp spread collar with reinforced interlining that maintains structure with or without tie",
+      "Classic regular fit with curved hemline perfect for tucking into formal trousers",
+      "Single chest pocket with tonal embroidered Allen Solly signature stag emblem",
+      "Machine washable with easy-iron wrinkle-resistant finish"
     ],
-    "verdict": "The gold standard stainless steel pressure cooker for healthy, hygienic Indian everyday cooking.",
-    "sentiment": {
-      "positive": 90,
-      "neutral": 7,
-      "negative": 3
-    }
+    "description": "A workplace wardrobe essential, this Allen Solly white formal shirt delivers sharp tailoring, breathable comfort, and timeless elegance.",
+    "stock": 45,
+    "deliveryDays": 2,
+    "tags": [
+      "fashion",
+      "shirt",
+      "formal",
+      "men",
+      "cotton",
+      "white shirt",
+      "allen solly",
+      "office wear"
+    ],
+    "reviewSummary": {
+      "pros": [
+        "Premium 100% cotton fabric feels soft and breathes well in hot office commutes",
+        "Crisp collar maintains shape after multiple laundry washes",
+        "Versatile cut pairs equally well with suit blazers or chinos"
+      ],
+      "cons": [
+        "Pure white requires careful separate laundering",
+        "Sleeves run slightly long for shorter builds"
+      ],
+      "verdict": "The quintessential white formal shirt every professional man needs in his weekly wardrobe rotation.",
+      "sentiment": {
+        "positive": 87,
+        "neutral": 9,
+        "negative": 4
+      }
+    },
+    "priceHistory": [
+      {
+        "date": "2026-07-05",
+        "price": 1189
+      },
+      {
+        "date": "2026-07-06",
+        "price": 1175
+      },
+      {
+        "date": "2026-07-07",
+        "price": 1199
+      },
+      {
+        "date": "2026-07-08",
+        "price": 1192
+      },
+      {
+        "date": "2026-07-09",
+        "price": 1188
+      },
+      {
+        "date": "2026-07-10",
+        "price": 1201
+      },
+      {
+        "date": "2026-07-11",
+        "price": 1173
+      },
+      {
+        "date": "2026-07-12",
+        "price": 1167
+      },
+      {
+        "date": "2026-07-13",
+        "price": 1168
+      },
+      {
+        "date": "2026-07-14",
+        "price": 1181
+      },
+      {
+        "date": "2026-07-15",
+        "price": 1193
+      },
+      {
+        "date": "2026-07-16",
+        "price": 1196
+      },
+      {
+        "date": "2026-07-17",
+        "price": 1230
+      },
+      {
+        "date": "2026-07-18",
+        "price": 1264
+      },
+      {
+        "date": "2026-07-19",
+        "price": 1270
+      },
+      {
+        "date": "2026-07-20",
+        "price": 1238
+      },
+      {
+        "date": "2026-07-21",
+        "price": 1271
+      },
+      {
+        "date": "2026-07-22",
+        "price": 1308
+      },
+      {
+        "date": "2026-07-23",
+        "price": 1274
+      },
+      {
+        "date": "2026-07-24",
+        "price": 1281
+      },
+      {
+        "date": "2026-07-25",
+        "price": 1304
+      },
+      {
+        "date": "2026-07-26",
+        "price": 1312
+      },
+      {
+        "date": "2026-07-27",
+        "price": 1316
+      },
+      {
+        "date": "2026-07-28",
+        "price": 1341
+      },
+      {
+        "date": "2026-07-29",
+        "price": 1331
+      },
+      {
+        "date": "2026-07-30",
+        "price": 1341
+      },
+      {
+        "date": "2026-07-31",
+        "price": 1323
+      },
+      {
+        "date": "2026-08-01",
+        "price": 1335
+      },
+      {
+        "date": "2026-08-02",
+        "price": 1308
+      },
+      {
+        "date": "2026-08-03",
+        "price": 1304
+      },
+      {
+        "date": "2026-08-04",
+        "price": 1319
+      },
+      {
+        "date": "2026-08-05",
+        "price": 1335
+      },
+      {
+        "date": "2026-08-06",
+        "price": 1313
+      },
+      {
+        "date": "2026-08-07",
+        "price": 1341
+      },
+      {
+        "date": "2026-08-08",
+        "price": 1341
+      },
+      {
+        "date": "2026-08-09",
+        "price": 1305
+      },
+      {
+        "date": "2026-08-10",
+        "price": 1283
+      },
+      {
+        "date": "2026-08-11",
+        "price": 1257
+      },
+      {
+        "date": "2026-08-12",
+        "price": 1278
+      },
+      {
+        "date": "2026-08-13",
+        "price": 1308
+      },
+      {
+        "date": "2026-08-14",
+        "price": 1289
+      },
+      {
+        "date": "2026-08-15",
+        "price": 1267
+      },
+      {
+        "date": "2026-08-16",
+        "price": 1292
+      },
+      {
+        "date": "2026-08-17",
+        "price": 1268
+      },
+      {
+        "date": "2026-08-18",
+        "price": 1304
+      },
+      {
+        "date": "2026-08-19",
+        "price": 1321
+      },
+      {
+        "date": "2026-08-20",
+        "price": 1308
+      },
+      {
+        "date": "2026-08-21",
+        "price": 1310
+      },
+      {
+        "date": "2026-08-22",
+        "price": 1333
+      },
+      {
+        "date": "2026-08-23",
+        "price": 1294
+      },
+      {
+        "date": "2026-08-24",
+        "price": 1330
+      },
+      {
+        "date": "2026-08-25",
+        "price": 1341
+      },
+      {
+        "date": "2026-08-26",
+        "price": 1309
+      },
+      {
+        "date": "2026-08-27",
+        "price": 1327
+      },
+      {
+        "date": "2026-08-28",
+        "price": 1341
+      },
+      {
+        "date": "2026-08-29",
+        "price": 1341
+      },
+      {
+        "date": "2026-08-30",
+        "price": 1341
+      },
+      {
+        "date": "2026-08-31",
+        "price": 1339
+      },
+      {
+        "date": "2026-09-01",
+        "price": 1306
+      },
+      {
+        "date": "2026-09-02",
+        "price": 1339
+      },
+      {
+        "date": "2026-09-03",
+        "price": 1341
+      },
+      {
+        "date": "2026-09-04",
+        "price": 1341
+      },
+      {
+        "date": "2026-09-05",
+        "price": 1330
+      },
+      {
+        "date": "2026-09-06",
+        "price": 1294
+      },
+      {
+        "date": "2026-09-07",
+        "price": 1318
+      },
+      {
+        "date": "2026-09-08",
+        "price": 1317
+      },
+      {
+        "date": "2026-09-09",
+        "price": 1319
+      },
+      {
+        "date": "2026-09-10",
+        "price": 1341
+      },
+      {
+        "date": "2026-09-11",
+        "price": 1341
+      },
+      {
+        "date": "2026-09-12",
+        "price": 1341
+      },
+      {
+        "date": "2026-09-13",
+        "price": 1337
+      },
+      {
+        "date": "2026-09-14",
+        "price": 1309
+      },
+      {
+        "date": "2026-09-15",
+        "price": 1341
+      },
+      {
+        "date": "2026-09-16",
+        "price": 1319
+      },
+      {
+        "date": "2026-09-17",
+        "price": 1341
+      },
+      {
+        "date": "2026-09-18",
+        "price": 1341
+      },
+      {
+        "date": "2026-09-19",
+        "price": 1304
+      },
+      {
+        "date": "2026-09-20",
+        "price": 1301
+      },
+      {
+        "date": "2026-09-21",
+        "price": 1334
+      },
+      {
+        "date": "2026-09-22",
+        "price": 1341
+      },
+      {
+        "date": "2026-09-23",
+        "price": 1341
+      },
+      {
+        "date": "2026-09-24",
+        "price": 1340
+      },
+      {
+        "date": "2026-09-25",
+        "price": 1341
+      },
+      {
+        "date": "2026-09-26",
+        "price": 1333
+      },
+      {
+        "date": "2026-09-27",
+        "price": 1334
+      },
+      {
+        "date": "2026-09-28",
+        "price": 1322
+      },
+      {
+        "date": "2026-09-29",
+        "price": 1293
+      },
+      {
+        "date": "2026-09-30",
+        "price": 1272
+      },
+      {
+        "date": "2026-10-01",
+        "price": 1266
+      },
+      {
+        "date": "2026-10-02",
+        "price": 1099
+      }
+    ]
   },
-  "priceHistory": [
-    {
-      "date": "2026-07-05",
-      "price": 2291
-    },
-    {
-      "date": "2026-07-06",
-      "price": 2320
-    },
-    {
-      "date": "2026-07-07",
-      "price": 2346
-    },
-    {
-      "date": "2026-07-08",
-      "price": 2322
-    },
-    {
-      "date": "2026-07-09",
-      "price": 2285
-    },
-    {
-      "date": "2026-07-10",
-      "price": 2250
-    },
-    {
-      "date": "2026-07-11",
-      "price": 2307
-    },
-    {
-      "date": "2026-07-12",
-      "price": 2288
-    },
-    {
-      "date": "2026-07-13",
-      "price": 2260
-    },
-    {
-      "date": "2026-07-14",
-      "price": 2232
-    },
-    {
-      "date": "2026-07-15",
-      "price": 2298
-    },
-    {
-      "date": "2026-07-16",
-      "price": 2359
-    },
-    {
-      "date": "2026-07-17",
-      "price": 2353
-    },
-    {
-      "date": "2026-07-18",
-      "price": 2346
-    },
-    {
-      "date": "2026-07-19",
-      "price": 2298
-    },
-    {
-      "date": "2026-07-20",
-      "price": 2300
-    },
-    {
-      "date": "2026-07-21",
-      "price": 2367
-    },
-    {
-      "date": "2026-07-22",
-      "price": 2319
-    },
-    {
-      "date": "2026-07-23",
-      "price": 2349
-    },
-    {
-      "date": "2026-07-24",
-      "price": 2367
-    },
-    {
-      "date": "2026-07-25",
-      "price": 2350
-    },
-    {
-      "date": "2026-07-26",
-      "price": 2347
-    },
-    {
-      "date": "2026-07-27",
-      "price": 2334
-    },
-    {
-      "date": "2026-07-28",
-      "price": 2311
-    },
-    {
-      "date": "2026-07-29",
-      "price": 2247
-    },
-    {
-      "date": "2026-07-30",
-      "price": 2212
-    },
-    {
-      "date": "2026-07-31",
-      "price": 2233
-    },
-    {
-      "date": "2026-08-01",
-      "price": 2247
-    },
-    {
-      "date": "2026-08-02",
-      "price": 2289
-    },
-    {
-      "date": "2026-08-03",
-      "price": 2235
-    },
-    {
-      "date": "2026-08-04",
-      "price": 2246
-    },
-    {
-      "date": "2026-08-05",
-      "price": 2242
-    },
-    {
-      "date": "2026-08-06",
-      "price": 2261
-    },
-    {
-      "date": "2026-08-07",
-      "price": 2269
-    },
-    {
-      "date": "2026-08-08",
-      "price": 2232
-    },
-    {
-      "date": "2026-08-09",
-      "price": 2296
-    },
-    {
-      "date": "2026-08-10",
-      "price": 2345
-    },
-    {
-      "date": "2026-08-11",
-      "price": 2380
-    },
-    {
-      "date": "2026-08-12",
-      "price": 2383
-    },
-    {
-      "date": "2026-08-13",
-      "price": 2429
-    },
-    {
-      "date": "2026-08-14",
-      "price": 2429
-    },
-    {
-      "date": "2026-08-15",
-      "price": 2465
-    },
-    {
-      "date": "2026-08-16",
-      "price": 2511
-    },
-    {
-      "date": "2026-08-17",
-      "price": 2447
-    },
-    {
-      "date": "2026-08-18",
-      "price": 2387
-    },
-    {
-      "date": "2026-08-19",
-      "price": 2321
-    },
-    {
-      "date": "2026-08-20",
-      "price": 2364
-    },
-    {
-      "date": "2026-08-21",
-      "price": 2352
-    },
-    {
-      "date": "2026-08-22",
-      "price": 2370
-    },
-    {
-      "date": "2026-08-23",
-      "price": 2425
-    },
-    {
-      "date": "2026-08-24",
-      "price": 2482
-    },
-    {
-      "date": "2026-08-25",
-      "price": 2483
-    },
-    {
-      "date": "2026-08-26",
-      "price": 2519
-    },
-    {
-      "date": "2026-08-27",
-      "price": 2446
-    },
-    {
-      "date": "2026-08-28",
-      "price": 2512
-    },
-    {
-      "date": "2026-08-29",
-      "price": 2483
-    },
-    {
-      "date": "2026-08-30",
-      "price": 2432
-    },
-    {
-      "date": "2026-08-31",
-      "price": 2429
-    },
-    {
-      "date": "2026-09-01",
-      "price": 2469
-    },
-    {
-      "date": "2026-09-02",
-      "price": 2418
-    },
-    {
-      "date": "2026-09-03",
-      "price": 2476
-    },
-    {
-      "date": "2026-09-04",
-      "price": 2446
-    },
-    {
-      "date": "2026-09-05",
-      "price": 2392
-    },
-    {
-      "date": "2026-09-06",
-      "price": 2335
-    },
-    {
-      "date": "2026-09-07",
-      "price": 2403
-    },
-    {
-      "date": "2026-09-08",
-      "price": 2377
-    },
-    {
-      "date": "2026-09-09",
-      "price": 2311
-    },
-    {
-      "date": "2026-09-10",
-      "price": 2256
-    },
-    {
-      "date": "2026-09-11",
-      "price": 2316
-    },
-    {
-      "date": "2026-09-12",
-      "price": 2320
-    },
-    {
-      "date": "2026-09-13",
-      "price": 2256
-    },
-    {
-      "date": "2026-09-14",
-      "price": 2296
-    },
-    {
-      "date": "2026-09-15",
-      "price": 2359
-    },
-    {
-      "date": "2026-09-16",
-      "price": 2417
-    },
-    {
-      "date": "2026-09-17",
-      "price": 2405
-    },
-    {
-      "date": "2026-09-18",
-      "price": 2397
-    },
-    {
-      "date": "2026-09-19",
-      "price": 2405
-    },
-    {
-      "date": "2026-09-20",
-      "price": 2440
-    },
-    {
-      "date": "2026-09-21",
-      "price": 2380
-    },
-    {
-      "date": "2026-09-22",
-      "price": 2417
-    },
-    {
-      "date": "2026-09-23",
-      "price": 2364
-    },
-    {
-      "date": "2026-09-24",
-      "price": 2311
-    },
-    {
-      "date": "2026-09-25",
-      "price": 2373
-    },
-    {
-      "date": "2026-09-26",
-      "price": 2378
-    },
-    {
-      "date": "2026-09-27",
-      "price": 2309
-    },
-    {
-      "date": "2026-09-28",
-      "price": 2332
-    },
-    {
-      "date": "2026-09-29",
-      "price": 2278
-    },
-    {
-      "date": "2026-09-30",
-      "price": 2288
-    },
-    {
-      "date": "2026-10-01",
-      "price": 2333
-    },
-    {
-      "date": "2026-10-02",
-      "price": 2150
-    }
-  ]
-},
-{
-  "id": "hom-17",
-  "slug": "pigeon-non-stick-3-piece-cookware-set",
-  "title": "Pigeon by Stovekraft Non-Stick 3-Piece Cookware Set (Kadai, Tawa, Fry Pan with Glass Lid)",
-  "brand": "Pigeon",
-  "category": "Home & Kitchen",
-  "price": 1399,
-  "mrp": 2495,
-  "rating": 4.1,
-  "reviewCount": 19800,
-  "images": [
-    "/products/hom-07.jpg"
-  ],
-  "bullets": [
-    "Complete 3-piece set includes 240mm Flat Dosa Tawa, 240mm Fry Pan, and 240mm Kadai with Glass Lid",
-    "5-layer toxic-free PFOA-free non-stick coating for oil-free healthy cooking",
-    "Spiral induction and gas compatible base ensures uniform heat transmission",
-    "Ergonomic stay-cool soft-touch Bakelite handles provide safe and effortless handling",
-    "Metal spoon friendly and dishwasher safe for low-maintenance kitchen cleanup"
-  ],
-  "description": "Upgrade your cookware essentials with Pigeon's 3-piece induction base set featuring durable 5-layer non-stick coating and ergonomic handles.",
-  "stock": 45,
-  "deliveryDays": 2,
-  "tags": [
-    "home-kitchen",
-    "cookware",
-    "non-stick",
-    "tawa",
-    "kadai",
-    "fry pan",
-    "pigeon",
-    "cooking set"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "Incredible value getting a tawa, fry pan, and kadai with glass lid under ₹1,500",
-      "Effective non-stick release allows cooking dosas and eggs with minimal oil",
-      "Compatible with both gas burners and induction plates"
+  {
+    "id": "fas-30",
+    "slug": "woodland-mens-khaki-leather-casual-combat-boots",
+    "title": "Woodland Men's Khaki Leather Ankle Casual Combat Boots with Rugged Traction Sole",
+    "brand": "Woodland",
+    "category": "Fashion",
+    "price": 3795,
+    "mrp": 5495,
+    "rating": 4.4,
+    "reviewCount": 11900,
+    "images": [
+      "/products/fas-30.jpg"
     ],
-    "cons": [
-      "Must use wooden or silicone spatulas to maximize coating lifespan",
-      "Not suitable for ultra-high flame dry heating"
+    "bullets": [
+      "100% genuine nubuck leather upper engineered for rugged durability and outdoor wear",
+      "Heavy-lug rubber traction outsole delivers formidable grip on rocky trails and wet tarmac",
+      "Cushioned footbed with padded collar to prevent heel abrasion during long outdoor walks",
+      "Rust-resistant brass hexagonal eyelets with heavy-duty braided laces",
+      "Iconic Woodland tree debossed logo detailing on the lateral quarter"
     ],
-    "verdict": "An unbeatable kitchen starter combo for bachelors, students, and newly set up homes.",
-    "sentiment": {
-      "positive": 81,
-      "neutral": 12,
-      "negative": 7
-    }
+    "description": "Conquer tough terrains and city streets alike with Woodland's iconic nubuck leather outdoor boots built for durability and rugged style.",
+    "stock": 25,
+    "deliveryDays": 2,
+    "tags": [
+      "fashion",
+      "shoes",
+      "boots",
+      "leather",
+      "woodland",
+      "outdoor",
+      "rugged",
+      "men",
+      "hiking"
+    ],
+    "reviewSummary": {
+      "pros": [
+        "Virtually indestructible nubuck leather that lasts 4+ years of abuse",
+        "Deep tread pattern grips muddy trails and slick monsoon roads",
+        "Signature chunky silhouette that looks commanding with denim"
+      ],
+      "cons": [
+        "Heavyweight boot requiring a 1-week break-in period",
+        "Nubuck requires a dedicated suede brush to clean mud stains"
+      ],
+      "verdict": "The benchmark rugged outdoor boots for biking, monsoon trekking, and timeless casual style.",
+      "sentiment": {
+        "positive": 89,
+        "neutral": 7,
+        "negative": 4
+      }
+    },
+    "priceHistory": [
+      {
+        "date": "2026-07-05",
+        "price": 4014
+      },
+      {
+        "date": "2026-07-06",
+        "price": 4074
+      },
+      {
+        "date": "2026-07-07",
+        "price": 4055
+      },
+      {
+        "date": "2026-07-08",
+        "price": 3979
+      },
+      {
+        "date": "2026-07-09",
+        "price": 3892
+      },
+      {
+        "date": "2026-07-10",
+        "price": 3852
+      },
+      {
+        "date": "2026-07-11",
+        "price": 3804
+      },
+      {
+        "date": "2026-07-12",
+        "price": 3744
+      },
+      {
+        "date": "2026-07-13",
+        "price": 3722
+      },
+      {
+        "date": "2026-07-14",
+        "price": 3713
+      },
+      {
+        "date": "2026-07-15",
+        "price": 3772
+      },
+      {
+        "date": "2026-07-16",
+        "price": 3844
+      },
+      {
+        "date": "2026-07-17",
+        "price": 3798
+      },
+      {
+        "date": "2026-07-18",
+        "price": 3698
+      },
+      {
+        "date": "2026-07-19",
+        "price": 3753
+      },
+      {
+        "date": "2026-07-20",
+        "price": 3812
+      },
+      {
+        "date": "2026-07-21",
+        "price": 3918
+      },
+      {
+        "date": "2026-07-22",
+        "price": 3831
+      },
+      {
+        "date": "2026-07-23",
+        "price": 3905
+      },
+      {
+        "date": "2026-07-24",
+        "price": 3799
+      },
+      {
+        "date": "2026-07-25",
+        "price": 3771
+      },
+      {
+        "date": "2026-07-26",
+        "price": 3817
+      },
+      {
+        "date": "2026-07-27",
+        "price": 3829
+      },
+      {
+        "date": "2026-07-28",
+        "price": 3891
+      },
+      {
+        "date": "2026-07-29",
+        "price": 3912
+      },
+      {
+        "date": "2026-07-30",
+        "price": 3846
+      },
+      {
+        "date": "2026-07-31",
+        "price": 3950
+      },
+      {
+        "date": "2026-08-01",
+        "price": 3972
+      },
+      {
+        "date": "2026-08-02",
+        "price": 3899
+      },
+      {
+        "date": "2026-08-03",
+        "price": 3809
+      },
+      {
+        "date": "2026-08-04",
+        "price": 3737
+      },
+      {
+        "date": "2026-08-05",
+        "price": 3788
+      },
+      {
+        "date": "2026-08-06",
+        "price": 3839
+      },
+      {
+        "date": "2026-08-07",
+        "price": 3918
+      },
+      {
+        "date": "2026-08-08",
+        "price": 3938
+      },
+      {
+        "date": "2026-08-09",
+        "price": 4039
+      },
+      {
+        "date": "2026-08-10",
+        "price": 4119
+      },
+      {
+        "date": "2026-08-11",
+        "price": 4146
+      },
+      {
+        "date": "2026-08-12",
+        "price": 4218
+      },
+      {
+        "date": "2026-08-13",
+        "price": 4139
+      },
+      {
+        "date": "2026-08-14",
+        "price": 4182
+      },
+      {
+        "date": "2026-08-15",
+        "price": 4195
+      },
+      {
+        "date": "2026-08-16",
+        "price": 4129
+      },
+      {
+        "date": "2026-08-17",
+        "price": 4095
+      },
+      {
+        "date": "2026-08-18",
+        "price": 4098
+      },
+      {
+        "date": "2026-08-19",
+        "price": 4156
+      },
+      {
+        "date": "2026-08-20",
+        "price": 4070
+      },
+      {
+        "date": "2026-08-21",
+        "price": 4071
+      },
+      {
+        "date": "2026-08-22",
+        "price": 4172
+      },
+      {
+        "date": "2026-08-23",
+        "price": 4172
+      },
+      {
+        "date": "2026-08-24",
+        "price": 4284
+      },
+      {
+        "date": "2026-08-25",
+        "price": 4304
+      },
+      {
+        "date": "2026-08-26",
+        "price": 4393
+      },
+      {
+        "date": "2026-08-27",
+        "price": 4367
+      },
+      {
+        "date": "2026-08-28",
+        "price": 4453
+      },
+      {
+        "date": "2026-08-29",
+        "price": 4323
+      },
+      {
+        "date": "2026-08-30",
+        "price": 4350
+      },
+      {
+        "date": "2026-08-31",
+        "price": 4323
+      },
+      {
+        "date": "2026-09-01",
+        "price": 4243
+      },
+      {
+        "date": "2026-09-02",
+        "price": 4370
+      },
+      {
+        "date": "2026-09-03",
+        "price": 4436
+      },
+      {
+        "date": "2026-09-04",
+        "price": 4326
+      },
+      {
+        "date": "2026-09-05",
+        "price": 4352
+      },
+      {
+        "date": "2026-09-06",
+        "price": 4295
+      },
+      {
+        "date": "2026-09-07",
+        "price": 4248
+      },
+      {
+        "date": "2026-09-08",
+        "price": 4311
+      },
+      {
+        "date": "2026-09-09",
+        "price": 4376
+      },
+      {
+        "date": "2026-09-10",
+        "price": 4293
+      },
+      {
+        "date": "2026-09-11",
+        "price": 4333
+      },
+      {
+        "date": "2026-09-12",
+        "price": 4394
+      },
+      {
+        "date": "2026-09-13",
+        "price": 4450
+      },
+      {
+        "date": "2026-09-14",
+        "price": 4386
+      },
+      {
+        "date": "2026-09-15",
+        "price": 4301
+      },
+      {
+        "date": "2026-09-16",
+        "price": 4327
+      },
+      {
+        "date": "2026-09-17",
+        "price": 4248
+      },
+      {
+        "date": "2026-09-18",
+        "price": 4122
+      },
+      {
+        "date": "2026-09-19",
+        "price": 4050
+      },
+      {
+        "date": "2026-09-20",
+        "price": 3972
+      },
+      {
+        "date": "2026-09-21",
+        "price": 3900
+      },
+      {
+        "date": "2026-09-22",
+        "price": 3847
+      },
+      {
+        "date": "2026-09-23",
+        "price": 3926
+      },
+      {
+        "date": "2026-09-24",
+        "price": 3875
+      },
+      {
+        "date": "2026-09-25",
+        "price": 3848
+      },
+      {
+        "date": "2026-09-26",
+        "price": 3842
+      },
+      {
+        "date": "2026-09-27",
+        "price": 3919
+      },
+      {
+        "date": "2026-09-28",
+        "price": 3832
+      },
+      {
+        "date": "2026-09-29",
+        "price": 3879
+      },
+      {
+        "date": "2026-09-30",
+        "price": 3911
+      },
+      {
+        "date": "2026-10-01",
+        "price": 3923
+      },
+      {
+        "date": "2026-10-02",
+        "price": 3795
+      }
+    ]
   },
-  "priceHistory": [
-    {
-      "date": "2026-07-05",
-      "price": 1483
-    },
-    {
-      "date": "2026-07-06",
-      "price": 1480
-    },
-    {
-      "date": "2026-07-07",
-      "price": 1464
-    },
-    {
-      "date": "2026-07-08",
-      "price": 1437
-    },
-    {
-      "date": "2026-07-09",
-      "price": 1451
-    },
-    {
-      "date": "2026-07-10",
-      "price": 1432
-    },
-    {
-      "date": "2026-07-11",
-      "price": 1412
-    },
-    {
-      "date": "2026-07-12",
-      "price": 1374
-    },
-    {
-      "date": "2026-07-13",
-      "price": 1390
-    },
-    {
-      "date": "2026-07-14",
-      "price": 1357
-    },
-    {
-      "date": "2026-07-15",
-      "price": 1376
-    },
-    {
-      "date": "2026-07-16",
-      "price": 1392
-    },
-    {
-      "date": "2026-07-17",
-      "price": 1366
-    },
-    {
-      "date": "2026-07-18",
-      "price": 1378
-    },
-    {
-      "date": "2026-07-19",
-      "price": 1388
-    },
-    {
-      "date": "2026-07-20",
-      "price": 1409
-    },
-    {
-      "date": "2026-07-21",
-      "price": 1387
-    },
-    {
-      "date": "2026-07-22",
-      "price": 1425
-    },
-    {
-      "date": "2026-07-23",
-      "price": 1432
-    },
-    {
-      "date": "2026-07-24",
-      "price": 1452
-    },
-    {
-      "date": "2026-07-25",
-      "price": 1472
-    },
-    {
-      "date": "2026-07-26",
-      "price": 1482
-    },
-    {
-      "date": "2026-07-27",
-      "price": 1466
-    },
-    {
-      "date": "2026-07-28",
-      "price": 1470
-    },
-    {
-      "date": "2026-07-29",
-      "price": 1458
-    },
-    {
-      "date": "2026-07-30",
-      "price": 1497
-    },
-    {
-      "date": "2026-07-31",
-      "price": 1472
-    },
-    {
-      "date": "2026-08-01",
-      "price": 1496
-    },
-    {
-      "date": "2026-08-02",
-      "price": 1510
-    },
-    {
-      "date": "2026-08-03",
-      "price": 1479
-    },
-    {
-      "date": "2026-08-04",
-      "price": 1522
-    },
-    {
-      "date": "2026-08-05",
-      "price": 1534
-    },
-    {
-      "date": "2026-08-06",
-      "price": 1574
-    },
-    {
-      "date": "2026-08-07",
-      "price": 1563
-    },
-    {
-      "date": "2026-08-08",
-      "price": 1569
-    },
-    {
-      "date": "2026-08-09",
-      "price": 1608
-    },
-    {
-      "date": "2026-08-10",
-      "price": 1600
-    },
-    {
-      "date": "2026-08-11",
-      "price": 1572
-    },
-    {
-      "date": "2026-08-12",
-      "price": 1601
-    },
-    {
-      "date": "2026-08-13",
-      "price": 1613
-    },
-    {
-      "date": "2026-08-14",
-      "price": 1587
-    },
-    {
-      "date": "2026-08-15",
-      "price": 1558
-    },
-    {
-      "date": "2026-08-16",
-      "price": 1526
-    },
-    {
-      "date": "2026-08-17",
-      "price": 1553
-    },
-    {
-      "date": "2026-08-18",
-      "price": 1566
-    },
-    {
-      "date": "2026-08-19",
-      "price": 1559
-    },
-    {
-      "date": "2026-08-20",
-      "price": 1577
-    },
-    {
-      "date": "2026-08-21",
-      "price": 1544
-    },
-    {
-      "date": "2026-08-22",
-      "price": 1567
-    },
-    {
-      "date": "2026-08-23",
-      "price": 1522
-    },
-    {
-      "date": "2026-08-24",
-      "price": 1479
-    },
-    {
-      "date": "2026-08-25",
-      "price": 1448
-    },
-    {
-      "date": "2026-08-26",
-      "price": 1430
-    },
-    {
-      "date": "2026-08-27",
-      "price": 1416
-    },
-    {
-      "date": "2026-08-28",
-      "price": 1429
-    },
-    {
-      "date": "2026-08-29",
-      "price": 1427
-    },
-    {
-      "date": "2026-08-30",
-      "price": 1413
-    },
-    {
-      "date": "2026-08-31",
-      "price": 1411
-    },
-    {
-      "date": "2026-09-01",
-      "price": 1451
-    },
-    {
-      "date": "2026-09-02",
-      "price": 1428
-    },
-    {
-      "date": "2026-09-03",
-      "price": 1411
-    },
-    {
-      "date": "2026-09-04",
-      "price": 1424
-    },
-    {
-      "date": "2026-09-05",
-      "price": 1388
-    },
-    {
-      "date": "2026-09-06",
-      "price": 1371
-    },
-    {
-      "date": "2026-09-07",
-      "price": 1402
-    },
-    {
-      "date": "2026-09-08",
-      "price": 1421
-    },
-    {
-      "date": "2026-09-09",
-      "price": 1421
-    },
-    {
-      "date": "2026-09-10",
-      "price": 1391
-    },
-    {
-      "date": "2026-09-11",
-      "price": 1364
-    },
-    {
-      "date": "2026-09-12",
-      "price": 1344
-    },
-    {
-      "date": "2026-09-13",
-      "price": 1338
-    },
-    {
-      "date": "2026-09-14",
-      "price": 1353
-    },
-    {
-      "date": "2026-09-15",
-      "price": 1352
-    },
-    {
-      "date": "2026-09-16",
-      "price": 1349
-    },
-    {
-      "date": "2026-09-17",
-      "price": 1326
-    },
-    {
-      "date": "2026-09-18",
-      "price": 1354
-    },
-    {
-      "date": "2026-09-19",
-      "price": 1340
-    },
-    {
-      "date": "2026-09-20",
-      "price": 1318
-    },
-    {
-      "date": "2026-09-21",
-      "price": 1329
-    },
-    {
-      "date": "2026-09-22",
-      "price": 1324
-    },
-    {
-      "date": "2026-09-23",
-      "price": 1333
-    },
-    {
-      "date": "2026-09-24",
-      "price": 1344
-    },
-    {
-      "date": "2026-09-25",
-      "price": 1366
-    },
-    {
-      "date": "2026-09-26",
-      "price": 1345
-    },
-    {
-      "date": "2026-09-27",
-      "price": 1339
-    },
-    {
-      "date": "2026-09-28",
-      "price": 1342
-    },
-    {
-      "date": "2026-09-29",
-      "price": 1347
-    },
-    {
-      "date": "2026-09-30",
-      "price": 1337
-    },
-    {
-      "date": "2026-10-01",
-      "price": 1367
-    },
-    {
-      "date": "2026-10-02",
-      "price": 1399
-    }
-  ]
-},
-{
-  "id": "hom-18",
-  "slug": "kent-grand-ro-uv-uf-water-purifier",
-  "title": "Kent Grand RO + UV + UF Water Purifier with Mineral ROTM (8L Storage Tank)",
-  "brand": "Kent",
-  "category": "Home & Kitchen",
-  "price": 14999,
-  "mrp": 20000,
-  "rating": 4.4,
-  "reviewCount": 18200,
-  "images": [
-    "/products/hom-03.jpg"
-  ],
-  "bullets": [
-    "Multi-stage purification of RO + UV + UF + TDS Control removes dissolved impurities",
-    "Mineral ROTM Technology retains essential natural minerals like calcium and magnesium",
-    "UV LED disinfection in storage tank keeps purified water pure and bacteria-free 24/7",
-    "High purification capacity of 20 litres/hour with an 8-litre transparent storage tank",
-    "Fully automatic operation with auto-on and auto-off functionality and water level indicator"
-  ],
-  "description": "Kent Grand provides purest drinking water for your family utilizing patented Mineral RO technology that purifies water while retaining natural minerals.",
-  "stock": 15,
-  "deliveryDays": 1,
-  "tags": [
-    "home-kitchen",
-    "water purifier",
-    "kent",
-    "ro purifier",
-    "appliances",
-    "health",
-    "clean water"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "TDS controller preserves natural taste without making water flat or acidic",
-      "8L storage tank ensures drinking water availability during power outages",
-      "High 20L/hr purification capacity handles high TDS borewell water"
-    ],
-    "cons": [
-      "Generates standard RO reject water that should be collected for plants/cleaning",
-      "Annual filter replacement and service costs around ₹3,000"
-    ],
-    "verdict": "India's most trusted home water purifier for sweet, hygienic, mineral-rich drinking water.",
-    "sentiment": {
-      "positive": 88,
-      "neutral": 8,
-      "negative": 4
-    }
-  },
-  "priceHistory": [
-    {
-      "date": "2026-07-05",
-      "price": 15893
-    },
-    {
-      "date": "2026-07-06",
-      "price": 15531
-    },
-    {
-      "date": "2026-07-07",
-      "price": 15493
-    },
-    {
-      "date": "2026-07-08",
-      "price": 15419
-    },
-    {
-      "date": "2026-07-09",
-      "price": 15563
-    },
-    {
-      "date": "2026-07-10",
-      "price": 15257
-    },
-    {
-      "date": "2026-07-11",
-      "price": 15276
-    },
-    {
-      "date": "2026-07-12",
-      "price": 15301
-    },
-    {
-      "date": "2026-07-13",
-      "price": 15080
-    },
-    {
-      "date": "2026-07-14",
-      "price": 15110
-    },
-    {
-      "date": "2026-07-15",
-      "price": 15133
-    },
-    {
-      "date": "2026-07-16",
-      "price": 15462
-    },
-    {
-      "date": "2026-07-17",
-      "price": 15380
-    },
-    {
-      "date": "2026-07-18",
-      "price": 15777
-    },
-    {
-      "date": "2026-07-19",
-      "price": 15429
-    },
-    {
-      "date": "2026-07-20",
-      "price": 15641
-    },
-    {
-      "date": "2026-07-21",
-      "price": 16086
-    },
-    {
-      "date": "2026-07-22",
-      "price": 16027
-    },
-    {
-      "date": "2026-07-23",
-      "price": 16461
-    },
-    {
-      "date": "2026-07-24",
-      "price": 16232
-    },
-    {
-      "date": "2026-07-25",
-      "price": 16635
-    },
-    {
-      "date": "2026-07-26",
-      "price": 16200
-    },
-    {
-      "date": "2026-07-27",
-      "price": 16501
-    },
-    {
-      "date": "2026-07-28",
-      "price": 16152
-    },
-    {
-      "date": "2026-07-29",
-      "price": 16606
-    },
-    {
-      "date": "2026-07-30",
-      "price": 16861
-    },
-    {
-      "date": "2026-07-31",
-      "price": 16454
-    },
-    {
-      "date": "2026-08-01",
-      "price": 16596
-    },
-    {
-      "date": "2026-08-02",
-      "price": 16734
-    },
-    {
-      "date": "2026-08-03",
-      "price": 16825
-    },
-    {
-      "date": "2026-08-04",
-      "price": 16780
-    },
-    {
-      "date": "2026-08-05",
-      "price": 16651
-    },
-    {
-      "date": "2026-08-06",
-      "price": 17041
-    },
-    {
-      "date": "2026-08-07",
-      "price": 16992
-    },
-    {
-      "date": "2026-08-08",
-      "price": 17497
-    },
-    {
-      "date": "2026-08-09",
-      "price": 17264
-    },
-    {
-      "date": "2026-08-10",
-      "price": 17302
-    },
-    {
-      "date": "2026-08-11",
-      "price": 17378
-    },
-    {
-      "date": "2026-08-12",
-      "price": 16949
-    },
-    {
-      "date": "2026-08-13",
-      "price": 16484
-    },
-    {
-      "date": "2026-08-14",
-      "price": 16581
-    },
-    {
-      "date": "2026-08-15",
-      "price": 16135
-    },
-    {
-      "date": "2026-08-16",
-      "price": 16297
-    },
-    {
-      "date": "2026-08-17",
-      "price": 16628
-    },
-    {
-      "date": "2026-08-18",
-      "price": 17034
-    },
-    {
-      "date": "2026-08-19",
-      "price": 17131
-    },
-    {
-      "date": "2026-08-20",
-      "price": 16790
-    },
-    {
-      "date": "2026-08-21",
-      "price": 17200
-    },
-    {
-      "date": "2026-08-22",
-      "price": 17336
-    },
-    {
-      "date": "2026-08-23",
-      "price": 17631
-    },
-    {
-      "date": "2026-08-24",
-      "price": 17980
-    },
-    {
-      "date": "2026-08-25",
-      "price": 17798
-    },
-    {
-      "date": "2026-08-26",
-      "price": 18073
-    },
-    {
-      "date": "2026-08-27",
-      "price": 17783
-    },
-    {
-      "date": "2026-08-28",
-      "price": 18103
-    },
-    {
-      "date": "2026-08-29",
-      "price": 18127
-    },
-    {
-      "date": "2026-08-30",
-      "price": 17811
-    },
-    {
-      "date": "2026-08-31",
-      "price": 17466
-    },
-    {
-      "date": "2026-09-01",
-      "price": 17713
-    },
-    {
-      "date": "2026-09-02",
-      "price": 17468
-    },
-    {
-      "date": "2026-09-03",
-      "price": 17282
-    },
-    {
-      "date": "2026-09-04",
-      "price": 17198
-    },
-    {
-      "date": "2026-09-05",
-      "price": 16871
-    },
-    {
-      "date": "2026-09-06",
-      "price": 16943
-    },
-    {
-      "date": "2026-09-07",
-      "price": 16498
-    },
-    {
-      "date": "2026-09-08",
-      "price": 16941
-    },
-    {
-      "date": "2026-09-09",
-      "price": 16943
-    },
-    {
-      "date": "2026-09-10",
-      "price": 17424
-    },
-    {
-      "date": "2026-09-11",
-      "price": 17165
-    },
-    {
-      "date": "2026-09-12",
-      "price": 17410
-    },
-    {
-      "date": "2026-09-13",
-      "price": 17247
-    },
-    {
-      "date": "2026-09-14",
-      "price": 17179
-    },
-    {
-      "date": "2026-09-15",
-      "price": 17037
-    },
-    {
-      "date": "2026-09-16",
-      "price": 16726
-    },
-    {
-      "date": "2026-09-17",
-      "price": 16508
-    },
-    {
-      "date": "2026-09-18",
-      "price": 16933
-    },
-    {
-      "date": "2026-09-19",
-      "price": 17156
-    },
-    {
-      "date": "2026-09-20",
-      "price": 17639
-    },
-    {
-      "date": "2026-09-21",
-      "price": 18039
-    },
-    {
-      "date": "2026-09-22",
-      "price": 17991
-    },
-    {
-      "date": "2026-09-23",
-      "price": 18299
-    },
-    {
-      "date": "2026-09-24",
-      "price": 18280
-    },
-    {
-      "date": "2026-09-25",
-      "price": 17910
-    },
-    {
-      "date": "2026-09-26",
-      "price": 17788
-    },
-    {
-      "date": "2026-09-27",
-      "price": 17572
-    },
-    {
-      "date": "2026-09-28",
-      "price": 17726
-    },
-    {
-      "date": "2026-09-29",
-      "price": 18054
-    },
-    {
-      "date": "2026-09-30",
-      "price": 18299
-    },
-    {
-      "date": "2026-10-01",
-      "price": 18123
-    },
-    {
-      "date": "2026-10-02",
-      "price": 14999
-    }
-  ]
-},
-{
-  "id": "fas-29",
-  "slug": "allen-solly-mens-cotton-formal-shirt-white",
-  "title": "Allen Solly Men's Regular Fit Cotton Formal Plain Shirt (Classic Crisp White)",
-  "brand": "Allen Solly",
-  "category": "Fashion",
-  "price": 1099,
-  "mrp": 1899,
-  "rating": 4.3,
-  "reviewCount": 8400,
-  "images": [
-    "/products/fas-18.jpg"
-  ],
-  "bullets": [
-    "100% premium breathable combed cotton fabric keeps you comfortable all day long",
-    "Crisp spread collar with reinforced interlining that maintains structure with or without tie",
-    "Classic regular fit with curved hemline perfect for tucking into formal trousers",
-    "Single chest pocket with tonal embroidered Allen Solly signature stag emblem",
-    "Machine washable with easy-iron wrinkle-resistant finish"
-  ],
-  "description": "A workplace wardrobe essential, this Allen Solly white formal shirt delivers sharp tailoring, breathable comfort, and timeless elegance.",
-  "stock": 45,
-  "deliveryDays": 2,
-  "tags": [
-    "fashion",
-    "shirt",
-    "formal",
-    "men",
-    "cotton",
-    "white shirt",
-    "allen solly",
-    "office wear"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "Premium 100% cotton fabric feels soft and breathes well in hot office commutes",
-      "Crisp collar maintains shape after multiple laundry washes",
-      "Versatile cut pairs equally well with suit blazers or chinos"
-    ],
-    "cons": [
-      "Pure white requires careful separate laundering",
-      "Sleeves run slightly long for shorter builds"
-    ],
-    "verdict": "The quintessential white formal shirt every professional man needs in his weekly wardrobe rotation.",
-    "sentiment": {
-      "positive": 87,
-      "neutral": 9,
-      "negative": 4
-    }
-  },
-  "priceHistory": [
-    {
-      "date": "2026-07-05",
-      "price": 1189
-    },
-    {
-      "date": "2026-07-06",
-      "price": 1175
-    },
-    {
-      "date": "2026-07-07",
-      "price": 1199
-    },
-    {
-      "date": "2026-07-08",
-      "price": 1192
-    },
-    {
-      "date": "2026-07-09",
-      "price": 1188
-    },
-    {
-      "date": "2026-07-10",
-      "price": 1201
-    },
-    {
-      "date": "2026-07-11",
-      "price": 1173
-    },
-    {
-      "date": "2026-07-12",
-      "price": 1167
-    },
-    {
-      "date": "2026-07-13",
-      "price": 1168
-    },
-    {
-      "date": "2026-07-14",
-      "price": 1181
-    },
-    {
-      "date": "2026-07-15",
-      "price": 1193
-    },
-    {
-      "date": "2026-07-16",
-      "price": 1196
-    },
-    {
-      "date": "2026-07-17",
-      "price": 1230
-    },
-    {
-      "date": "2026-07-18",
-      "price": 1264
-    },
-    {
-      "date": "2026-07-19",
-      "price": 1270
-    },
-    {
-      "date": "2026-07-20",
-      "price": 1238
-    },
-    {
-      "date": "2026-07-21",
-      "price": 1271
-    },
-    {
-      "date": "2026-07-22",
-      "price": 1308
-    },
-    {
-      "date": "2026-07-23",
-      "price": 1274
-    },
-    {
-      "date": "2026-07-24",
-      "price": 1281
-    },
-    {
-      "date": "2026-07-25",
-      "price": 1304
-    },
-    {
-      "date": "2026-07-26",
-      "price": 1312
-    },
-    {
-      "date": "2026-07-27",
-      "price": 1316
-    },
-    {
-      "date": "2026-07-28",
-      "price": 1341
-    },
-    {
-      "date": "2026-07-29",
-      "price": 1331
-    },
-    {
-      "date": "2026-07-30",
-      "price": 1341
-    },
-    {
-      "date": "2026-07-31",
-      "price": 1323
-    },
-    {
-      "date": "2026-08-01",
-      "price": 1335
-    },
-    {
-      "date": "2026-08-02",
-      "price": 1308
-    },
-    {
-      "date": "2026-08-03",
-      "price": 1304
-    },
-    {
-      "date": "2026-08-04",
-      "price": 1319
-    },
-    {
-      "date": "2026-08-05",
-      "price": 1335
-    },
-    {
-      "date": "2026-08-06",
-      "price": 1313
-    },
-    {
-      "date": "2026-08-07",
-      "price": 1341
-    },
-    {
-      "date": "2026-08-08",
-      "price": 1341
-    },
-    {
-      "date": "2026-08-09",
-      "price": 1305
-    },
-    {
-      "date": "2026-08-10",
-      "price": 1283
-    },
-    {
-      "date": "2026-08-11",
-      "price": 1257
-    },
-    {
-      "date": "2026-08-12",
-      "price": 1278
-    },
-    {
-      "date": "2026-08-13",
-      "price": 1308
-    },
-    {
-      "date": "2026-08-14",
-      "price": 1289
-    },
-    {
-      "date": "2026-08-15",
-      "price": 1267
-    },
-    {
-      "date": "2026-08-16",
-      "price": 1292
-    },
-    {
-      "date": "2026-08-17",
-      "price": 1268
-    },
-    {
-      "date": "2026-08-18",
-      "price": 1304
-    },
-    {
-      "date": "2026-08-19",
-      "price": 1321
-    },
-    {
-      "date": "2026-08-20",
-      "price": 1308
-    },
-    {
-      "date": "2026-08-21",
-      "price": 1310
-    },
-    {
-      "date": "2026-08-22",
-      "price": 1333
-    },
-    {
-      "date": "2026-08-23",
-      "price": 1294
-    },
-    {
-      "date": "2026-08-24",
-      "price": 1330
-    },
-    {
-      "date": "2026-08-25",
-      "price": 1341
-    },
-    {
-      "date": "2026-08-26",
-      "price": 1309
-    },
-    {
-      "date": "2026-08-27",
-      "price": 1327
-    },
-    {
-      "date": "2026-08-28",
-      "price": 1341
-    },
-    {
-      "date": "2026-08-29",
-      "price": 1341
-    },
-    {
-      "date": "2026-08-30",
-      "price": 1341
-    },
-    {
-      "date": "2026-08-31",
-      "price": 1339
-    },
-    {
-      "date": "2026-09-01",
-      "price": 1306
-    },
-    {
-      "date": "2026-09-02",
-      "price": 1339
-    },
-    {
-      "date": "2026-09-03",
-      "price": 1341
-    },
-    {
-      "date": "2026-09-04",
-      "price": 1341
-    },
-    {
-      "date": "2026-09-05",
-      "price": 1330
-    },
-    {
-      "date": "2026-09-06",
-      "price": 1294
-    },
-    {
-      "date": "2026-09-07",
-      "price": 1318
-    },
-    {
-      "date": "2026-09-08",
-      "price": 1317
-    },
-    {
-      "date": "2026-09-09",
-      "price": 1319
-    },
-    {
-      "date": "2026-09-10",
-      "price": 1341
-    },
-    {
-      "date": "2026-09-11",
-      "price": 1341
-    },
-    {
-      "date": "2026-09-12",
-      "price": 1341
-    },
-    {
-      "date": "2026-09-13",
-      "price": 1337
-    },
-    {
-      "date": "2026-09-14",
-      "price": 1309
-    },
-    {
-      "date": "2026-09-15",
-      "price": 1341
-    },
-    {
-      "date": "2026-09-16",
-      "price": 1319
-    },
-    {
-      "date": "2026-09-17",
-      "price": 1341
-    },
-    {
-      "date": "2026-09-18",
-      "price": 1341
-    },
-    {
-      "date": "2026-09-19",
-      "price": 1304
-    },
-    {
-      "date": "2026-09-20",
-      "price": 1301
-    },
-    {
-      "date": "2026-09-21",
-      "price": 1334
-    },
-    {
-      "date": "2026-09-22",
-      "price": 1341
-    },
-    {
-      "date": "2026-09-23",
-      "price": 1341
-    },
-    {
-      "date": "2026-09-24",
-      "price": 1340
-    },
-    {
-      "date": "2026-09-25",
-      "price": 1341
-    },
-    {
-      "date": "2026-09-26",
-      "price": 1333
-    },
-    {
-      "date": "2026-09-27",
-      "price": 1334
-    },
-    {
-      "date": "2026-09-28",
-      "price": 1322
-    },
-    {
-      "date": "2026-09-29",
-      "price": 1293
-    },
-    {
-      "date": "2026-09-30",
-      "price": 1272
-    },
-    {
-      "date": "2026-10-01",
-      "price": 1266
-    },
-    {
-      "date": "2026-10-02",
-      "price": 1099
-    }
-  ]
-},
-{
-  "id": "fas-30",
-  "slug": "woodland-mens-khaki-leather-casual-combat-boots",
-  "title": "Woodland Men's Khaki Leather Ankle Casual Combat Boots with Rugged Traction Sole",
-  "brand": "Woodland",
-  "category": "Fashion",
-  "price": 3795,
-  "mrp": 5495,
-  "rating": 4.4,
-  "reviewCount": 11900,
-  "images": [
-    "/products/fas-02.jpg"
-  ],
-  "bullets": [
-    "100% genuine nubuck leather upper engineered for rugged durability and outdoor wear",
-    "Heavy-lug rubber traction outsole delivers formidable grip on rocky trails and wet tarmac",
-    "Cushioned footbed with padded collar to prevent heel abrasion during long outdoor walks",
-    "Rust-resistant brass hexagonal eyelets with heavy-duty braided laces",
-    "Iconic Woodland tree debossed logo detailing on the lateral quarter"
-  ],
-  "description": "Conquer tough terrains and city streets alike with Woodland's iconic nubuck leather outdoor boots built for durability and rugged style.",
-  "stock": 25,
-  "deliveryDays": 2,
-  "tags": [
-    "fashion",
-    "shoes",
-    "boots",
-    "leather",
-    "woodland",
-    "outdoor",
-    "rugged",
-    "men",
-    "hiking"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "Virtually indestructible nubuck leather that lasts 4+ years of abuse",
-      "Deep tread pattern grips muddy trails and slick monsoon roads",
-      "Signature chunky silhouette that looks commanding with denim"
-    ],
-    "cons": [
-      "Heavyweight boot requiring a 1-week break-in period",
-      "Nubuck requires a dedicated suede brush to clean mud stains"
-    ],
-    "verdict": "The benchmark rugged outdoor boots for biking, monsoon trekking, and timeless casual style.",
-    "sentiment": {
-      "positive": 89,
-      "neutral": 7,
-      "negative": 4
-    }
-  },
-  "priceHistory": [
-    {
-      "date": "2026-07-05",
-      "price": 4014
-    },
-    {
-      "date": "2026-07-06",
-      "price": 4074
-    },
-    {
-      "date": "2026-07-07",
-      "price": 4055
-    },
-    {
-      "date": "2026-07-08",
-      "price": 3979
-    },
-    {
-      "date": "2026-07-09",
-      "price": 3892
-    },
-    {
-      "date": "2026-07-10",
-      "price": 3852
-    },
-    {
-      "date": "2026-07-11",
-      "price": 3804
-    },
-    {
-      "date": "2026-07-12",
-      "price": 3744
-    },
-    {
-      "date": "2026-07-13",
-      "price": 3722
-    },
-    {
-      "date": "2026-07-14",
-      "price": 3713
-    },
-    {
-      "date": "2026-07-15",
-      "price": 3772
-    },
-    {
-      "date": "2026-07-16",
-      "price": 3844
-    },
-    {
-      "date": "2026-07-17",
-      "price": 3798
-    },
-    {
-      "date": "2026-07-18",
-      "price": 3698
-    },
-    {
-      "date": "2026-07-19",
-      "price": 3753
-    },
-    {
-      "date": "2026-07-20",
-      "price": 3812
-    },
-    {
-      "date": "2026-07-21",
-      "price": 3918
-    },
-    {
-      "date": "2026-07-22",
-      "price": 3831
-    },
-    {
-      "date": "2026-07-23",
-      "price": 3905
-    },
-    {
-      "date": "2026-07-24",
-      "price": 3799
-    },
-    {
-      "date": "2026-07-25",
-      "price": 3771
-    },
-    {
-      "date": "2026-07-26",
-      "price": 3817
-    },
-    {
-      "date": "2026-07-27",
-      "price": 3829
-    },
-    {
-      "date": "2026-07-28",
-      "price": 3891
-    },
-    {
-      "date": "2026-07-29",
-      "price": 3912
-    },
-    {
-      "date": "2026-07-30",
-      "price": 3846
-    },
-    {
-      "date": "2026-07-31",
-      "price": 3950
-    },
-    {
-      "date": "2026-08-01",
-      "price": 3972
-    },
-    {
-      "date": "2026-08-02",
-      "price": 3899
-    },
-    {
-      "date": "2026-08-03",
-      "price": 3809
-    },
-    {
-      "date": "2026-08-04",
-      "price": 3737
-    },
-    {
-      "date": "2026-08-05",
-      "price": 3788
-    },
-    {
-      "date": "2026-08-06",
-      "price": 3839
-    },
-    {
-      "date": "2026-08-07",
-      "price": 3918
-    },
-    {
-      "date": "2026-08-08",
-      "price": 3938
-    },
-    {
-      "date": "2026-08-09",
-      "price": 4039
-    },
-    {
-      "date": "2026-08-10",
-      "price": 4119
-    },
-    {
-      "date": "2026-08-11",
-      "price": 4146
-    },
-    {
-      "date": "2026-08-12",
-      "price": 4218
-    },
-    {
-      "date": "2026-08-13",
-      "price": 4139
-    },
-    {
-      "date": "2026-08-14",
-      "price": 4182
-    },
-    {
-      "date": "2026-08-15",
-      "price": 4195
-    },
-    {
-      "date": "2026-08-16",
-      "price": 4129
-    },
-    {
-      "date": "2026-08-17",
-      "price": 4095
-    },
-    {
-      "date": "2026-08-18",
-      "price": 4098
-    },
-    {
-      "date": "2026-08-19",
-      "price": 4156
-    },
-    {
-      "date": "2026-08-20",
-      "price": 4070
-    },
-    {
-      "date": "2026-08-21",
-      "price": 4071
-    },
-    {
-      "date": "2026-08-22",
-      "price": 4172
-    },
-    {
-      "date": "2026-08-23",
-      "price": 4172
-    },
-    {
-      "date": "2026-08-24",
-      "price": 4284
-    },
-    {
-      "date": "2026-08-25",
-      "price": 4304
-    },
-    {
-      "date": "2026-08-26",
-      "price": 4393
-    },
-    {
-      "date": "2026-08-27",
-      "price": 4367
-    },
-    {
-      "date": "2026-08-28",
-      "price": 4453
-    },
-    {
-      "date": "2026-08-29",
-      "price": 4323
-    },
-    {
-      "date": "2026-08-30",
-      "price": 4350
-    },
-    {
-      "date": "2026-08-31",
-      "price": 4323
-    },
-    {
-      "date": "2026-09-01",
-      "price": 4243
-    },
-    {
-      "date": "2026-09-02",
-      "price": 4370
-    },
-    {
-      "date": "2026-09-03",
-      "price": 4436
-    },
-    {
-      "date": "2026-09-04",
-      "price": 4326
-    },
-    {
-      "date": "2026-09-05",
-      "price": 4352
-    },
-    {
-      "date": "2026-09-06",
-      "price": 4295
-    },
-    {
-      "date": "2026-09-07",
-      "price": 4248
-    },
-    {
-      "date": "2026-09-08",
-      "price": 4311
-    },
-    {
-      "date": "2026-09-09",
-      "price": 4376
-    },
-    {
-      "date": "2026-09-10",
-      "price": 4293
-    },
-    {
-      "date": "2026-09-11",
-      "price": 4333
-    },
-    {
-      "date": "2026-09-12",
-      "price": 4394
-    },
-    {
-      "date": "2026-09-13",
-      "price": 4450
-    },
-    {
-      "date": "2026-09-14",
-      "price": 4386
-    },
-    {
-      "date": "2026-09-15",
-      "price": 4301
-    },
-    {
-      "date": "2026-09-16",
-      "price": 4327
-    },
-    {
-      "date": "2026-09-17",
-      "price": 4248
-    },
-    {
-      "date": "2026-09-18",
-      "price": 4122
-    },
-    {
-      "date": "2026-09-19",
-      "price": 4050
-    },
-    {
-      "date": "2026-09-20",
-      "price": 3972
-    },
-    {
-      "date": "2026-09-21",
-      "price": 3900
-    },
-    {
-      "date": "2026-09-22",
-      "price": 3847
-    },
-    {
-      "date": "2026-09-23",
-      "price": 3926
-    },
-    {
-      "date": "2026-09-24",
-      "price": 3875
-    },
-    {
-      "date": "2026-09-25",
-      "price": 3848
-    },
-    {
-      "date": "2026-09-26",
-      "price": 3842
-    },
-    {
-      "date": "2026-09-27",
-      "price": 3919
-    },
-    {
-      "date": "2026-09-28",
-      "price": 3832
-    },
-    {
-      "date": "2026-09-29",
-      "price": 3879
-    },
-    {
-      "date": "2026-09-30",
-      "price": 3911
-    },
-    {
-      "date": "2026-10-01",
-      "price": 3923
-    },
-    {
-      "date": "2026-10-02",
-      "price": 3795
-    }
-  ]
-},
-{
-  "id": "fas-31",
-  "slug": "puma-mens-cotton-slim-fit-sweatpants-track-pants",
-  "title": "Puma Men's Cotton Slim Fit Sweatpants Track Pants with Zipper Pockets",
-  "brand": "Puma",
-  "category": "Fashion",
-  "price": 1499,
-  "mrp": 2799,
-  "rating": 4.3,
-  "reviewCount": 9700,
-  "images": [
-    "/products/fas-09.jpg"
-  ],
-  "bullets": [
-    "Soft cotton-poly fleece blend offering flexible stretch and warmth",
-    "Two secure deep zippered side pockets keep your smartphone and keys safe while running",
-    "Elasticated waistband with adjustable flat drawcord for custom snug fit",
-    "Tapered ankle rib cuffs create an athletic sneaker-focused aesthetic",
-    "Reflective Puma Cat logo for enhanced visibility during early morning runs"
-  ],
-  "description": "Engineered for both active workouts and relaxed weekend lounging, these Puma track pants combine sporty tailoring with secure zip storage.",
-  "stock": 50,
-  "deliveryDays": 1,
-  "tags": [
-    "fashion",
-    "sweatpants",
-    "track pants",
-    "puma",
-    "gym",
-    "joggers",
-    "men",
-    "athleisure"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "Zippered pockets ensure phone doesn't slide out during gym bench presses",
-      "Comfortable soft fleece interior that doesn't itch or cause lint",
-      "Flattering tapered cut that complements modern sneakers"
-    ],
-    "cons": [
-      "Slightly warm for humid peak summer outdoor afternoons",
-      "Cuff elasticity may loosen slightly after 50+ wash cycles"
-    ],
-    "verdict": "The go-to everyday jogger for gym sessions, airport travel, and casual lounge comfort.",
-    "sentiment": {
-      "positive": 86,
-      "neutral": 10,
-      "negative": 4
-    }
-  },
-  "priceHistory": [
-    {
-      "date": "2026-07-05",
-      "price": 1645
-    },
-    {
-      "date": "2026-07-06",
-      "price": 1653
-    },
-    {
-      "date": "2026-07-07",
-      "price": 1646
-    },
-    {
-      "date": "2026-07-08",
-      "price": 1683
-    },
-    {
-      "date": "2026-07-09",
-      "price": 1683
-    },
-    {
-      "date": "2026-07-10",
-      "price": 1649
-    },
-    {
-      "date": "2026-07-11",
-      "price": 1626
-    },
-    {
-      "date": "2026-07-12",
-      "price": 1588
-    },
-    {
-      "date": "2026-07-13",
-      "price": 1622
-    },
-    {
-      "date": "2026-07-14",
-      "price": 1615
-    },
-    {
-      "date": "2026-07-15",
-      "price": 1623
-    },
-    {
-      "date": "2026-07-16",
-      "price": 1604
-    },
-    {
-      "date": "2026-07-17",
-      "price": 1557
-    },
-    {
-      "date": "2026-07-18",
-      "price": 1537
-    },
-    {
-      "date": "2026-07-19",
-      "price": 1581
-    },
-    {
-      "date": "2026-07-20",
-      "price": 1580
-    },
-    {
-      "date": "2026-07-21",
-      "price": 1575
-    },
-    {
-      "date": "2026-07-22",
-      "price": 1551
-    },
-    {
-      "date": "2026-07-23",
-      "price": 1511
-    },
-    {
-      "date": "2026-07-24",
-      "price": 1510
-    },
-    {
-      "date": "2026-07-25",
-      "price": 1526
-    },
-    {
-      "date": "2026-07-26",
-      "price": 1565
-    },
-    {
-      "date": "2026-07-27",
-      "price": 1582
-    },
-    {
-      "date": "2026-07-28",
-      "price": 1562
-    },
-    {
-      "date": "2026-07-29",
-      "price": 1517
-    },
-    {
-      "date": "2026-07-30",
-      "price": 1533
-    },
-    {
-      "date": "2026-07-31",
-      "price": 1510
-    },
-    {
-      "date": "2026-08-01",
-      "price": 1526
-    },
-    {
-      "date": "2026-08-02",
-      "price": 1502
-    },
-    {
-      "date": "2026-08-03",
-      "price": 1475
-    },
-    {
-      "date": "2026-08-04",
-      "price": 1437
-    },
-    {
-      "date": "2026-08-05",
-      "price": 1411
-    },
-    {
-      "date": "2026-08-06",
-      "price": 1399
-    },
-    {
-      "date": "2026-08-07",
-      "price": 1414
-    },
-    {
-      "date": "2026-08-08",
-      "price": 1415
-    },
-    {
-      "date": "2026-08-09",
-      "price": 1402
-    },
-    {
-      "date": "2026-08-10",
-      "price": 1364
-    },
-    {
-      "date": "2026-08-11",
-      "price": 1384
-    },
-    {
-      "date": "2026-08-12",
-      "price": 1379
-    },
-    {
-      "date": "2026-08-13",
-      "price": 1400
-    },
-    {
-      "date": "2026-08-14",
-      "price": 1395
-    },
-    {
-      "date": "2026-08-15",
-      "price": 1356
-    },
-    {
-      "date": "2026-08-16",
-      "price": 1375
-    },
-    {
-      "date": "2026-08-17",
-      "price": 1369
-    },
-    {
-      "date": "2026-08-18",
-      "price": 1353
-    },
-    {
-      "date": "2026-08-19",
-      "price": 1387
-    },
-    {
-      "date": "2026-08-20",
-      "price": 1353
-    },
-    {
-      "date": "2026-08-21",
-      "price": 1334
-    },
-    {
-      "date": "2026-08-22",
-      "price": 1352
-    },
-    {
-      "date": "2026-08-23",
-      "price": 1390
-    },
-    {
-      "date": "2026-08-24",
-      "price": 1398
-    },
-    {
-      "date": "2026-08-25",
-      "price": 1432
-    },
-    {
-      "date": "2026-08-26",
-      "price": 1399
-    },
-    {
-      "date": "2026-08-27",
-      "price": 1382
-    },
-    {
-      "date": "2026-08-28",
-      "price": 1384
-    },
-    {
-      "date": "2026-08-29",
-      "price": 1413
-    },
-    {
-      "date": "2026-08-30",
-      "price": 1405
-    },
-    {
-      "date": "2026-08-31",
-      "price": 1430
-    },
-    {
-      "date": "2026-09-01",
-      "price": 1440
-    },
-    {
-      "date": "2026-09-02",
-      "price": 1398
-    },
-    {
-      "date": "2026-09-03",
-      "price": 1367
-    },
-    {
-      "date": "2026-09-04",
-      "price": 1329
-    },
-    {
-      "date": "2026-09-05",
-      "price": 1327
-    },
-    {
-      "date": "2026-09-06",
-      "price": 1321
-    },
-    {
-      "date": "2026-09-07",
-      "price": 1319
-    },
-    {
-      "date": "2026-09-08",
-      "price": 1329
-    },
-    {
-      "date": "2026-09-09",
-      "price": 1325
-    },
-    {
-      "date": "2026-09-10",
-      "price": 1356
-    },
-    {
-      "date": "2026-09-11",
-      "price": 1392
-    },
-    {
-      "date": "2026-09-12",
-      "price": 1414
-    },
-    {
-      "date": "2026-09-13",
-      "price": 1449
-    },
-    {
-      "date": "2026-09-14",
-      "price": 1471
-    },
-    {
-      "date": "2026-09-15",
-      "price": 1489
-    },
-    {
-      "date": "2026-09-16",
-      "price": 1496
-    },
-    {
-      "date": "2026-09-17",
-      "price": 1465
-    },
-    {
-      "date": "2026-09-18",
-      "price": 1446
-    },
-    {
-      "date": "2026-09-19",
-      "price": 1435
-    },
-    {
-      "date": "2026-09-20",
-      "price": 1446
-    },
-    {
-      "date": "2026-09-21",
-      "price": 1415
-    },
-    {
-      "date": "2026-09-22",
-      "price": 1414
-    },
-    {
-      "date": "2026-09-23",
-      "price": 1437
-    },
-    {
-      "date": "2026-09-24",
-      "price": 1422
-    },
-    {
-      "date": "2026-09-25",
-      "price": 1380
-    },
-    {
-      "date": "2026-09-26",
-      "price": 1368
-    },
-    {
-      "date": "2026-09-27",
-      "price": 1380
-    },
-    {
-      "date": "2026-09-28",
-      "price": 1386
-    },
-    {
-      "date": "2026-09-29",
-      "price": 1418
-    },
-    {
-      "date": "2026-09-30",
-      "price": 1423
-    },
-    {
-      "date": "2026-10-01",
-      "price": 1389
-    },
-    {
-      "date": "2026-10-02",
-      "price": 1499
-    }
-  ]
-},
-{
-  "id": "fas-32",
-  "slug": "levis-mens-trucker-denim-jacket-indigo",
-  "title": "Levi's Men's Trucker Denim Jacket in Rigid Indigo Blue",
-  "brand": "Levi's",
-  "category": "Fashion",
-  "price": 3299,
-  "mrp": 5599,
-  "rating": 4.6,
-  "reviewCount": 7800,
-  "images": [
+  {
+    "id": "fas-32",
+    "slug": "levis-mens-trucker-denim-jacket-indigo",
+    "title": "Levi's Men's Trucker Denim Jacket in Rigid Indigo Blue",
+    "brand": "Levi's",
+    "category": "Fashion",
+    "price": 3299,
+    "mrp": 5599,
+    "rating": 4.6,
+    "reviewCount": 7800,
+    "images": [
       "/products/fas-32.jpg"
     ],
-  "bullets": [
-    "The original classic jean jacket since 1967: iconic silhouette that only gets better with age",
-    "Crafted from 100% non-stretch heavyweight cotton denim for authentic vintage drape",
-    "Point collar, front button placket with Levi's branded metal shank buttons",
-    "Button-flap chest pockets and side welt hand pockets for practical daily storage",
-    "Side waist adjusters allow customization between regular and tailored fit"
-  ],
-  "description": "An icon of American workwear and street style, the Levi's Trucker Jacket is constructed from heavy-gauge denim with timeless trucker detailing.",
-  "stock": 30,
-  "deliveryDays": 2,
-  "tags": [
-    "fashion",
-    "jacket",
-    "denim",
-    "levis",
-    "trucker",
-    "winter wear",
-    "men",
-    "outerwear"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "Timeless styling that pairs with literally any casual shirt or hoodie",
-      "Heavyweight pure denim fabric develops gorgeous fades over time",
-      "Signature Levi's red tab and durable metal shank hardware"
+    "bullets": [
+      "The original classic jean jacket since 1967: iconic silhouette that only gets better with age",
+      "Crafted from 100% non-stretch heavyweight cotton denim for authentic vintage drape",
+      "Point collar, front button placket with Levi's branded metal shank buttons",
+      "Button-flap chest pockets and side welt hand pockets for practical daily storage",
+      "Side waist adjusters allow customization between regular and tailored fit"
     ],
-    "cons": [
-      "Rigid non-stretch denim requires breaking in",
-      "Snug fit across shoulders if layering thick winter knitwear"
+    "description": "An icon of American workwear and street style, the Levi's Trucker Jacket is constructed from heavy-gauge denim with timeless trucker detailing.",
+    "stock": 30,
+    "deliveryDays": 2,
+    "tags": [
+      "fashion",
+      "jacket",
+      "denim",
+      "levis",
+      "trucker",
+      "winter wear",
+      "men",
+      "outerwear"
     ],
-    "verdict": "An indestructible, universally flattering wardrobe staple you will still be wearing a decade from now.",
-    "sentiment": {
-      "positive": 92,
-      "neutral": 6,
-      "negative": 2
-    }
+    "reviewSummary": {
+      "pros": [
+        "Timeless styling that pairs with literally any casual shirt or hoodie",
+        "Heavyweight pure denim fabric develops gorgeous fades over time",
+        "Signature Levi's red tab and durable metal shank hardware"
+      ],
+      "cons": [
+        "Rigid non-stretch denim requires breaking in",
+        "Snug fit across shoulders if layering thick winter knitwear"
+      ],
+      "verdict": "An indestructible, universally flattering wardrobe staple you will still be wearing a decade from now.",
+      "sentiment": {
+        "positive": 92,
+        "neutral": 6,
+        "negative": 2
+      }
+    },
+    "priceHistory": [
+      {
+        "date": "2026-07-05",
+        "price": 3664
+      },
+      {
+        "date": "2026-07-06",
+        "price": 3608
+      },
+      {
+        "date": "2026-07-07",
+        "price": 3507
+      },
+      {
+        "date": "2026-07-08",
+        "price": 3468
+      },
+      {
+        "date": "2026-07-09",
+        "price": 3394
+      },
+      {
+        "date": "2026-07-10",
+        "price": 3473
+      },
+      {
+        "date": "2026-07-11",
+        "price": 3380
+      },
+      {
+        "date": "2026-07-12",
+        "price": 3469
+      },
+      {
+        "date": "2026-07-13",
+        "price": 3386
+      },
+      {
+        "date": "2026-07-14",
+        "price": 3478
+      },
+      {
+        "date": "2026-07-15",
+        "price": 3533
+      },
+      {
+        "date": "2026-07-16",
+        "price": 3502
+      },
+      {
+        "date": "2026-07-17",
+        "price": 3580
+      },
+      {
+        "date": "2026-07-18",
+        "price": 3508
+      },
+      {
+        "date": "2026-07-19",
+        "price": 3545
+      },
+      {
+        "date": "2026-07-20",
+        "price": 3609
+      },
+      {
+        "date": "2026-07-21",
+        "price": 3710
+      },
+      {
+        "date": "2026-07-22",
+        "price": 3763
+      },
+      {
+        "date": "2026-07-23",
+        "price": 3667
+      },
+      {
+        "date": "2026-07-24",
+        "price": 3587
+      },
+      {
+        "date": "2026-07-25",
+        "price": 3611
+      },
+      {
+        "date": "2026-07-26",
+        "price": 3627
+      },
+      {
+        "date": "2026-07-27",
+        "price": 3643
+      },
+      {
+        "date": "2026-07-28",
+        "price": 3707
+      },
+      {
+        "date": "2026-07-29",
+        "price": 3615
+      },
+      {
+        "date": "2026-07-30",
+        "price": 3516
+      },
+      {
+        "date": "2026-07-31",
+        "price": 3584
+      },
+      {
+        "date": "2026-08-01",
+        "price": 3524
+      },
+      {
+        "date": "2026-08-02",
+        "price": 3578
+      },
+      {
+        "date": "2026-08-03",
+        "price": 3644
+      },
+      {
+        "date": "2026-08-04",
+        "price": 3559
+      },
+      {
+        "date": "2026-08-05",
+        "price": 3477
+      },
+      {
+        "date": "2026-08-06",
+        "price": 3510
+      },
+      {
+        "date": "2026-08-07",
+        "price": 3533
+      },
+      {
+        "date": "2026-08-08",
+        "price": 3578
+      },
+      {
+        "date": "2026-08-09",
+        "price": 3619
+      },
+      {
+        "date": "2026-08-10",
+        "price": 3647
+      },
+      {
+        "date": "2026-08-11",
+        "price": 3694
+      },
+      {
+        "date": "2026-08-12",
+        "price": 3596
+      },
+      {
+        "date": "2026-08-13",
+        "price": 3534
+      },
+      {
+        "date": "2026-08-14",
+        "price": 3500
+      },
+      {
+        "date": "2026-08-15",
+        "price": 3590
+      },
+      {
+        "date": "2026-08-16",
+        "price": 3527
+      },
+      {
+        "date": "2026-08-17",
+        "price": 3532
+      },
+      {
+        "date": "2026-08-18",
+        "price": 3577
+      },
+      {
+        "date": "2026-08-19",
+        "price": 3547
+      },
+      {
+        "date": "2026-08-20",
+        "price": 3521
+      },
+      {
+        "date": "2026-08-21",
+        "price": 3470
+      },
+      {
+        "date": "2026-08-22",
+        "price": 3442
+      },
+      {
+        "date": "2026-08-23",
+        "price": 3342
+      },
+      {
+        "date": "2026-08-24",
+        "price": 3244
+      },
+      {
+        "date": "2026-08-25",
+        "price": 3282
+      },
+      {
+        "date": "2026-08-26",
+        "price": 3214
+      },
+      {
+        "date": "2026-08-27",
+        "price": 3127
+      },
+      {
+        "date": "2026-08-28",
+        "price": 3168
+      },
+      {
+        "date": "2026-08-29",
+        "price": 3141
+      },
+      {
+        "date": "2026-08-30",
+        "price": 3053
+      },
+      {
+        "date": "2026-08-31",
+        "price": 3137
+      },
+      {
+        "date": "2026-09-01",
+        "price": 3219
+      },
+      {
+        "date": "2026-09-02",
+        "price": 3243
+      },
+      {
+        "date": "2026-09-03",
+        "price": 3248
+      },
+      {
+        "date": "2026-09-04",
+        "price": 3279
+      },
+      {
+        "date": "2026-09-05",
+        "price": 3363
+      },
+      {
+        "date": "2026-09-06",
+        "price": 3430
+      },
+      {
+        "date": "2026-09-07",
+        "price": 3497
+      },
+      {
+        "date": "2026-09-08",
+        "price": 3445
+      },
+      {
+        "date": "2026-09-09",
+        "price": 3423
+      },
+      {
+        "date": "2026-09-10",
+        "price": 3329
+      },
+      {
+        "date": "2026-09-11",
+        "price": 3401
+      },
+      {
+        "date": "2026-09-12",
+        "price": 3358
+      },
+      {
+        "date": "2026-09-13",
+        "price": 3262
+      },
+      {
+        "date": "2026-09-14",
+        "price": 3263
+      },
+      {
+        "date": "2026-09-15",
+        "price": 3189
+      },
+      {
+        "date": "2026-09-16",
+        "price": 3209
+      },
+      {
+        "date": "2026-09-17",
+        "price": 3134
+      },
+      {
+        "date": "2026-09-18",
+        "price": 3152
+      },
+      {
+        "date": "2026-09-19",
+        "price": 3149
+      },
+      {
+        "date": "2026-09-20",
+        "price": 3081
+      },
+      {
+        "date": "2026-09-21",
+        "price": 3022
+      },
+      {
+        "date": "2026-09-22",
+        "price": 2932
+      },
+      {
+        "date": "2026-09-23",
+        "price": 2924
+      },
+      {
+        "date": "2026-09-24",
+        "price": 2997
+      },
+      {
+        "date": "2026-09-25",
+        "price": 2952
+      },
+      {
+        "date": "2026-09-26",
+        "price": 2982
+      },
+      {
+        "date": "2026-09-27",
+        "price": 3024
+      },
+      {
+        "date": "2026-09-28",
+        "price": 3086
+      },
+      {
+        "date": "2026-09-29",
+        "price": 3025
+      },
+      {
+        "date": "2026-09-30",
+        "price": 3109
+      },
+      {
+        "date": "2026-10-01",
+        "price": 3081
+      },
+      {
+        "date": "2026-10-02",
+        "price": 3299
+      }
+    ]
   },
-  "priceHistory": [
-    {
-      "date": "2026-07-05",
-      "price": 3664
-    },
-    {
-      "date": "2026-07-06",
-      "price": 3608
-    },
-    {
-      "date": "2026-07-07",
-      "price": 3507
-    },
-    {
-      "date": "2026-07-08",
-      "price": 3468
-    },
-    {
-      "date": "2026-07-09",
-      "price": 3394
-    },
-    {
-      "date": "2026-07-10",
-      "price": 3473
-    },
-    {
-      "date": "2026-07-11",
-      "price": 3380
-    },
-    {
-      "date": "2026-07-12",
-      "price": 3469
-    },
-    {
-      "date": "2026-07-13",
-      "price": 3386
-    },
-    {
-      "date": "2026-07-14",
-      "price": 3478
-    },
-    {
-      "date": "2026-07-15",
-      "price": 3533
-    },
-    {
-      "date": "2026-07-16",
-      "price": 3502
-    },
-    {
-      "date": "2026-07-17",
-      "price": 3580
-    },
-    {
-      "date": "2026-07-18",
-      "price": 3508
-    },
-    {
-      "date": "2026-07-19",
-      "price": 3545
-    },
-    {
-      "date": "2026-07-20",
-      "price": 3609
-    },
-    {
-      "date": "2026-07-21",
-      "price": 3710
-    },
-    {
-      "date": "2026-07-22",
-      "price": 3763
-    },
-    {
-      "date": "2026-07-23",
-      "price": 3667
-    },
-    {
-      "date": "2026-07-24",
-      "price": 3587
-    },
-    {
-      "date": "2026-07-25",
-      "price": 3611
-    },
-    {
-      "date": "2026-07-26",
-      "price": 3627
-    },
-    {
-      "date": "2026-07-27",
-      "price": 3643
-    },
-    {
-      "date": "2026-07-28",
-      "price": 3707
-    },
-    {
-      "date": "2026-07-29",
-      "price": 3615
-    },
-    {
-      "date": "2026-07-30",
-      "price": 3516
-    },
-    {
-      "date": "2026-07-31",
-      "price": 3584
-    },
-    {
-      "date": "2026-08-01",
-      "price": 3524
-    },
-    {
-      "date": "2026-08-02",
-      "price": 3578
-    },
-    {
-      "date": "2026-08-03",
-      "price": 3644
-    },
-    {
-      "date": "2026-08-04",
-      "price": 3559
-    },
-    {
-      "date": "2026-08-05",
-      "price": 3477
-    },
-    {
-      "date": "2026-08-06",
-      "price": 3510
-    },
-    {
-      "date": "2026-08-07",
-      "price": 3533
-    },
-    {
-      "date": "2026-08-08",
-      "price": 3578
-    },
-    {
-      "date": "2026-08-09",
-      "price": 3619
-    },
-    {
-      "date": "2026-08-10",
-      "price": 3647
-    },
-    {
-      "date": "2026-08-11",
-      "price": 3694
-    },
-    {
-      "date": "2026-08-12",
-      "price": 3596
-    },
-    {
-      "date": "2026-08-13",
-      "price": 3534
-    },
-    {
-      "date": "2026-08-14",
-      "price": 3500
-    },
-    {
-      "date": "2026-08-15",
-      "price": 3590
-    },
-    {
-      "date": "2026-08-16",
-      "price": 3527
-    },
-    {
-      "date": "2026-08-17",
-      "price": 3532
-    },
-    {
-      "date": "2026-08-18",
-      "price": 3577
-    },
-    {
-      "date": "2026-08-19",
-      "price": 3547
-    },
-    {
-      "date": "2026-08-20",
-      "price": 3521
-    },
-    {
-      "date": "2026-08-21",
-      "price": 3470
-    },
-    {
-      "date": "2026-08-22",
-      "price": 3442
-    },
-    {
-      "date": "2026-08-23",
-      "price": 3342
-    },
-    {
-      "date": "2026-08-24",
-      "price": 3244
-    },
-    {
-      "date": "2026-08-25",
-      "price": 3282
-    },
-    {
-      "date": "2026-08-26",
-      "price": 3214
-    },
-    {
-      "date": "2026-08-27",
-      "price": 3127
-    },
-    {
-      "date": "2026-08-28",
-      "price": 3168
-    },
-    {
-      "date": "2026-08-29",
-      "price": 3141
-    },
-    {
-      "date": "2026-08-30",
-      "price": 3053
-    },
-    {
-      "date": "2026-08-31",
-      "price": 3137
-    },
-    {
-      "date": "2026-09-01",
-      "price": 3219
-    },
-    {
-      "date": "2026-09-02",
-      "price": 3243
-    },
-    {
-      "date": "2026-09-03",
-      "price": 3248
-    },
-    {
-      "date": "2026-09-04",
-      "price": 3279
-    },
-    {
-      "date": "2026-09-05",
-      "price": 3363
-    },
-    {
-      "date": "2026-09-06",
-      "price": 3430
-    },
-    {
-      "date": "2026-09-07",
-      "price": 3497
-    },
-    {
-      "date": "2026-09-08",
-      "price": 3445
-    },
-    {
-      "date": "2026-09-09",
-      "price": 3423
-    },
-    {
-      "date": "2026-09-10",
-      "price": 3329
-    },
-    {
-      "date": "2026-09-11",
-      "price": 3401
-    },
-    {
-      "date": "2026-09-12",
-      "price": 3358
-    },
-    {
-      "date": "2026-09-13",
-      "price": 3262
-    },
-    {
-      "date": "2026-09-14",
-      "price": 3263
-    },
-    {
-      "date": "2026-09-15",
-      "price": 3189
-    },
-    {
-      "date": "2026-09-16",
-      "price": 3209
-    },
-    {
-      "date": "2026-09-17",
-      "price": 3134
-    },
-    {
-      "date": "2026-09-18",
-      "price": 3152
-    },
-    {
-      "date": "2026-09-19",
-      "price": 3149
-    },
-    {
-      "date": "2026-09-20",
-      "price": 3081
-    },
-    {
-      "date": "2026-09-21",
-      "price": 3022
-    },
-    {
-      "date": "2026-09-22",
-      "price": 2932
-    },
-    {
-      "date": "2026-09-23",
-      "price": 2924
-    },
-    {
-      "date": "2026-09-24",
-      "price": 2997
-    },
-    {
-      "date": "2026-09-25",
-      "price": 2952
-    },
-    {
-      "date": "2026-09-26",
-      "price": 2982
-    },
-    {
-      "date": "2026-09-27",
-      "price": 3024
-    },
-    {
-      "date": "2026-09-28",
-      "price": 3086
-    },
-    {
-      "date": "2026-09-29",
-      "price": 3025
-    },
-    {
-      "date": "2026-09-30",
-      "price": 3109
-    },
-    {
-      "date": "2026-10-01",
-      "price": 3081
-    },
-    {
-      "date": "2026-10-02",
-      "price": 3299
-    }
-  ]
-},
-{
-  "id": "fas-33",
-  "slug": "aurelia-womens-floral-printed-chiffon-dupatta",
-  "title": "AURELIA Women's Floral Printed Chiffon Dupatta with Tassels (Pastel Peach)",
-  "brand": "AURELIA",
-  "category": "Fashion",
-  "price": 499,
-  "mrp": 999,
-  "rating": 4.3,
-  "reviewCount": 5600,
-  "images": [
-    "/products/fas-19.jpg"
-  ],
-  "bullets": [
-    "Lightweight, sheer chiffon fabric drapes gracefully over shoulders and arms",
-    "Delicate watercolor floral motifs with subtle golden foil printed borders",
-    "Handcrafted matching tassel trim along the pallu edges adds ethnic elegance",
-    "Generous length (2.25 meters) allows diverse traditional draping styles",
-    "Instantly elevates plain cotton kurtis, anarkalis, and salwar suits"
-  ],
-  "description": "Add a touch of ethereal charm to your ethnic ensemble with Aurelia's featherlight floral chiffon dupatta finished with delicate tassel borders.",
-  "stock": 60,
-  "deliveryDays": 2,
-  "tags": [
-    "fashion",
-    "dupatta",
-    "women",
-    "aurelia",
-    "ethnic",
-    "chiffon",
-    "floral",
-    "under 500"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "Featherlight chiffon fabric drapes effortlessly without feeling heavy",
-      "Charming floral prints with subtle golden accents look rich and festive",
-      "Excellent value under ₹500 for transforming basic kurtis"
+  {
+    "id": "bok-11",
+    "slug": "cant-hurt-me-david-goggins",
+    "title": "Can't Hurt Me: Master Your Mind and Defy the Odds by David Goggins",
+    "brand": "Lioncrest Publishing",
+    "category": "Books",
+    "price": 499,
+    "mrp": 799,
+    "rating": 4.8,
+    "reviewCount": 48900,
+    "images": [
+      "/products/bok-11.jpg"
     ],
-    "cons": [
-      "Delicate fabric requires gentle hand wash or mesh laundry bag",
-      "Pins can snag fabric if sharp safety pins are used carelessly"
+    "bullets": [
+      "Gripping autobiographical memoir of overcoming childhood poverty, prejudice, and physical abuse",
+      "Reveals the '40% Rule': when your mind says you are exhausted, you are only at 40% capacity",
+      "Practical 'Accountability Mirror' and mental toughness challenges at the end of each chapter",
+      "How Goggins transformed from an overweight pest control worker into a Navy SEAL and ultra-endurance athlete",
+      "Over 5 million copies sold globally with transformative life-altering impact"
     ],
-    "verdict": "A versatile, affordable ethnic accessory that brings instant elegance and color to everyday kurtis.",
-    "sentiment": {
-      "positive": 88,
-      "neutral": 8,
-      "negative": 4
-    }
+    "description": "David Goggins shares his astonishing life story and reveals that most of us tap into only a fraction of our true mental and physical capabilities.",
+    "stock": 35,
+    "deliveryDays": 1,
+    "tags": [
+      "books",
+      "motivation",
+      "self-help",
+      "biography",
+      "david goggins",
+      "fitness",
+      "mindset",
+      "bestseller"
+    ],
+    "reviewSummary": {
+      "pros": [
+        "Raw, unflinching honesty that cuts through generic self-help cliches",
+        "Actionable mental challenges that immediately push you past discomfort",
+        "Inspires radical self-discipline and accountability in life and fitness"
+      ],
+      "cons": [
+        "Language is intensely raw and profanity-laden",
+        "Extreme physical feats are not directly replicable for everyone"
+      ],
+      "verdict": "The most electrifying book on mental toughness and self-mastery ever written.",
+      "sentiment": {
+        "positive": 94,
+        "neutral": 4,
+        "negative": 2
+      }
+    },
+    "priceHistory": [
+      {
+        "date": "2026-07-05",
+        "price": 547
+      },
+      {
+        "date": "2026-07-06",
+        "price": 550
+      },
+      {
+        "date": "2026-07-07",
+        "price": 555
+      },
+      {
+        "date": "2026-07-08",
+        "price": 567
+      },
+      {
+        "date": "2026-07-09",
+        "price": 579
+      },
+      {
+        "date": "2026-07-10",
+        "price": 578
+      },
+      {
+        "date": "2026-07-11",
+        "price": 594
+      },
+      {
+        "date": "2026-07-12",
+        "price": 588
+      },
+      {
+        "date": "2026-07-13",
+        "price": 605
+      },
+      {
+        "date": "2026-07-14",
+        "price": 591
+      },
+      {
+        "date": "2026-07-15",
+        "price": 607
+      },
+      {
+        "date": "2026-07-16",
+        "price": 608
+      },
+      {
+        "date": "2026-07-17",
+        "price": 593
+      },
+      {
+        "date": "2026-07-18",
+        "price": 579
+      },
+      {
+        "date": "2026-07-19",
+        "price": 578
+      },
+      {
+        "date": "2026-07-20",
+        "price": 587
+      },
+      {
+        "date": "2026-07-21",
+        "price": 578
+      },
+      {
+        "date": "2026-07-22",
+        "price": 594
+      },
+      {
+        "date": "2026-07-23",
+        "price": 587
+      },
+      {
+        "date": "2026-07-24",
+        "price": 584
+      },
+      {
+        "date": "2026-07-25",
+        "price": 596
+      },
+      {
+        "date": "2026-07-26",
+        "price": 602
+      },
+      {
+        "date": "2026-07-27",
+        "price": 609
+      },
+      {
+        "date": "2026-07-28",
+        "price": 605
+      },
+      {
+        "date": "2026-07-29",
+        "price": 599
+      },
+      {
+        "date": "2026-07-30",
+        "price": 599
+      },
+      {
+        "date": "2026-07-31",
+        "price": 595
+      },
+      {
+        "date": "2026-08-01",
+        "price": 603
+      },
+      {
+        "date": "2026-08-02",
+        "price": 593
+      },
+      {
+        "date": "2026-08-03",
+        "price": 598
+      },
+      {
+        "date": "2026-08-04",
+        "price": 606
+      },
+      {
+        "date": "2026-08-05",
+        "price": 609
+      },
+      {
+        "date": "2026-08-06",
+        "price": 609
+      },
+      {
+        "date": "2026-08-07",
+        "price": 609
+      },
+      {
+        "date": "2026-08-08",
+        "price": 591
+      },
+      {
+        "date": "2026-08-09",
+        "price": 597
+      },
+      {
+        "date": "2026-08-10",
+        "price": 602
+      },
+      {
+        "date": "2026-08-11",
+        "price": 603
+      },
+      {
+        "date": "2026-08-12",
+        "price": 594
+      },
+      {
+        "date": "2026-08-13",
+        "price": 582
+      },
+      {
+        "date": "2026-08-14",
+        "price": 581
+      },
+      {
+        "date": "2026-08-15",
+        "price": 569
+      },
+      {
+        "date": "2026-08-16",
+        "price": 575
+      },
+      {
+        "date": "2026-08-17",
+        "price": 562
+      },
+      {
+        "date": "2026-08-18",
+        "price": 569
+      },
+      {
+        "date": "2026-08-19",
+        "price": 578
+      },
+      {
+        "date": "2026-08-20",
+        "price": 568
+      },
+      {
+        "date": "2026-08-21",
+        "price": 552
+      },
+      {
+        "date": "2026-08-22",
+        "price": 545
+      },
+      {
+        "date": "2026-08-23",
+        "price": 539
+      },
+      {
+        "date": "2026-08-24",
+        "price": 529
+      },
+      {
+        "date": "2026-08-25",
+        "price": 543
+      },
+      {
+        "date": "2026-08-26",
+        "price": 544
+      },
+      {
+        "date": "2026-08-27",
+        "price": 545
+      },
+      {
+        "date": "2026-08-28",
+        "price": 534
+      },
+      {
+        "date": "2026-08-29",
+        "price": 541
+      },
+      {
+        "date": "2026-08-30",
+        "price": 542
+      },
+      {
+        "date": "2026-08-31",
+        "price": 540
+      },
+      {
+        "date": "2026-09-01",
+        "price": 533
+      },
+      {
+        "date": "2026-09-02",
+        "price": 519
+      },
+      {
+        "date": "2026-09-03",
+        "price": 515
+      },
+      {
+        "date": "2026-09-04",
+        "price": 515
+      },
+      {
+        "date": "2026-09-05",
+        "price": 505
+      },
+      {
+        "date": "2026-09-06",
+        "price": 516
+      },
+      {
+        "date": "2026-09-07",
+        "price": 512
+      },
+      {
+        "date": "2026-09-08",
+        "price": 517
+      },
+      {
+        "date": "2026-09-09",
+        "price": 521
+      },
+      {
+        "date": "2026-09-10",
+        "price": 529
+      },
+      {
+        "date": "2026-09-11",
+        "price": 518
+      },
+      {
+        "date": "2026-09-12",
+        "price": 529
+      },
+      {
+        "date": "2026-09-13",
+        "price": 524
+      },
+      {
+        "date": "2026-09-14",
+        "price": 539
+      },
+      {
+        "date": "2026-09-15",
+        "price": 541
+      },
+      {
+        "date": "2026-09-16",
+        "price": 538
+      },
+      {
+        "date": "2026-09-17",
+        "price": 539
+      },
+      {
+        "date": "2026-09-18",
+        "price": 542
+      },
+      {
+        "date": "2026-09-19",
+        "price": 554
+      },
+      {
+        "date": "2026-09-20",
+        "price": 564
+      },
+      {
+        "date": "2026-09-21",
+        "price": 562
+      },
+      {
+        "date": "2026-09-22",
+        "price": 552
+      },
+      {
+        "date": "2026-09-23",
+        "price": 564
+      },
+      {
+        "date": "2026-09-24",
+        "price": 553
+      },
+      {
+        "date": "2026-09-25",
+        "price": 556
+      },
+      {
+        "date": "2026-09-26",
+        "price": 557
+      },
+      {
+        "date": "2026-09-27",
+        "price": 562
+      },
+      {
+        "date": "2026-09-28",
+        "price": 568
+      },
+      {
+        "date": "2026-09-29",
+        "price": 583
+      },
+      {
+        "date": "2026-09-30",
+        "price": 570
+      },
+      {
+        "date": "2026-10-01",
+        "price": 555
+      },
+      {
+        "date": "2026-10-02",
+        "price": 499
+      }
+    ]
   },
-  "priceHistory": [
-    {
-      "date": "2026-07-05",
-      "price": 545
-    },
-    {
-      "date": "2026-07-06",
-      "price": 557
-    },
-    {
-      "date": "2026-07-07",
-      "price": 570
-    },
-    {
-      "date": "2026-07-08",
-      "price": 558
-    },
-    {
-      "date": "2026-07-09",
-      "price": 551
-    },
-    {
-      "date": "2026-07-10",
-      "price": 565
-    },
-    {
-      "date": "2026-07-11",
-      "price": 580
-    },
-    {
-      "date": "2026-07-12",
-      "price": 595
-    },
-    {
-      "date": "2026-07-13",
-      "price": 603
-    },
-    {
-      "date": "2026-07-14",
-      "price": 587
-    },
-    {
-      "date": "2026-07-15",
-      "price": 580
-    },
-    {
-      "date": "2026-07-16",
-      "price": 587
-    },
-    {
-      "date": "2026-07-17",
-      "price": 596
-    },
-    {
-      "date": "2026-07-18",
-      "price": 591
-    },
-    {
-      "date": "2026-07-19",
-      "price": 579
-    },
-    {
-      "date": "2026-07-20",
-      "price": 562
-    },
-    {
-      "date": "2026-07-21",
-      "price": 563
-    },
-    {
-      "date": "2026-07-22",
-      "price": 568
-    },
-    {
-      "date": "2026-07-23",
-      "price": 568
-    },
-    {
-      "date": "2026-07-24",
-      "price": 555
-    },
-    {
-      "date": "2026-07-25",
-      "price": 562
-    },
-    {
-      "date": "2026-07-26",
-      "price": 569
-    },
-    {
-      "date": "2026-07-27",
-      "price": 572
-    },
-    {
-      "date": "2026-07-28",
-      "price": 581
-    },
-    {
-      "date": "2026-07-29",
-      "price": 585
-    },
-    {
-      "date": "2026-07-30",
-      "price": 583
-    },
-    {
-      "date": "2026-07-31",
-      "price": 576
-    },
-    {
-      "date": "2026-08-01",
-      "price": 563
-    },
-    {
-      "date": "2026-08-02",
-      "price": 577
-    },
-    {
-      "date": "2026-08-03",
-      "price": 586
-    },
-    {
-      "date": "2026-08-04",
-      "price": 593
-    },
-    {
-      "date": "2026-08-05",
-      "price": 597
-    },
-    {
-      "date": "2026-08-06",
-      "price": 595
-    },
-    {
-      "date": "2026-08-07",
-      "price": 607
-    },
-    {
-      "date": "2026-08-08",
-      "price": 592
-    },
-    {
-      "date": "2026-08-09",
-      "price": 576
-    },
-    {
-      "date": "2026-08-10",
-      "price": 573
-    },
-    {
-      "date": "2026-08-11",
-      "price": 587
-    },
-    {
-      "date": "2026-08-12",
-      "price": 594
-    },
-    {
-      "date": "2026-08-13",
-      "price": 608
-    },
-    {
-      "date": "2026-08-14",
-      "price": 609
-    },
-    {
-      "date": "2026-08-15",
-      "price": 609
-    },
-    {
-      "date": "2026-08-16",
-      "price": 609
-    },
-    {
-      "date": "2026-08-17",
-      "price": 609
-    },
-    {
-      "date": "2026-08-18",
-      "price": 609
-    },
-    {
-      "date": "2026-08-19",
-      "price": 609
-    },
-    {
-      "date": "2026-08-20",
-      "price": 600
-    },
-    {
-      "date": "2026-08-21",
-      "price": 609
-    },
-    {
-      "date": "2026-08-22",
-      "price": 609
-    },
-    {
-      "date": "2026-08-23",
-      "price": 609
-    },
-    {
-      "date": "2026-08-24",
-      "price": 609
-    },
-    {
-      "date": "2026-08-25",
-      "price": 609
-    },
-    {
-      "date": "2026-08-26",
-      "price": 609
-    },
-    {
-      "date": "2026-08-27",
-      "price": 591
-    },
-    {
-      "date": "2026-08-28",
-      "price": 586
-    },
-    {
-      "date": "2026-08-29",
-      "price": 571
-    },
-    {
-      "date": "2026-08-30",
-      "price": 561
-    },
-    {
-      "date": "2026-08-31",
-      "price": 545
-    },
-    {
-      "date": "2026-09-01",
-      "price": 532
-    },
-    {
-      "date": "2026-09-02",
-      "price": 546
-    },
-    {
-      "date": "2026-09-03",
-      "price": 559
-    },
-    {
-      "date": "2026-09-04",
-      "price": 551
-    },
-    {
-      "date": "2026-09-05",
-      "price": 567
-    },
-    {
-      "date": "2026-09-06",
-      "price": 552
-    },
-    {
-      "date": "2026-09-07",
-      "price": 541
-    },
-    {
-      "date": "2026-09-08",
-      "price": 535
-    },
-    {
-      "date": "2026-09-09",
-      "price": 542
-    },
-    {
-      "date": "2026-09-10",
-      "price": 540
-    },
-    {
-      "date": "2026-09-11",
-      "price": 554
-    },
-    {
-      "date": "2026-09-12",
-      "price": 560
-    },
-    {
-      "date": "2026-09-13",
-      "price": 558
-    },
-    {
-      "date": "2026-09-14",
-      "price": 569
-    },
-    {
-      "date": "2026-09-15",
-      "price": 578
-    },
-    {
-      "date": "2026-09-16",
-      "price": 592
-    },
-    {
-      "date": "2026-09-17",
-      "price": 583
-    },
-    {
-      "date": "2026-09-18",
-      "price": 568
-    },
-    {
-      "date": "2026-09-19",
-      "price": 566
-    },
-    {
-      "date": "2026-09-20",
-      "price": 553
-    },
-    {
-      "date": "2026-09-21",
-      "price": 551
-    },
-    {
-      "date": "2026-09-22",
-      "price": 543
-    },
-    {
-      "date": "2026-09-23",
-      "price": 540
-    },
-    {
-      "date": "2026-09-24",
-      "price": 529
-    },
-    {
-      "date": "2026-09-25",
-      "price": 535
-    },
-    {
-      "date": "2026-09-26",
-      "price": 533
-    },
-    {
-      "date": "2026-09-27",
-      "price": 546
-    },
-    {
-      "date": "2026-09-28",
-      "price": 547
-    },
-    {
-      "date": "2026-09-29",
-      "price": 546
-    },
-    {
-      "date": "2026-09-30",
-      "price": 534
-    },
-    {
-      "date": "2026-10-01",
-      "price": 520
-    },
-    {
-      "date": "2026-10-02",
-      "price": 499
-    }
-  ]
-},
-{
-  "id": "bok-11",
-  "slug": "cant-hurt-me-david-goggins",
-  "title": "Can't Hurt Me: Master Your Mind and Defy the Odds by David Goggins",
-  "brand": "Lioncrest Publishing",
-  "category": "Books",
-  "price": 499,
-  "mrp": 799,
-  "rating": 4.8,
-  "reviewCount": 48900,
-  "images": [
-    "/products/bok-01.jpg"
-  ],
-  "bullets": [
-    "Gripping autobiographical memoir of overcoming childhood poverty, prejudice, and physical abuse",
-    "Reveals the '40% Rule': when your mind says you are exhausted, you are only at 40% capacity",
-    "Practical 'Accountability Mirror' and mental toughness challenges at the end of each chapter",
-    "How Goggins transformed from an overweight pest control worker into a Navy SEAL and ultra-endurance athlete",
-    "Over 5 million copies sold globally with transformative life-altering impact"
-  ],
-  "description": "David Goggins shares his astonishing life story and reveals that most of us tap into only a fraction of our true mental and physical capabilities.",
-  "stock": 35,
-  "deliveryDays": 1,
-  "tags": [
-    "books",
-    "motivation",
-    "self-help",
-    "biography",
-    "david goggins",
-    "fitness",
-    "mindset",
-    "bestseller"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "Raw, unflinching honesty that cuts through generic self-help cliches",
-      "Actionable mental challenges that immediately push you past discomfort",
-      "Inspires radical self-discipline and accountability in life and fitness"
+  {
+    "id": "bok-12",
+    "slug": "zero-to-one-peter-thiel",
+    "title": "Zero to One: Notes on Startups, or How to Build the Future by Peter Thiel",
+    "brand": "Portfolio Penguin",
+    "category": "Books",
+    "price": 399,
+    "mrp": 599,
+    "rating": 4.6,
+    "reviewCount": 31200,
+    "images": [
+      "/products/bok-12.jpg"
     ],
-    "cons": [
-      "Language is intensely raw and profanity-laden",
-      "Extreme physical feats are not directly replicable for everyone"
+    "bullets": [
+      "Contrarian framework for technology startups and value creation from legendary investor Peter Thiel",
+      "Explains why doing what someone else already knows how to do takes the world from 1 to n, but building something new takes it from 0 to 1",
+      "Insights on monopoly strategy, secrets, power laws, network effects, and proprietary technology",
+      "Short, punchy 210-page masterclass packed with memorable business philosophy",
+      "Essential reading for software engineers, product managers, and founders"
     ],
-    "verdict": "The most electrifying book on mental toughness and self-mastery ever written.",
-    "sentiment": {
-      "positive": 94,
-      "neutral": 4,
-      "negative": 2
-    }
+    "description": "Zero to One presents a totally clear and refreshing philosophy on how to think for yourself and create groundbreaking companies that build the future.",
+    "stock": 40,
+    "deliveryDays": 1,
+    "tags": [
+      "books",
+      "business",
+      "startups",
+      "technology",
+      "entrepreneurship",
+      "peter thiel",
+      "investing"
+    ],
+    "reviewSummary": {
+      "pros": [
+        "Forces you to question conventional wisdom and ask contrarian questions",
+        "Brevity and punchy writing: zero filler pages",
+        "Timeless frameworks on monopolies, network effects, and market size"
+      ],
+      "cons": [
+        "Philosophical perspectives on competition are controversial for some",
+        "Heavily Silicon Valley tech-centric"
+      ],
+      "verdict": "Required reading for anyone building software, startups, or products in the modern digital economy.",
+      "sentiment": {
+        "positive": 91,
+        "neutral": 6,
+        "negative": 3
+      }
+    },
+    "priceHistory": [
+      {
+        "date": "2026-07-05",
+        "price": 438
+      },
+      {
+        "date": "2026-07-06",
+        "price": 429
+      },
+      {
+        "date": "2026-07-07",
+        "price": 430
+      },
+      {
+        "date": "2026-07-08",
+        "price": 436
+      },
+      {
+        "date": "2026-07-09",
+        "price": 424
+      },
+      {
+        "date": "2026-07-10",
+        "price": 424
+      },
+      {
+        "date": "2026-07-11",
+        "price": 426
+      },
+      {
+        "date": "2026-07-12",
+        "price": 433
+      },
+      {
+        "date": "2026-07-13",
+        "price": 427
+      },
+      {
+        "date": "2026-07-14",
+        "price": 430
+      },
+      {
+        "date": "2026-07-15",
+        "price": 429
+      },
+      {
+        "date": "2026-07-16",
+        "price": 420
+      },
+      {
+        "date": "2026-07-17",
+        "price": 421
+      },
+      {
+        "date": "2026-07-18",
+        "price": 421
+      },
+      {
+        "date": "2026-07-19",
+        "price": 415
+      },
+      {
+        "date": "2026-07-20",
+        "price": 421
+      },
+      {
+        "date": "2026-07-21",
+        "price": 428
+      },
+      {
+        "date": "2026-07-22",
+        "price": 424
+      },
+      {
+        "date": "2026-07-23",
+        "price": 416
+      },
+      {
+        "date": "2026-07-24",
+        "price": 407
+      },
+      {
+        "date": "2026-07-25",
+        "price": 407
+      },
+      {
+        "date": "2026-07-26",
+        "price": 410
+      },
+      {
+        "date": "2026-07-27",
+        "price": 418
+      },
+      {
+        "date": "2026-07-28",
+        "price": 430
+      },
+      {
+        "date": "2026-07-29",
+        "price": 427
+      },
+      {
+        "date": "2026-07-30",
+        "price": 425
+      },
+      {
+        "date": "2026-07-31",
+        "price": 431
+      },
+      {
+        "date": "2026-08-01",
+        "price": 435
+      },
+      {
+        "date": "2026-08-02",
+        "price": 447
+      },
+      {
+        "date": "2026-08-03",
+        "price": 441
+      },
+      {
+        "date": "2026-08-04",
+        "price": 431
+      },
+      {
+        "date": "2026-08-05",
+        "price": 420
+      },
+      {
+        "date": "2026-08-06",
+        "price": 424
+      },
+      {
+        "date": "2026-08-07",
+        "price": 428
+      },
+      {
+        "date": "2026-08-08",
+        "price": 419
+      },
+      {
+        "date": "2026-08-09",
+        "price": 412
+      },
+      {
+        "date": "2026-08-10",
+        "price": 424
+      },
+      {
+        "date": "2026-08-11",
+        "price": 430
+      },
+      {
+        "date": "2026-08-12",
+        "price": 418
+      },
+      {
+        "date": "2026-08-13",
+        "price": 424
+      },
+      {
+        "date": "2026-08-14",
+        "price": 433
+      },
+      {
+        "date": "2026-08-15",
+        "price": 444
+      },
+      {
+        "date": "2026-08-16",
+        "price": 435
+      },
+      {
+        "date": "2026-08-17",
+        "price": 422
+      },
+      {
+        "date": "2026-08-18",
+        "price": 423
+      },
+      {
+        "date": "2026-08-19",
+        "price": 430
+      },
+      {
+        "date": "2026-08-20",
+        "price": 420
+      },
+      {
+        "date": "2026-08-21",
+        "price": 432
+      },
+      {
+        "date": "2026-08-22",
+        "price": 429
+      },
+      {
+        "date": "2026-08-23",
+        "price": 423
+      },
+      {
+        "date": "2026-08-24",
+        "price": 432
+      },
+      {
+        "date": "2026-08-25",
+        "price": 420
+      },
+      {
+        "date": "2026-08-26",
+        "price": 427
+      },
+      {
+        "date": "2026-08-27",
+        "price": 435
+      },
+      {
+        "date": "2026-08-28",
+        "price": 430
+      },
+      {
+        "date": "2026-08-29",
+        "price": 435
+      },
+      {
+        "date": "2026-08-30",
+        "price": 430
+      },
+      {
+        "date": "2026-08-31",
+        "price": 417
+      },
+      {
+        "date": "2026-09-01",
+        "price": 426
+      },
+      {
+        "date": "2026-09-02",
+        "price": 414
+      },
+      {
+        "date": "2026-09-03",
+        "price": 416
+      },
+      {
+        "date": "2026-09-04",
+        "price": 414
+      },
+      {
+        "date": "2026-09-05",
+        "price": 423
+      },
+      {
+        "date": "2026-09-06",
+        "price": 422
+      },
+      {
+        "date": "2026-09-07",
+        "price": 412
+      },
+      {
+        "date": "2026-09-08",
+        "price": 409
+      },
+      {
+        "date": "2026-09-09",
+        "price": 400
+      },
+      {
+        "date": "2026-09-10",
+        "price": 410
+      },
+      {
+        "date": "2026-09-11",
+        "price": 401
+      },
+      {
+        "date": "2026-09-12",
+        "price": 410
+      },
+      {
+        "date": "2026-09-13",
+        "price": 418
+      },
+      {
+        "date": "2026-09-14",
+        "price": 407
+      },
+      {
+        "date": "2026-09-15",
+        "price": 417
+      },
+      {
+        "date": "2026-09-16",
+        "price": 416
+      },
+      {
+        "date": "2026-09-17",
+        "price": 421
+      },
+      {
+        "date": "2026-09-18",
+        "price": 419
+      },
+      {
+        "date": "2026-09-19",
+        "price": 409
+      },
+      {
+        "date": "2026-09-20",
+        "price": 398
+      },
+      {
+        "date": "2026-09-21",
+        "price": 389
+      },
+      {
+        "date": "2026-09-22",
+        "price": 394
+      },
+      {
+        "date": "2026-09-23",
+        "price": 388
+      },
+      {
+        "date": "2026-09-24",
+        "price": 391
+      },
+      {
+        "date": "2026-09-25",
+        "price": 398
+      },
+      {
+        "date": "2026-09-26",
+        "price": 398
+      },
+      {
+        "date": "2026-09-27",
+        "price": 401
+      },
+      {
+        "date": "2026-09-28",
+        "price": 398
+      },
+      {
+        "date": "2026-09-29",
+        "price": 397
+      },
+      {
+        "date": "2026-09-30",
+        "price": 402
+      },
+      {
+        "date": "2026-10-01",
+        "price": 396
+      },
+      {
+        "date": "2026-10-02",
+        "price": 399
+      }
+    ]
   },
-  "priceHistory": [
-    {
-      "date": "2026-07-05",
-      "price": 547
-    },
-    {
-      "date": "2026-07-06",
-      "price": 550
-    },
-    {
-      "date": "2026-07-07",
-      "price": 555
-    },
-    {
-      "date": "2026-07-08",
-      "price": 567
-    },
-    {
-      "date": "2026-07-09",
-      "price": 579
-    },
-    {
-      "date": "2026-07-10",
-      "price": 578
-    },
-    {
-      "date": "2026-07-11",
-      "price": 594
-    },
-    {
-      "date": "2026-07-12",
-      "price": 588
-    },
-    {
-      "date": "2026-07-13",
-      "price": 605
-    },
-    {
-      "date": "2026-07-14",
-      "price": 591
-    },
-    {
-      "date": "2026-07-15",
-      "price": 607
-    },
-    {
-      "date": "2026-07-16",
-      "price": 608
-    },
-    {
-      "date": "2026-07-17",
-      "price": 593
-    },
-    {
-      "date": "2026-07-18",
-      "price": 579
-    },
-    {
-      "date": "2026-07-19",
-      "price": 578
-    },
-    {
-      "date": "2026-07-20",
-      "price": 587
-    },
-    {
-      "date": "2026-07-21",
-      "price": 578
-    },
-    {
-      "date": "2026-07-22",
-      "price": 594
-    },
-    {
-      "date": "2026-07-23",
-      "price": 587
-    },
-    {
-      "date": "2026-07-24",
-      "price": 584
-    },
-    {
-      "date": "2026-07-25",
-      "price": 596
-    },
-    {
-      "date": "2026-07-26",
-      "price": 602
-    },
-    {
-      "date": "2026-07-27",
-      "price": 609
-    },
-    {
-      "date": "2026-07-28",
-      "price": 605
-    },
-    {
-      "date": "2026-07-29",
-      "price": 599
-    },
-    {
-      "date": "2026-07-30",
-      "price": 599
-    },
-    {
-      "date": "2026-07-31",
-      "price": 595
-    },
-    {
-      "date": "2026-08-01",
-      "price": 603
-    },
-    {
-      "date": "2026-08-02",
-      "price": 593
-    },
-    {
-      "date": "2026-08-03",
-      "price": 598
-    },
-    {
-      "date": "2026-08-04",
-      "price": 606
-    },
-    {
-      "date": "2026-08-05",
-      "price": 609
-    },
-    {
-      "date": "2026-08-06",
-      "price": 609
-    },
-    {
-      "date": "2026-08-07",
-      "price": 609
-    },
-    {
-      "date": "2026-08-08",
-      "price": 591
-    },
-    {
-      "date": "2026-08-09",
-      "price": 597
-    },
-    {
-      "date": "2026-08-10",
-      "price": 602
-    },
-    {
-      "date": "2026-08-11",
-      "price": 603
-    },
-    {
-      "date": "2026-08-12",
-      "price": 594
-    },
-    {
-      "date": "2026-08-13",
-      "price": 582
-    },
-    {
-      "date": "2026-08-14",
-      "price": 581
-    },
-    {
-      "date": "2026-08-15",
-      "price": 569
-    },
-    {
-      "date": "2026-08-16",
-      "price": 575
-    },
-    {
-      "date": "2026-08-17",
-      "price": 562
-    },
-    {
-      "date": "2026-08-18",
-      "price": 569
-    },
-    {
-      "date": "2026-08-19",
-      "price": 578
-    },
-    {
-      "date": "2026-08-20",
-      "price": 568
-    },
-    {
-      "date": "2026-08-21",
-      "price": 552
-    },
-    {
-      "date": "2026-08-22",
-      "price": 545
-    },
-    {
-      "date": "2026-08-23",
-      "price": 539
-    },
-    {
-      "date": "2026-08-24",
-      "price": 529
-    },
-    {
-      "date": "2026-08-25",
-      "price": 543
-    },
-    {
-      "date": "2026-08-26",
-      "price": 544
-    },
-    {
-      "date": "2026-08-27",
-      "price": 545
-    },
-    {
-      "date": "2026-08-28",
-      "price": 534
-    },
-    {
-      "date": "2026-08-29",
-      "price": 541
-    },
-    {
-      "date": "2026-08-30",
-      "price": 542
-    },
-    {
-      "date": "2026-08-31",
-      "price": 540
-    },
-    {
-      "date": "2026-09-01",
-      "price": 533
-    },
-    {
-      "date": "2026-09-02",
-      "price": 519
-    },
-    {
-      "date": "2026-09-03",
-      "price": 515
-    },
-    {
-      "date": "2026-09-04",
-      "price": 515
-    },
-    {
-      "date": "2026-09-05",
-      "price": 505
-    },
-    {
-      "date": "2026-09-06",
-      "price": 516
-    },
-    {
-      "date": "2026-09-07",
-      "price": 512
-    },
-    {
-      "date": "2026-09-08",
-      "price": 517
-    },
-    {
-      "date": "2026-09-09",
-      "price": 521
-    },
-    {
-      "date": "2026-09-10",
-      "price": 529
-    },
-    {
-      "date": "2026-09-11",
-      "price": 518
-    },
-    {
-      "date": "2026-09-12",
-      "price": 529
-    },
-    {
-      "date": "2026-09-13",
-      "price": 524
-    },
-    {
-      "date": "2026-09-14",
-      "price": 539
-    },
-    {
-      "date": "2026-09-15",
-      "price": 541
-    },
-    {
-      "date": "2026-09-16",
-      "price": 538
-    },
-    {
-      "date": "2026-09-17",
-      "price": 539
-    },
-    {
-      "date": "2026-09-18",
-      "price": 542
-    },
-    {
-      "date": "2026-09-19",
-      "price": 554
-    },
-    {
-      "date": "2026-09-20",
-      "price": 564
-    },
-    {
-      "date": "2026-09-21",
-      "price": 562
-    },
-    {
-      "date": "2026-09-22",
-      "price": 552
-    },
-    {
-      "date": "2026-09-23",
-      "price": 564
-    },
-    {
-      "date": "2026-09-24",
-      "price": 553
-    },
-    {
-      "date": "2026-09-25",
-      "price": 556
-    },
-    {
-      "date": "2026-09-26",
-      "price": 557
-    },
-    {
-      "date": "2026-09-27",
-      "price": 562
-    },
-    {
-      "date": "2026-09-28",
-      "price": 568
-    },
-    {
-      "date": "2026-09-29",
-      "price": 583
-    },
-    {
-      "date": "2026-09-30",
-      "price": 570
-    },
-    {
-      "date": "2026-10-01",
-      "price": 555
-    },
-    {
-      "date": "2026-10-02",
-      "price": 499
-    }
-  ]
-},
-{
-  "id": "bok-12",
-  "slug": "zero-to-one-peter-thiel",
-  "title": "Zero to One: Notes on Startups, or How to Build the Future by Peter Thiel",
-  "brand": "Portfolio Penguin",
-  "category": "Books",
-  "price": 399,
-  "mrp": 599,
-  "rating": 4.6,
-  "reviewCount": 31200,
-  "images": [
-    "/products/bok-02.jpg"
-  ],
-  "bullets": [
-    "Contrarian framework for technology startups and value creation from legendary investor Peter Thiel",
-    "Explains why doing what someone else already knows how to do takes the world from 1 to n, but building something new takes it from 0 to 1",
-    "Insights on monopoly strategy, secrets, power laws, network effects, and proprietary technology",
-    "Short, punchy 210-page masterclass packed with memorable business philosophy",
-    "Essential reading for software engineers, product managers, and founders"
-  ],
-  "description": "Zero to One presents a totally clear and refreshing philosophy on how to think for yourself and create groundbreaking companies that build the future.",
-  "stock": 40,
-  "deliveryDays": 1,
-  "tags": [
-    "books",
-    "business",
-    "startups",
-    "technology",
-    "entrepreneurship",
-    "peter thiel",
-    "investing"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "Forces you to question conventional wisdom and ask contrarian questions",
-      "Brevity and punchy writing: zero filler pages",
-      "Timeless frameworks on monopolies, network effects, and market size"
+  {
+    "id": "bok-13",
+    "slug": "the-subtle-art-of-not-giving-a-fck-mark-manson",
+    "title": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach by Mark Manson",
+    "brand": "Harper",
+    "category": "Books",
+    "price": 349,
+    "mrp": 499,
+    "rating": 4.5,
+    "reviewCount": 52400,
+    "images": [
+      "/products/bok-13.jpg"
     ],
-    "cons": [
-      "Philosophical perspectives on competition are controversial for some",
-      "Heavily Silicon Valley tech-centric"
+    "bullets": [
+      "A refreshing, counterintuitive guide to living a good life by choosing what truly matters",
+      "Debunks toxic relentless positivity and explains how accepting flaws breeds real strength",
+      "Covers personal responsibility, value systems, confrontation, and embracing human mortality",
+      "#1 New York Times Bestseller translated into more than 60 languages",
+      "Entertaining, humorous conversational tone backed by academic research and anecdotes"
     ],
-    "verdict": "Required reading for anyone building software, startups, or products in the modern digital economy.",
-    "sentiment": {
-      "positive": 91,
-      "neutral": 6,
-      "negative": 3
-    }
+    "description": "Mark Manson cuts through the feel-good fluff to show that improving our lives hinges not on turning lemons into lemonade, but on learning to stomach lemons better.",
+    "stock": 50,
+    "deliveryDays": 1,
+    "tags": [
+      "books",
+      "self-help",
+      "psychology",
+      "philosophy",
+      "mark manson",
+      "bestseller",
+      "mindset"
+    ],
+    "reviewSummary": {
+      "pros": [
+        "Hilarious, witty, and profoundly relatable writing style",
+        "Liberating perspective on dropping trivial anxieties and societal expectations",
+        "Encourages prioritizing healthy, realistic values over shallow materialism"
+      ],
+      "cons": [
+        "Frequent profanity not suited for very conservative readers",
+        "Core Stoic philosophy repackaged in millennial vernacular"
+      ],
+      "verdict": "A brutally refreshing dose of realism for anyone burnt out by superficial hustle culture.",
+      "sentiment": {
+        "positive": 89,
+        "neutral": 7,
+        "negative": 4
+      }
+    },
+    "priceHistory": [
+      {
+        "date": "2026-07-05",
+        "price": 383
+      },
+      {
+        "date": "2026-07-06",
+        "price": 390
+      },
+      {
+        "date": "2026-07-07",
+        "price": 380
+      },
+      {
+        "date": "2026-07-08",
+        "price": 385
+      },
+      {
+        "date": "2026-07-09",
+        "price": 380
+      },
+      {
+        "date": "2026-07-10",
+        "price": 376
+      },
+      {
+        "date": "2026-07-11",
+        "price": 387
+      },
+      {
+        "date": "2026-07-12",
+        "price": 390
+      },
+      {
+        "date": "2026-07-13",
+        "price": 388
+      },
+      {
+        "date": "2026-07-14",
+        "price": 399
+      },
+      {
+        "date": "2026-07-15",
+        "price": 403
+      },
+      {
+        "date": "2026-07-16",
+        "price": 405
+      },
+      {
+        "date": "2026-07-17",
+        "price": 414
+      },
+      {
+        "date": "2026-07-18",
+        "price": 410
+      },
+      {
+        "date": "2026-07-19",
+        "price": 400
+      },
+      {
+        "date": "2026-07-20",
+        "price": 399
+      },
+      {
+        "date": "2026-07-21",
+        "price": 391
+      },
+      {
+        "date": "2026-07-22",
+        "price": 400
+      },
+      {
+        "date": "2026-07-23",
+        "price": 402
+      },
+      {
+        "date": "2026-07-24",
+        "price": 399
+      },
+      {
+        "date": "2026-07-25",
+        "price": 391
+      },
+      {
+        "date": "2026-07-26",
+        "price": 387
+      },
+      {
+        "date": "2026-07-27",
+        "price": 397
+      },
+      {
+        "date": "2026-07-28",
+        "price": 405
+      },
+      {
+        "date": "2026-07-29",
+        "price": 410
+      },
+      {
+        "date": "2026-07-30",
+        "price": 400
+      },
+      {
+        "date": "2026-07-31",
+        "price": 405
+      },
+      {
+        "date": "2026-08-01",
+        "price": 398
+      },
+      {
+        "date": "2026-08-02",
+        "price": 391
+      },
+      {
+        "date": "2026-08-03",
+        "price": 398
+      },
+      {
+        "date": "2026-08-04",
+        "price": 394
+      },
+      {
+        "date": "2026-08-05",
+        "price": 391
+      },
+      {
+        "date": "2026-08-06",
+        "price": 402
+      },
+      {
+        "date": "2026-08-07",
+        "price": 390
+      },
+      {
+        "date": "2026-08-08",
+        "price": 390
+      },
+      {
+        "date": "2026-08-09",
+        "price": 394
+      },
+      {
+        "date": "2026-08-10",
+        "price": 386
+      },
+      {
+        "date": "2026-08-11",
+        "price": 390
+      },
+      {
+        "date": "2026-08-12",
+        "price": 400
+      },
+      {
+        "date": "2026-08-13",
+        "price": 395
+      },
+      {
+        "date": "2026-08-14",
+        "price": 404
+      },
+      {
+        "date": "2026-08-15",
+        "price": 409
+      },
+      {
+        "date": "2026-08-16",
+        "price": 417
+      },
+      {
+        "date": "2026-08-17",
+        "price": 420
+      },
+      {
+        "date": "2026-08-18",
+        "price": 421
+      },
+      {
+        "date": "2026-08-19",
+        "price": 423
+      },
+      {
+        "date": "2026-08-20",
+        "price": 426
+      },
+      {
+        "date": "2026-08-21",
+        "price": 421
+      },
+      {
+        "date": "2026-08-22",
+        "price": 424
+      },
+      {
+        "date": "2026-08-23",
+        "price": 426
+      },
+      {
+        "date": "2026-08-24",
+        "price": 426
+      },
+      {
+        "date": "2026-08-25",
+        "price": 426
+      },
+      {
+        "date": "2026-08-26",
+        "price": 421
+      },
+      {
+        "date": "2026-08-27",
+        "price": 425
+      },
+      {
+        "date": "2026-08-28",
+        "price": 412
+      },
+      {
+        "date": "2026-08-29",
+        "price": 406
+      },
+      {
+        "date": "2026-08-30",
+        "price": 397
+      },
+      {
+        "date": "2026-08-31",
+        "price": 393
+      },
+      {
+        "date": "2026-09-01",
+        "price": 390
+      },
+      {
+        "date": "2026-09-02",
+        "price": 399
+      },
+      {
+        "date": "2026-09-03",
+        "price": 388
+      },
+      {
+        "date": "2026-09-04",
+        "price": 377
+      },
+      {
+        "date": "2026-09-05",
+        "price": 380
+      },
+      {
+        "date": "2026-09-06",
+        "price": 373
+      },
+      {
+        "date": "2026-09-07",
+        "price": 362
+      },
+      {
+        "date": "2026-09-08",
+        "price": 361
+      },
+      {
+        "date": "2026-09-09",
+        "price": 369
+      },
+      {
+        "date": "2026-09-10",
+        "price": 372
+      },
+      {
+        "date": "2026-09-11",
+        "price": 382
+      },
+      {
+        "date": "2026-09-12",
+        "price": 383
+      },
+      {
+        "date": "2026-09-13",
+        "price": 384
+      },
+      {
+        "date": "2026-09-14",
+        "price": 380
+      },
+      {
+        "date": "2026-09-15",
+        "price": 390
+      },
+      {
+        "date": "2026-09-16",
+        "price": 385
+      },
+      {
+        "date": "2026-09-17",
+        "price": 389
+      },
+      {
+        "date": "2026-09-18",
+        "price": 399
+      },
+      {
+        "date": "2026-09-19",
+        "price": 392
+      },
+      {
+        "date": "2026-09-20",
+        "price": 390
+      },
+      {
+        "date": "2026-09-21",
+        "price": 400
+      },
+      {
+        "date": "2026-09-22",
+        "price": 391
+      },
+      {
+        "date": "2026-09-23",
+        "price": 394
+      },
+      {
+        "date": "2026-09-24",
+        "price": 383
+      },
+      {
+        "date": "2026-09-25",
+        "price": 391
+      },
+      {
+        "date": "2026-09-26",
+        "price": 390
+      },
+      {
+        "date": "2026-09-27",
+        "price": 388
+      },
+      {
+        "date": "2026-09-28",
+        "price": 387
+      },
+      {
+        "date": "2026-09-29",
+        "price": 395
+      },
+      {
+        "date": "2026-09-30",
+        "price": 394
+      },
+      {
+        "date": "2026-10-01",
+        "price": 397
+      },
+      {
+        "date": "2026-10-02",
+        "price": 349
+      }
+    ]
   },
-  "priceHistory": [
-    {
-      "date": "2026-07-05",
-      "price": 438
-    },
-    {
-      "date": "2026-07-06",
-      "price": 429
-    },
-    {
-      "date": "2026-07-07",
-      "price": 430
-    },
-    {
-      "date": "2026-07-08",
-      "price": 436
-    },
-    {
-      "date": "2026-07-09",
-      "price": 424
-    },
-    {
-      "date": "2026-07-10",
-      "price": 424
-    },
-    {
-      "date": "2026-07-11",
-      "price": 426
-    },
-    {
-      "date": "2026-07-12",
-      "price": 433
-    },
-    {
-      "date": "2026-07-13",
-      "price": 427
-    },
-    {
-      "date": "2026-07-14",
-      "price": 430
-    },
-    {
-      "date": "2026-07-15",
-      "price": 429
-    },
-    {
-      "date": "2026-07-16",
-      "price": 420
-    },
-    {
-      "date": "2026-07-17",
-      "price": 421
-    },
-    {
-      "date": "2026-07-18",
-      "price": 421
-    },
-    {
-      "date": "2026-07-19",
-      "price": 415
-    },
-    {
-      "date": "2026-07-20",
-      "price": 421
-    },
-    {
-      "date": "2026-07-21",
-      "price": 428
-    },
-    {
-      "date": "2026-07-22",
-      "price": 424
-    },
-    {
-      "date": "2026-07-23",
-      "price": 416
-    },
-    {
-      "date": "2026-07-24",
-      "price": 407
-    },
-    {
-      "date": "2026-07-25",
-      "price": 407
-    },
-    {
-      "date": "2026-07-26",
-      "price": 410
-    },
-    {
-      "date": "2026-07-27",
-      "price": 418
-    },
-    {
-      "date": "2026-07-28",
-      "price": 430
-    },
-    {
-      "date": "2026-07-29",
-      "price": 427
-    },
-    {
-      "date": "2026-07-30",
-      "price": 425
-    },
-    {
-      "date": "2026-07-31",
-      "price": 431
-    },
-    {
-      "date": "2026-08-01",
-      "price": 435
-    },
-    {
-      "date": "2026-08-02",
-      "price": 447
-    },
-    {
-      "date": "2026-08-03",
-      "price": 441
-    },
-    {
-      "date": "2026-08-04",
-      "price": 431
-    },
-    {
-      "date": "2026-08-05",
-      "price": 420
-    },
-    {
-      "date": "2026-08-06",
-      "price": 424
-    },
-    {
-      "date": "2026-08-07",
-      "price": 428
-    },
-    {
-      "date": "2026-08-08",
-      "price": 419
-    },
-    {
-      "date": "2026-08-09",
-      "price": 412
-    },
-    {
-      "date": "2026-08-10",
-      "price": 424
-    },
-    {
-      "date": "2026-08-11",
-      "price": 430
-    },
-    {
-      "date": "2026-08-12",
-      "price": 418
-    },
-    {
-      "date": "2026-08-13",
-      "price": 424
-    },
-    {
-      "date": "2026-08-14",
-      "price": 433
-    },
-    {
-      "date": "2026-08-15",
-      "price": 444
-    },
-    {
-      "date": "2026-08-16",
-      "price": 435
-    },
-    {
-      "date": "2026-08-17",
-      "price": 422
-    },
-    {
-      "date": "2026-08-18",
-      "price": 423
-    },
-    {
-      "date": "2026-08-19",
-      "price": 430
-    },
-    {
-      "date": "2026-08-20",
-      "price": 420
-    },
-    {
-      "date": "2026-08-21",
-      "price": 432
-    },
-    {
-      "date": "2026-08-22",
-      "price": 429
-    },
-    {
-      "date": "2026-08-23",
-      "price": 423
-    },
-    {
-      "date": "2026-08-24",
-      "price": 432
-    },
-    {
-      "date": "2026-08-25",
-      "price": 420
-    },
-    {
-      "date": "2026-08-26",
-      "price": 427
-    },
-    {
-      "date": "2026-08-27",
-      "price": 435
-    },
-    {
-      "date": "2026-08-28",
-      "price": 430
-    },
-    {
-      "date": "2026-08-29",
-      "price": 435
-    },
-    {
-      "date": "2026-08-30",
-      "price": 430
-    },
-    {
-      "date": "2026-08-31",
-      "price": 417
-    },
-    {
-      "date": "2026-09-01",
-      "price": 426
-    },
-    {
-      "date": "2026-09-02",
-      "price": 414
-    },
-    {
-      "date": "2026-09-03",
-      "price": 416
-    },
-    {
-      "date": "2026-09-04",
-      "price": 414
-    },
-    {
-      "date": "2026-09-05",
-      "price": 423
-    },
-    {
-      "date": "2026-09-06",
-      "price": 422
-    },
-    {
-      "date": "2026-09-07",
-      "price": 412
-    },
-    {
-      "date": "2026-09-08",
-      "price": 409
-    },
-    {
-      "date": "2026-09-09",
-      "price": 400
-    },
-    {
-      "date": "2026-09-10",
-      "price": 410
-    },
-    {
-      "date": "2026-09-11",
-      "price": 401
-    },
-    {
-      "date": "2026-09-12",
-      "price": 410
-    },
-    {
-      "date": "2026-09-13",
-      "price": 418
-    },
-    {
-      "date": "2026-09-14",
-      "price": 407
-    },
-    {
-      "date": "2026-09-15",
-      "price": 417
-    },
-    {
-      "date": "2026-09-16",
-      "price": 416
-    },
-    {
-      "date": "2026-09-17",
-      "price": 421
-    },
-    {
-      "date": "2026-09-18",
-      "price": 419
-    },
-    {
-      "date": "2026-09-19",
-      "price": 409
-    },
-    {
-      "date": "2026-09-20",
-      "price": 398
-    },
-    {
-      "date": "2026-09-21",
-      "price": 389
-    },
-    {
-      "date": "2026-09-22",
-      "price": 394
-    },
-    {
-      "date": "2026-09-23",
-      "price": 388
-    },
-    {
-      "date": "2026-09-24",
-      "price": 391
-    },
-    {
-      "date": "2026-09-25",
-      "price": 398
-    },
-    {
-      "date": "2026-09-26",
-      "price": 398
-    },
-    {
-      "date": "2026-09-27",
-      "price": 401
-    },
-    {
-      "date": "2026-09-28",
-      "price": 398
-    },
-    {
-      "date": "2026-09-29",
-      "price": 397
-    },
-    {
-      "date": "2026-09-30",
-      "price": 402
-    },
-    {
-      "date": "2026-10-01",
-      "price": 396
-    },
-    {
-      "date": "2026-10-02",
-      "price": 399
-    }
-  ]
-},
-{
-  "id": "bok-13",
-  "slug": "the-subtle-art-of-not-giving-a-fck-mark-manson",
-  "title": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach by Mark Manson",
-  "brand": "Harper",
-  "category": "Books",
-  "price": 349,
-  "mrp": 499,
-  "rating": 4.5,
-  "reviewCount": 52400,
-  "images": [
-    "/products/bok-05.jpg"
-  ],
-  "bullets": [
-    "A refreshing, counterintuitive guide to living a good life by choosing what truly matters",
-    "Debunks toxic relentless positivity and explains how accepting flaws breeds real strength",
-    "Covers personal responsibility, value systems, confrontation, and embracing human mortality",
-    "#1 New York Times Bestseller translated into more than 60 languages",
-    "Entertaining, humorous conversational tone backed by academic research and anecdotes"
-  ],
-  "description": "Mark Manson cuts through the feel-good fluff to show that improving our lives hinges not on turning lemons into lemonade, but on learning to stomach lemons better.",
-  "stock": 50,
-  "deliveryDays": 1,
-  "tags": [
-    "books",
-    "self-help",
-    "psychology",
-    "philosophy",
-    "mark manson",
-    "bestseller",
-    "mindset"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "Hilarious, witty, and profoundly relatable writing style",
-      "Liberating perspective on dropping trivial anxieties and societal expectations",
-      "Encourages prioritizing healthy, realistic values over shallow materialism"
+  {
+    "id": "bok-14",
+    "slug": "steve-jobs-walter-isaacson",
+    "title": "Steve Jobs: The Exclusive Biography by Walter Isaacson",
+    "brand": "Simon & Schuster",
+    "category": "Books",
+    "price": 599,
+    "mrp": 999,
+    "rating": 4.7,
+    "reviewCount": 28900,
+    "images": [
+      "/products/bok-14.jpg"
     ],
-    "cons": [
-      "Frequent profanity not suited for very conservative readers",
-      "Core Stoic philosophy repackaged in millennial vernacular"
+    "bullets": [
+      "The definitive, unvarnished biography based on more than forty exhaustive interviews with Steve Jobs",
+      "Covers the founding of Apple, NeXT, Pixar, and the creation of Mac, iPod, iPhone, and iPad",
+      "Deep dive into Jobs' notorious 'Reality Distortion Field', passion for design, and relentless perfectionism",
+      "Fascinating boardroom drama, rivalry with Bill Gates, and battles within Silicon Valley",
+      "Over 650 pages of rich history, photographs, and unprecedented candid insights"
     ],
-    "verdict": "A brutally refreshing dose of realism for anyone burnt out by superficial hustle culture.",
-    "sentiment": {
-      "positive": 89,
-      "neutral": 7,
-      "negative": 4
-    }
+    "description": "Walter Isaacson’s riveting biography chronicles the roller-coaster life and searingly intense personality of a creative entrepreneur whose passion for perfection revolutionized six industries.",
+    "stock": 25,
+    "deliveryDays": 2,
+    "tags": [
+      "books",
+      "biography",
+      "steve jobs",
+      "apple",
+      "technology",
+      "history",
+      "design"
+    ],
+    "reviewSummary": {
+      "pros": [
+        "Masterful, balanced storytelling that neither idolizes nor demonizes Jobs",
+        "Incredible historical documentation of the birth of modern personal computing",
+        "Gripping lessons on product design, marketing elegance, and uncompromising standards"
+      ],
+      "cons": [
+        "Heavy, voluminous 650+ page volume requiring dedicated reading time",
+        "Jobs' abrasive management style can be jarring to read"
+      ],
+      "verdict": "One of the greatest business biographies ever written, offering invaluable lessons on product obsessions and visionary leadership.",
+      "sentiment": {
+        "positive": 93,
+        "neutral": 5,
+        "negative": 2
+      }
+    },
+    "priceHistory": [
+      {
+        "date": "2026-07-05",
+        "price": 656
+      },
+      {
+        "date": "2026-07-06",
+        "price": 651
+      },
+      {
+        "date": "2026-07-07",
+        "price": 649
+      },
+      {
+        "date": "2026-07-08",
+        "price": 654
+      },
+      {
+        "date": "2026-07-09",
+        "price": 646
+      },
+      {
+        "date": "2026-07-10",
+        "price": 659
+      },
+      {
+        "date": "2026-07-11",
+        "price": 675
+      },
+      {
+        "date": "2026-07-12",
+        "price": 664
+      },
+      {
+        "date": "2026-07-13",
+        "price": 660
+      },
+      {
+        "date": "2026-07-14",
+        "price": 659
+      },
+      {
+        "date": "2026-07-15",
+        "price": 663
+      },
+      {
+        "date": "2026-07-16",
+        "price": 661
+      },
+      {
+        "date": "2026-07-17",
+        "price": 659
+      },
+      {
+        "date": "2026-07-18",
+        "price": 664
+      },
+      {
+        "date": "2026-07-19",
+        "price": 667
+      },
+      {
+        "date": "2026-07-20",
+        "price": 660
+      },
+      {
+        "date": "2026-07-21",
+        "price": 677
+      },
+      {
+        "date": "2026-07-22",
+        "price": 695
+      },
+      {
+        "date": "2026-07-23",
+        "price": 683
+      },
+      {
+        "date": "2026-07-24",
+        "price": 665
+      },
+      {
+        "date": "2026-07-25",
+        "price": 658
+      },
+      {
+        "date": "2026-07-26",
+        "price": 670
+      },
+      {
+        "date": "2026-07-27",
+        "price": 661
+      },
+      {
+        "date": "2026-07-28",
+        "price": 650
+      },
+      {
+        "date": "2026-07-29",
+        "price": 642
+      },
+      {
+        "date": "2026-07-30",
+        "price": 651
+      },
+      {
+        "date": "2026-07-31",
+        "price": 634
+      },
+      {
+        "date": "2026-08-01",
+        "price": 619
+      },
+      {
+        "date": "2026-08-02",
+        "price": 601
+      },
+      {
+        "date": "2026-08-03",
+        "price": 596
+      },
+      {
+        "date": "2026-08-04",
+        "price": 596
+      },
+      {
+        "date": "2026-08-05",
+        "price": 589
+      },
+      {
+        "date": "2026-08-06",
+        "price": 575
+      },
+      {
+        "date": "2026-08-07",
+        "price": 591
+      },
+      {
+        "date": "2026-08-08",
+        "price": 575
+      },
+      {
+        "date": "2026-08-09",
+        "price": 591
+      },
+      {
+        "date": "2026-08-10",
+        "price": 579
+      },
+      {
+        "date": "2026-08-11",
+        "price": 564
+      },
+      {
+        "date": "2026-08-12",
+        "price": 576
+      },
+      {
+        "date": "2026-08-13",
+        "price": 566
+      },
+      {
+        "date": "2026-08-14",
+        "price": 563
+      },
+      {
+        "date": "2026-08-15",
+        "price": 574
+      },
+      {
+        "date": "2026-08-16",
+        "price": 571
+      },
+      {
+        "date": "2026-08-17",
+        "price": 587
+      },
+      {
+        "date": "2026-08-18",
+        "price": 582
+      },
+      {
+        "date": "2026-08-19",
+        "price": 580
+      },
+      {
+        "date": "2026-08-20",
+        "price": 574
+      },
+      {
+        "date": "2026-08-21",
+        "price": 557
+      },
+      {
+        "date": "2026-08-22",
+        "price": 552
+      },
+      {
+        "date": "2026-08-23",
+        "price": 543
+      },
+      {
+        "date": "2026-08-24",
+        "price": 539
+      },
+      {
+        "date": "2026-08-25",
+        "price": 534
+      },
+      {
+        "date": "2026-08-26",
+        "price": 540
+      },
+      {
+        "date": "2026-08-27",
+        "price": 529
+      },
+      {
+        "date": "2026-08-28",
+        "price": 528
+      },
+      {
+        "date": "2026-08-29",
+        "price": 527
+      },
+      {
+        "date": "2026-08-30",
+        "price": 527
+      },
+      {
+        "date": "2026-08-31",
+        "price": 527
+      },
+      {
+        "date": "2026-09-01",
+        "price": 527
+      },
+      {
+        "date": "2026-09-02",
+        "price": 527
+      },
+      {
+        "date": "2026-09-03",
+        "price": 527
+      },
+      {
+        "date": "2026-09-04",
+        "price": 527
+      },
+      {
+        "date": "2026-09-05",
+        "price": 530
+      },
+      {
+        "date": "2026-09-06",
+        "price": 527
+      },
+      {
+        "date": "2026-09-07",
+        "price": 536
+      },
+      {
+        "date": "2026-09-08",
+        "price": 531
+      },
+      {
+        "date": "2026-09-09",
+        "price": 527
+      },
+      {
+        "date": "2026-09-10",
+        "price": 527
+      },
+      {
+        "date": "2026-09-11",
+        "price": 527
+      },
+      {
+        "date": "2026-09-12",
+        "price": 540
+      },
+      {
+        "date": "2026-09-13",
+        "price": 527
+      },
+      {
+        "date": "2026-09-14",
+        "price": 541
+      },
+      {
+        "date": "2026-09-15",
+        "price": 536
+      },
+      {
+        "date": "2026-09-16",
+        "price": 528
+      },
+      {
+        "date": "2026-09-17",
+        "price": 543
+      },
+      {
+        "date": "2026-09-18",
+        "price": 537
+      },
+      {
+        "date": "2026-09-19",
+        "price": 546
+      },
+      {
+        "date": "2026-09-20",
+        "price": 557
+      },
+      {
+        "date": "2026-09-21",
+        "price": 550
+      },
+      {
+        "date": "2026-09-22",
+        "price": 559
+      },
+      {
+        "date": "2026-09-23",
+        "price": 554
+      },
+      {
+        "date": "2026-09-24",
+        "price": 566
+      },
+      {
+        "date": "2026-09-25",
+        "price": 580
+      },
+      {
+        "date": "2026-09-26",
+        "price": 579
+      },
+      {
+        "date": "2026-09-27",
+        "price": 594
+      },
+      {
+        "date": "2026-09-28",
+        "price": 603
+      },
+      {
+        "date": "2026-09-29",
+        "price": 602
+      },
+      {
+        "date": "2026-09-30",
+        "price": 598
+      },
+      {
+        "date": "2026-10-01",
+        "price": 588
+      },
+      {
+        "date": "2026-10-02",
+        "price": 599
+      }
+    ]
   },
-  "priceHistory": [
-    {
-      "date": "2026-07-05",
-      "price": 383
-    },
-    {
-      "date": "2026-07-06",
-      "price": 390
-    },
-    {
-      "date": "2026-07-07",
-      "price": 380
-    },
-    {
-      "date": "2026-07-08",
-      "price": 385
-    },
-    {
-      "date": "2026-07-09",
-      "price": 380
-    },
-    {
-      "date": "2026-07-10",
-      "price": 376
-    },
-    {
-      "date": "2026-07-11",
-      "price": 387
-    },
-    {
-      "date": "2026-07-12",
-      "price": 390
-    },
-    {
-      "date": "2026-07-13",
-      "price": 388
-    },
-    {
-      "date": "2026-07-14",
-      "price": 399
-    },
-    {
-      "date": "2026-07-15",
-      "price": 403
-    },
-    {
-      "date": "2026-07-16",
-      "price": 405
-    },
-    {
-      "date": "2026-07-17",
-      "price": 414
-    },
-    {
-      "date": "2026-07-18",
-      "price": 410
-    },
-    {
-      "date": "2026-07-19",
-      "price": 400
-    },
-    {
-      "date": "2026-07-20",
-      "price": 399
-    },
-    {
-      "date": "2026-07-21",
-      "price": 391
-    },
-    {
-      "date": "2026-07-22",
-      "price": 400
-    },
-    {
-      "date": "2026-07-23",
-      "price": 402
-    },
-    {
-      "date": "2026-07-24",
-      "price": 399
-    },
-    {
-      "date": "2026-07-25",
-      "price": 391
-    },
-    {
-      "date": "2026-07-26",
-      "price": 387
-    },
-    {
-      "date": "2026-07-27",
-      "price": 397
-    },
-    {
-      "date": "2026-07-28",
-      "price": 405
-    },
-    {
-      "date": "2026-07-29",
-      "price": 410
-    },
-    {
-      "date": "2026-07-30",
-      "price": 400
-    },
-    {
-      "date": "2026-07-31",
-      "price": 405
-    },
-    {
-      "date": "2026-08-01",
-      "price": 398
-    },
-    {
-      "date": "2026-08-02",
-      "price": 391
-    },
-    {
-      "date": "2026-08-03",
-      "price": 398
-    },
-    {
-      "date": "2026-08-04",
-      "price": 394
-    },
-    {
-      "date": "2026-08-05",
-      "price": 391
-    },
-    {
-      "date": "2026-08-06",
-      "price": 402
-    },
-    {
-      "date": "2026-08-07",
-      "price": 390
-    },
-    {
-      "date": "2026-08-08",
-      "price": 390
-    },
-    {
-      "date": "2026-08-09",
-      "price": 394
-    },
-    {
-      "date": "2026-08-10",
-      "price": 386
-    },
-    {
-      "date": "2026-08-11",
-      "price": 390
-    },
-    {
-      "date": "2026-08-12",
-      "price": 400
-    },
-    {
-      "date": "2026-08-13",
-      "price": 395
-    },
-    {
-      "date": "2026-08-14",
-      "price": 404
-    },
-    {
-      "date": "2026-08-15",
-      "price": 409
-    },
-    {
-      "date": "2026-08-16",
-      "price": 417
-    },
-    {
-      "date": "2026-08-17",
-      "price": 420
-    },
-    {
-      "date": "2026-08-18",
-      "price": 421
-    },
-    {
-      "date": "2026-08-19",
-      "price": 423
-    },
-    {
-      "date": "2026-08-20",
-      "price": 426
-    },
-    {
-      "date": "2026-08-21",
-      "price": 421
-    },
-    {
-      "date": "2026-08-22",
-      "price": 424
-    },
-    {
-      "date": "2026-08-23",
-      "price": 426
-    },
-    {
-      "date": "2026-08-24",
-      "price": 426
-    },
-    {
-      "date": "2026-08-25",
-      "price": 426
-    },
-    {
-      "date": "2026-08-26",
-      "price": 421
-    },
-    {
-      "date": "2026-08-27",
-      "price": 425
-    },
-    {
-      "date": "2026-08-28",
-      "price": 412
-    },
-    {
-      "date": "2026-08-29",
-      "price": 406
-    },
-    {
-      "date": "2026-08-30",
-      "price": 397
-    },
-    {
-      "date": "2026-08-31",
-      "price": 393
-    },
-    {
-      "date": "2026-09-01",
-      "price": 390
-    },
-    {
-      "date": "2026-09-02",
-      "price": 399
-    },
-    {
-      "date": "2026-09-03",
-      "price": 388
-    },
-    {
-      "date": "2026-09-04",
-      "price": 377
-    },
-    {
-      "date": "2026-09-05",
-      "price": 380
-    },
-    {
-      "date": "2026-09-06",
-      "price": 373
-    },
-    {
-      "date": "2026-09-07",
-      "price": 362
-    },
-    {
-      "date": "2026-09-08",
-      "price": 361
-    },
-    {
-      "date": "2026-09-09",
-      "price": 369
-    },
-    {
-      "date": "2026-09-10",
-      "price": 372
-    },
-    {
-      "date": "2026-09-11",
-      "price": 382
-    },
-    {
-      "date": "2026-09-12",
-      "price": 383
-    },
-    {
-      "date": "2026-09-13",
-      "price": 384
-    },
-    {
-      "date": "2026-09-14",
-      "price": 380
-    },
-    {
-      "date": "2026-09-15",
-      "price": 390
-    },
-    {
-      "date": "2026-09-16",
-      "price": 385
-    },
-    {
-      "date": "2026-09-17",
-      "price": 389
-    },
-    {
-      "date": "2026-09-18",
-      "price": 399
-    },
-    {
-      "date": "2026-09-19",
-      "price": 392
-    },
-    {
-      "date": "2026-09-20",
-      "price": 390
-    },
-    {
-      "date": "2026-09-21",
-      "price": 400
-    },
-    {
-      "date": "2026-09-22",
-      "price": 391
-    },
-    {
-      "date": "2026-09-23",
-      "price": 394
-    },
-    {
-      "date": "2026-09-24",
-      "price": 383
-    },
-    {
-      "date": "2026-09-25",
-      "price": 391
-    },
-    {
-      "date": "2026-09-26",
-      "price": 390
-    },
-    {
-      "date": "2026-09-27",
-      "price": 388
-    },
-    {
-      "date": "2026-09-28",
-      "price": 387
-    },
-    {
-      "date": "2026-09-29",
-      "price": 395
-    },
-    {
-      "date": "2026-09-30",
-      "price": 394
-    },
-    {
-      "date": "2026-10-01",
-      "price": 397
-    },
-    {
-      "date": "2026-10-02",
-      "price": 349
-    }
-  ]
-},
-{
-  "id": "bok-14",
-  "slug": "steve-jobs-walter-isaacson",
-  "title": "Steve Jobs: The Exclusive Biography by Walter Isaacson",
-  "brand": "Simon & Schuster",
-  "category": "Books",
-  "price": 599,
-  "mrp": 999,
-  "rating": 4.7,
-  "reviewCount": 28900,
-  "images": [
-    "/products/bok-03.jpg"
-  ],
-  "bullets": [
-    "The definitive, unvarnished biography based on more than forty exhaustive interviews with Steve Jobs",
-    "Covers the founding of Apple, NeXT, Pixar, and the creation of Mac, iPod, iPhone, and iPad",
-    "Deep dive into Jobs' notorious 'Reality Distortion Field', passion for design, and relentless perfectionism",
-    "Fascinating boardroom drama, rivalry with Bill Gates, and battles within Silicon Valley",
-    "Over 650 pages of rich history, photographs, and unprecedented candid insights"
-  ],
-  "description": "Walter Isaacson’s riveting biography chronicles the roller-coaster life and searingly intense personality of a creative entrepreneur whose passion for perfection revolutionized six industries.",
-  "stock": 25,
-  "deliveryDays": 2,
-  "tags": [
-    "books",
-    "biography",
-    "steve jobs",
-    "apple",
-    "technology",
-    "history",
-    "design"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "Masterful, balanced storytelling that neither idolizes nor demonizes Jobs",
-      "Incredible historical documentation of the birth of modern personal computing",
-      "Gripping lessons on product design, marketing elegance, and uncompromising standards"
+  {
+    "id": "bok-15",
+    "slug": "think-and-grow-rich-napoleon-hill",
+    "title": "Think and Grow Rich by Napoleon Hill (Original Landmark Edition)",
+    "brand": "Penguin",
+    "category": "Books",
+    "price": 249,
+    "mrp": 399,
+    "rating": 4.5,
+    "reviewCount": 61000,
+    "images": [
+      "/products/bok-15.jpg"
     ],
-    "cons": [
-      "Heavy, voluminous 650+ page volume requiring dedicated reading time",
-      "Jobs' abrasive management style can be jarring to read"
+    "bullets": [
+      "The all-time classic finance and mindset book based on 20 years studying 500 self-made millionaires",
+      "Details the 13 proven principles of success including Definite Purpose, Auto-suggestion, and the Mastermind",
+      "Explains how burning desire and persistence translate thoughts into tangible financial wealth",
+      "Enduring principles that influenced modern legends from Warren Buffett to Tony Robbins",
+      "Compact, easy-to-read paperback format perfect for daily reflection"
     ],
-    "verdict": "One of the greatest business biographies ever written, offering invaluable lessons on product obsessions and visionary leadership.",
-    "sentiment": {
-      "positive": 93,
-      "neutral": 5,
-      "negative": 2
-    }
+    "description": "Think and Grow Rich is the legendary personal achievement manual that has helped millions across the globe cultivate financial independence and purposeful accomplishment.",
+    "stock": 65,
+    "deliveryDays": 1,
+    "tags": [
+      "books",
+      "wealth",
+      "mindset",
+      "finance",
+      "classic",
+      "success",
+      "napoleon hill",
+      "under 300"
+    ],
+    "reviewSummary": {
+      "pros": [
+        "Timeless foundational principles on desire, persistence, and positive focus",
+        "Fascinating historical case studies from Henry Ford, Thomas Edison, and Andrew Carnegie",
+        "Tremendous return on investment for an inexpensive classic paperback"
+      ],
+      "cons": [
+        "Early 20th-century prose style can feel formal to modern readers",
+        "Requires disciplined action rather than passive reading"
+      ],
+      "verdict": "The grandfather of all personal wealth literature whose core principles remain remarkably valid.",
+      "sentiment": {
+        "positive": 88,
+        "neutral": 8,
+        "negative": 4
+      }
+    },
+    "priceHistory": [
+      {
+        "date": "2026-07-05",
+        "price": 272
+      },
+      {
+        "date": "2026-07-06",
+        "price": 276
+      },
+      {
+        "date": "2026-07-07",
+        "price": 276
+      },
+      {
+        "date": "2026-07-08",
+        "price": 280
+      },
+      {
+        "date": "2026-07-09",
+        "price": 283
+      },
+      {
+        "date": "2026-07-10",
+        "price": 288
+      },
+      {
+        "date": "2026-07-11",
+        "price": 282
+      },
+      {
+        "date": "2026-07-12",
+        "price": 289
+      },
+      {
+        "date": "2026-07-13",
+        "price": 296
+      },
+      {
+        "date": "2026-07-14",
+        "price": 290
+      },
+      {
+        "date": "2026-07-15",
+        "price": 290
+      },
+      {
+        "date": "2026-07-16",
+        "price": 292
+      },
+      {
+        "date": "2026-07-17",
+        "price": 294
+      },
+      {
+        "date": "2026-07-18",
+        "price": 294
+      },
+      {
+        "date": "2026-07-19",
+        "price": 297
+      },
+      {
+        "date": "2026-07-20",
+        "price": 289
+      },
+      {
+        "date": "2026-07-21",
+        "price": 287
+      },
+      {
+        "date": "2026-07-22",
+        "price": 295
+      },
+      {
+        "date": "2026-07-23",
+        "price": 294
+      },
+      {
+        "date": "2026-07-24",
+        "price": 296
+      },
+      {
+        "date": "2026-07-25",
+        "price": 304
+      },
+      {
+        "date": "2026-07-26",
+        "price": 302
+      },
+      {
+        "date": "2026-07-27",
+        "price": 304
+      },
+      {
+        "date": "2026-07-28",
+        "price": 299
+      },
+      {
+        "date": "2026-07-29",
+        "price": 304
+      },
+      {
+        "date": "2026-07-30",
+        "price": 304
+      },
+      {
+        "date": "2026-07-31",
+        "price": 304
+      },
+      {
+        "date": "2026-08-01",
+        "price": 298
+      },
+      {
+        "date": "2026-08-02",
+        "price": 292
+      },
+      {
+        "date": "2026-08-03",
+        "price": 292
+      },
+      {
+        "date": "2026-08-04",
+        "price": 289
+      },
+      {
+        "date": "2026-08-05",
+        "price": 289
+      },
+      {
+        "date": "2026-08-06",
+        "price": 288
+      },
+      {
+        "date": "2026-08-07",
+        "price": 284
+      },
+      {
+        "date": "2026-08-08",
+        "price": 277
+      },
+      {
+        "date": "2026-08-09",
+        "price": 275
+      },
+      {
+        "date": "2026-08-10",
+        "price": 282
+      },
+      {
+        "date": "2026-08-11",
+        "price": 286
+      },
+      {
+        "date": "2026-08-12",
+        "price": 279
+      },
+      {
+        "date": "2026-08-13",
+        "price": 286
+      },
+      {
+        "date": "2026-08-14",
+        "price": 282
+      },
+      {
+        "date": "2026-08-15",
+        "price": 275
+      },
+      {
+        "date": "2026-08-16",
+        "price": 273
+      },
+      {
+        "date": "2026-08-17",
+        "price": 265
+      },
+      {
+        "date": "2026-08-18",
+        "price": 268
+      },
+      {
+        "date": "2026-08-19",
+        "price": 266
+      },
+      {
+        "date": "2026-08-20",
+        "price": 271
+      },
+      {
+        "date": "2026-08-21",
+        "price": 277
+      },
+      {
+        "date": "2026-08-22",
+        "price": 274
+      },
+      {
+        "date": "2026-08-23",
+        "price": 282
+      },
+      {
+        "date": "2026-08-24",
+        "price": 278
+      },
+      {
+        "date": "2026-08-25",
+        "price": 276
+      },
+      {
+        "date": "2026-08-26",
+        "price": 269
+      },
+      {
+        "date": "2026-08-27",
+        "price": 266
+      },
+      {
+        "date": "2026-08-28",
+        "price": 266
+      },
+      {
+        "date": "2026-08-29",
+        "price": 270
+      },
+      {
+        "date": "2026-08-30",
+        "price": 277
+      },
+      {
+        "date": "2026-08-31",
+        "price": 279
+      },
+      {
+        "date": "2026-09-01",
+        "price": 285
+      },
+      {
+        "date": "2026-09-02",
+        "price": 286
+      },
+      {
+        "date": "2026-09-03",
+        "price": 279
+      },
+      {
+        "date": "2026-09-04",
+        "price": 287
+      },
+      {
+        "date": "2026-09-05",
+        "price": 295
+      },
+      {
+        "date": "2026-09-06",
+        "price": 301
+      },
+      {
+        "date": "2026-09-07",
+        "price": 297
+      },
+      {
+        "date": "2026-09-08",
+        "price": 299
+      },
+      {
+        "date": "2026-09-09",
+        "price": 298
+      },
+      {
+        "date": "2026-09-10",
+        "price": 291
+      },
+      {
+        "date": "2026-09-11",
+        "price": 297
+      },
+      {
+        "date": "2026-09-12",
+        "price": 298
+      },
+      {
+        "date": "2026-09-13",
+        "price": 297
+      },
+      {
+        "date": "2026-09-14",
+        "price": 295
+      },
+      {
+        "date": "2026-09-15",
+        "price": 286
+      },
+      {
+        "date": "2026-09-16",
+        "price": 293
+      },
+      {
+        "date": "2026-09-17",
+        "price": 290
+      },
+      {
+        "date": "2026-09-18",
+        "price": 293
+      },
+      {
+        "date": "2026-09-19",
+        "price": 287
+      },
+      {
+        "date": "2026-09-20",
+        "price": 288
+      },
+      {
+        "date": "2026-09-21",
+        "price": 280
+      },
+      {
+        "date": "2026-09-22",
+        "price": 279
+      },
+      {
+        "date": "2026-09-23",
+        "price": 274
+      },
+      {
+        "date": "2026-09-24",
+        "price": 273
+      },
+      {
+        "date": "2026-09-25",
+        "price": 275
+      },
+      {
+        "date": "2026-09-26",
+        "price": 275
+      },
+      {
+        "date": "2026-09-27",
+        "price": 276
+      },
+      {
+        "date": "2026-09-28",
+        "price": 272
+      },
+      {
+        "date": "2026-09-29",
+        "price": 267
+      },
+      {
+        "date": "2026-09-30",
+        "price": 268
+      },
+      {
+        "date": "2026-10-01",
+        "price": 271
+      },
+      {
+        "date": "2026-10-02",
+        "price": 249
+      }
+    ]
   },
-  "priceHistory": [
-    {
-      "date": "2026-07-05",
-      "price": 656
-    },
-    {
-      "date": "2026-07-06",
-      "price": 651
-    },
-    {
-      "date": "2026-07-07",
-      "price": 649
-    },
-    {
-      "date": "2026-07-08",
-      "price": 654
-    },
-    {
-      "date": "2026-07-09",
-      "price": 646
-    },
-    {
-      "date": "2026-07-10",
-      "price": 659
-    },
-    {
-      "date": "2026-07-11",
-      "price": 675
-    },
-    {
-      "date": "2026-07-12",
-      "price": 664
-    },
-    {
-      "date": "2026-07-13",
-      "price": 660
-    },
-    {
-      "date": "2026-07-14",
-      "price": 659
-    },
-    {
-      "date": "2026-07-15",
-      "price": 663
-    },
-    {
-      "date": "2026-07-16",
-      "price": 661
-    },
-    {
-      "date": "2026-07-17",
-      "price": 659
-    },
-    {
-      "date": "2026-07-18",
-      "price": 664
-    },
-    {
-      "date": "2026-07-19",
-      "price": 667
-    },
-    {
-      "date": "2026-07-20",
-      "price": 660
-    },
-    {
-      "date": "2026-07-21",
-      "price": 677
-    },
-    {
-      "date": "2026-07-22",
-      "price": 695
-    },
-    {
-      "date": "2026-07-23",
-      "price": 683
-    },
-    {
-      "date": "2026-07-24",
-      "price": 665
-    },
-    {
-      "date": "2026-07-25",
-      "price": 658
-    },
-    {
-      "date": "2026-07-26",
-      "price": 670
-    },
-    {
-      "date": "2026-07-27",
-      "price": 661
-    },
-    {
-      "date": "2026-07-28",
-      "price": 650
-    },
-    {
-      "date": "2026-07-29",
-      "price": 642
-    },
-    {
-      "date": "2026-07-30",
-      "price": 651
-    },
-    {
-      "date": "2026-07-31",
-      "price": 634
-    },
-    {
-      "date": "2026-08-01",
-      "price": 619
-    },
-    {
-      "date": "2026-08-02",
-      "price": 601
-    },
-    {
-      "date": "2026-08-03",
-      "price": 596
-    },
-    {
-      "date": "2026-08-04",
-      "price": 596
-    },
-    {
-      "date": "2026-08-05",
-      "price": 589
-    },
-    {
-      "date": "2026-08-06",
-      "price": 575
-    },
-    {
-      "date": "2026-08-07",
-      "price": 591
-    },
-    {
-      "date": "2026-08-08",
-      "price": 575
-    },
-    {
-      "date": "2026-08-09",
-      "price": 591
-    },
-    {
-      "date": "2026-08-10",
-      "price": 579
-    },
-    {
-      "date": "2026-08-11",
-      "price": 564
-    },
-    {
-      "date": "2026-08-12",
-      "price": 576
-    },
-    {
-      "date": "2026-08-13",
-      "price": 566
-    },
-    {
-      "date": "2026-08-14",
-      "price": 563
-    },
-    {
-      "date": "2026-08-15",
-      "price": 574
-    },
-    {
-      "date": "2026-08-16",
-      "price": 571
-    },
-    {
-      "date": "2026-08-17",
-      "price": 587
-    },
-    {
-      "date": "2026-08-18",
-      "price": 582
-    },
-    {
-      "date": "2026-08-19",
-      "price": 580
-    },
-    {
-      "date": "2026-08-20",
-      "price": 574
-    },
-    {
-      "date": "2026-08-21",
-      "price": 557
-    },
-    {
-      "date": "2026-08-22",
-      "price": 552
-    },
-    {
-      "date": "2026-08-23",
-      "price": 543
-    },
-    {
-      "date": "2026-08-24",
-      "price": 539
-    },
-    {
-      "date": "2026-08-25",
-      "price": 534
-    },
-    {
-      "date": "2026-08-26",
-      "price": 540
-    },
-    {
-      "date": "2026-08-27",
-      "price": 529
-    },
-    {
-      "date": "2026-08-28",
-      "price": 528
-    },
-    {
-      "date": "2026-08-29",
-      "price": 527
-    },
-    {
-      "date": "2026-08-30",
-      "price": 527
-    },
-    {
-      "date": "2026-08-31",
-      "price": 527
-    },
-    {
-      "date": "2026-09-01",
-      "price": 527
-    },
-    {
-      "date": "2026-09-02",
-      "price": 527
-    },
-    {
-      "date": "2026-09-03",
-      "price": 527
-    },
-    {
-      "date": "2026-09-04",
-      "price": 527
-    },
-    {
-      "date": "2026-09-05",
-      "price": 530
-    },
-    {
-      "date": "2026-09-06",
-      "price": 527
-    },
-    {
-      "date": "2026-09-07",
-      "price": 536
-    },
-    {
-      "date": "2026-09-08",
-      "price": 531
-    },
-    {
-      "date": "2026-09-09",
-      "price": 527
-    },
-    {
-      "date": "2026-09-10",
-      "price": 527
-    },
-    {
-      "date": "2026-09-11",
-      "price": 527
-    },
-    {
-      "date": "2026-09-12",
-      "price": 540
-    },
-    {
-      "date": "2026-09-13",
-      "price": 527
-    },
-    {
-      "date": "2026-09-14",
-      "price": 541
-    },
-    {
-      "date": "2026-09-15",
-      "price": 536
-    },
-    {
-      "date": "2026-09-16",
-      "price": 528
-    },
-    {
-      "date": "2026-09-17",
-      "price": 543
-    },
-    {
-      "date": "2026-09-18",
-      "price": 537
-    },
-    {
-      "date": "2026-09-19",
-      "price": 546
-    },
-    {
-      "date": "2026-09-20",
-      "price": 557
-    },
-    {
-      "date": "2026-09-21",
-      "price": 550
-    },
-    {
-      "date": "2026-09-22",
-      "price": 559
-    },
-    {
-      "date": "2026-09-23",
-      "price": 554
-    },
-    {
-      "date": "2026-09-24",
-      "price": 566
-    },
-    {
-      "date": "2026-09-25",
-      "price": 580
-    },
-    {
-      "date": "2026-09-26",
-      "price": 579
-    },
-    {
-      "date": "2026-09-27",
-      "price": 594
-    },
-    {
-      "date": "2026-09-28",
-      "price": 603
-    },
-    {
-      "date": "2026-09-29",
-      "price": 602
-    },
-    {
-      "date": "2026-09-30",
-      "price": 598
-    },
-    {
-      "date": "2026-10-01",
-      "price": 588
-    },
-    {
-      "date": "2026-10-02",
-      "price": 599
-    }
-  ]
-},
-{
-  "id": "bok-15",
-  "slug": "think-and-grow-rich-napoleon-hill",
-  "title": "Think and Grow Rich by Napoleon Hill (Original Landmark Edition)",
-  "brand": "Penguin",
-  "category": "Books",
-  "price": 249,
-  "mrp": 399,
-  "rating": 4.5,
-  "reviewCount": 61000,
-  "images": [
-    "/products/bok-07.jpg"
-  ],
-  "bullets": [
-    "The all-time classic finance and mindset book based on 20 years studying 500 self-made millionaires",
-    "Details the 13 proven principles of success including Definite Purpose, Auto-suggestion, and the Mastermind",
-    "Explains how burning desire and persistence translate thoughts into tangible financial wealth",
-    "Enduring principles that influenced modern legends from Warren Buffett to Tony Robbins",
-    "Compact, easy-to-read paperback format perfect for daily reflection"
-  ],
-  "description": "Think and Grow Rich is the legendary personal achievement manual that has helped millions across the globe cultivate financial independence and purposeful accomplishment.",
-  "stock": 65,
-  "deliveryDays": 1,
-  "tags": [
-    "books",
-    "wealth",
-    "mindset",
-    "finance",
-    "classic",
-    "success",
-    "napoleon hill",
-    "under 300"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "Timeless foundational principles on desire, persistence, and positive focus",
-      "Fascinating historical case studies from Henry Ford, Thomas Edison, and Andrew Carnegie",
-      "Tremendous return on investment for an inexpensive classic paperback"
+  {
+    "id": "fit-15",
+    "slug": "vector-x-rubber-coated-hex-dumbbells-5kg-pair",
+    "title": "Vector X Rubber Coated Hex Dumbbells Pair (5kg x 2) for Strength Training",
+    "brand": "Vector X",
+    "category": "Fitness",
+    "price": 1799,
+    "mrp": 2999,
+    "rating": 4.5,
+    "reviewCount": 14200,
+    "images": [
+      "/products/fit-03.jpg"
     ],
-    "cons": [
-      "Early 20th-century prose style can feel formal to modern readers",
-      "Requires disciplined action rather than passive reading"
+    "bullets": [
+      "Pair of 5kg solid cast iron dumbbells coated in premium heavy-duty natural rubber",
+      "Hexagonal anti-roll design prevents dumbbells from rolling across tiles during floor exercises",
+      "Ergonomic knurled chrome contoured handles provide non-slip, secure palm grip",
+      "Thick rubber coating protects floor tiles from cracking and dampens drop noise",
+      "Versatile for bicep curls, shoulder presses, lunges, and goblet squats"
     ],
-    "verdict": "The grandfather of all personal wealth literature whose core principles remain remarkably valid.",
-    "sentiment": {
-      "positive": 88,
-      "neutral": 8,
-      "negative": 4
-    }
+    "description": "Built for grueling strength workouts, Vector X rubber hex dumbbells combine solid iron durability with floor-protecting rubber encasement and knurled grips.",
+    "stock": 30,
+    "deliveryDays": 2,
+    "tags": [
+      "fitness",
+      "dumbbells",
+      "weights",
+      "strength",
+      "home gym",
+      "vector x",
+      "muscle",
+      "workout"
+    ],
+    "reviewSummary": {
+      "pros": [
+        "Hexagonal shape prevents rolling away on tile floors",
+        "Comfortable knurled chrome handle provides a rock-solid non-slip grip",
+        "Thick rubber dampens noise and prevents chipped tiles on light drops"
+      ],
+      "cons": [
+        "Initial mild rubber odor dissipates after 48 hours of airing out",
+        "Fixed 5kg weight requires purchasing heavier pairs as you progress"
+      ],
+      "verdict": "The ideal foundational dumbbell pair for beginner to intermediate home strength training.",
+      "sentiment": {
+        "positive": 90,
+        "neutral": 7,
+        "negative": 3
+      }
+    },
+    "priceHistory": [
+      {
+        "date": "2026-07-05",
+        "price": 1958
+      },
+      {
+        "date": "2026-07-06",
+        "price": 1937
+      },
+      {
+        "date": "2026-07-07",
+        "price": 1958
+      },
+      {
+        "date": "2026-07-08",
+        "price": 1995
+      },
+      {
+        "date": "2026-07-09",
+        "price": 2014
+      },
+      {
+        "date": "2026-07-10",
+        "price": 1969
+      },
+      {
+        "date": "2026-07-11",
+        "price": 1966
+      },
+      {
+        "date": "2026-07-12",
+        "price": 1908
+      },
+      {
+        "date": "2026-07-13",
+        "price": 1872
+      },
+      {
+        "date": "2026-07-14",
+        "price": 1817
+      },
+      {
+        "date": "2026-07-15",
+        "price": 1808
+      },
+      {
+        "date": "2026-07-16",
+        "price": 1857
+      },
+      {
+        "date": "2026-07-17",
+        "price": 1877
+      },
+      {
+        "date": "2026-07-18",
+        "price": 1926
+      },
+      {
+        "date": "2026-07-19",
+        "price": 1876
+      },
+      {
+        "date": "2026-07-20",
+        "price": 1848
+      },
+      {
+        "date": "2026-07-21",
+        "price": 1889
+      },
+      {
+        "date": "2026-07-22",
+        "price": 1877
+      },
+      {
+        "date": "2026-07-23",
+        "price": 1825
+      },
+      {
+        "date": "2026-07-24",
+        "price": 1803
+      },
+      {
+        "date": "2026-07-25",
+        "price": 1759
+      },
+      {
+        "date": "2026-07-26",
+        "price": 1717
+      },
+      {
+        "date": "2026-07-27",
+        "price": 1753
+      },
+      {
+        "date": "2026-07-28",
+        "price": 1755
+      },
+      {
+        "date": "2026-07-29",
+        "price": 1777
+      },
+      {
+        "date": "2026-07-30",
+        "price": 1827
+      },
+      {
+        "date": "2026-07-31",
+        "price": 1841
+      },
+      {
+        "date": "2026-08-01",
+        "price": 1845
+      },
+      {
+        "date": "2026-08-02",
+        "price": 1830
+      },
+      {
+        "date": "2026-08-03",
+        "price": 1870
+      },
+      {
+        "date": "2026-08-04",
+        "price": 1916
+      },
+      {
+        "date": "2026-08-05",
+        "price": 1943
+      },
+      {
+        "date": "2026-08-06",
+        "price": 1983
+      },
+      {
+        "date": "2026-08-07",
+        "price": 1981
+      },
+      {
+        "date": "2026-08-08",
+        "price": 2033
+      },
+      {
+        "date": "2026-08-09",
+        "price": 1996
+      },
+      {
+        "date": "2026-08-10",
+        "price": 2003
+      },
+      {
+        "date": "2026-08-11",
+        "price": 1946
+      },
+      {
+        "date": "2026-08-12",
+        "price": 1976
+      },
+      {
+        "date": "2026-08-13",
+        "price": 1979
+      },
+      {
+        "date": "2026-08-14",
+        "price": 2003
+      },
+      {
+        "date": "2026-08-15",
+        "price": 1975
+      },
+      {
+        "date": "2026-08-16",
+        "price": 2001
+      },
+      {
+        "date": "2026-08-17",
+        "price": 2034
+      },
+      {
+        "date": "2026-08-18",
+        "price": 2070
+      },
+      {
+        "date": "2026-08-19",
+        "price": 2097
+      },
+      {
+        "date": "2026-08-20",
+        "price": 2115
+      },
+      {
+        "date": "2026-08-21",
+        "price": 2105
+      },
+      {
+        "date": "2026-08-22",
+        "price": 2119
+      },
+      {
+        "date": "2026-08-23",
+        "price": 2160
+      },
+      {
+        "date": "2026-08-24",
+        "price": 2189
+      },
+      {
+        "date": "2026-08-25",
+        "price": 2195
+      },
+      {
+        "date": "2026-08-26",
+        "price": 2195
+      },
+      {
+        "date": "2026-08-27",
+        "price": 2191
+      },
+      {
+        "date": "2026-08-28",
+        "price": 2136
+      },
+      {
+        "date": "2026-08-29",
+        "price": 2193
+      },
+      {
+        "date": "2026-08-30",
+        "price": 2195
+      },
+      {
+        "date": "2026-08-31",
+        "price": 2195
+      },
+      {
+        "date": "2026-09-01",
+        "price": 2195
+      },
+      {
+        "date": "2026-09-02",
+        "price": 2195
+      },
+      {
+        "date": "2026-09-03",
+        "price": 2146
+      },
+      {
+        "date": "2026-09-04",
+        "price": 2188
+      },
+      {
+        "date": "2026-09-05",
+        "price": 2150
+      },
+      {
+        "date": "2026-09-06",
+        "price": 2166
+      },
+      {
+        "date": "2026-09-07",
+        "price": 2195
+      },
+      {
+        "date": "2026-09-08",
+        "price": 2172
+      },
+      {
+        "date": "2026-09-09",
+        "price": 2145
+      },
+      {
+        "date": "2026-09-10",
+        "price": 2176
+      },
+      {
+        "date": "2026-09-11",
+        "price": 2156
+      },
+      {
+        "date": "2026-09-12",
+        "price": 2151
+      },
+      {
+        "date": "2026-09-13",
+        "price": 2195
+      },
+      {
+        "date": "2026-09-14",
+        "price": 2195
+      },
+      {
+        "date": "2026-09-15",
+        "price": 2195
+      },
+      {
+        "date": "2026-09-16",
+        "price": 2179
+      },
+      {
+        "date": "2026-09-17",
+        "price": 2190
+      },
+      {
+        "date": "2026-09-18",
+        "price": 2177
+      },
+      {
+        "date": "2026-09-19",
+        "price": 2195
+      },
+      {
+        "date": "2026-09-20",
+        "price": 2193
+      },
+      {
+        "date": "2026-09-21",
+        "price": 2195
+      },
+      {
+        "date": "2026-09-22",
+        "price": 2164
+      },
+      {
+        "date": "2026-09-23",
+        "price": 2187
+      },
+      {
+        "date": "2026-09-24",
+        "price": 2152
+      },
+      {
+        "date": "2026-09-25",
+        "price": 2088
+      },
+      {
+        "date": "2026-09-26",
+        "price": 2035
+      },
+      {
+        "date": "2026-09-27",
+        "price": 2071
+      },
+      {
+        "date": "2026-09-28",
+        "price": 2086
+      },
+      {
+        "date": "2026-09-29",
+        "price": 2052
+      },
+      {
+        "date": "2026-09-30",
+        "price": 1992
+      },
+      {
+        "date": "2026-10-01",
+        "price": 1958
+      },
+      {
+        "date": "2026-10-02",
+        "price": 1799
+      }
+    ]
   },
-  "priceHistory": [
-    {
-      "date": "2026-07-05",
-      "price": 272
-    },
-    {
-      "date": "2026-07-06",
-      "price": 276
-    },
-    {
-      "date": "2026-07-07",
-      "price": 276
-    },
-    {
-      "date": "2026-07-08",
-      "price": 280
-    },
-    {
-      "date": "2026-07-09",
-      "price": 283
-    },
-    {
-      "date": "2026-07-10",
-      "price": 288
-    },
-    {
-      "date": "2026-07-11",
-      "price": 282
-    },
-    {
-      "date": "2026-07-12",
-      "price": 289
-    },
-    {
-      "date": "2026-07-13",
-      "price": 296
-    },
-    {
-      "date": "2026-07-14",
-      "price": 290
-    },
-    {
-      "date": "2026-07-15",
-      "price": 290
-    },
-    {
-      "date": "2026-07-16",
-      "price": 292
-    },
-    {
-      "date": "2026-07-17",
-      "price": 294
-    },
-    {
-      "date": "2026-07-18",
-      "price": 294
-    },
-    {
-      "date": "2026-07-19",
-      "price": 297
-    },
-    {
-      "date": "2026-07-20",
-      "price": 289
-    },
-    {
-      "date": "2026-07-21",
-      "price": 287
-    },
-    {
-      "date": "2026-07-22",
-      "price": 295
-    },
-    {
-      "date": "2026-07-23",
-      "price": 294
-    },
-    {
-      "date": "2026-07-24",
-      "price": 296
-    },
-    {
-      "date": "2026-07-25",
-      "price": 304
-    },
-    {
-      "date": "2026-07-26",
-      "price": 302
-    },
-    {
-      "date": "2026-07-27",
-      "price": 304
-    },
-    {
-      "date": "2026-07-28",
-      "price": 299
-    },
-    {
-      "date": "2026-07-29",
-      "price": 304
-    },
-    {
-      "date": "2026-07-30",
-      "price": 304
-    },
-    {
-      "date": "2026-07-31",
-      "price": 304
-    },
-    {
-      "date": "2026-08-01",
-      "price": 298
-    },
-    {
-      "date": "2026-08-02",
-      "price": 292
-    },
-    {
-      "date": "2026-08-03",
-      "price": 292
-    },
-    {
-      "date": "2026-08-04",
-      "price": 289
-    },
-    {
-      "date": "2026-08-05",
-      "price": 289
-    },
-    {
-      "date": "2026-08-06",
-      "price": 288
-    },
-    {
-      "date": "2026-08-07",
-      "price": 284
-    },
-    {
-      "date": "2026-08-08",
-      "price": 277
-    },
-    {
-      "date": "2026-08-09",
-      "price": 275
-    },
-    {
-      "date": "2026-08-10",
-      "price": 282
-    },
-    {
-      "date": "2026-08-11",
-      "price": 286
-    },
-    {
-      "date": "2026-08-12",
-      "price": 279
-    },
-    {
-      "date": "2026-08-13",
-      "price": 286
-    },
-    {
-      "date": "2026-08-14",
-      "price": 282
-    },
-    {
-      "date": "2026-08-15",
-      "price": 275
-    },
-    {
-      "date": "2026-08-16",
-      "price": 273
-    },
-    {
-      "date": "2026-08-17",
-      "price": 265
-    },
-    {
-      "date": "2026-08-18",
-      "price": 268
-    },
-    {
-      "date": "2026-08-19",
-      "price": 266
-    },
-    {
-      "date": "2026-08-20",
-      "price": 271
-    },
-    {
-      "date": "2026-08-21",
-      "price": 277
-    },
-    {
-      "date": "2026-08-22",
-      "price": 274
-    },
-    {
-      "date": "2026-08-23",
-      "price": 282
-    },
-    {
-      "date": "2026-08-24",
-      "price": 278
-    },
-    {
-      "date": "2026-08-25",
-      "price": 276
-    },
-    {
-      "date": "2026-08-26",
-      "price": 269
-    },
-    {
-      "date": "2026-08-27",
-      "price": 266
-    },
-    {
-      "date": "2026-08-28",
-      "price": 266
-    },
-    {
-      "date": "2026-08-29",
-      "price": 270
-    },
-    {
-      "date": "2026-08-30",
-      "price": 277
-    },
-    {
-      "date": "2026-08-31",
-      "price": 279
-    },
-    {
-      "date": "2026-09-01",
-      "price": 285
-    },
-    {
-      "date": "2026-09-02",
-      "price": 286
-    },
-    {
-      "date": "2026-09-03",
-      "price": 279
-    },
-    {
-      "date": "2026-09-04",
-      "price": 287
-    },
-    {
-      "date": "2026-09-05",
-      "price": 295
-    },
-    {
-      "date": "2026-09-06",
-      "price": 301
-    },
-    {
-      "date": "2026-09-07",
-      "price": 297
-    },
-    {
-      "date": "2026-09-08",
-      "price": 299
-    },
-    {
-      "date": "2026-09-09",
-      "price": 298
-    },
-    {
-      "date": "2026-09-10",
-      "price": 291
-    },
-    {
-      "date": "2026-09-11",
-      "price": 297
-    },
-    {
-      "date": "2026-09-12",
-      "price": 298
-    },
-    {
-      "date": "2026-09-13",
-      "price": 297
-    },
-    {
-      "date": "2026-09-14",
-      "price": 295
-    },
-    {
-      "date": "2026-09-15",
-      "price": 286
-    },
-    {
-      "date": "2026-09-16",
-      "price": 293
-    },
-    {
-      "date": "2026-09-17",
-      "price": 290
-    },
-    {
-      "date": "2026-09-18",
-      "price": 293
-    },
-    {
-      "date": "2026-09-19",
-      "price": 287
-    },
-    {
-      "date": "2026-09-20",
-      "price": 288
-    },
-    {
-      "date": "2026-09-21",
-      "price": 280
-    },
-    {
-      "date": "2026-09-22",
-      "price": 279
-    },
-    {
-      "date": "2026-09-23",
-      "price": 274
-    },
-    {
-      "date": "2026-09-24",
-      "price": 273
-    },
-    {
-      "date": "2026-09-25",
-      "price": 275
-    },
-    {
-      "date": "2026-09-26",
-      "price": 275
-    },
-    {
-      "date": "2026-09-27",
-      "price": 276
-    },
-    {
-      "date": "2026-09-28",
-      "price": 272
-    },
-    {
-      "date": "2026-09-29",
-      "price": 267
-    },
-    {
-      "date": "2026-09-30",
-      "price": 268
-    },
-    {
-      "date": "2026-10-01",
-      "price": 271
-    },
-    {
-      "date": "2026-10-02",
-      "price": 249
-    }
-  ]
-},
-{
-  "id": "fit-15",
-  "slug": "vector-x-rubber-coated-hex-dumbbells-5kg-pair",
-  "title": "Vector X Rubber Coated Hex Dumbbells Pair (5kg x 2) for Strength Training",
-  "brand": "Vector X",
-  "category": "Fitness",
-  "price": 1799,
-  "mrp": 2999,
-  "rating": 4.5,
-  "reviewCount": 14200,
-  "images": [
-    "/products/fit-03.jpg"
-  ],
-  "bullets": [
-    "Pair of 5kg solid cast iron dumbbells coated in premium heavy-duty natural rubber",
-    "Hexagonal anti-roll design prevents dumbbells from rolling across tiles during floor exercises",
-    "Ergonomic knurled chrome contoured handles provide non-slip, secure palm grip",
-    "Thick rubber coating protects floor tiles from cracking and dampens drop noise",
-    "Versatile for bicep curls, shoulder presses, lunges, and goblet squats"
-  ],
-  "description": "Built for grueling strength workouts, Vector X rubber hex dumbbells combine solid iron durability with floor-protecting rubber encasement and knurled grips.",
-  "stock": 30,
-  "deliveryDays": 2,
-  "tags": [
-    "fitness",
-    "dumbbells",
-    "weights",
-    "strength",
-    "home gym",
-    "vector x",
-    "muscle",
-    "workout"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "Hexagonal shape prevents rolling away on tile floors",
-      "Comfortable knurled chrome handle provides a rock-solid non-slip grip",
-      "Thick rubber dampens noise and prevents chipped tiles on light drops"
-    ],
-    "cons": [
-      "Initial mild rubber odor dissipates after 48 hours of airing out",
-      "Fixed 5kg weight requires purchasing heavier pairs as you progress"
-    ],
-    "verdict": "The ideal foundational dumbbell pair for beginner to intermediate home strength training.",
-    "sentiment": {
-      "positive": 90,
-      "neutral": 7,
-      "negative": 3
-    }
-  },
-  "priceHistory": [
-    {
-      "date": "2026-07-05",
-      "price": 1958
-    },
-    {
-      "date": "2026-07-06",
-      "price": 1937
-    },
-    {
-      "date": "2026-07-07",
-      "price": 1958
-    },
-    {
-      "date": "2026-07-08",
-      "price": 1995
-    },
-    {
-      "date": "2026-07-09",
-      "price": 2014
-    },
-    {
-      "date": "2026-07-10",
-      "price": 1969
-    },
-    {
-      "date": "2026-07-11",
-      "price": 1966
-    },
-    {
-      "date": "2026-07-12",
-      "price": 1908
-    },
-    {
-      "date": "2026-07-13",
-      "price": 1872
-    },
-    {
-      "date": "2026-07-14",
-      "price": 1817
-    },
-    {
-      "date": "2026-07-15",
-      "price": 1808
-    },
-    {
-      "date": "2026-07-16",
-      "price": 1857
-    },
-    {
-      "date": "2026-07-17",
-      "price": 1877
-    },
-    {
-      "date": "2026-07-18",
-      "price": 1926
-    },
-    {
-      "date": "2026-07-19",
-      "price": 1876
-    },
-    {
-      "date": "2026-07-20",
-      "price": 1848
-    },
-    {
-      "date": "2026-07-21",
-      "price": 1889
-    },
-    {
-      "date": "2026-07-22",
-      "price": 1877
-    },
-    {
-      "date": "2026-07-23",
-      "price": 1825
-    },
-    {
-      "date": "2026-07-24",
-      "price": 1803
-    },
-    {
-      "date": "2026-07-25",
-      "price": 1759
-    },
-    {
-      "date": "2026-07-26",
-      "price": 1717
-    },
-    {
-      "date": "2026-07-27",
-      "price": 1753
-    },
-    {
-      "date": "2026-07-28",
-      "price": 1755
-    },
-    {
-      "date": "2026-07-29",
-      "price": 1777
-    },
-    {
-      "date": "2026-07-30",
-      "price": 1827
-    },
-    {
-      "date": "2026-07-31",
-      "price": 1841
-    },
-    {
-      "date": "2026-08-01",
-      "price": 1845
-    },
-    {
-      "date": "2026-08-02",
-      "price": 1830
-    },
-    {
-      "date": "2026-08-03",
-      "price": 1870
-    },
-    {
-      "date": "2026-08-04",
-      "price": 1916
-    },
-    {
-      "date": "2026-08-05",
-      "price": 1943
-    },
-    {
-      "date": "2026-08-06",
-      "price": 1983
-    },
-    {
-      "date": "2026-08-07",
-      "price": 1981
-    },
-    {
-      "date": "2026-08-08",
-      "price": 2033
-    },
-    {
-      "date": "2026-08-09",
-      "price": 1996
-    },
-    {
-      "date": "2026-08-10",
-      "price": 2003
-    },
-    {
-      "date": "2026-08-11",
-      "price": 1946
-    },
-    {
-      "date": "2026-08-12",
-      "price": 1976
-    },
-    {
-      "date": "2026-08-13",
-      "price": 1979
-    },
-    {
-      "date": "2026-08-14",
-      "price": 2003
-    },
-    {
-      "date": "2026-08-15",
-      "price": 1975
-    },
-    {
-      "date": "2026-08-16",
-      "price": 2001
-    },
-    {
-      "date": "2026-08-17",
-      "price": 2034
-    },
-    {
-      "date": "2026-08-18",
-      "price": 2070
-    },
-    {
-      "date": "2026-08-19",
-      "price": 2097
-    },
-    {
-      "date": "2026-08-20",
-      "price": 2115
-    },
-    {
-      "date": "2026-08-21",
-      "price": 2105
-    },
-    {
-      "date": "2026-08-22",
-      "price": 2119
-    },
-    {
-      "date": "2026-08-23",
-      "price": 2160
-    },
-    {
-      "date": "2026-08-24",
-      "price": 2189
-    },
-    {
-      "date": "2026-08-25",
-      "price": 2195
-    },
-    {
-      "date": "2026-08-26",
-      "price": 2195
-    },
-    {
-      "date": "2026-08-27",
-      "price": 2191
-    },
-    {
-      "date": "2026-08-28",
-      "price": 2136
-    },
-    {
-      "date": "2026-08-29",
-      "price": 2193
-    },
-    {
-      "date": "2026-08-30",
-      "price": 2195
-    },
-    {
-      "date": "2026-08-31",
-      "price": 2195
-    },
-    {
-      "date": "2026-09-01",
-      "price": 2195
-    },
-    {
-      "date": "2026-09-02",
-      "price": 2195
-    },
-    {
-      "date": "2026-09-03",
-      "price": 2146
-    },
-    {
-      "date": "2026-09-04",
-      "price": 2188
-    },
-    {
-      "date": "2026-09-05",
-      "price": 2150
-    },
-    {
-      "date": "2026-09-06",
-      "price": 2166
-    },
-    {
-      "date": "2026-09-07",
-      "price": 2195
-    },
-    {
-      "date": "2026-09-08",
-      "price": 2172
-    },
-    {
-      "date": "2026-09-09",
-      "price": 2145
-    },
-    {
-      "date": "2026-09-10",
-      "price": 2176
-    },
-    {
-      "date": "2026-09-11",
-      "price": 2156
-    },
-    {
-      "date": "2026-09-12",
-      "price": 2151
-    },
-    {
-      "date": "2026-09-13",
-      "price": 2195
-    },
-    {
-      "date": "2026-09-14",
-      "price": 2195
-    },
-    {
-      "date": "2026-09-15",
-      "price": 2195
-    },
-    {
-      "date": "2026-09-16",
-      "price": 2179
-    },
-    {
-      "date": "2026-09-17",
-      "price": 2190
-    },
-    {
-      "date": "2026-09-18",
-      "price": 2177
-    },
-    {
-      "date": "2026-09-19",
-      "price": 2195
-    },
-    {
-      "date": "2026-09-20",
-      "price": 2193
-    },
-    {
-      "date": "2026-09-21",
-      "price": 2195
-    },
-    {
-      "date": "2026-09-22",
-      "price": 2164
-    },
-    {
-      "date": "2026-09-23",
-      "price": 2187
-    },
-    {
-      "date": "2026-09-24",
-      "price": 2152
-    },
-    {
-      "date": "2026-09-25",
-      "price": 2088
-    },
-    {
-      "date": "2026-09-26",
-      "price": 2035
-    },
-    {
-      "date": "2026-09-27",
-      "price": 2071
-    },
-    {
-      "date": "2026-09-28",
-      "price": 2086
-    },
-    {
-      "date": "2026-09-29",
-      "price": 2052
-    },
-    {
-      "date": "2026-09-30",
-      "price": 1992
-    },
-    {
-      "date": "2026-10-01",
-      "price": 1958
-    },
-    {
-      "date": "2026-10-02",
-      "price": 1799
-    }
-  ]
-},
-{
-  "id": "fit-16",
-  "slug": "boldfit-speed-jump-rope-ball-bearings",
-  "title": "Boldfit Speed Jump Rope with High-Speed Ball Bearings for Cardio & Crossfit",
-  "brand": "Boldfit",
-  "category": "Fitness",
-  "price": 299,
-  "mrp": 599,
-  "rating": 4.4,
-  "reviewCount": 21500,
-  "images": [
-    "/products/fit-01.jpg"
-  ],
-  "bullets": [
-    "360-degree high-speed dual ball bearings ensure smooth, tangle-free, lightning-fast rotations",
-    "Durable steel wire cable encased in wear-resistant PVC coating prevents snapping",
-    "Fully adjustable 3-meter length with thumb screws fits men, women, and teenagers of all heights",
-    "Anti-slip lightweight memory foam handles absorb sweat and reduce wrist fatigue",
-    "Burns up to 300 calories in 15 minutes of high-intensity interval training (HIIT)"
-  ],
-  "description": "Torch calories and build footwork agility with Boldfit's high-speed ball-bearing skipping rope engineered for smooth, kink-free rotations.",
-  "stock": 80,
-  "deliveryDays": 1,
-  "tags": [
-    "fitness",
-    "skipping rope",
-    "jump rope",
-    "cardio",
-    "boldfit",
-    "crossfit",
-    "hiit",
-    "under 500"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "Silky smooth 360-degree ball bearings make double-unders effortless",
-      "Easily customizable cable length without cutting required",
-      "Comfortable sweat-absorbing foam handles"
-    ],
-    "cons": [
-      "Steel cable can sting if it catches bare ankles or shins",
-      "Requires a rubber mat when skipping on abrasive concrete to avoid cable wear"
-    ],
-    "verdict": "The best ₹300 investment you can make for home cardio, fat burning, and boxing footwork.",
-    "sentiment": {
-      "positive": 91,
-      "neutral": 6,
-      "negative": 3
-    }
-  },
-  "priceHistory": [
-    {
-      "date": "2026-07-05",
-      "price": 323
-    },
-    {
-      "date": "2026-07-06",
-      "price": 322
-    },
-    {
-      "date": "2026-07-07",
-      "price": 315
-    },
-    {
-      "date": "2026-07-08",
-      "price": 315
-    },
-    {
-      "date": "2026-07-09",
-      "price": 315
-    },
-    {
-      "date": "2026-07-10",
-      "price": 318
-    },
-    {
-      "date": "2026-07-11",
-      "price": 315
-    },
-    {
-      "date": "2026-07-12",
-      "price": 322
-    },
-    {
-      "date": "2026-07-13",
-      "price": 318
-    },
-    {
-      "date": "2026-07-14",
-      "price": 313
-    },
-    {
-      "date": "2026-07-15",
-      "price": 315
-    },
-    {
-      "date": "2026-07-16",
-      "price": 318
-    },
-    {
-      "date": "2026-07-17",
-      "price": 325
-    },
-    {
-      "date": "2026-07-18",
-      "price": 329
-    },
-    {
-      "date": "2026-07-19",
-      "price": 324
-    },
-    {
-      "date": "2026-07-20",
-      "price": 328
-    },
-    {
-      "date": "2026-07-21",
-      "price": 335
-    },
-    {
-      "date": "2026-07-22",
-      "price": 336
-    },
-    {
-      "date": "2026-07-23",
-      "price": 344
-    },
-    {
-      "date": "2026-07-24",
-      "price": 352
-    },
-    {
-      "date": "2026-07-25",
-      "price": 347
-    },
-    {
-      "date": "2026-07-26",
-      "price": 348
-    },
-    {
-      "date": "2026-07-27",
-      "price": 358
-    },
-    {
-      "date": "2026-07-28",
-      "price": 347
-    },
-    {
-      "date": "2026-07-29",
-      "price": 348
-    },
-    {
-      "date": "2026-07-30",
-      "price": 355
-    },
-    {
-      "date": "2026-07-31",
-      "price": 349
-    },
-    {
-      "date": "2026-08-01",
-      "price": 350
-    },
-    {
-      "date": "2026-08-02",
-      "price": 354
-    },
-    {
-      "date": "2026-08-03",
-      "price": 364
-    },
-    {
-      "date": "2026-08-04",
-      "price": 359
-    },
-    {
-      "date": "2026-08-05",
-      "price": 357
-    },
-    {
-      "date": "2026-08-06",
-      "price": 365
-    },
-    {
-      "date": "2026-08-07",
-      "price": 361
-    },
-    {
-      "date": "2026-08-08",
-      "price": 354
-    },
-    {
-      "date": "2026-08-09",
-      "price": 349
-    },
-    {
-      "date": "2026-08-10",
-      "price": 357
-    },
-    {
-      "date": "2026-08-11",
-      "price": 356
-    },
-    {
-      "date": "2026-08-12",
-      "price": 364
-    },
-    {
-      "date": "2026-08-13",
-      "price": 365
-    },
-    {
-      "date": "2026-08-14",
-      "price": 362
-    },
-    {
-      "date": "2026-08-15",
-      "price": 354
-    },
-    {
-      "date": "2026-08-16",
-      "price": 362
-    },
-    {
-      "date": "2026-08-17",
-      "price": 365
-    },
-    {
-      "date": "2026-08-18",
-      "price": 365
-    },
-    {
-      "date": "2026-08-19",
-      "price": 365
-    },
-    {
-      "date": "2026-08-20",
-      "price": 365
-    },
-    {
-      "date": "2026-08-21",
-      "price": 356
-    },
-    {
-      "date": "2026-08-22",
-      "price": 349
-    },
-    {
-      "date": "2026-08-23",
-      "price": 341
-    },
-    {
-      "date": "2026-08-24",
-      "price": 348
-    },
-    {
-      "date": "2026-08-25",
-      "price": 354
-    },
-    {
-      "date": "2026-08-26",
-      "price": 355
-    },
-    {
-      "date": "2026-08-27",
-      "price": 352
-    },
-    {
-      "date": "2026-08-28",
-      "price": 357
-    },
-    {
-      "date": "2026-08-29",
-      "price": 360
-    },
-    {
-      "date": "2026-08-30",
-      "price": 360
-    },
-    {
-      "date": "2026-08-31",
-      "price": 355
-    },
-    {
-      "date": "2026-09-01",
-      "price": 354
-    },
-    {
-      "date": "2026-09-02",
-      "price": 363
-    },
-    {
-      "date": "2026-09-03",
-      "price": 365
-    },
-    {
-      "date": "2026-09-04",
-      "price": 365
-    },
-    {
-      "date": "2026-09-05",
-      "price": 365
-    },
-    {
-      "date": "2026-09-06",
-      "price": 355
-    },
-    {
-      "date": "2026-09-07",
-      "price": 359
-    },
-    {
-      "date": "2026-09-08",
-      "price": 355
-    },
-    {
-      "date": "2026-09-09",
-      "price": 365
-    },
-    {
-      "date": "2026-09-10",
-      "price": 355
-    },
-    {
-      "date": "2026-09-11",
-      "price": 357
-    },
-    {
-      "date": "2026-09-12",
-      "price": 365
-    },
-    {
-      "date": "2026-09-13",
-      "price": 360
-    },
-    {
-      "date": "2026-09-14",
-      "price": 365
-    },
-    {
-      "date": "2026-09-15",
-      "price": 361
-    },
-    {
-      "date": "2026-09-16",
-      "price": 358
-    },
-    {
-      "date": "2026-09-17",
-      "price": 365
-    },
-    {
-      "date": "2026-09-18",
-      "price": 361
-    },
-    {
-      "date": "2026-09-19",
-      "price": 363
-    },
-    {
-      "date": "2026-09-20",
-      "price": 365
-    },
-    {
-      "date": "2026-09-21",
-      "price": 365
-    },
-    {
-      "date": "2026-09-22",
-      "price": 365
-    },
-    {
-      "date": "2026-09-23",
-      "price": 359
-    },
-    {
-      "date": "2026-09-24",
-      "price": 360
-    },
-    {
-      "date": "2026-09-25",
-      "price": 359
-    },
-    {
-      "date": "2026-09-26",
-      "price": 361
-    },
-    {
-      "date": "2026-09-27",
-      "price": 365
-    },
-    {
-      "date": "2026-09-28",
-      "price": 360
-    },
-    {
-      "date": "2026-09-29",
-      "price": 357
-    },
-    {
-      "date": "2026-09-30",
-      "price": 365
-    },
-    {
-      "date": "2026-10-01",
-      "price": 355
-    },
-    {
-      "date": "2026-10-02",
-      "price": 299
-    }
-  ]
-},
-{
-  "id": "fit-17",
-  "slug": "blenderbottle-classic-v2-shaker-bottle-820ml",
-  "title": "BlenderBottle Classic V2 Shaker Bottle (820ml / 28oz) with Stainless Steel Wire Whisk Ball",
-  "brand": "BlenderBottle",
-  "category": "Fitness",
-  "price": 799,
-  "mrp": 1199,
-  "rating": 4.7,
-  "reviewCount": 38400,
-  "images": [
+  {
+    "id": "fit-17",
+    "slug": "blenderbottle-classic-v2-shaker-bottle-820ml",
+    "title": "BlenderBottle Classic V2 Shaker Bottle (820ml / 28oz) with Stainless Steel Wire Whisk Ball",
+    "brand": "BlenderBottle",
+    "category": "Fitness",
+    "price": 799,
+    "mrp": 1199,
+    "rating": 4.7,
+    "reviewCount": 38400,
+    "images": [
       "/products/fit-17.jpg"
     ],
-  "bullets": [
-    "Patented 316 surgical-grade stainless steel BlenderBall wire whisk eliminates protein clumps in seconds",
-    "Upgraded rounded base allows the BlenderBall to mix every last bit of powder",
-    "Guaranteed 100% leakproof seal with SpoutGuard lid keeping drinking surface clean from gym germs",
-    "BPA and phthalate-free, stain and odor-resistant Eastman Tritan plastic",
-    "Embossed ounce and milliliter markings up to 820ml with wide mouth for easy powder scoops"
-  ],
-  "description": "The BlenderBottle Classic V2 is the gold-standard shaker cup, delivering clump-free protein shakes, BCAAs, and pre-workouts with its surgical steel whisk ball.",
-  "stock": 45,
-  "deliveryDays": 1,
-  "tags": [
-    "fitness",
-    "shaker",
-    "blender bottle",
-    "protein shaker",
-    "gym",
-    "supplements",
-    "accessories"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "BlenderBall whisk dissolves even dense whey isolate into smooth, clump-free shakes",
-      "Genuinely 100% leakproof cap you can toss into gym duffels without worry",
-      "Rounded base prevents unmixed powder from getting trapped in bottom crevices"
+    "bullets": [
+      "Patented 316 surgical-grade stainless steel BlenderBall wire whisk eliminates protein clumps in seconds",
+      "Upgraded rounded base allows the BlenderBall to mix every last bit of powder",
+      "Guaranteed 100% leakproof seal with SpoutGuard lid keeping drinking surface clean from gym germs",
+      "BPA and phthalate-free, stain and odor-resistant Eastman Tritan plastic",
+      "Embossed ounce and milliliter markings up to 820ml with wide mouth for easy powder scoops"
     ],
-    "cons": [
-      "More expensive than generic local plastic shakers",
-      "Lid snap requires firm pressure to click completely shut"
+    "description": "The BlenderBottle Classic V2 is the gold-standard shaker cup, delivering clump-free protein shakes, BCAAs, and pre-workouts with its surgical steel whisk ball.",
+    "stock": 45,
+    "deliveryDays": 1,
+    "tags": [
+      "fitness",
+      "shaker",
+      "blender bottle",
+      "protein shaker",
+      "gym",
+      "supplements",
+      "accessories"
     ],
-    "verdict": "The quintessential, indestructible shaker bottle that makes drinking daily protein a pleasure.",
-    "sentiment": {
-      "positive": 94,
-      "neutral": 4,
-      "negative": 2
-    }
+    "reviewSummary": {
+      "pros": [
+        "BlenderBall whisk dissolves even dense whey isolate into smooth, clump-free shakes",
+        "Genuinely 100% leakproof cap you can toss into gym duffels without worry",
+        "Rounded base prevents unmixed powder from getting trapped in bottom crevices"
+      ],
+      "cons": [
+        "More expensive than generic local plastic shakers",
+        "Lid snap requires firm pressure to click completely shut"
+      ],
+      "verdict": "The quintessential, indestructible shaker bottle that makes drinking daily protein a pleasure.",
+      "sentiment": {
+        "positive": 94,
+        "neutral": 4,
+        "negative": 2
+      }
+    },
+    "priceHistory": [
+      {
+        "date": "2026-07-05",
+        "price": 882
+      },
+      {
+        "date": "2026-07-06",
+        "price": 906
+      },
+      {
+        "date": "2026-07-07",
+        "price": 931
+      },
+      {
+        "date": "2026-07-08",
+        "price": 933
+      },
+      {
+        "date": "2026-07-09",
+        "price": 933
+      },
+      {
+        "date": "2026-07-10",
+        "price": 955
+      },
+      {
+        "date": "2026-07-11",
+        "price": 971
+      },
+      {
+        "date": "2026-07-12",
+        "price": 975
+      },
+      {
+        "date": "2026-07-13",
+        "price": 975
+      },
+      {
+        "date": "2026-07-14",
+        "price": 975
+      },
+      {
+        "date": "2026-07-15",
+        "price": 975
+      },
+      {
+        "date": "2026-07-16",
+        "price": 967
+      },
+      {
+        "date": "2026-07-17",
+        "price": 975
+      },
+      {
+        "date": "2026-07-18",
+        "price": 975
+      },
+      {
+        "date": "2026-07-19",
+        "price": 953
+      },
+      {
+        "date": "2026-07-20",
+        "price": 942
+      },
+      {
+        "date": "2026-07-21",
+        "price": 935
+      },
+      {
+        "date": "2026-07-22",
+        "price": 910
+      },
+      {
+        "date": "2026-07-23",
+        "price": 934
+      },
+      {
+        "date": "2026-07-24",
+        "price": 955
+      },
+      {
+        "date": "2026-07-25",
+        "price": 975
+      },
+      {
+        "date": "2026-07-26",
+        "price": 975
+      },
+      {
+        "date": "2026-07-27",
+        "price": 953
+      },
+      {
+        "date": "2026-07-28",
+        "price": 938
+      },
+      {
+        "date": "2026-07-29",
+        "price": 912
+      },
+      {
+        "date": "2026-07-30",
+        "price": 893
+      },
+      {
+        "date": "2026-07-31",
+        "price": 906
+      },
+      {
+        "date": "2026-08-01",
+        "price": 932
+      },
+      {
+        "date": "2026-08-02",
+        "price": 907
+      },
+      {
+        "date": "2026-08-03",
+        "price": 886
+      },
+      {
+        "date": "2026-08-04",
+        "price": 871
+      },
+      {
+        "date": "2026-08-05",
+        "price": 882
+      },
+      {
+        "date": "2026-08-06",
+        "price": 890
+      },
+      {
+        "date": "2026-08-07",
+        "price": 871
+      },
+      {
+        "date": "2026-08-08",
+        "price": 857
+      },
+      {
+        "date": "2026-08-09",
+        "price": 877
+      },
+      {
+        "date": "2026-08-10",
+        "price": 854
+      },
+      {
+        "date": "2026-08-11",
+        "price": 858
+      },
+      {
+        "date": "2026-08-12",
+        "price": 877
+      },
+      {
+        "date": "2026-08-13",
+        "price": 873
+      },
+      {
+        "date": "2026-08-14",
+        "price": 884
+      },
+      {
+        "date": "2026-08-15",
+        "price": 877
+      },
+      {
+        "date": "2026-08-16",
+        "price": 887
+      },
+      {
+        "date": "2026-08-17",
+        "price": 907
+      },
+      {
+        "date": "2026-08-18",
+        "price": 921
+      },
+      {
+        "date": "2026-08-19",
+        "price": 931
+      },
+      {
+        "date": "2026-08-20",
+        "price": 913
+      },
+      {
+        "date": "2026-08-21",
+        "price": 931
+      },
+      {
+        "date": "2026-08-22",
+        "price": 947
+      },
+      {
+        "date": "2026-08-23",
+        "price": 960
+      },
+      {
+        "date": "2026-08-24",
+        "price": 975
+      },
+      {
+        "date": "2026-08-25",
+        "price": 968
+      },
+      {
+        "date": "2026-08-26",
+        "price": 975
+      },
+      {
+        "date": "2026-08-27",
+        "price": 975
+      },
+      {
+        "date": "2026-08-28",
+        "price": 947
+      },
+      {
+        "date": "2026-08-29",
+        "price": 941
+      },
+      {
+        "date": "2026-08-30",
+        "price": 918
+      },
+      {
+        "date": "2026-08-31",
+        "price": 917
+      },
+      {
+        "date": "2026-09-01",
+        "price": 908
+      },
+      {
+        "date": "2026-09-02",
+        "price": 929
+      },
+      {
+        "date": "2026-09-03",
+        "price": 926
+      },
+      {
+        "date": "2026-09-04",
+        "price": 953
+      },
+      {
+        "date": "2026-09-05",
+        "price": 956
+      },
+      {
+        "date": "2026-09-06",
+        "price": 974
+      },
+      {
+        "date": "2026-09-07",
+        "price": 953
+      },
+      {
+        "date": "2026-09-08",
+        "price": 959
+      },
+      {
+        "date": "2026-09-09",
+        "price": 975
+      },
+      {
+        "date": "2026-09-10",
+        "price": 951
+      },
+      {
+        "date": "2026-09-11",
+        "price": 952
+      },
+      {
+        "date": "2026-09-12",
+        "price": 939
+      },
+      {
+        "date": "2026-09-13",
+        "price": 962
+      },
+      {
+        "date": "2026-09-14",
+        "price": 954
+      },
+      {
+        "date": "2026-09-15",
+        "price": 975
+      },
+      {
+        "date": "2026-09-16",
+        "price": 975
+      },
+      {
+        "date": "2026-09-17",
+        "price": 975
+      },
+      {
+        "date": "2026-09-18",
+        "price": 975
+      },
+      {
+        "date": "2026-09-19",
+        "price": 960
+      },
+      {
+        "date": "2026-09-20",
+        "price": 958
+      },
+      {
+        "date": "2026-09-21",
+        "price": 953
+      },
+      {
+        "date": "2026-09-22",
+        "price": 945
+      },
+      {
+        "date": "2026-09-23",
+        "price": 956
+      },
+      {
+        "date": "2026-09-24",
+        "price": 953
+      },
+      {
+        "date": "2026-09-25",
+        "price": 953
+      },
+      {
+        "date": "2026-09-26",
+        "price": 943
+      },
+      {
+        "date": "2026-09-27",
+        "price": 967
+      },
+      {
+        "date": "2026-09-28",
+        "price": 959
+      },
+      {
+        "date": "2026-09-29",
+        "price": 951
+      },
+      {
+        "date": "2026-09-30",
+        "price": 973
+      },
+      {
+        "date": "2026-10-01",
+        "price": 968
+      },
+      {
+        "date": "2026-10-02",
+        "price": 799
+      }
+    ]
   },
-  "priceHistory": [
-    {
-      "date": "2026-07-05",
-      "price": 882
-    },
-    {
-      "date": "2026-07-06",
-      "price": 906
-    },
-    {
-      "date": "2026-07-07",
-      "price": 931
-    },
-    {
-      "date": "2026-07-08",
-      "price": 933
-    },
-    {
-      "date": "2026-07-09",
-      "price": 933
-    },
-    {
-      "date": "2026-07-10",
-      "price": 955
-    },
-    {
-      "date": "2026-07-11",
-      "price": 971
-    },
-    {
-      "date": "2026-07-12",
-      "price": 975
-    },
-    {
-      "date": "2026-07-13",
-      "price": 975
-    },
-    {
-      "date": "2026-07-14",
-      "price": 975
-    },
-    {
-      "date": "2026-07-15",
-      "price": 975
-    },
-    {
-      "date": "2026-07-16",
-      "price": 967
-    },
-    {
-      "date": "2026-07-17",
-      "price": 975
-    },
-    {
-      "date": "2026-07-18",
-      "price": 975
-    },
-    {
-      "date": "2026-07-19",
-      "price": 953
-    },
-    {
-      "date": "2026-07-20",
-      "price": 942
-    },
-    {
-      "date": "2026-07-21",
-      "price": 935
-    },
-    {
-      "date": "2026-07-22",
-      "price": 910
-    },
-    {
-      "date": "2026-07-23",
-      "price": 934
-    },
-    {
-      "date": "2026-07-24",
-      "price": 955
-    },
-    {
-      "date": "2026-07-25",
-      "price": 975
-    },
-    {
-      "date": "2026-07-26",
-      "price": 975
-    },
-    {
-      "date": "2026-07-27",
-      "price": 953
-    },
-    {
-      "date": "2026-07-28",
-      "price": 938
-    },
-    {
-      "date": "2026-07-29",
-      "price": 912
-    },
-    {
-      "date": "2026-07-30",
-      "price": 893
-    },
-    {
-      "date": "2026-07-31",
-      "price": 906
-    },
-    {
-      "date": "2026-08-01",
-      "price": 932
-    },
-    {
-      "date": "2026-08-02",
-      "price": 907
-    },
-    {
-      "date": "2026-08-03",
-      "price": 886
-    },
-    {
-      "date": "2026-08-04",
-      "price": 871
-    },
-    {
-      "date": "2026-08-05",
-      "price": 882
-    },
-    {
-      "date": "2026-08-06",
-      "price": 890
-    },
-    {
-      "date": "2026-08-07",
-      "price": 871
-    },
-    {
-      "date": "2026-08-08",
-      "price": 857
-    },
-    {
-      "date": "2026-08-09",
-      "price": 877
-    },
-    {
-      "date": "2026-08-10",
-      "price": 854
-    },
-    {
-      "date": "2026-08-11",
-      "price": 858
-    },
-    {
-      "date": "2026-08-12",
-      "price": 877
-    },
-    {
-      "date": "2026-08-13",
-      "price": 873
-    },
-    {
-      "date": "2026-08-14",
-      "price": 884
-    },
-    {
-      "date": "2026-08-15",
-      "price": 877
-    },
-    {
-      "date": "2026-08-16",
-      "price": 887
-    },
-    {
-      "date": "2026-08-17",
-      "price": 907
-    },
-    {
-      "date": "2026-08-18",
-      "price": 921
-    },
-    {
-      "date": "2026-08-19",
-      "price": 931
-    },
-    {
-      "date": "2026-08-20",
-      "price": 913
-    },
-    {
-      "date": "2026-08-21",
-      "price": 931
-    },
-    {
-      "date": "2026-08-22",
-      "price": 947
-    },
-    {
-      "date": "2026-08-23",
-      "price": 960
-    },
-    {
-      "date": "2026-08-24",
-      "price": 975
-    },
-    {
-      "date": "2026-08-25",
-      "price": 968
-    },
-    {
-      "date": "2026-08-26",
-      "price": 975
-    },
-    {
-      "date": "2026-08-27",
-      "price": 975
-    },
-    {
-      "date": "2026-08-28",
-      "price": 947
-    },
-    {
-      "date": "2026-08-29",
-      "price": 941
-    },
-    {
-      "date": "2026-08-30",
-      "price": 918
-    },
-    {
-      "date": "2026-08-31",
-      "price": 917
-    },
-    {
-      "date": "2026-09-01",
-      "price": 908
-    },
-    {
-      "date": "2026-09-02",
-      "price": 929
-    },
-    {
-      "date": "2026-09-03",
-      "price": 926
-    },
-    {
-      "date": "2026-09-04",
-      "price": 953
-    },
-    {
-      "date": "2026-09-05",
-      "price": 956
-    },
-    {
-      "date": "2026-09-06",
-      "price": 974
-    },
-    {
-      "date": "2026-09-07",
-      "price": 953
-    },
-    {
-      "date": "2026-09-08",
-      "price": 959
-    },
-    {
-      "date": "2026-09-09",
-      "price": 975
-    },
-    {
-      "date": "2026-09-10",
-      "price": 951
-    },
-    {
-      "date": "2026-09-11",
-      "price": 952
-    },
-    {
-      "date": "2026-09-12",
-      "price": 939
-    },
-    {
-      "date": "2026-09-13",
-      "price": 962
-    },
-    {
-      "date": "2026-09-14",
-      "price": 954
-    },
-    {
-      "date": "2026-09-15",
-      "price": 975
-    },
-    {
-      "date": "2026-09-16",
-      "price": 975
-    },
-    {
-      "date": "2026-09-17",
-      "price": 975
-    },
-    {
-      "date": "2026-09-18",
-      "price": 975
-    },
-    {
-      "date": "2026-09-19",
-      "price": 960
-    },
-    {
-      "date": "2026-09-20",
-      "price": 958
-    },
-    {
-      "date": "2026-09-21",
-      "price": 953
-    },
-    {
-      "date": "2026-09-22",
-      "price": 945
-    },
-    {
-      "date": "2026-09-23",
-      "price": 956
-    },
-    {
-      "date": "2026-09-24",
-      "price": 953
-    },
-    {
-      "date": "2026-09-25",
-      "price": 953
-    },
-    {
-      "date": "2026-09-26",
-      "price": 943
-    },
-    {
-      "date": "2026-09-27",
-      "price": 967
-    },
-    {
-      "date": "2026-09-28",
-      "price": 959
-    },
-    {
-      "date": "2026-09-29",
-      "price": 951
-    },
-    {
-      "date": "2026-09-30",
-      "price": 973
-    },
-    {
-      "date": "2026-10-01",
-      "price": 968
-    },
-    {
-      "date": "2026-10-02",
-      "price": 799
-    }
-  ]
-},
-{
-  "id": "fit-18",
-  "slug": "usi-universal-heavy-duty-wrist-wraps",
-  "title": "USI Universal Heavy Duty Cotton Wrist Wraps Pair for Weightlifting & Powerlifting",
-  "brand": "USI Universal",
-  "category": "Fitness",
-  "price": 399,
-  "mrp": 699,
-  "rating": 4.4,
-  "reviewCount": 11200,
-  "images": [
-    "/products/fit-01.jpg"
-  ],
-  "bullets": [
-    "Heavy-duty elasticated cotton-poly weave delivers robust wrist joint stabilization during heavy lifts",
-    "Reinforced thumb loop anchors the wrap in place for tight, consistent wrapping tension",
-    "Extra-wide industrial hook-and-loop Velcro closure withstands maximum pulling pressure",
-    "Helps prevent hyperextension during heavy bench presses, overhead presses, and dips",
-    "18-inch length allows customizable tightness for powerlifters and cross-trainers"
-  ],
-  "description": "Protect your wrist joints and push heavier loads with USI Universal's elasticated cotton wrist support wraps engineered for heavy pressing movements.",
-  "stock": 60,
-  "deliveryDays": 1,
-  "tags": [
-    "fitness",
-    "wrist wraps",
-    "weightlifting",
-    "powerlifting",
-    "gym",
-    "bench press",
-    "accessories"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "Provides rock-solid wrist stability that eliminates joint pain during heavy bench presses",
-      "Durable industrial Velcro stays locked during max effort lifts",
-      "Comfortable cotton blend that doesn't pinch or cut off circulation"
-    ],
-    "cons": [
-      "Must be hand washed to prevent Velcro from fraying other clothes in washing machine",
-      "Slightly stiff during first two gym sessions"
-    ],
-    "verdict": "An indispensable lifting accessory for anyone lifting heavy barbells or experiencing wrist strain.",
-    "sentiment": {
-      "positive": 88,
-      "neutral": 9,
-      "negative": 3
-    }
-  },
-  "priceHistory": [
-    {
-      "date": "2026-07-05",
-      "price": 442
-    },
-    {
-      "date": "2026-07-06",
-      "price": 450
-    },
-    {
-      "date": "2026-07-07",
-      "price": 437
-    },
-    {
-      "date": "2026-07-08",
-      "price": 431
-    },
-    {
-      "date": "2026-07-09",
-      "price": 426
-    },
-    {
-      "date": "2026-07-10",
-      "price": 426
-    },
-    {
-      "date": "2026-07-11",
-      "price": 421
-    },
-    {
-      "date": "2026-07-12",
-      "price": 413
-    },
-    {
-      "date": "2026-07-13",
-      "price": 422
-    },
-    {
-      "date": "2026-07-14",
-      "price": 417
-    },
-    {
-      "date": "2026-07-15",
-      "price": 406
-    },
-    {
-      "date": "2026-07-16",
-      "price": 412
-    },
-    {
-      "date": "2026-07-17",
-      "price": 418
-    },
-    {
-      "date": "2026-07-18",
-      "price": 423
-    },
-    {
-      "date": "2026-07-19",
-      "price": 436
-    },
-    {
-      "date": "2026-07-20",
-      "price": 431
-    },
-    {
-      "date": "2026-07-21",
-      "price": 426
-    },
-    {
-      "date": "2026-07-22",
-      "price": 421
-    },
-    {
-      "date": "2026-07-23",
-      "price": 427
-    },
-    {
-      "date": "2026-07-24",
-      "price": 422
-    },
-    {
-      "date": "2026-07-25",
-      "price": 429
-    },
-    {
-      "date": "2026-07-26",
-      "price": 434
-    },
-    {
-      "date": "2026-07-27",
-      "price": 432
-    },
-    {
-      "date": "2026-07-28",
-      "price": 431
-    },
-    {
-      "date": "2026-07-29",
-      "price": 435
-    },
-    {
-      "date": "2026-07-30",
-      "price": 442
-    },
-    {
-      "date": "2026-07-31",
-      "price": 454
-    },
-    {
-      "date": "2026-08-01",
-      "price": 449
-    },
-    {
-      "date": "2026-08-02",
-      "price": 442
-    },
-    {
-      "date": "2026-08-03",
-      "price": 453
-    },
-    {
-      "date": "2026-08-04",
-      "price": 447
-    },
-    {
-      "date": "2026-08-05",
-      "price": 451
-    },
-    {
-      "date": "2026-08-06",
-      "price": 446
-    },
-    {
-      "date": "2026-08-07",
-      "price": 443
-    },
-    {
-      "date": "2026-08-08",
-      "price": 448
-    },
-    {
-      "date": "2026-08-09",
-      "price": 442
-    },
-    {
-      "date": "2026-08-10",
-      "price": 452
-    },
-    {
-      "date": "2026-08-11",
-      "price": 450
-    },
-    {
-      "date": "2026-08-12",
-      "price": 458
-    },
-    {
-      "date": "2026-08-13",
-      "price": 457
-    },
-    {
-      "date": "2026-08-14",
-      "price": 469
-    },
-    {
-      "date": "2026-08-15",
-      "price": 467
-    },
-    {
-      "date": "2026-08-16",
-      "price": 468
-    },
-    {
-      "date": "2026-08-17",
-      "price": 458
-    },
-    {
-      "date": "2026-08-18",
-      "price": 458
-    },
-    {
-      "date": "2026-08-19",
-      "price": 449
-    },
-    {
-      "date": "2026-08-20",
-      "price": 454
-    },
-    {
-      "date": "2026-08-21",
-      "price": 441
-    },
-    {
-      "date": "2026-08-22",
-      "price": 431
-    },
-    {
-      "date": "2026-08-23",
-      "price": 429
-    },
-    {
-      "date": "2026-08-24",
-      "price": 420
-    },
-    {
-      "date": "2026-08-25",
-      "price": 432
-    },
-    {
-      "date": "2026-08-26",
-      "price": 432
-    },
-    {
-      "date": "2026-08-27",
-      "price": 430
-    },
-    {
-      "date": "2026-08-28",
-      "price": 419
-    },
-    {
-      "date": "2026-08-29",
-      "price": 410
-    },
-    {
-      "date": "2026-08-30",
-      "price": 406
-    },
-    {
-      "date": "2026-08-31",
-      "price": 413
-    },
-    {
-      "date": "2026-09-01",
-      "price": 421
-    },
-    {
-      "date": "2026-09-02",
-      "price": 423
-    },
-    {
-      "date": "2026-09-03",
-      "price": 429
-    },
-    {
-      "date": "2026-09-04",
-      "price": 425
-    },
-    {
-      "date": "2026-09-05",
-      "price": 423
-    },
-    {
-      "date": "2026-09-06",
-      "price": 417
-    },
-    {
-      "date": "2026-09-07",
-      "price": 413
-    },
-    {
-      "date": "2026-09-08",
-      "price": 424
-    },
-    {
-      "date": "2026-09-09",
-      "price": 433
-    },
-    {
-      "date": "2026-09-10",
-      "price": 424
-    },
-    {
-      "date": "2026-09-11",
-      "price": 412
-    },
-    {
-      "date": "2026-09-12",
-      "price": 422
-    },
-    {
-      "date": "2026-09-13",
-      "price": 429
-    },
-    {
-      "date": "2026-09-14",
-      "price": 419
-    },
-    {
-      "date": "2026-09-15",
-      "price": 410
-    },
-    {
-      "date": "2026-09-16",
-      "price": 402
-    },
-    {
-      "date": "2026-09-17",
-      "price": 411
-    },
-    {
-      "date": "2026-09-18",
-      "price": 414
-    },
-    {
-      "date": "2026-09-19",
-      "price": 414
-    },
-    {
-      "date": "2026-09-20",
-      "price": 426
-    },
-    {
-      "date": "2026-09-21",
-      "price": 421
-    },
-    {
-      "date": "2026-09-22",
-      "price": 414
-    },
-    {
-      "date": "2026-09-23",
-      "price": 405
-    },
-    {
-      "date": "2026-09-24",
-      "price": 409
-    },
-    {
-      "date": "2026-09-25",
-      "price": 402
-    },
-    {
-      "date": "2026-09-26",
-      "price": 408
-    },
-    {
-      "date": "2026-09-27",
-      "price": 408
-    },
-    {
-      "date": "2026-09-28",
-      "price": 403
-    },
-    {
-      "date": "2026-09-29",
-      "price": 398
-    },
-    {
-      "date": "2026-09-30",
-      "price": 396
-    },
-    {
-      "date": "2026-10-01",
-      "price": 402
-    },
-    {
-      "date": "2026-10-02",
-      "price": 399
-    }
-  ]
-},
-{
-  "id": "fit-19",
-  "slug": "xiaomi-smart-band-8-active",
-  "title": "Xiaomi Smart Band 8 Active with 1.47-inch TFT Display & 50+ Sports Modes",
-  "brand": "Xiaomi",
-  "category": "Fitness",
-  "price": 2499,
-  "mrp": 3999,
-  "rating": 4.3,
-  "reviewCount": 16800,
-  "images": [
-    "/products/fas-03.jpg"
-  ],
-  "bullets": [
-    "Large 1.47-inch vivid TFT display with slim 9.99mm lightweight body weighing just 14.9g",
-    "All-day continuous heart rate monitoring, SpO2 blood oxygen tracking, and scientific sleep analysis",
-    "Over 50 dedicated fitness modes tracking running, cycling, jump rope, strength, and HIIT",
-    "5ATM water resistance up to 50 meters for swimming and shower wear",
-    "Ultra-long 14-day battery life with convenient magnetic snap charging"
-  ],
-  "description": "Stay on top of your daily fitness and wellness with the Xiaomi Smart Band 8 Active featuring a vivid 1.47-inch display, 5ATM water resistance, and 2-week battery life.",
-  "stock": 40,
-  "deliveryDays": 1,
-  "tags": [
-    "fitness",
-    "smartwatch",
-    "fitness tracker",
-    "xiaomi",
-    "smart band",
-    "heart rate",
-    "calories",
-    "under 3000"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "Impressive 14-day battery life eliminates daily charging hassle",
-      "Lightweight 15g design is comfortable to wear 24/7, including while sleeping",
-      "Accurate step counting and heart rate zones during workouts"
-    ],
-    "cons": [
-      "TFT screen visibility is slightly dimmer under harsh midday direct sunlight compared to AMOLED",
-      "No onboard standalone GPS (uses connected phone GPS)"
-    ],
-    "verdict": "The most dependable, budget-friendly fitness tracker band for daily step, heart rate, and sleep monitoring.",
-    "sentiment": {
-      "positive": 86,
-      "neutral": 9,
-      "negative": 5
-    }
-  },
-  "priceHistory": [
-    {
-      "date": "2026-07-05",
-      "price": 2763
-    },
-    {
-      "date": "2026-07-06",
-      "price": 2756
-    },
-    {
-      "date": "2026-07-07",
-      "price": 2832
-    },
-    {
-      "date": "2026-07-08",
-      "price": 2819
-    },
-    {
-      "date": "2026-07-09",
-      "price": 2760
-    },
-    {
-      "date": "2026-07-10",
-      "price": 2824
-    },
-    {
-      "date": "2026-07-11",
-      "price": 2854
-    },
-    {
-      "date": "2026-07-12",
-      "price": 2917
-    },
-    {
-      "date": "2026-07-13",
-      "price": 2982
-    },
-    {
-      "date": "2026-07-14",
-      "price": 2901
-    },
-    {
-      "date": "2026-07-15",
-      "price": 2826
-    },
-    {
-      "date": "2026-07-16",
-      "price": 2864
-    },
-    {
-      "date": "2026-07-17",
-      "price": 2803
-    },
-    {
-      "date": "2026-07-18",
-      "price": 2758
-    },
-    {
-      "date": "2026-07-19",
-      "price": 2709
-    },
-    {
-      "date": "2026-07-20",
-      "price": 2702
-    },
-    {
-      "date": "2026-07-21",
-      "price": 2697
-    },
-    {
-      "date": "2026-07-22",
-      "price": 2670
-    },
-    {
-      "date": "2026-07-23",
-      "price": 2694
-    },
-    {
-      "date": "2026-07-24",
-      "price": 2652
-    },
-    {
-      "date": "2026-07-25",
-      "price": 2718
-    },
-    {
-      "date": "2026-07-26",
-      "price": 2702
-    },
-    {
-      "date": "2026-07-27",
-      "price": 2768
-    },
-    {
-      "date": "2026-07-28",
-      "price": 2816
-    },
-    {
-      "date": "2026-07-29",
-      "price": 2825
-    },
-    {
-      "date": "2026-07-30",
-      "price": 2812
-    },
-    {
-      "date": "2026-07-31",
-      "price": 2887
-    },
-    {
-      "date": "2026-08-01",
-      "price": 2920
-    },
-    {
-      "date": "2026-08-02",
-      "price": 2996
-    },
-    {
-      "date": "2026-08-03",
-      "price": 3042
-    },
-    {
-      "date": "2026-08-04",
-      "price": 3008
-    },
-    {
-      "date": "2026-08-05",
-      "price": 3049
-    },
-    {
-      "date": "2026-08-06",
-      "price": 2980
-    },
-    {
-      "date": "2026-08-07",
-      "price": 2962
-    },
-    {
-      "date": "2026-08-08",
-      "price": 2924
-    },
-    {
-      "date": "2026-08-09",
-      "price": 2842
-    },
-    {
-      "date": "2026-08-10",
-      "price": 2803
-    },
-    {
-      "date": "2026-08-11",
-      "price": 2791
-    },
-    {
-      "date": "2026-08-12",
-      "price": 2720
-    },
-    {
-      "date": "2026-08-13",
-      "price": 2644
-    },
-    {
-      "date": "2026-08-14",
-      "price": 2582
-    },
-    {
-      "date": "2026-08-15",
-      "price": 2583
-    },
-    {
-      "date": "2026-08-16",
-      "price": 2604
-    },
-    {
-      "date": "2026-08-17",
-      "price": 2660
-    },
-    {
-      "date": "2026-08-18",
-      "price": 2628
-    },
-    {
-      "date": "2026-08-19",
-      "price": 2622
-    },
-    {
-      "date": "2026-08-20",
-      "price": 2675
-    },
-    {
-      "date": "2026-08-21",
-      "price": 2615
-    },
-    {
-      "date": "2026-08-22",
-      "price": 2606
-    },
-    {
-      "date": "2026-08-23",
-      "price": 2608
-    },
-    {
-      "date": "2026-08-24",
-      "price": 2670
-    },
-    {
-      "date": "2026-08-25",
-      "price": 2598
-    },
-    {
-      "date": "2026-08-26",
-      "price": 2573
-    },
-    {
-      "date": "2026-08-27",
-      "price": 2583
-    },
-    {
-      "date": "2026-08-28",
-      "price": 2565
-    },
-    {
-      "date": "2026-08-29",
-      "price": 2624
-    },
-    {
-      "date": "2026-08-30",
-      "price": 2566
-    },
-    {
-      "date": "2026-08-31",
-      "price": 2596
-    },
-    {
-      "date": "2026-09-01",
-      "price": 2528
-    },
-    {
-      "date": "2026-09-02",
-      "price": 2527
-    },
-    {
-      "date": "2026-09-03",
-      "price": 2577
-    },
-    {
-      "date": "2026-09-04",
-      "price": 2628
-    },
-    {
-      "date": "2026-09-05",
-      "price": 2658
-    },
-    {
-      "date": "2026-09-06",
-      "price": 2645
-    },
-    {
-      "date": "2026-09-07",
-      "price": 2707
-    },
-    {
-      "date": "2026-09-08",
-      "price": 2763
-    },
-    {
-      "date": "2026-09-09",
-      "price": 2812
-    },
-    {
-      "date": "2026-09-10",
-      "price": 2859
-    },
-    {
-      "date": "2026-09-11",
-      "price": 2857
-    },
-    {
-      "date": "2026-09-12",
-      "price": 2904
-    },
-    {
-      "date": "2026-09-13",
-      "price": 2979
-    },
-    {
-      "date": "2026-09-14",
-      "price": 2967
-    },
-    {
-      "date": "2026-09-15",
-      "price": 3047
-    },
-    {
-      "date": "2026-09-16",
-      "price": 3006
-    },
-    {
-      "date": "2026-09-17",
-      "price": 3025
-    },
-    {
-      "date": "2026-09-18",
-      "price": 3049
-    },
-    {
-      "date": "2026-09-19",
-      "price": 2997
-    },
-    {
-      "date": "2026-09-20",
-      "price": 2918
-    },
-    {
-      "date": "2026-09-21",
-      "price": 2898
-    },
-    {
-      "date": "2026-09-22",
-      "price": 2933
-    },
-    {
-      "date": "2026-09-23",
-      "price": 2896
-    },
-    {
-      "date": "2026-09-24",
-      "price": 2933
-    },
-    {
-      "date": "2026-09-25",
-      "price": 2951
-    },
-    {
-      "date": "2026-09-26",
-      "price": 2910
-    },
-    {
-      "date": "2026-09-27",
-      "price": 2989
-    },
-    {
-      "date": "2026-09-28",
-      "price": 3049
-    },
-    {
-      "date": "2026-09-29",
-      "price": 3049
-    },
-    {
-      "date": "2026-09-30",
-      "price": 2968
-    },
-    {
-      "date": "2026-10-01",
-      "price": 2910
-    },
-    {
-      "date": "2026-10-02",
-      "price": 2499
-    }
-  ]
-},
-{
-  "id": "bt-13",
-  "slug": "cosrx-advanced-snail-96-mucin-power-essence",
-  "title": "COSRX Advanced Snail 96 Mucin Power Essence (100ml) for Glass Skin Hydration",
-  "brand": "COSRX",
-  "category": "Beauty",
-  "price": 1190,
-  "mrp": 1450,
-  "rating": 4.6,
-  "reviewCount": 32400,
-  "images": [
+  {
+    "id": "bt-13",
+    "slug": "cosrx-advanced-snail-96-mucin-power-essence",
+    "title": "COSRX Advanced Snail 96 Mucin Power Essence (100ml) for Glass Skin Hydration",
+    "brand": "COSRX",
+    "category": "Beauty",
+    "price": 1190,
+    "mrp": 1450,
+    "rating": 4.6,
+    "reviewCount": 32400,
+    "images": [
       "/products/bt-13.jpg"
     ],
-  "bullets": [
-    "Formulated with 96.3% Snail Secretion Filtrate to repair and hydrate damaged skin barriers",
-    "Delivers intense hydration, soothes redness, and fades dark post-acne blemishes",
-    "Lightweight slimy texture that absorbs surprisingly fast into skin with zero sticky residue",
-    "Cruelty-free, hypoallergenic, paraben-free, sulfate-free, and dermatologically tested",
-    "The iconic Korean skincare Holy Grail for achieving genuine dewy 'glass skin'"
-  ],
-  "description": "COSRX Advanced Snail 96 Mucin Essence replenishes moisture and repairs compromised skin barriers for a smooth, glowing, radiant complexion.",
-  "stock": 30,
-  "deliveryDays": 1,
-  "tags": [
-    "beauty",
-    "skincare",
-    "k-beauty",
-    "snail mucin",
-    "cosrx",
-    "serum",
-    "hydration",
-    "essence",
-    "glass skin"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "Unrivaled barrier hydration that heals dry, irritated skin patches within days",
-      "Fades acne marks and calms post-breakout redness significantly",
-      "One 100ml pump bottle lasts 4-6 months with daily morning and evening use"
+    "bullets": [
+      "Formulated with 96.3% Snail Secretion Filtrate to repair and hydrate damaged skin barriers",
+      "Delivers intense hydration, soothes redness, and fades dark post-acne blemishes",
+      "Lightweight slimy texture that absorbs surprisingly fast into skin with zero sticky residue",
+      "Cruelty-free, hypoallergenic, paraben-free, sulfate-free, and dermatologically tested",
+      "The iconic Korean skincare Holy Grail for achieving genuine dewy 'glass skin'"
     ],
-    "cons": [
-      "Slimy texture feels unusual on initial first-time application",
-      "Those with severe dust mite allergies should patch-test first"
+    "description": "COSRX Advanced Snail 96 Mucin Essence replenishes moisture and repairs compromised skin barriers for a smooth, glowing, radiant complexion.",
+    "stock": 30,
+    "deliveryDays": 1,
+    "tags": [
+      "beauty",
+      "skincare",
+      "k-beauty",
+      "snail mucin",
+      "cosrx",
+      "serum",
+      "hydration",
+      "essence",
+      "glass skin"
     ],
-    "verdict": "The undisputed Holy Grail of Korean skincare that delivers noticeable glow and plump hydration.",
-    "sentiment": {
-      "positive": 93,
-      "neutral": 5,
-      "negative": 2
-    }
-  },
-  "priceHistory": [
-    {
-      "date": "2026-07-05",
-      "price": 1262
-    },
-    {
-      "date": "2026-07-06",
-      "price": 1259
-    },
-    {
-      "date": "2026-07-07",
-      "price": 1282
-    },
-    {
-      "date": "2026-07-08",
-      "price": 1314
-    },
-    {
-      "date": "2026-07-09",
-      "price": 1329
-    },
-    {
-      "date": "2026-07-10",
-      "price": 1343
-    },
-    {
-      "date": "2026-07-11",
-      "price": 1377
-    },
-    {
-      "date": "2026-07-12",
-      "price": 1352
-    },
-    {
-      "date": "2026-07-13",
-      "price": 1321
-    },
-    {
-      "date": "2026-07-14",
-      "price": 1295
-    },
-    {
-      "date": "2026-07-15",
-      "price": 1316
-    },
-    {
-      "date": "2026-07-16",
-      "price": 1311
-    },
-    {
-      "date": "2026-07-17",
-      "price": 1288
-    },
-    {
-      "date": "2026-07-18",
-      "price": 1297
-    },
-    {
-      "date": "2026-07-19",
-      "price": 1325
-    },
-    {
-      "date": "2026-07-20",
-      "price": 1320
-    },
-    {
-      "date": "2026-07-21",
-      "price": 1340
-    },
-    {
-      "date": "2026-07-22",
-      "price": 1317
-    },
-    {
-      "date": "2026-07-23",
-      "price": 1295
-    },
-    {
-      "date": "2026-07-24",
-      "price": 1269
-    },
-    {
-      "date": "2026-07-25",
-      "price": 1265
-    },
-    {
-      "date": "2026-07-26",
-      "price": 1256
-    },
-    {
-      "date": "2026-07-27",
-      "price": 1250
-    },
-    {
-      "date": "2026-07-28",
-      "price": 1229
-    },
-    {
-      "date": "2026-07-29",
-      "price": 1194
-    },
-    {
-      "date": "2026-07-30",
-      "price": 1180
-    },
-    {
-      "date": "2026-07-31",
-      "price": 1209
-    },
-    {
-      "date": "2026-08-01",
-      "price": 1197
-    },
-    {
-      "date": "2026-08-02",
-      "price": 1172
-    },
-    {
-      "date": "2026-08-03",
-      "price": 1146
-    },
-    {
-      "date": "2026-08-04",
-      "price": 1143
-    },
-    {
-      "date": "2026-08-05",
-      "price": 1177
-    },
-    {
-      "date": "2026-08-06",
-      "price": 1170
-    },
-    {
-      "date": "2026-08-07",
-      "price": 1163
-    },
-    {
-      "date": "2026-08-08",
-      "price": 1153
-    },
-    {
-      "date": "2026-08-09",
-      "price": 1161
-    },
-    {
-      "date": "2026-08-10",
-      "price": 1185
-    },
-    {
-      "date": "2026-08-11",
-      "price": 1185
-    },
-    {
-      "date": "2026-08-12",
-      "price": 1200
-    },
-    {
-      "date": "2026-08-13",
-      "price": 1175
-    },
-    {
-      "date": "2026-08-14",
-      "price": 1163
-    },
-    {
-      "date": "2026-08-15",
-      "price": 1134
-    },
-    {
-      "date": "2026-08-16",
-      "price": 1114
-    },
-    {
-      "date": "2026-08-17",
-      "price": 1127
-    },
-    {
-      "date": "2026-08-18",
-      "price": 1101
-    },
-    {
-      "date": "2026-08-19",
-      "price": 1092
-    },
-    {
-      "date": "2026-08-20",
-      "price": 1102
-    },
-    {
-      "date": "2026-08-21",
-      "price": 1126
-    },
-    {
-      "date": "2026-08-22",
-      "price": 1109
-    },
-    {
-      "date": "2026-08-23",
-      "price": 1134
-    },
-    {
-      "date": "2026-08-24",
-      "price": 1107
-    },
-    {
-      "date": "2026-08-25",
-      "price": 1112
-    },
-    {
-      "date": "2026-08-26",
-      "price": 1121
-    },
-    {
-      "date": "2026-08-27",
-      "price": 1138
-    },
-    {
-      "date": "2026-08-28",
-      "price": 1133
-    },
-    {
-      "date": "2026-08-29",
-      "price": 1128
-    },
-    {
-      "date": "2026-08-30",
-      "price": 1108
-    },
-    {
-      "date": "2026-08-31",
-      "price": 1091
-    },
-    {
-      "date": "2026-09-01",
-      "price": 1084
-    },
-    {
-      "date": "2026-09-02",
-      "price": 1080
-    },
-    {
-      "date": "2026-09-03",
-      "price": 1092
-    },
-    {
-      "date": "2026-09-04",
-      "price": 1113
-    },
-    {
-      "date": "2026-09-05",
-      "price": 1100
-    },
-    {
-      "date": "2026-09-06",
-      "price": 1081
-    },
-    {
-      "date": "2026-09-07",
-      "price": 1084
-    },
-    {
-      "date": "2026-09-08",
-      "price": 1073
-    },
-    {
-      "date": "2026-09-09",
-      "price": 1078
-    },
-    {
-      "date": "2026-09-10",
-      "price": 1103
-    },
-    {
-      "date": "2026-09-11",
-      "price": 1134
-    },
-    {
-      "date": "2026-09-12",
-      "price": 1153
-    },
-    {
-      "date": "2026-09-13",
-      "price": 1174
-    },
-    {
-      "date": "2026-09-14",
-      "price": 1182
-    },
-    {
-      "date": "2026-09-15",
-      "price": 1175
-    },
-    {
-      "date": "2026-09-16",
-      "price": 1173
-    },
-    {
-      "date": "2026-09-17",
-      "price": 1192
-    },
-    {
-      "date": "2026-09-18",
-      "price": 1173
-    },
-    {
-      "date": "2026-09-19",
-      "price": 1152
-    },
-    {
-      "date": "2026-09-20",
-      "price": 1175
-    },
-    {
-      "date": "2026-09-21",
-      "price": 1159
-    },
-    {
-      "date": "2026-09-22",
-      "price": 1179
-    },
-    {
-      "date": "2026-09-23",
-      "price": 1194
-    },
-    {
-      "date": "2026-09-24",
-      "price": 1174
-    },
-    {
-      "date": "2026-09-25",
-      "price": 1143
-    },
-    {
-      "date": "2026-09-26",
-      "price": 1158
-    },
-    {
-      "date": "2026-09-27",
-      "price": 1172
-    },
-    {
-      "date": "2026-09-28",
-      "price": 1151
-    },
-    {
-      "date": "2026-09-29",
-      "price": 1138
-    },
-    {
-      "date": "2026-09-30",
-      "price": 1123
-    },
-    {
-      "date": "2026-10-01",
-      "price": 1152
-    },
-    {
-      "date": "2026-10-02",
-      "price": 1190
-    }
-  ]
-},
-{
-  "id": "bt-14",
-  "slug": "loreal-paris-extraordinary-oil-hair-serum",
-  "title": "L'Oreal Paris Extraordinary Oil Hair Serum with 6 Rare Floral Oils (100ml)",
-  "brand": "L'Oreal Paris",
-  "category": "Beauty",
-  "price": 549,
-  "mrp": 699,
-  "rating": 4.4,
-  "reviewCount": 41200,
-  "images": [
-    "/products/bt-01.jpg"
-  ],
-  "bullets": [
-    "Infused with 6 precious floral oils (Lotus, Chamomile, Tiare, Rose, Flax, and Sunflower)",
-    "Tames frizz instantly, smooths flyaways, and adds brilliant radiant shine to dull hair",
-    "Lightweight, non-greasy formula leaves zero oily heaviness on hair strands",
-    "Provides heat protection up to 230°C before blow drying or flat ironing",
-    "Multi-use: use as pre-shampoo treatment, leave-in conditioner, or finishing shine serum"
-  ],
-  "description": "Transform dry, unruly hair into silky, lustrous locks with L'Oreal Paris Extraordinary Oil Serum infused with 6 precious floral extracts.",
-  "stock": 55,
-  "deliveryDays": 1,
-  "tags": [
-    "beauty",
-    "hair care",
-    "hair serum",
-    "loreal",
-    "frizz control",
-    "shine",
-    "heat protectant"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "Instant glossy shine and flyaway control with just 2-3 drops",
-      "Weightless formula that doesn't make fine hair greasy or limp",
-      "Delightful subtle salon fragrance that lingers pleasantly"
-    ],
-    "cons": [
-      "Heavy glass pump bottle requires care when traveling",
-      "Applying too much near roots can look oily"
-    ],
-    "verdict": "The ultimate salon-grade drugstore hair serum for silky frizz-free hair and heat protection.",
-    "sentiment": {
-      "positive": 89,
-      "neutral": 8,
-      "negative": 3
-    }
-  },
-  "priceHistory": [
-    {
-      "date": "2026-07-05",
-      "price": 597
-    },
-    {
-      "date": "2026-07-06",
-      "price": 590
-    },
-    {
-      "date": "2026-07-07",
-      "price": 586
-    },
-    {
-      "date": "2026-07-08",
-      "price": 571
-    },
-    {
-      "date": "2026-07-09",
-      "price": 566
-    },
-    {
-      "date": "2026-07-10",
-      "price": 568
-    },
-    {
-      "date": "2026-07-11",
-      "price": 584
-    },
-    {
-      "date": "2026-07-12",
-      "price": 581
-    },
-    {
-      "date": "2026-07-13",
-      "price": 588
-    },
-    {
-      "date": "2026-07-14",
-      "price": 582
-    },
-    {
-      "date": "2026-07-15",
-      "price": 596
-    },
-    {
-      "date": "2026-07-16",
-      "price": 583
-    },
-    {
-      "date": "2026-07-17",
-      "price": 583
-    },
-    {
-      "date": "2026-07-18",
-      "price": 596
-    },
-    {
-      "date": "2026-07-19",
-      "price": 592
-    },
-    {
-      "date": "2026-07-20",
-      "price": 586
-    },
-    {
-      "date": "2026-07-21",
-      "price": 602
-    },
-    {
-      "date": "2026-07-22",
-      "price": 585
-    },
-    {
-      "date": "2026-07-23",
-      "price": 599
-    },
-    {
-      "date": "2026-07-24",
-      "price": 584
-    },
-    {
-      "date": "2026-07-25",
-      "price": 574
-    },
-    {
-      "date": "2026-07-26",
-      "price": 581
-    },
-    {
-      "date": "2026-07-27",
-      "price": 578
-    },
-    {
-      "date": "2026-07-28",
-      "price": 581
-    },
-    {
-      "date": "2026-07-29",
-      "price": 574
-    },
-    {
-      "date": "2026-07-30",
-      "price": 573
-    },
-    {
-      "date": "2026-07-31",
-      "price": 585
-    },
-    {
-      "date": "2026-08-01",
-      "price": 585
-    },
-    {
-      "date": "2026-08-02",
-      "price": 579
-    },
-    {
-      "date": "2026-08-03",
-      "price": 586
-    },
-    {
-      "date": "2026-08-04",
-      "price": 600
-    },
-    {
-      "date": "2026-08-05",
-      "price": 615
-    },
-    {
-      "date": "2026-08-06",
-      "price": 632
-    },
-    {
-      "date": "2026-08-07",
-      "price": 620
-    },
-    {
-      "date": "2026-08-08",
-      "price": 625
-    },
-    {
-      "date": "2026-08-09",
-      "price": 628
-    },
-    {
-      "date": "2026-08-10",
-      "price": 629
-    },
-    {
-      "date": "2026-08-11",
-      "price": 636
-    },
-    {
-      "date": "2026-08-12",
-      "price": 646
-    },
-    {
-      "date": "2026-08-13",
-      "price": 644
-    },
-    {
-      "date": "2026-08-14",
-      "price": 655
-    },
-    {
-      "date": "2026-08-15",
-      "price": 645
-    },
-    {
-      "date": "2026-08-16",
-      "price": 657
-    },
-    {
-      "date": "2026-08-17",
-      "price": 662
-    },
-    {
-      "date": "2026-08-18",
-      "price": 667
-    },
-    {
-      "date": "2026-08-19",
-      "price": 670
-    },
-    {
-      "date": "2026-08-20",
-      "price": 670
-    },
-    {
-      "date": "2026-08-21",
-      "price": 670
-    },
-    {
-      "date": "2026-08-22",
-      "price": 660
-    },
-    {
-      "date": "2026-08-23",
-      "price": 670
-    },
-    {
-      "date": "2026-08-24",
-      "price": 652
-    },
-    {
-      "date": "2026-08-25",
-      "price": 663
-    },
-    {
-      "date": "2026-08-26",
-      "price": 649
-    },
-    {
-      "date": "2026-08-27",
-      "price": 639
-    },
-    {
-      "date": "2026-08-28",
-      "price": 655
-    },
-    {
-      "date": "2026-08-29",
-      "price": 668
-    },
-    {
-      "date": "2026-08-30",
-      "price": 670
-    },
-    {
-      "date": "2026-08-31",
-      "price": 670
-    },
-    {
-      "date": "2026-09-01",
-      "price": 667
-    },
-    {
-      "date": "2026-09-02",
-      "price": 655
-    },
-    {
-      "date": "2026-09-03",
-      "price": 647
-    },
-    {
-      "date": "2026-09-04",
-      "price": 632
-    },
-    {
-      "date": "2026-09-05",
-      "price": 633
-    },
-    {
-      "date": "2026-09-06",
-      "price": 638
-    },
-    {
-      "date": "2026-09-07",
-      "price": 634
-    },
-    {
-      "date": "2026-09-08",
-      "price": 617
-    },
-    {
-      "date": "2026-09-09",
-      "price": 621
-    },
-    {
-      "date": "2026-09-10",
-      "price": 632
-    },
-    {
-      "date": "2026-09-11",
-      "price": 633
-    },
-    {
-      "date": "2026-09-12",
-      "price": 621
-    },
-    {
-      "date": "2026-09-13",
-      "price": 631
-    },
-    {
-      "date": "2026-09-14",
-      "price": 642
-    },
-    {
-      "date": "2026-09-15",
-      "price": 630
-    },
-    {
-      "date": "2026-09-16",
-      "price": 645
-    },
-    {
-      "date": "2026-09-17",
-      "price": 640
-    },
-    {
-      "date": "2026-09-18",
-      "price": 642
-    },
-    {
-      "date": "2026-09-19",
-      "price": 629
-    },
-    {
-      "date": "2026-09-20",
-      "price": 614
-    },
-    {
-      "date": "2026-09-21",
-      "price": 618
-    },
-    {
-      "date": "2026-09-22",
-      "price": 614
-    },
-    {
-      "date": "2026-09-23",
-      "price": 622
-    },
-    {
-      "date": "2026-09-24",
-      "price": 619
-    },
-    {
-      "date": "2026-09-25",
-      "price": 613
-    },
-    {
-      "date": "2026-09-26",
-      "price": 615
-    },
-    {
-      "date": "2026-09-27",
-      "price": 601
-    },
-    {
-      "date": "2026-09-28",
-      "price": 607
-    },
-    {
-      "date": "2026-09-29",
-      "price": 606
-    },
-    {
-      "date": "2026-09-30",
-      "price": 623
-    },
-    {
-      "date": "2026-10-01",
-      "price": 607
-    },
-    {
-      "date": "2026-10-02",
-      "price": 549
-    }
-  ]
-},
-{
-  "id": "bt-15",
-  "slug": "mcaffeine-naked-raw-coffee-face-scrub",
-  "title": "mCaffeine Naked & Raw Coffee Face Scrub with Walnut for Exfoliation & Tan Removal (100g)",
-  "brand": "mCaffeine",
-  "category": "Beauty",
-  "price": 349,
-  "mrp": 449,
-  "rating": 4.3,
-  "reviewCount": 26800,
-  "images": [
-    "/products/bt-03.jpg"
-  ],
-  "bullets": [
-    "Pure Arabica coffee grounds and fine walnut granules gently polish away dead skin cells and blackheads",
-    "Caffeine tones skin, reduces puffiness, and stimulates micro-circulation for an instant fresh glow",
-    "Infused with Provitamin B5 and Argan Oil to deeply nourish skin without stripping natural moisture",
-    "FDA approved, dermatologically tested, cruelty-free, and free from mineral oils and parabens",
-    "Heavenly roasted coffee aroma that invigorates your senses during morning showers"
-  ],
-  "description": "mCaffeine Coffee Face Scrub polishes away stubborn blackheads and tan while unclogging pores with pure Arabica coffee and nourishing oils.",
-  "stock": 50,
-  "deliveryDays": 2,
-  "tags": [
-    "beauty",
-    "face scrub",
-    "exfoliator",
-    "mcaffeine",
-    "tan removal",
-    "coffee",
-    "skincare",
-    "blackheads"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "Instantly removes dead skin cells leaving face velvety smooth and soft",
-      "Effective at clearing blackheads on nose and chin",
-      "Addictive roasted coffee aroma energizes morning routines"
-    ],
-    "cons": [
-      "Walnut particles can feel abrasive if scrubbed too vigorously",
-      "Not recommended for active cystic acne or inflamed breakouts"
-    ],
-    "verdict": "The go-to weekly physical exfoliator for clearing blackheads and reviving dull, tanned skin.",
-    "sentiment": {
-      "positive": 85,
-      "neutral": 9,
-      "negative": 6
-    }
-  },
-  "priceHistory": [
-    {
-      "date": "2026-07-05",
-      "price": 384
-    },
-    {
-      "date": "2026-07-06",
-      "price": 379
-    },
-    {
-      "date": "2026-07-07",
-      "price": 384
-    },
-    {
-      "date": "2026-07-08",
-      "price": 373
-    },
-    {
-      "date": "2026-07-09",
-      "price": 366
-    },
-    {
-      "date": "2026-07-10",
-      "price": 361
-    },
-    {
-      "date": "2026-07-11",
-      "price": 361
-    },
-    {
-      "date": "2026-07-12",
-      "price": 361
-    },
-    {
-      "date": "2026-07-13",
-      "price": 362
-    },
-    {
-      "date": "2026-07-14",
-      "price": 352
-    },
-    {
-      "date": "2026-07-15",
-      "price": 360
-    },
-    {
-      "date": "2026-07-16",
-      "price": 368
-    },
-    {
-      "date": "2026-07-17",
-      "price": 365
-    },
-    {
-      "date": "2026-07-18",
-      "price": 359
-    },
-    {
-      "date": "2026-07-19",
-      "price": 350
-    },
-    {
-      "date": "2026-07-20",
-      "price": 357
-    },
-    {
-      "date": "2026-07-21",
-      "price": 364
-    },
-    {
-      "date": "2026-07-22",
-      "price": 364
-    },
-    {
-      "date": "2026-07-23",
-      "price": 360
-    },
-    {
-      "date": "2026-07-24",
-      "price": 354
-    },
-    {
-      "date": "2026-07-25",
-      "price": 347
-    },
-    {
-      "date": "2026-07-26",
-      "price": 348
-    },
-    {
-      "date": "2026-07-27",
-      "price": 340
-    },
-    {
-      "date": "2026-07-28",
-      "price": 348
-    },
-    {
-      "date": "2026-07-29",
-      "price": 345
-    },
-    {
-      "date": "2026-07-30",
-      "price": 337
-    },
-    {
-      "date": "2026-07-31",
-      "price": 340
-    },
-    {
-      "date": "2026-08-01",
-      "price": 346
-    },
-    {
-      "date": "2026-08-02",
-      "price": 354
-    },
-    {
-      "date": "2026-08-03",
-      "price": 357
-    },
-    {
-      "date": "2026-08-04",
-      "price": 355
-    },
-    {
-      "date": "2026-08-05",
-      "price": 350
-    },
-    {
-      "date": "2026-08-06",
-      "price": 341
-    },
-    {
-      "date": "2026-08-07",
-      "price": 340
-    },
-    {
-      "date": "2026-08-08",
-      "price": 331
-    },
-    {
-      "date": "2026-08-09",
-      "price": 338
-    },
-    {
-      "date": "2026-08-10",
-      "price": 336
-    },
-    {
-      "date": "2026-08-11",
-      "price": 334
-    },
-    {
-      "date": "2026-08-12",
-      "price": 339
-    },
-    {
-      "date": "2026-08-13",
-      "price": 349
-    },
-    {
-      "date": "2026-08-14",
-      "price": 347
-    },
-    {
-      "date": "2026-08-15",
-      "price": 349
-    },
-    {
-      "date": "2026-08-16",
-      "price": 339
-    },
-    {
-      "date": "2026-08-17",
-      "price": 333
-    },
-    {
-      "date": "2026-08-18",
-      "price": 339
-    },
-    {
-      "date": "2026-08-19",
-      "price": 329
-    },
-    {
-      "date": "2026-08-20",
-      "price": 335
-    },
-    {
-      "date": "2026-08-21",
-      "price": 326
-    },
-    {
-      "date": "2026-08-22",
-      "price": 317
-    },
-    {
-      "date": "2026-08-23",
-      "price": 326
-    },
-    {
-      "date": "2026-08-24",
-      "price": 328
-    },
-    {
-      "date": "2026-08-25",
-      "price": 334
-    },
-    {
-      "date": "2026-08-26",
-      "price": 341
-    },
-    {
-      "date": "2026-08-27",
-      "price": 341
-    },
-    {
-      "date": "2026-08-28",
-      "price": 345
-    },
-    {
-      "date": "2026-08-29",
-      "price": 340
-    },
-    {
-      "date": "2026-08-30",
-      "price": 332
-    },
-    {
-      "date": "2026-08-31",
-      "price": 339
-    },
-    {
-      "date": "2026-09-01",
-      "price": 339
-    },
-    {
-      "date": "2026-09-02",
-      "price": 333
-    },
-    {
-      "date": "2026-09-03",
-      "price": 338
-    },
-    {
-      "date": "2026-09-04",
-      "price": 329
-    },
-    {
-      "date": "2026-09-05",
-      "price": 337
-    },
-    {
-      "date": "2026-09-06",
-      "price": 329
-    },
-    {
-      "date": "2026-09-07",
-      "price": 329
-    },
-    {
-      "date": "2026-09-08",
-      "price": 329
-    },
-    {
-      "date": "2026-09-09",
-      "price": 322
-    },
-    {
-      "date": "2026-09-10",
-      "price": 326
-    },
-    {
-      "date": "2026-09-11",
-      "price": 329
-    },
-    {
-      "date": "2026-09-12",
-      "price": 330
-    },
-    {
-      "date": "2026-09-13",
-      "price": 329
-    },
-    {
-      "date": "2026-09-14",
-      "price": 338
-    },
-    {
-      "date": "2026-09-15",
-      "price": 336
-    },
-    {
-      "date": "2026-09-16",
-      "price": 346
-    },
-    {
-      "date": "2026-09-17",
-      "price": 337
-    },
-    {
-      "date": "2026-09-18",
-      "price": 339
-    },
-    {
-      "date": "2026-09-19",
-      "price": 344
-    },
-    {
-      "date": "2026-09-20",
-      "price": 352
-    },
-    {
-      "date": "2026-09-21",
-      "price": 349
-    },
-    {
-      "date": "2026-09-22",
-      "price": 345
-    },
-    {
-      "date": "2026-09-23",
-      "price": 355
-    },
-    {
-      "date": "2026-09-24",
-      "price": 356
-    },
-    {
-      "date": "2026-09-25",
-      "price": 358
-    },
-    {
-      "date": "2026-09-26",
-      "price": 351
-    },
-    {
-      "date": "2026-09-27",
-      "price": 360
-    },
-    {
-      "date": "2026-09-28",
-      "price": 368
-    },
-    {
-      "date": "2026-09-29",
-      "price": 366
-    },
-    {
-      "date": "2026-09-30",
-      "price": 377
-    },
-    {
-      "date": "2026-10-01",
-      "price": 377
-    },
-    {
-      "date": "2026-10-02",
-      "price": 349
-    }
-  ]
-},
-{
-  "id": "bt-16",
-  "slug": "biotique-bio-green-apple-fresh-daily-purifying-shampoo",
-  "title": "Biotique Bio Green Apple Fresh Daily Purifying Shampoo & Conditioner (650ml Family Size)",
-  "brand": "Biotique",
-  "category": "Beauty",
-  "price": 249,
-  "mrp": 430,
-  "rating": 4.2,
-  "reviewCount": 31500,
-  "images": [
-    "/products/bt-06.jpg"
-  ],
-  "bullets": [
-    "Enriched with 100% pure green apple extract, sea algae, and centella to purify scalp oiliness",
-    "pH balanced daily formula leaves hair refreshed, airy, and full of natural body and shine",
-    "Gentle Ayurvedic herbal formulation suitable for everyday oily scalp washing",
-    "Huge 650ml family-size pump bottle offers incredible value for money",
-    "Invigorating crisp green apple fragrance keeps scalp feeling clean and fresh all day"
-  ],
-  "description": "Biotique Bio Green Apple Shampoo cleanses and purifies hair and oily scalp with natural green apple minerals and proteins.",
-  "stock": 65,
-  "deliveryDays": 1,
-  "tags": [
-    "beauty",
-    "shampoo",
-    "hair care",
-    "biotique",
-    "daily wash",
-    "ayurvedic",
-    "oily scalp",
-    "budget"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "Excellent value for a massive 650ml pump bottle under ₹250",
-      "Effectively removes daily scalp grime and excess sebum without drying out ends",
-      "Refreshing, natural green apple scent"
-    ],
-    "cons": [
-      "Those with very dry hair will need a heavier post-wash hair mask",
-      "Contains sulfates and gentle foaming agents"
-    ],
-    "verdict": "The most economical daily purifying herbal shampoo for oily scalps and active lifestyles.",
-    "sentiment": {
-      "positive": 83,
-      "neutral": 11,
-      "negative": 6
-    }
-  },
-  "priceHistory": [
-    {
-      "date": "2026-07-05",
-      "price": 268
-    },
-    {
-      "date": "2026-07-06",
-      "price": 274
-    },
-    {
-      "date": "2026-07-07",
-      "price": 269
-    },
-    {
-      "date": "2026-07-08",
-      "price": 274
-    },
-    {
-      "date": "2026-07-09",
-      "price": 276
-    },
-    {
-      "date": "2026-07-10",
-      "price": 274
-    },
-    {
-      "date": "2026-07-11",
-      "price": 282
-    },
-    {
-      "date": "2026-07-12",
-      "price": 286
-    },
-    {
-      "date": "2026-07-13",
-      "price": 286
-    },
-    {
-      "date": "2026-07-14",
-      "price": 278
-    },
-    {
-      "date": "2026-07-15",
-      "price": 276
-    },
-    {
-      "date": "2026-07-16",
-      "price": 269
-    },
-    {
-      "date": "2026-07-17",
-      "price": 266
-    },
-    {
-      "date": "2026-07-18",
-      "price": 269
-    },
-    {
-      "date": "2026-07-19",
-      "price": 265
-    },
-    {
-      "date": "2026-07-20",
-      "price": 271
-    },
-    {
-      "date": "2026-07-21",
-      "price": 266
-    },
-    {
-      "date": "2026-07-22",
-      "price": 271
-    },
-    {
-      "date": "2026-07-23",
-      "price": 271
-    },
-    {
-      "date": "2026-07-24",
-      "price": 265
-    },
-    {
-      "date": "2026-07-25",
-      "price": 273
-    },
-    {
-      "date": "2026-07-26",
-      "price": 274
-    },
-    {
-      "date": "2026-07-27",
-      "price": 267
-    },
-    {
-      "date": "2026-07-28",
-      "price": 266
-    },
-    {
-      "date": "2026-07-29",
-      "price": 262
-    },
-    {
-      "date": "2026-07-30",
-      "price": 264
-    },
-    {
-      "date": "2026-07-31",
-      "price": 267
-    },
-    {
-      "date": "2026-08-01",
-      "price": 263
-    },
-    {
-      "date": "2026-08-02",
-      "price": 257
-    },
-    {
-      "date": "2026-08-03",
-      "price": 254
-    },
-    {
-      "date": "2026-08-04",
-      "price": 250
-    },
-    {
-      "date": "2026-08-05",
-      "price": 246
-    },
-    {
-      "date": "2026-08-06",
-      "price": 251
-    },
-    {
-      "date": "2026-08-07",
-      "price": 250
-    },
-    {
-      "date": "2026-08-08",
-      "price": 244
-    },
-    {
-      "date": "2026-08-09",
-      "price": 251
-    },
-    {
-      "date": "2026-08-10",
-      "price": 251
-    },
-    {
-      "date": "2026-08-11",
-      "price": 249
-    },
-    {
-      "date": "2026-08-12",
-      "price": 250
-    },
-    {
-      "date": "2026-08-13",
-      "price": 250
-    },
-    {
-      "date": "2026-08-14",
-      "price": 243
-    },
-    {
-      "date": "2026-08-15",
-      "price": 236
-    },
-    {
-      "date": "2026-08-16",
-      "price": 238
-    },
-    {
-      "date": "2026-08-17",
-      "price": 237
-    },
-    {
-      "date": "2026-08-18",
-      "price": 244
-    },
-    {
-      "date": "2026-08-19",
-      "price": 247
-    },
-    {
-      "date": "2026-08-20",
-      "price": 245
-    },
-    {
-      "date": "2026-08-21",
-      "price": 248
-    },
-    {
-      "date": "2026-08-22",
-      "price": 244
-    },
-    {
-      "date": "2026-08-23",
-      "price": 251
-    },
-    {
-      "date": "2026-08-24",
-      "price": 246
-    },
-    {
-      "date": "2026-08-25",
-      "price": 247
-    },
-    {
-      "date": "2026-08-26",
-      "price": 248
-    },
-    {
-      "date": "2026-08-27",
-      "price": 253
-    },
-    {
-      "date": "2026-08-28",
-      "price": 260
-    },
-    {
-      "date": "2026-08-29",
-      "price": 262
-    },
-    {
-      "date": "2026-08-30",
-      "price": 269
-    },
-    {
-      "date": "2026-08-31",
-      "price": 273
-    },
-    {
-      "date": "2026-09-01",
-      "price": 269
-    },
-    {
-      "date": "2026-09-02",
-      "price": 263
-    },
-    {
-      "date": "2026-09-03",
-      "price": 268
-    },
-    {
-      "date": "2026-09-04",
-      "price": 268
-    },
-    {
-      "date": "2026-09-05",
-      "price": 273
-    },
-    {
-      "date": "2026-09-06",
-      "price": 267
-    },
-    {
-      "date": "2026-09-07",
-      "price": 264
-    },
-    {
-      "date": "2026-09-08",
-      "price": 269
-    },
-    {
-      "date": "2026-09-09",
-      "price": 272
-    },
-    {
-      "date": "2026-09-10",
-      "price": 275
-    },
-    {
-      "date": "2026-09-11",
-      "price": 267
-    },
-    {
-      "date": "2026-09-12",
-      "price": 265
-    },
-    {
-      "date": "2026-09-13",
-      "price": 267
-    },
-    {
-      "date": "2026-09-14",
-      "price": 264
-    },
-    {
-      "date": "2026-09-15",
-      "price": 266
-    },
-    {
-      "date": "2026-09-16",
-      "price": 271
-    },
-    {
-      "date": "2026-09-17",
-      "price": 270
-    },
-    {
-      "date": "2026-09-18",
-      "price": 267
-    },
-    {
-      "date": "2026-09-19",
-      "price": 269
-    },
-    {
-      "date": "2026-09-20",
-      "price": 277
-    },
-    {
-      "date": "2026-09-21",
-      "price": 270
-    },
-    {
-      "date": "2026-09-22",
-      "price": 278
-    },
-    {
-      "date": "2026-09-23",
-      "price": 277
-    },
-    {
-      "date": "2026-09-24",
-      "price": 280
-    },
-    {
-      "date": "2026-09-25",
-      "price": 288
-    },
-    {
-      "date": "2026-09-26",
-      "price": 292
-    },
-    {
-      "date": "2026-09-27",
-      "price": 300
-    },
-    {
-      "date": "2026-09-28",
-      "price": 304
-    },
-    {
-      "date": "2026-09-29",
-      "price": 298
-    },
-    {
-      "date": "2026-09-30",
-      "price": 297
-    },
-    {
-      "date": "2026-10-01",
-      "price": 304
-    },
-    {
-      "date": "2026-10-02",
-      "price": 249
-    }
-  ]
-},
-{
-  "id": "bt-17",
-  "slug": "tresemme-keratin-smooth-conditioner-with-argan-oil",
-  "title": "Tresemme Keratin Smooth Anti-Frizz Hair Conditioner with Argan Oil (340ml)",
-  "brand": "Tresemme",
-  "category": "Beauty",
-  "price": 419,
-  "mrp": 550,
-  "rating": 4.4,
-  "reviewCount": 22800,
-  "images": [
-    "/products/bt-11.jpg"
-  ],
-  "bullets": [
-    "Formulated with Keratin protein and lightweight Moroccan Argan Oil for up to 72 hours of frizz control",
-    "Provides 100% smoother hair with visibly more shine and salon-like detangling",
-    "Lower sulfate formulation safe for chemically treated or color-treated hair",
-    "Deeply conditions dry lengths without weighing down hair roots",
-    "Trusted by professional hair stylists across the globe"
-  ],
-  "description": "Infused with Keratin and Argan Oil, Tresemme Keratin Smooth Conditioner deeply nourishes each strand to control frizz and enhance manageability for up to 3 days.",
-  "stock": 45,
-  "deliveryDays": 2,
-  "tags": [
-    "beauty",
-    "conditioner",
-    "tresemme",
-    "keratin",
-    "argan oil",
-    "frizz control",
-    "hair care",
-    "salon"
-  ],
-  "reviewSummary": {
-    "pros": [
-      "Instant detangling and slip makes combing wet hair effortless",
-      "Keeps frizz and flyaways in check even in humid monsoon weather",
-      "Imparts salon-smooth sleekness and gloss to rough ends"
-    ],
-    "cons": [
-      "Must be rinsed thoroughly to prevent residue buildup",
-      "Fragrance is noticeable if sensitive to salon scents"
-    ],
-    "verdict": "The gold-standard daily conditioner for taming stubborn frizz and restoring softness to dry hair.",
-    "sentiment": {
-      "positive": 88,
-      "neutral": 8,
-      "negative": 4
-    }
-  },
-  "priceHistory": [
-    {
-      "date": "2026-07-05",
-      "price": 446
-    },
-    {
-      "date": "2026-07-06",
-      "price": 448
-    },
-    {
-      "date": "2026-07-07",
-      "price": 438
-    },
-    {
-      "date": "2026-07-08",
-      "price": 440
-    },
-    {
-      "date": "2026-07-09",
-      "price": 435
-    },
-    {
-      "date": "2026-07-10",
-      "price": 425
-    },
-    {
-      "date": "2026-07-11",
-      "price": 432
-    },
-    {
-      "date": "2026-07-12",
-      "price": 440
-    },
-    {
-      "date": "2026-07-13",
-      "price": 439
-    },
-    {
-      "date": "2026-07-14",
-      "price": 427
-    },
-    {
-      "date": "2026-07-15",
-      "price": 417
-    },
-    {
-      "date": "2026-07-16",
-      "price": 412
-    },
-    {
-      "date": "2026-07-17",
-      "price": 405
-    },
-    {
-      "date": "2026-07-18",
-      "price": 394
-    },
-    {
-      "date": "2026-07-19",
-      "price": 398
-    },
-    {
-      "date": "2026-07-20",
-      "price": 388
-    },
-    {
-      "date": "2026-07-21",
-      "price": 386
-    },
-    {
-      "date": "2026-07-22",
-      "price": 388
-    },
-    {
-      "date": "2026-07-23",
-      "price": 377
-    },
-    {
-      "date": "2026-07-24",
-      "price": 374
-    },
-    {
-      "date": "2026-07-25",
-      "price": 378
-    },
-    {
-      "date": "2026-07-26",
-      "price": 380
-    },
-    {
-      "date": "2026-07-27",
-      "price": 379
-    },
-    {
-      "date": "2026-07-28",
-      "price": 374
-    },
-    {
-      "date": "2026-07-29",
-      "price": 369
-    },
-    {
-      "date": "2026-07-30",
-      "price": 369
-    },
-    {
-      "date": "2026-07-31",
-      "price": 369
-    },
-    {
-      "date": "2026-08-01",
-      "price": 369
-    },
-    {
-      "date": "2026-08-02",
-      "price": 369
-    },
-    {
-      "date": "2026-08-03",
-      "price": 369
-    },
-    {
-      "date": "2026-08-04",
-      "price": 369
-    },
-    {
-      "date": "2026-08-05",
-      "price": 371
-    },
-    {
-      "date": "2026-08-06",
-      "price": 369
-    },
-    {
-      "date": "2026-08-07",
-      "price": 372
-    },
-    {
-      "date": "2026-08-08",
-      "price": 381
-    },
-    {
-      "date": "2026-08-09",
-      "price": 371
-    },
-    {
-      "date": "2026-08-10",
-      "price": 369
-    },
-    {
-      "date": "2026-08-11",
-      "price": 379
-    },
-    {
-      "date": "2026-08-12",
-      "price": 371
-    },
-    {
-      "date": "2026-08-13",
-      "price": 370
-    },
-    {
-      "date": "2026-08-14",
-      "price": 373
-    },
-    {
-      "date": "2026-08-15",
-      "price": 383
-    },
-    {
-      "date": "2026-08-16",
-      "price": 374
-    },
-    {
-      "date": "2026-08-17",
-      "price": 381
-    },
-    {
-      "date": "2026-08-18",
-      "price": 379
-    },
-    {
-      "date": "2026-08-19",
-      "price": 372
-    },
-    {
-      "date": "2026-08-20",
-      "price": 369
-    },
-    {
-      "date": "2026-08-21",
-      "price": 371
-    },
-    {
-      "date": "2026-08-22",
-      "price": 382
-    },
-    {
-      "date": "2026-08-23",
-      "price": 377
-    },
-    {
-      "date": "2026-08-24",
-      "price": 386
-    },
-    {
-      "date": "2026-08-25",
-      "price": 388
-    },
-    {
-      "date": "2026-08-26",
-      "price": 380
-    },
-    {
-      "date": "2026-08-27",
-      "price": 375
-    },
-    {
-      "date": "2026-08-28",
-      "price": 373
-    },
-    {
-      "date": "2026-08-29",
-      "price": 377
-    },
-    {
-      "date": "2026-08-30",
-      "price": 384
-    },
-    {
-      "date": "2026-08-31",
-      "price": 382
-    },
-    {
-      "date": "2026-09-01",
-      "price": 376
-    },
-    {
-      "date": "2026-09-02",
-      "price": 381
-    },
-    {
-      "date": "2026-09-03",
-      "price": 388
-    },
-    {
-      "date": "2026-09-04",
-      "price": 384
-    },
-    {
-      "date": "2026-09-05",
-      "price": 379
-    },
-    {
-      "date": "2026-09-06",
-      "price": 374
-    },
-    {
-      "date": "2026-09-07",
-      "price": 376
-    },
-    {
-      "date": "2026-09-08",
-      "price": 381
-    },
-    {
-      "date": "2026-09-09",
-      "price": 375
-    },
-    {
-      "date": "2026-09-10",
-      "price": 381
-    },
-    {
-      "date": "2026-09-11",
-      "price": 381
-    },
-    {
-      "date": "2026-09-12",
-      "price": 372
-    },
-    {
-      "date": "2026-09-13",
-      "price": 369
-    },
-    {
-      "date": "2026-09-14",
-      "price": 369
-    },
-    {
-      "date": "2026-09-15",
-      "price": 374
-    },
-    {
-      "date": "2026-09-16",
-      "price": 382
-    },
-    {
-      "date": "2026-09-17",
-      "price": 386
-    },
-    {
-      "date": "2026-09-18",
-      "price": 390
-    },
-    {
-      "date": "2026-09-19",
-      "price": 393
-    },
-    {
-      "date": "2026-09-20",
-      "price": 389
-    },
-    {
-      "date": "2026-09-21",
-      "price": 397
-    },
-    {
-      "date": "2026-09-22",
-      "price": 386
-    },
-    {
-      "date": "2026-09-23",
-      "price": 390
-    },
-    {
-      "date": "2026-09-24",
-      "price": 394
-    },
-    {
-      "date": "2026-09-25",
-      "price": 400
-    },
-    {
-      "date": "2026-09-26",
-      "price": 398
-    },
-    {
-      "date": "2026-09-27",
-      "price": 397
-    },
-    {
-      "date": "2026-09-28",
-      "price": 386
-    },
-    {
-      "date": "2026-09-29",
-      "price": 376
-    },
-    {
-      "date": "2026-09-30",
-      "price": 378
-    },
-    {
-      "date": "2026-10-01",
-      "price": 388
-    },
-    {
-      "date": "2026-10-02",
-      "price": 419
-    }
-  ]
-}
+    "reviewSummary": {
+      "pros": [
+        "Unrivaled barrier hydration that heals dry, irritated skin patches within days",
+        "Fades acne marks and calms post-breakout redness significantly",
+        "One 100ml pump bottle lasts 4-6 months with daily morning and evening use"
+      ],
+      "cons": [
+        "Slimy texture feels unusual on initial first-time application",
+        "Those with severe dust mite allergies should patch-test first"
+      ],
+      "verdict": "The undisputed Holy Grail of Korean skincare that delivers noticeable glow and plump hydration.",
+      "sentiment": {
+        "positive": 93,
+        "neutral": 5,
+        "negative": 2
+      }
+    },
+    "priceHistory": [
+      {
+        "date": "2026-07-05",
+        "price": 1262
+      },
+      {
+        "date": "2026-07-06",
+        "price": 1259
+      },
+      {
+        "date": "2026-07-07",
+        "price": 1282
+      },
+      {
+        "date": "2026-07-08",
+        "price": 1314
+      },
+      {
+        "date": "2026-07-09",
+        "price": 1329
+      },
+      {
+        "date": "2026-07-10",
+        "price": 1343
+      },
+      {
+        "date": "2026-07-11",
+        "price": 1377
+      },
+      {
+        "date": "2026-07-12",
+        "price": 1352
+      },
+      {
+        "date": "2026-07-13",
+        "price": 1321
+      },
+      {
+        "date": "2026-07-14",
+        "price": 1295
+      },
+      {
+        "date": "2026-07-15",
+        "price": 1316
+      },
+      {
+        "date": "2026-07-16",
+        "price": 1311
+      },
+      {
+        "date": "2026-07-17",
+        "price": 1288
+      },
+      {
+        "date": "2026-07-18",
+        "price": 1297
+      },
+      {
+        "date": "2026-07-19",
+        "price": 1325
+      },
+      {
+        "date": "2026-07-20",
+        "price": 1320
+      },
+      {
+        "date": "2026-07-21",
+        "price": 1340
+      },
+      {
+        "date": "2026-07-22",
+        "price": 1317
+      },
+      {
+        "date": "2026-07-23",
+        "price": 1295
+      },
+      {
+        "date": "2026-07-24",
+        "price": 1269
+      },
+      {
+        "date": "2026-07-25",
+        "price": 1265
+      },
+      {
+        "date": "2026-07-26",
+        "price": 1256
+      },
+      {
+        "date": "2026-07-27",
+        "price": 1250
+      },
+      {
+        "date": "2026-07-28",
+        "price": 1229
+      },
+      {
+        "date": "2026-07-29",
+        "price": 1194
+      },
+      {
+        "date": "2026-07-30",
+        "price": 1180
+      },
+      {
+        "date": "2026-07-31",
+        "price": 1209
+      },
+      {
+        "date": "2026-08-01",
+        "price": 1197
+      },
+      {
+        "date": "2026-08-02",
+        "price": 1172
+      },
+      {
+        "date": "2026-08-03",
+        "price": 1146
+      },
+      {
+        "date": "2026-08-04",
+        "price": 1143
+      },
+      {
+        "date": "2026-08-05",
+        "price": 1177
+      },
+      {
+        "date": "2026-08-06",
+        "price": 1170
+      },
+      {
+        "date": "2026-08-07",
+        "price": 1163
+      },
+      {
+        "date": "2026-08-08",
+        "price": 1153
+      },
+      {
+        "date": "2026-08-09",
+        "price": 1161
+      },
+      {
+        "date": "2026-08-10",
+        "price": 1185
+      },
+      {
+        "date": "2026-08-11",
+        "price": 1185
+      },
+      {
+        "date": "2026-08-12",
+        "price": 1200
+      },
+      {
+        "date": "2026-08-13",
+        "price": 1175
+      },
+      {
+        "date": "2026-08-14",
+        "price": 1163
+      },
+      {
+        "date": "2026-08-15",
+        "price": 1134
+      },
+      {
+        "date": "2026-08-16",
+        "price": 1114
+      },
+      {
+        "date": "2026-08-17",
+        "price": 1127
+      },
+      {
+        "date": "2026-08-18",
+        "price": 1101
+      },
+      {
+        "date": "2026-08-19",
+        "price": 1092
+      },
+      {
+        "date": "2026-08-20",
+        "price": 1102
+      },
+      {
+        "date": "2026-08-21",
+        "price": 1126
+      },
+      {
+        "date": "2026-08-22",
+        "price": 1109
+      },
+      {
+        "date": "2026-08-23",
+        "price": 1134
+      },
+      {
+        "date": "2026-08-24",
+        "price": 1107
+      },
+      {
+        "date": "2026-08-25",
+        "price": 1112
+      },
+      {
+        "date": "2026-08-26",
+        "price": 1121
+      },
+      {
+        "date": "2026-08-27",
+        "price": 1138
+      },
+      {
+        "date": "2026-08-28",
+        "price": 1133
+      },
+      {
+        "date": "2026-08-29",
+        "price": 1128
+      },
+      {
+        "date": "2026-08-30",
+        "price": 1108
+      },
+      {
+        "date": "2026-08-31",
+        "price": 1091
+      },
+      {
+        "date": "2026-09-01",
+        "price": 1084
+      },
+      {
+        "date": "2026-09-02",
+        "price": 1080
+      },
+      {
+        "date": "2026-09-03",
+        "price": 1092
+      },
+      {
+        "date": "2026-09-04",
+        "price": 1113
+      },
+      {
+        "date": "2026-09-05",
+        "price": 1100
+      },
+      {
+        "date": "2026-09-06",
+        "price": 1081
+      },
+      {
+        "date": "2026-09-07",
+        "price": 1084
+      },
+      {
+        "date": "2026-09-08",
+        "price": 1073
+      },
+      {
+        "date": "2026-09-09",
+        "price": 1078
+      },
+      {
+        "date": "2026-09-10",
+        "price": 1103
+      },
+      {
+        "date": "2026-09-11",
+        "price": 1134
+      },
+      {
+        "date": "2026-09-12",
+        "price": 1153
+      },
+      {
+        "date": "2026-09-13",
+        "price": 1174
+      },
+      {
+        "date": "2026-09-14",
+        "price": 1182
+      },
+      {
+        "date": "2026-09-15",
+        "price": 1175
+      },
+      {
+        "date": "2026-09-16",
+        "price": 1173
+      },
+      {
+        "date": "2026-09-17",
+        "price": 1192
+      },
+      {
+        "date": "2026-09-18",
+        "price": 1173
+      },
+      {
+        "date": "2026-09-19",
+        "price": 1152
+      },
+      {
+        "date": "2026-09-20",
+        "price": 1175
+      },
+      {
+        "date": "2026-09-21",
+        "price": 1159
+      },
+      {
+        "date": "2026-09-22",
+        "price": 1179
+      },
+      {
+        "date": "2026-09-23",
+        "price": 1194
+      },
+      {
+        "date": "2026-09-24",
+        "price": 1174
+      },
+      {
+        "date": "2026-09-25",
+        "price": 1143
+      },
+      {
+        "date": "2026-09-26",
+        "price": 1158
+      },
+      {
+        "date": "2026-09-27",
+        "price": 1172
+      },
+      {
+        "date": "2026-09-28",
+        "price": 1151
+      },
+      {
+        "date": "2026-09-29",
+        "price": 1138
+      },
+      {
+        "date": "2026-09-30",
+        "price": 1123
+      },
+      {
+        "date": "2026-10-01",
+        "price": 1152
+      },
+      {
+        "date": "2026-10-02",
+        "price": 1190
+      }
+    ]
+  }
 ];

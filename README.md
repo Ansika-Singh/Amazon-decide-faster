@@ -78,7 +78,7 @@ Modern e-commerce has degraded into an exhausting cognitive marathon. When shopp
   - *Interactive currency selectors located in the Header and Footer with reactive re-rendering across product cards, detail views, price drop signals, sparkline charts, budget sliders, cart, and checkout.*
 - **Delivery Guarantees:** Realistic localized delivery estimates (e.g. *"Get it by Tomorrow"* or *"Get it by Tue, 7 Oct"*), with free express delivery on all orders over ₹499.
 - **Payment Affordances:** Zero-friction simulated checkout supporting UPI (Google Pay, PhonePe, Paytm), RuPay/Visa/Mastercard, and Cash on Delivery.
-- **Domestic & International Brand Familiarity:** 150 realistic catalog items featuring market leaders: boAt, Sony, JBL, Philips, Apple, Google, Samsung, OnePlus, iQOO, CeraVe, COSRX, Cetaphil, Minimalist, Boldfit, BlenderBottle, Vector X, AS-IT-IS Nutrition, ASUS, Levi's, Allen Solly, Woodland, Aurelia, Libas, and W for Woman.
+- **Domestic & International Brand Familiarity:** 129 realistic catalog items featuring market leaders: boAt, Sony, JBL, Philips, Apple, Samsung, CeraVe, COSRX, Cetaphil, Minimalist, Boldfit, BlenderBottle, Vector X, AS-IT-IS Nutrition, ASUS, Levi's, Allen Solly, Woodland, Aurelia, Libas, and W for Woman.
 
 ---
 
@@ -214,7 +214,7 @@ To prioritize shipping velocity, product focus, and hiring evaluation criteria, 
 
 1. **Mandatory Login Gatekeeping:** Replaced mandatory login barriers with instant guest discovery so anyone can test the entire catalog immediately. For hiring evaluators and registered shoppers, **complete Sign In, Sign Up, and Account Management** are fully available at `/signin` and `/signup` with 1-click reviewer passes and "Keep me signed in" device persistence.
 2. **Real Payment Gateway Integration (Stripe/Razorpay):** Real payments create barrier-to-entry for reviewers and require KYC. Replaced with an interactive demo payment selector (UPI, Card, COD) that mirrors the exact user psychology without real financial transactions.
-3. **Persistent SQL Database:** Seeded typed TS data (150 items across 8 categories) renders in milliseconds with zero cold-starts, perfect for a lightning-fast demonstration.
+3. **Persistent SQL Database:** Seeded typed TS data (129 items across 8 categories) renders in milliseconds with zero cold-starts, perfect for a lightning-fast demonstration.
 4. **Sponsored Ad Auctions & Banner Real Estate:** The core product thesis is anti-sponsored. Commercial ad engines were discarded by design.
 5. **Infinite Recommendation Carousels:** Avoided dark-pattern engagement traps ("Customers who bought this also viewed 40 other items") to keep the user focused on deciding quickly.
 6. **50+ Deep Subcategories:** Scoped to 8 high-velocity consumer categories (Audio, Electronics, Mobiles, Home & Kitchen, Fashion, Books, Fitness, Beauty) to ensure all sample data was deep, believable, and rich.
@@ -231,7 +231,7 @@ To prioritize shipping velocity, product focus, and hiring evaluation criteria, 
 - **Multi-Currency Engine:** Global `CurrencyProvider` and `useCurrency()` hook managing 8 world currencies, `localStorage` persistence, and `Intl.NumberFormat` localized formatting.
 - **AI Concierge:** Next.js Route Handler `/api/assist` with Google Gemini 1.5 Flash + Deterministic Scoring Fallback.
 - **Image Handling:** Custom `ImageWithFallback` component that gracefully degrades to styled SVG badges on remote load failures.
-- **Static Generation:** All 150+ product and category routes prerendered statically at build time for instant page loads.
+- **Static Generation:** All 129 product and category routes prerendered statically at build time for instant page loads.
 
 ---
 
@@ -276,7 +276,7 @@ The application is deployed on Vercel and configured for automatic production de
 
 - **Live URL:** [https://amazon-decide-faster.vercel.app](https://amazon-decide-faster.vercel.app)
 - **Deployment Platform:** Vercel Edge / Serverless
-- **Build Output:** 160+ Static & Dynamic Pages
+- **Build Output:** 142 Static & Dynamic Pages
 
 ---
 
