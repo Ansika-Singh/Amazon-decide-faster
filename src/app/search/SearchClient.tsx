@@ -36,6 +36,99 @@ const SORT_OPTIONS = [
   { label: 'Biggest Price Drop', value: 'drop' },
 ];
 
+const SYNONYM_MAP: Record<string, string[]> = {
+  facewash: ['face wash', 'cleanser', 'facial wash', 'face wash cleanser', 'foam wash'],
+  'face wash': ['facewash', 'cleanser', 'facial wash', 'foam wash'],
+  cleanser: ['facewash', 'face wash', 'facial cleanser', 'facial wash'],
+  sunscreen: ['sun screen', 'sunblock', 'spf'],
+  'sun screen': ['sunscreen', 'sunblock', 'spf'],
+  sunblock: ['sunscreen', 'sun screen', 'spf'],
+  smartwatch: ['smart watch', 'watch'],
+  'smart watch': ['smartwatch', 'watch'],
+  earphones: ['earphone', 'earbuds', 'headphone', 'headphones', 'audio', 'tws'],
+  earphone: ['earphones', 'earbuds', 'headphone', 'headphones', 'tws'],
+  earbuds: ['earphones', 'earphone', 'headphone', 'headphones', 'tws', 'airpods'],
+  headphones: ['headphone', 'earphones', 'earbuds', 'head set'],
+  headphone: ['headphones', 'earphones', 'earbuds'],
+  powerbank: ['power bank', 'portable charger', 'battery pack'],
+  'power bank': ['powerbank', 'portable charger'],
+  tshirt: ['t-shirt', 't shirt', 'tee'],
+  't-shirt': ['tshirt', 't shirt', 'tee'],
+  't shirt': ['tshirt', 't-shirt', 'tee'],
+  airfryer: ['air fryer'],
+  'air fryer': ['airfryer'],
+  neckband: ['neck band'],
+  'neck band': ['neckband'],
+  moisturizer: ['moisturiser', 'cream', 'lotion'],
+  moisturiser: ['moisturizer', 'cream', 'lotion'],
+  shoes: ['sneakers', 'footwear'],
+  jeans: ['denim', 'pants', 'trousers'],
+};
+
+function matchesSearchQuery(product: Product, query: string): boolean {
+  if (!query || !query.trim()) return true;
+
+  const qRaw = query.trim().toLowerCase();
+  const qClean = qRaw.replace(/[\s\-_]+/g, '');
+
+  const title = (product.title || '').toLowerCase();
+  const brand = (product.brand || '').toLowerCase();
+  const category = (product.category || '').toLowerCase();
+  const tags = (product.tags || []).map((t) => t.toLowerCase());
+  const description = (product.description || '').toLowerCase();
+  const bullets = (product.bullets || []).map((b) => b.toLowerCase()).join(' ');
+
+  const fullCorpus = `${title} ${brand} ${category} ${tags.join(' ')} ${description} ${bullets}`;
+  const strippedCorpus = fullCorpus.replace(/[\s\-_]+/g, '');
+
+  // 1. Direct match on full or space-stripped text
+  if (fullCorpus.includes(qRaw) || strippedCorpus.includes(qClean)) {
+    return true;
+  }
+
+  // 2. Tag matches
+  if (tags.some((t) => t.includes(qRaw) || t.replace(/[\s\-_]+/g, '').includes(qClean))) {
+    return true;
+  }
+
+  // 3. Synonym matches
+  const synonyms = SYNONYM_MAP[qRaw] || SYNONYM_MAP[qClean] || [];
+  for (const syn of synonyms) {
+    const synClean = syn.replace(/[\s\-_]+/g, '');
+    if (fullCorpus.includes(syn) || strippedCorpus.includes(synClean)) {
+      return true;
+    }
+  }
+
+  // 4. Multi-token match: all words in query must match
+  const tokens = qRaw.split(/\s+/).filter(Boolean);
+  if (tokens.length > 1) {
+    const allMatch = tokens.every((token) => {
+      const tokenClean = token.replace(/[\s\-_]+/g, '');
+      const singular = token.endsWith('s') ? token.slice(0, -1) : token;
+      const tokenSynonyms = SYNONYM_MAP[token] || SYNONYM_MAP[tokenClean] || [];
+      return (
+        fullCorpus.includes(token) ||
+        fullCorpus.includes(singular) ||
+        strippedCorpus.includes(tokenClean) ||
+        tokenSynonyms.some((syn) => fullCorpus.includes(syn) || strippedCorpus.includes(syn.replace(/[\s\-_]+/g, '')))
+      );
+    });
+    if (allMatch) return true;
+  }
+
+  // 5. Singular / Plural check
+  const singular = qRaw.endsWith('s') ? qRaw.slice(0, -1) : qRaw;
+  if (singular.length >= 3) {
+    const singularClean = singular.replace(/[\s\-_]+/g, '');
+    if (fullCorpus.includes(singular) || strippedCorpus.includes(singularClean)) {
+      return true;
+    }
+  }
+
+  return false;
+}
+
 export function SearchClient() {
   const router = useRouter();
   const searchParams = useSearchParams();
@@ -58,6 +151,7 @@ export function SearchClient() {
   const [selectedBrands, setSelectedBrands] = React.useState<string[]>(
     brandParam ? brandParam.split(',') : []
   );
+  const [brandSearch, setBrandSearch] = React.useState('');
   const [inStockOnly, setInStockOnly] = React.useState(inStockOnlyParam);
   const [viewMode, setViewMode] = React.useState<'grid' | 'list'>('grid');
   const [mobileFilterOpen, setMobileFilterOpen] = React.useState(false);
@@ -108,6 +202,12 @@ export function SearchClient() {
     return Array.from(new Set(pool.map((p) => p.brand))).sort();
   }, [selectedCategory]);
 
+  const filteredBrands = React.useMemo(() => {
+    if (!brandSearch.trim()) return availableBrands;
+    const q = brandSearch.toLowerCase().trim();
+    return availableBrands.filter((b) => b.toLowerCase().includes(q));
+  }, [availableBrands, brandSearch]);
+
   const handleBrandToggle = (brand: string) => {
     const next = selectedBrands.includes(brand)
       ? selectedBrands.filter((b) => b !== brand)
@@ -119,6 +219,7 @@ export function SearchClient() {
   const handleCategorySelect = (cat: string) => {
     setSelectedCategory(cat);
     setSelectedBrands([]); // reset brands when category switches
+    setBrandSearch('');
     updateUrlParams({ category: cat || null, brand: null });
   };
 
@@ -129,24 +230,25 @@ export function SearchClient() {
     setMinRating(0);
     setMaxPrice(130000);
     setSelectedBrands([]);
+    setBrandSearch('');
     setInStockOnly(false);
     router.push('/search');
   };
+
+  const activeFilterCount =
+    (selectedCategory ? 1 : 0) +
+    selectedBrands.length +
+    (minRating > 0 ? 1 : 0) +
+    (maxPrice < 130000 ? 1 : 0) +
+    (inStockOnly ? 1 : 0);
 
   // Filter & Sort Products
   const filteredProducts = React.useMemo(() => {
     return products
       .filter((p) => {
-        // Query search
-        if (searchTerm.trim()) {
-          const q = searchTerm.toLowerCase();
-          const matchesTitle = p.title.toLowerCase().includes(q);
-          const matchesBrand = p.brand.toLowerCase().includes(q);
-          const matchesCategory = p.category.toLowerCase().includes(q);
-          const matchesTag = p.tags.some((t) => t.toLowerCase().includes(q));
-          if (!matchesTitle && !matchesBrand && !matchesCategory && !matchesTag) {
-            return false;
-          }
+        // Query search with fuzzy, synonym, token, and normalized matching
+        if (searchTerm.trim() && !matchesSearchQuery(p, searchTerm)) {
+          return false;
         }
 
         // Category filter
@@ -192,32 +294,31 @@ export function SearchClient() {
       });
   }, [searchTerm, selectedCategory, maxPrice, minRating, selectedBrands, inStockOnly, sortBy]);
 
-  // Sidebar Filter Component
-  const FilterContent = (
+  // Sidebar Filter Sections Component
+  const FilterSections = (
     <div className="space-y-6 text-sm">
-      {/* Active filter count / Clear */}
-      <div className="flex items-center justify-between pb-3 border-b border-slate-200">
-        <span className="font-bold text-slate-900 text-sm">Filters</span>
-        <button
-          onClick={handleResetFilters}
-          className="text-xs text-indigo-900 hover:text-indigo-950 font-semibold flex items-center gap-1"
-        >
-          <RotateCcw className="h-3 w-3" /> Reset all
-        </button>
-      </div>
-
       {/* Category Filter */}
       <div className="space-y-2">
-        <label className="text-xs font-bold text-slate-700 uppercase tracking-wider">
-          Category
-        </label>
-        <div className="flex flex-col gap-1">
+        <div className="flex items-center justify-between">
+          <label className="text-xs font-bold text-slate-700 uppercase tracking-wider">
+            Category
+          </label>
+          {selectedCategory && (
+            <button
+              onClick={() => handleCategorySelect('')}
+              className="text-[10px] text-indigo-900 font-semibold hover:underline cursor-pointer"
+            >
+              Show all
+            </button>
+          )}
+        </div>
+        <div className="flex flex-col gap-1 max-h-56 overflow-y-auto pr-1">
           <button
             type="button"
             onClick={() => handleCategorySelect('')}
-            className={`text-left text-xs py-1.5 px-2 rounded-lg transition-colors ${
+            className={`text-left text-xs py-1.5 px-2.5 rounded-lg transition-colors cursor-pointer ${
               !selectedCategory
-                ? 'bg-indigo-950 text-white font-semibold'
+                ? 'bg-indigo-950 text-white font-semibold shadow-2xs'
                 : 'text-slate-600 hover:bg-slate-100'
             }`}
           >
@@ -228,9 +329,9 @@ export function SearchClient() {
               key={c.name}
               type="button"
               onClick={() => handleCategorySelect(c.name)}
-              className={`text-left text-xs py-1.5 px-2 rounded-lg flex items-center justify-between transition-colors ${
+              className={`text-left text-xs py-1.5 px-2.5 rounded-lg flex items-center justify-between transition-colors cursor-pointer ${
                 selectedCategory === c.name
-                  ? 'bg-indigo-950 text-white font-semibold'
+                  ? 'bg-indigo-950 text-white font-semibold shadow-2xs'
                   : 'text-slate-600 hover:bg-slate-100'
               }`}
             >
@@ -242,7 +343,7 @@ export function SearchClient() {
       </div>
 
       {/* Price Slider */}
-      <div className="space-y-2 pt-2 border-t border-slate-100">
+      <div className="space-y-2 pt-3 border-t border-slate-100">
         <label className="text-xs font-bold text-slate-700 uppercase tracking-wider">
           Max Budget (₹)
         </label>
@@ -260,7 +361,7 @@ export function SearchClient() {
       </div>
 
       {/* Minimum Rating */}
-      <div className="space-y-2 pt-2 border-t border-slate-100">
+      <div className="space-y-2 pt-3 border-t border-slate-100">
         <label className="text-xs font-bold text-slate-700 uppercase tracking-wider">
           Customer Rating
         </label>
@@ -277,7 +378,7 @@ export function SearchClient() {
                 setMinRating(r.val);
                 updateUrlParams({ rating: r.val > 0 ? String(r.val) : null });
               }}
-              className={`w-full text-left text-xs py-1.5 px-2 rounded-lg flex items-center justify-between transition-colors ${
+              className={`w-full text-left text-xs py-1.5 px-2.5 rounded-lg flex items-center justify-between transition-colors cursor-pointer ${
                 minRating === r.val
                   ? 'bg-amber-100 text-amber-950 font-bold border border-amber-300'
                   : 'text-slate-600 hover:bg-slate-100'
@@ -292,26 +393,55 @@ export function SearchClient() {
 
       {/* Brands Filter */}
       {availableBrands.length > 0 && (
-        <div className="space-y-2 pt-2 border-t border-slate-100">
-          <label className="text-xs font-bold text-slate-700 uppercase tracking-wider">
-            Brand
-          </label>
-          <div className="max-h-48 overflow-y-auto space-y-1.5 pr-1">
-            {availableBrands.map((brand) => (
-              <Checkbox
-                key={brand}
-                id={`brand-${brand}`}
-                label={brand}
-                checked={selectedBrands.includes(brand)}
-                onCheckedChange={() => handleBrandToggle(brand)}
+        <div className="space-y-2 pt-3 border-t border-slate-100">
+          <div className="flex items-center justify-between">
+            <label className="text-xs font-bold text-slate-700 uppercase tracking-wider">
+              Brand {selectedBrands.length > 0 && `(${selectedBrands.length})`}
+            </label>
+            {selectedBrands.length > 0 && (
+              <button
+                onClick={() => {
+                  setSelectedBrands([]);
+                  updateUrlParams({ brand: null });
+                }}
+                className="text-[10px] text-indigo-900 font-semibold hover:underline cursor-pointer"
+              >
+                Clear
+              </button>
+            )}
+          </div>
+          {availableBrands.length > 6 && (
+            <div className="relative">
+              <Search className="absolute left-2.5 top-1/2 -translate-y-1/2 h-3.5 w-3.5 text-slate-400" />
+              <input
+                type="text"
+                value={brandSearch}
+                onChange={(e) => setBrandSearch(e.target.value)}
+                placeholder="Search brands..."
+                className="w-full h-8 pl-8 pr-2.5 text-xs rounded-lg border border-slate-200 bg-slate-50 focus:bg-white focus:outline-none focus:ring-1 focus:ring-indigo-600"
               />
-            ))}
+            </div>
+          )}
+          <div className="max-h-48 overflow-y-auto space-y-1.5 pr-1.5">
+            {filteredBrands.length === 0 ? (
+              <p className="text-xs text-slate-400 py-2 text-center">No matching brands</p>
+            ) : (
+              filteredBrands.map((brand) => (
+                <Checkbox
+                  key={brand}
+                  id={`brand-${brand}`}
+                  label={brand}
+                  checked={selectedBrands.includes(brand)}
+                  onCheckedChange={() => handleBrandToggle(brand)}
+                />
+              ))
+            )}
           </div>
         </div>
       )}
 
       {/* In Stock Only */}
-      <div className="pt-2 border-t border-slate-100">
+      <div className="pt-3 border-t border-slate-100">
         <Checkbox
           id="in-stock-only"
           label="In Stock only"
@@ -368,7 +498,7 @@ export function SearchClient() {
           >
             <SlidersHorizontal className="h-3.5 w-3.5" />
             <span>Filters</span>
-            {(selectedCategory || selectedBrands.length > 0 || minRating > 0 || inStockOnly) && (
+            {activeFilterCount > 0 && (
               <span className="h-2 w-2 rounded-full bg-amber-500" />
             )}
           </Button>
@@ -421,9 +551,33 @@ export function SearchClient() {
 
       {/* Main Content Layout: Sidebar + Product Grid */}
       <div className="grid grid-cols-1 lg:grid-cols-4 gap-8 items-start">
-        {/* Desktop Sidebar Filters */}
-        <aside className="hidden lg:block bg-white p-5 rounded-2xl border border-slate-200/90 shadow-2xs sticky top-28">
-          {FilterContent}
+        {/* Desktop Sidebar Filters: Scrollable with pinned header */}
+        <aside className="hidden lg:flex flex-col bg-white rounded-2xl border border-slate-200/90 shadow-2xs sticky top-24 max-h-[calc(100vh-6.5rem)] overflow-hidden">
+          {/* Pinned Header */}
+          <div className="flex items-center justify-between px-5 py-4 border-b border-slate-100 bg-white z-10 shrink-0">
+            <div className="flex items-center gap-2">
+              <SlidersHorizontal className="h-4 w-4 text-indigo-950" />
+              <span className="font-bold text-slate-900 text-sm">Filters</span>
+              {activeFilterCount > 0 && (
+                <span className="flex items-center justify-center px-1.5 py-0.5 text-[10px] font-bold bg-amber-100 text-amber-900 rounded-full">
+                  {activeFilterCount}
+                </span>
+              )}
+            </div>
+            {activeFilterCount > 0 && (
+              <button
+                onClick={handleResetFilters}
+                className="text-xs text-indigo-900 hover:text-indigo-950 font-semibold flex items-center gap-1 hover:underline cursor-pointer transition-colors"
+              >
+                <RotateCcw className="h-3 w-3" /> Reset all
+              </button>
+            )}
+          </div>
+
+          {/* Scrollable Filter Body */}
+          <div className="flex-1 overflow-y-auto px-5 py-4 space-y-6 overscroll-contain">
+            {FilterSections}
+          </div>
         </aside>
 
         {/* Mobile Filter Sheet */}
@@ -433,7 +587,22 @@ export function SearchClient() {
           side="left"
           title="Filter Catalog"
         >
-          {FilterContent}
+          <div className="space-y-6 pb-6">
+            <div className="flex items-center justify-between pb-3 border-b border-slate-100">
+              <span className="text-xs text-slate-500 font-medium">
+                {activeFilterCount > 0 ? `${activeFilterCount} active filter${activeFilterCount > 1 ? 's' : ''}` : 'No active filters'}
+              </span>
+              {activeFilterCount > 0 && (
+                <button
+                  onClick={handleResetFilters}
+                  className="text-xs text-indigo-900 hover:text-indigo-950 font-semibold flex items-center gap-1 cursor-pointer"
+                >
+                  <RotateCcw className="h-3 w-3" /> Reset all
+                </button>
+              )}
+            </div>
+            {FilterSections}
+          </div>
         </Sheet>
 
         {/* Product Grid Area */}

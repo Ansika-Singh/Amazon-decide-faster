@@ -34,7 +34,7 @@ function deterministicRanker(query: string): AssistResponse {
     category = 'Books';
   } else if (/gym|dumbbell|protein|workout|fitness|yoga|bands|massage|kettlebell/i.test(q)) {
     category = 'Fitness';
-  } else if (/serum|sunscreen|cream|cleanser|trimmer|lipstick|moisturizer|beauty/i.test(q)) {
+  } else if (/serum|sunscreen|cream|cleanser|facewash|face wash|wash|trimmer|lipstick|moisturizer|beauty|skincare/i.test(q)) {
     category = 'Beauty';
   }
 
