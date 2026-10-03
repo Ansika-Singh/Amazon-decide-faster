@@ -41947,8 +41947,8 @@ export const products: Product[] = [
   },
   {
     "id": "fas-25",
-    "slug": "libas-womens-cotton-printed-aline-kurti-indigo-blue",
-    "title": "Libas Women's Pure Cotton Floral Printed A-Line Kurti (Indigo Blue)",
+    "slug": "libas-womens-cotton-printed-aline-kurti-ivory-floral",
+    "title": "Libas Women's Pure Cotton Floral Printed A-Line Kurti (Ivory Floral)",
     "brand": "Libas",
     "category": "Fashion",
     "price": 699,
@@ -41959,13 +41959,13 @@ export const products: Product[] = [
       "/products/fas-25.jpg"
     ],
     "bullets": [
-      "100% Breathable premium pure cambric cotton crafted for daily office and festive comfort",
-      "Flattering A-line silhouette with calf length and graceful side and front slit accents",
-      "V-neck styling embellished with subtle thread zari embroidery around the yoke",
-      "Three-quarter bell sleeves and vibrant indigo blue floral hand-block inspired motifs",
-      "Color-lock technology ensures fabric retains deep indigo brilliance over repeated washes"
+      "100% breathable pure cotton fabric with gentle pre-washed finish",
+      "Flattering A-line cut with side slits for fluid movement and comfort",
+      "Handcrafted multicolor floral motifs on an ivory base with paisley neckline accents",
+      "Three-quarter sleeves with contrast trimmed cuffs for effortless styling",
+      "Colorfast dyes guaranteed to maintain brightness across repeated washes"
     ],
-    "description": "Embrace ethnic sophistication with the Libas Pure Cotton Printed A-Line Kurti. Fashioned in rich indigo blue with artisanal floral motifs and refined neckline embroidery, it pairs effortlessly with leggings, palazzos, or denim for office and festive celebrations.",
+    "description": "Embrace ethnic sophistication with the Libas Pure Cotton Printed A-Line Kurti. Featuring delicate multicolor floral buttis on an ivory base with fine paisley embroidery along the placket, it pairs seamlessly with leggings or palazzos for effortless everyday elegance.",
     "stock": 65,
     "deliveryDays": 1,
     "tags": [
@@ -41977,26 +41977,28 @@ export const products: Product[] = [
       "kurti",
       "kurtis",
       "kurta",
+      "cotton kurti",
+      "floral kurti",
+      "white kurti",
+      "ivory kurti",
       "ethnic",
       "traditional",
       "under 1000",
-      "cotton kurti",
       "libas",
       "clothes",
-      "clothing",
-      "blue kurti"
+      "clothing"
     ],
     "reviewSummary": {
       "pros": [
-        "Very soft and airy pure cambric cotton that stays comfortable during long commutes",
-        "Artisanal indigo block print looks tasteful and premium",
-        "Flattering A-line cut that suits all body types"
+        "Super breathable pure cotton ideal for hot summer months",
+        "Crisp floral printing with no fading after multiple wash cycles",
+        "Comfortable relaxed A-line silhouette with ease of movement"
       ],
       "cons": [
         "Hand wash recommended for initial wash to preserve natural indigo dye",
         "Slightly longer calf length; shorter buyers might prefer pairing with heels"
       ],
-      "verdict": "A versatile, breathable everyday ethnic staple that balances artisanal charm with supreme comfort.",
+      "verdict": "A breathable, elegant everyday cotton floral kurti combining artisanal grace with unbeatable comfort.",
       "sentiment": {
         "positive": 89,
         "neutral": 8,
@@ -42132,8 +42134,8 @@ export const products: Product[] = [
   },
   {
     "id": "fas-26",
-    "slug": "w-for-woman-rayon-foil-print-straight-kurti-emerald-green",
-    "title": "W for Woman Women's Rayon Gold Foil Printed Straight Kurti (Emerald Green)",
+    "slug": "w-for-woman-rayon-embroidered-flared-kurti-emerald-green",
+    "title": "W for Woman Women's Rayon Gold Embroidered Flared Kurti (Emerald Green)",
     "brand": "W for Woman",
     "category": "Fashion",
     "price": 799,
@@ -42145,12 +42147,12 @@ export const products: Product[] = [
     ],
     "bullets": [
       "Ultra-soft viscose rayon fabric offering superior fluid drape and lightweight breathability",
-      "Classic straight fit with jewel round neck and concealed placket",
-      "Intricate metallic gold foil ethnic geometric print along the border and sleeves",
-      "Ideal for workwear, cultural events, and evening gatherings with zero sheer transparency",
-      "Side slits engineered for relaxed stride and comfortable all-day sitting"
+      "Flattering flared silhouette with scoop neck and gold zari embroidered yoke",
+      "Intricate metallic gold border detailing along the sweeping hemline",
+      "Ideal for festive occasions, cultural events, and evening gatherings with zero sheer transparency",
+      "Rich jewel-toned emerald green hue that creates an eye-catching statement"
     ],
-    "description": "Elevate your festive wardrobe with W for Woman's Emerald Green Foil Printed Kurti. Tailored in sumptuous viscose rayon, it dazzles with tasteful gold foil geometric borders and an impeccable tailored straight cut.",
+    "description": "Elevate your festive wardrobe with W for Woman's Emerald Green Flared Kurti. Tailored in sumptuous viscose rayon, it dazzles with tasteful gold zari embroidery, a rich flared hemline, and an impeccably flattering drape.",
     "stock": 50,
     "deliveryDays": 2,
     "tags": [
@@ -42162,6 +42164,7 @@ export const products: Product[] = [
       "kurti",
       "kurtis",
       "kurta",
+      "flared kurti",
       "ethnic",
       "traditional",
       "under 1000",
@@ -42169,13 +42172,14 @@ export const products: Product[] = [
       "w for woman",
       "clothes",
       "clothing",
-      "green kurti"
+      "green kurti",
+      "emerald green"
     ],
     "reviewSummary": {
       "pros": [
-        "Gold foil prints stay radiant and do not peel or crack after washing",
+        "Gold zari embellishments look lavish and do not tarnish after gentle wash",
         "Lustrous rayon fabric feels silky against sensitive skin",
-        "Rich jewel-toned emerald green hue looks splendid in photographs"
+        "Rich jewel-toned emerald green hue looks magnificent in person and in photos"
       ],
       "cons": [
         "Iron inside-out on low heat to safeguard the gold foil embellishments",
