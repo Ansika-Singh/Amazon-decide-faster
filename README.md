@@ -21,6 +21,7 @@
 | **Honest Review Digest** | [/product/boat-airdopes-141-anc-true-wireless-earbuds](https://amazon-decide-faster.vercel.app/product/boat-airdopes-141-anc-true-wireless-earbuds) | Read AI-distilled Pros, Cons, and Bottom Line Verdict |
 | **Side-by-Side Compare** | [/search?category=Audio](https://amazon-decide-faster.vercel.app/search?category=Audio) | Check "Compare" on 2–3 products to open the drawer |
 | **Cart & Checkout** | [/cart](https://amazon-decide-faster.vercel.app/cart) | Interactive zero-friction checkout with delivery tracking |
+| **Multi-Currency System** | [amazon-decide-faster.vercel.app](https://amazon-decide-faster.vercel.app) | Switch between INR (₹), USD ($), EUR (€), GBP (£), AED, JPY (¥), CAD, AUD in Header/Footer |
 
 ---
 
@@ -143,6 +144,32 @@ Modern e-commerce has degraded into an exhausting cognitive marathon. When shopp
 - Full address form validation and mock payment selection (UPI, Credit/Debit Card, Cash on Delivery).
 - Order confirmation with instant persistent local storage and live timeline tracking (`/orders`).
 
+### H. Real-Time Multi-Country Currency Conversion & Localization
+
+Decide Faster Amazon natively supports **8 major world currencies** with realistic conversion rates against base ₹ INR:
+
+| Currency | Code | Symbol | Country / Region | Rate vs ₹ INR | 1 Unit in INR | Formatter Locale |
+| :--- | :---: | :---: | :--- | :---: | :---: | :--- |
+| **Indian Rupee** | `INR` | `₹` | 🇮🇳 India (Base) | `1.00` | ₹1.00 | `en-IN` (0 decimals) |
+| **US Dollar** | `USD` | `$` | 🇺🇸 United States | `0.0116` | ≈ ₹86.20 | `en-US` (2 decimals) |
+| **Euro** | `EUR` | `€` | 🇪🇺 European Union | `0.0108` | ≈ ₹92.60 | `de-DE` (2 decimals) |
+| **British Pound** | `GBP` | `£` | 🇬🇧 United Kingdom | `0.0091` | ≈ ₹109.80 | `en-GB` (2 decimals) |
+| **UAE Dirham** | `AED` | `AED ` | 🇦🇪 UAE | `0.0425` | ≈ ₹23.50 | `en-AE` (2 decimals) |
+| **Japanese Yen** | `JPY` | `¥` | 🇯🇵 Japan | `1.76` | ≈ ₹0.57 | `ja-JP` (0 decimals) |
+| **Canadian Dollar** | `CAD` | `CA$` | 🇨🇦 Canada | `0.0162` | ≈ ₹61.70 | `en-CA` (2 decimals) |
+| **Australian Dollar** | `AUD` | `AU$` | 🇦🇺 Australia | `0.0181` | ≈ ₹55.20 | `en-AU` (2 decimals) |
+
+#### Comprehensive Shopping Touchpoints Converted:
+1. **Interactive Dual Switchers:** Accessible directly from both the **Top Header Navigation** and the **Bottom Footer Bar**, showing flags, currency symbols, and live exchange rate comparisons against ₹ INR.
+2. **Instant Reactive Re-rendering:** Built on React 19 Context (`CurrencyContext`) with `localStorage['amazon_currency']` persistence and cross-tab synchronization. Changing currency dynamically updates all prices without refreshing the page.
+3. **Product Catalog & Cards:** Product current price, original MRP, and dynamic price-drop savings badges (e.g. `"$5.80 below usual"`, `"€5.40 below usual"`, `"₹500 below usual"`) format dynamically.
+4. **90-Day Price History Sparklines:** Current price, historic 90-day minimum, 90-day average, interactive hover tooltips, and the "Wait / Good time to buy" savings calculations convert accurately.
+5. **Search & Filter Slider:** The "Max Budget" slider header, tick marks, and interactive thumb values adapt to the active currency symbol and scale.
+6. **Hero Feature Queries & Prompts:** The homepage featured query header (`"Budget Earbuds & Headphones Under $23.20"`), search placeholders, and clickable recommendation chips dynamically adapt to the user's currency.
+7. **Cart & One-Click Checkout:** Item unit pricing, subtotal, discount savings, delivery fee threshold progress, and order totals convert cleanly.
+8. **Side-by-Side Compare & Wishlist:** Multi-product price comparisons and saved wishlist items reflect the selected country's currency.
+9. **Multi-Currency AI Concierge (`/api/assist`):** Natural language parsing intelligently detects foreign currency budgets (e.g. `under $25`, `under €30`, `under £20`, `under 100 AED`) or applies the active user currency, converts values to base INR for catalog ranking, and formulates response reasoning with the user's chosen currency format.
+
 ---
 
 ## 5. What I Changed vs Amazon
@@ -154,6 +181,7 @@ Modern e-commerce has degraded into an exhausting cognitive marathon. When shopp
 | **Customer Reviews** | Thousands of mixed, unvetted, repetitive comments | Structured AI digest with Pros, Cons, and a one-line verdict |
 | **Decision Speed** | Endless scrolling, pagination, comparison tabs | 30-second decision via 3-pick AI Concierge and side-by-side drawer |
 | **Filters** | Static overflowing layout that cuts off on small screens | Sticky, scrollable sidebar with pinned reset and brand search |
+| **Multi-Currency** | Locked to domestic storefront domain with clumsy regional redirects | Seamless 8-country live currency conversion across search, charts, cart, and AI |
 | **Aesthetics** | Dense, cluttered navy & orange layout with ad banners | Calm, focused palette (Deep Indigo, Warm Amber CTA, Soft Slate) |
 | **Checkout Flow** | Mandatory account sign-in, OTPs, promotional popups | Instant checkout with saved browser state; zero login barriers |
 
@@ -179,6 +207,7 @@ To prioritize shipping velocity, product focus, and hiring evaluation criteria, 
 - **Styling:** Tailwind CSS v4 with custom calm tokens (Deep Indigo `#1e1b4b`, Warm Amber `#f59e0b`, Soft Slate `#f8fafc`).
 - **Icons:** `lucide-react`.
 - **State Management:** Custom SSR-safe `useLocalStorage` hook with multi-tab `storage` event synchronization.
+- **Multi-Currency Engine:** Global `CurrencyProvider` and `useCurrency()` hook managing 8 world currencies, `localStorage` persistence, and `Intl.NumberFormat` localized formatting.
 - **AI Concierge:** Next.js Route Handler `/api/assist` with Google Gemini 1.5 Flash + Deterministic Scoring Fallback.
 - **Image Handling:** Custom `ImageWithFallback` component that gracefully degrades to styled SVG badges on remote load failures.
 - **Static Generation:** All 117 product and category routes prerendered statically at build time for instant page loads.
