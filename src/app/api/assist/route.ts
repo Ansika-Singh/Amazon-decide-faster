@@ -245,10 +245,77 @@ function deterministicRanker(query: string, userCurrency: string = 'INR'): Assis
           product.tags.some((t) => t.toLowerCase().includes(intent.tag)) ||
           intent.titleKeywords.some((kw) => product.title.toLowerCase().includes(kw));
         if (matchesIntent) {
-          score += 250;
+          score += 400;
         } else {
-          score -= 300;
+          score -= 500;
         }
+      }
+    }
+
+    // Strict Cross-Product Type Disqualifications to Prevent Contamination
+    const isKurtiQuery = /\bkurtis?\b|\bkurtas?\b|\banarkalis?\b/i.test(q);
+    const isDressQuery = /\bdress(?:es)?\b|\bmaxi\b|\bmidi\b/i.test(q);
+    const isSareeQuery = /\bsarees?\b|\bsaris?\b/i.test(q);
+    const isShirtQuery = /\bshirts?\b|\bpolos?\b|\bt-?shirts?\b|\btees?\b/i.test(q);
+    const isJeansQuery = /\bjeans?\b|\bdenims?\b/i.test(q);
+    const isBackpackQuery = /\bbackpacks?\b|\bbags?\b|\brucksack/i.test(q);
+    const isShoeQuery = /\bshoes?\b|\bsneakers?\b|\boxford/i.test(q);
+    const isWatchQuery = /\bwatch(?:es)?\b|\bsmartwatch/i.test(q);
+    const isClothingQuery =
+      isKurtiQuery ||
+      isDressQuery ||
+      isSareeQuery ||
+      isShirtQuery ||
+      isJeansQuery ||
+      /\bcloth(?:es|s|ing)?\b|\bapparel\b|\bwear\b/i.test(q);
+
+    // If clothing query: strictly disqualify bags, backpacks, shoes, watches, sunglasses, and non-fashion
+    if (isClothingQuery) {
+      if (product.category !== 'Fashion') {
+        score -= 10000;
+      } else if (
+        product.tags.some((t) =>
+          /backpack|laptop bag|shoes|sneakers|formal|watch|smartwatch|sunglasses/i.test(t)
+        ) ||
+        /backpack|bag|shoe|sneaker|oxford|watch|sunglass/i.test(product.title)
+      ) {
+        score -= 10000;
+      }
+    }
+
+    // Specific kurti query: huge boost for kurtis, disqualify western t-shirts, jeans, shoes, bags
+    if (isKurtiQuery) {
+      const isKurtiItem =
+        product.tags.some((t) => /kurti|kurta|anarkali/i.test(t)) ||
+        /kurti|kurta|anarkali/i.test(product.title);
+      if (isKurtiItem) {
+        score += 1500; // Overwhelming priority for actual kurtis
+      } else {
+        score -= 8000;
+      }
+    }
+
+    // If backpack query: strictly disqualify clothing, shoes, etc.
+    if (isBackpackQuery) {
+      const isBagItem =
+        product.tags.some((t) => /backpack|bag/i.test(t)) ||
+        /backpack|bag|rucksack/i.test(product.title);
+      if (isBagItem) {
+        score += 1500;
+      } else {
+        score -= 8000;
+      }
+    }
+
+    // If shoe query: strictly disqualify clothing, backpacks, etc.
+    if (isShoeQuery) {
+      const isShoeItem =
+        product.tags.some((t) => /shoes|sneaker|footwear/i.test(t)) ||
+        /shoe|sneaker|oxford/i.test(product.title);
+      if (isShoeItem) {
+        score += 1500;
+      } else {
+        score -= 8000;
       }
     }
 
@@ -322,7 +389,10 @@ function deterministicRanker(query: string, userCurrency: string = 'INR'): Assis
         reason = `A lovely, practical gift choice well within your ${budget ? formatReasonPrice(budget, userCurrency) : formatReasonPrice(1500, userCurrency)} budget with top ratings.`;
       }
     } else if (p.category === 'Fashion') {
-      if (index === 0) {
+      if (/kurti|kurta|anarkali/i.test(p.title) || p.tags.some((t) => /kurti|kurta/i.test(t))) {
+        label = index === 0 ? 'Best overall kurti' : index === 1 ? 'Best daily value' : 'Best alternative style';
+        reason = `Elegant, breathable ethnic wear from ${p.brand}${budget ? ` well within your ${formatReasonPrice(budget, userCurrency)} budget` : ''} crafted with soft, durable fabric.`;
+      } else if (index === 0) {
         label = 'Best overall';
         reason = `Top rated ${p.brand} pick featuring breathable, high-comfort fabric${budget ? ` well within your ${formatReasonPrice(budget, userCurrency)} budget` : ''}.`;
       } else if (index === 1) {
@@ -398,6 +468,13 @@ export async function POST(req: NextRequest) {
 
     const systemPrompt = `You are the AI shopping assistant for "Decide Faster Amazon".
 Your task is to analyze the user's shopping query, understand constraints (budget, use case, preferred specs), and select EXACTLY 3 products strictly from the provided catalog.
+
+CRITICAL RULE — Item Type Fidelity & Zero Cross-Contamination:
+- When the user asks for a specific product type (such as 'kurti', 'saree', 't-shirt', 'shirt', 'dress', 'jeans', 'backpack', 'shoes', 'earbuds', 'laptop'):
+  1. ALL 3 PICKS MUST BE THAT EXACT ITEM TYPE.
+  2. NEVER EVER suggest an unrelated product type (e.g. NEVER suggest a backpack, bag, shoe, or watch when the user asked for a kurti, kurta, dress, or clothing).
+  3. If the user specifies 'kurti', choose 3 kurtis from the catalog.
+  4. If fewer than 3 items match under the user's requested budget, choose other matching items of that exact item type (or closest clothing sister-type like an anarkali or saree), or slightly higher-priced premium options of that SAME item type. NEVER cross into bags, shoes, or electronics.
 
 Special Rule for Gifting: If the user is asking for gifts (especially 'gift for mom' or 'gift for parents'), select thoughtful lifestyle, wellness, or home items (such as soothing percussion massagers for back/joint relief, inspiring hardcover books like Ikigai, insulated flasks for tea/water, or gentle skincare). NEVER suggest inappropriate items like doorway pull-up bars, whey protein powder, heavy dumbbells, or gaming mice for a mother's gift.
 

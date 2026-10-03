@@ -57,7 +57,7 @@ Modern e-commerce has degraded into an exhausting cognitive marathon. When shopp
   - *Interactive currency selectors located in the Header and Footer with reactive re-rendering across product cards, detail views, price drop signals, sparkline charts, budget sliders, cart, and checkout.*
 - **Delivery Guarantees:** Realistic localized delivery estimates (e.g. *"Get it by Tomorrow"* or *"Get it by Tue, 7 Oct"*), with free express delivery on all orders over ₹499.
 - **Payment Affordances:** Zero-friction simulated checkout supporting UPI (Google Pay, PhonePe, Paytm), RuPay/Visa/Mastercard, and Cash on Delivery.
-- **Domestic Brand Familiarity:** 107 realistic catalog items featuring domestic market leaders: boAt, Noise, Philips, CeraVe, Cetaphil, Minimalist, Boldfit, AS-IT-IS Nutrition, OnePlus, Apple, ASUS, Levi's, and Aurelia.
+- **Domestic Brand Familiarity:** 111 realistic catalog items featuring domestic market leaders: boAt, Noise, Philips, CeraVe, Cetaphil, Minimalist, Boldfit, AS-IT-IS Nutrition, OnePlus, Apple, ASUS, Levi's, Aurelia, Libas, and W for Woman.
 
 ---
 
@@ -193,7 +193,7 @@ To prioritize shipping velocity, product focus, and hiring evaluation criteria, 
 
 1. **User Authentication & Passwords:** Replaced with zero-friction browser `localStorage`. Anyone can test the entire app immediately in incognito without sign-in hurdles.
 2. **Real Payment Gateway Integration (Stripe/Razorpay):** Real payments create barrier-to-entry for reviewers and require KYC. Replaced with an interactive demo payment selector (UPI, Card, COD) that mirrors the exact user psychology without real financial transactions.
-3. **Persistent SQL Database:** Seeded typed TS data (107 items across 8 categories) renders in milliseconds with zero cold-starts, perfect for a lightning-fast demonstration.
+3. **Persistent SQL Database:** Seeded typed TS data (111 items across 8 categories) renders in milliseconds with zero cold-starts, perfect for a lightning-fast demonstration.
 4. **Sponsored Ad Auctions & Banner Real Estate:** The core product thesis is anti-sponsored. Commercial ad engines were discarded by design.
 5. **Infinite Recommendation Carousels:** Avoided dark-pattern engagement traps ("Customers who bought this also viewed 40 other items") to keep the user focused on deciding quickly.
 6. **50+ Deep Subcategories:** Scoped to 8 high-velocity consumer categories (Audio, Electronics, Mobiles, Home & Kitchen, Fashion, Books, Fitness, Beauty) to ensure all sample data was deep, believable, and rich.

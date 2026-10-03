@@ -41945,5 +41945,744 @@ export const products: Product[] = [
                   "price": 2012
             }
       ]
+},
+{
+  "id": "fas-25",
+  "slug": "libas-womens-cotton-printed-aline-kurti-indigo-blue",
+  "title": "Libas Women's Pure Cotton Floral Printed A-Line Kurti (Indigo Blue)",
+  "brand": "Libas",
+  "category": "Fashion",
+  "price": 699,
+  "mrp": 1799,
+  "rating": 4.4,
+  "reviewCount": 16800,
+  "images": [
+    "/products/fas-25.jpg"
+  ],
+  "bullets": [
+    "100% Breathable premium pure cambric cotton crafted for daily office and festive comfort",
+    "Flattering A-line silhouette with calf length and graceful side and front slit accents",
+    "V-neck styling embellished with subtle thread zari embroidery around the yoke",
+    "Three-quarter bell sleeves and vibrant indigo blue floral hand-block inspired motifs",
+    "Color-lock technology ensures fabric retains deep indigo brilliance over repeated washes"
+  ],
+  "description": "Embrace ethnic sophistication with the Libas Pure Cotton Printed A-Line Kurti. Fashioned in rich indigo blue with artisanal floral motifs and refined neckline embroidery, it pairs effortlessly with leggings, palazzos, or denim for office and festive celebrations.",
+  "stock": 65,
+  "deliveryDays": 1,
+  "tags": [
+    "fashion",
+    "women",
+    "women fashion",
+    "women clothes",
+    "girls clothes",
+    "kurti",
+    "kurtis",
+    "kurta",
+    "ethnic",
+    "traditional",
+    "under 1000",
+    "cotton kurti",
+    "libas",
+    "clothes",
+    "clothing",
+    "blue kurti"
+  ],
+  "reviewSummary": {
+    "pros": [
+      "Very soft and airy pure cambric cotton that stays comfortable during long commutes",
+      "Artisanal indigo block print looks tasteful and premium",
+      "Flattering A-line cut that suits all body types"
+    ],
+    "cons": [
+      "Hand wash recommended for initial wash to preserve natural indigo dye",
+      "Slightly longer calf length; shorter buyers might prefer pairing with heels"
+    ],
+    "verdict": "A versatile, breathable everyday ethnic staple that balances artisanal charm with supreme comfort.",
+    "sentiment": {
+      "positive": 89,
+      "neutral": 8,
+      "negative": 3
+    }
+  },
+  "priceHistory": [
+    {
+      "date": "2026-09-02",
+      "price": 755
+    },
+    {
+      "date": "2026-09-03",
+      "price": 699
+    },
+    {
+      "date": "2026-09-04",
+      "price": 699
+    },
+    {
+      "date": "2026-09-05",
+      "price": 727
+    },
+    {
+      "date": "2026-09-06",
+      "price": 699
+    },
+    {
+      "date": "2026-09-07",
+      "price": 755
+    },
+    {
+      "date": "2026-09-08",
+      "price": 727
+    },
+    {
+      "date": "2026-09-09",
+      "price": 699
+    },
+    {
+      "date": "2026-09-10",
+      "price": 699
+    },
+    {
+      "date": "2026-09-11",
+      "price": 727
+    },
+    {
+      "date": "2026-09-12",
+      "price": 755
+    },
+    {
+      "date": "2026-09-13",
+      "price": 699
+    },
+    {
+      "date": "2026-09-14",
+      "price": 727
+    },
+    {
+      "date": "2026-09-15",
+      "price": 699
+    },
+    {
+      "date": "2026-09-16",
+      "price": 699
+    },
+    {
+      "date": "2026-09-17",
+      "price": 755
+    },
+    {
+      "date": "2026-09-18",
+      "price": 699
+    },
+    {
+      "date": "2026-09-19",
+      "price": 699
+    },
+    {
+      "date": "2026-09-20",
+      "price": 727
+    },
+    {
+      "date": "2026-09-21",
+      "price": 699
+    },
+    {
+      "date": "2026-09-22",
+      "price": 755
+    },
+    {
+      "date": "2026-09-23",
+      "price": 727
+    },
+    {
+      "date": "2026-09-24",
+      "price": 699
+    },
+    {
+      "date": "2026-09-25",
+      "price": 699
+    },
+    {
+      "date": "2026-09-26",
+      "price": 727
+    },
+    {
+      "date": "2026-09-27",
+      "price": 755
+    },
+    {
+      "date": "2026-09-28",
+      "price": 699
+    },
+    {
+      "date": "2026-09-29",
+      "price": 727
+    },
+    {
+      "date": "2026-09-30",
+      "price": 699
+    },
+    {
+      "date": "2026-10-01",
+      "price": 699
+    },
+    {
+      "date": "2026-10-02",
+      "price": 755
+    }
+  ]
+},
+{
+  "id": "fas-26",
+  "slug": "w-for-woman-rayon-foil-print-straight-kurti-emerald-green",
+  "title": "W for Woman Women's Rayon Gold Foil Printed Straight Kurti (Emerald Green)",
+  "brand": "W for Woman",
+  "category": "Fashion",
+  "price": 799,
+  "mrp": 1999,
+  "rating": 4.5,
+  "reviewCount": 12400,
+  "images": [
+    "/products/fas-26.jpg"
+  ],
+  "bullets": [
+    "Ultra-soft viscose rayon fabric offering superior fluid drape and lightweight breathability",
+    "Classic straight fit with jewel round neck and concealed placket",
+    "Intricate metallic gold foil ethnic geometric print along the border and sleeves",
+    "Ideal for workwear, cultural events, and evening gatherings with zero sheer transparency",
+    "Side slits engineered for relaxed stride and comfortable all-day sitting"
+  ],
+  "description": "Elevate your festive wardrobe with W for Woman's Emerald Green Foil Printed Kurti. Tailored in sumptuous viscose rayon, it dazzles with tasteful gold foil geometric borders and an impeccable tailored straight cut.",
+  "stock": 50,
+  "deliveryDays": 2,
+  "tags": [
+    "fashion",
+    "women",
+    "women fashion",
+    "women clothes",
+    "girls clothes",
+    "kurti",
+    "kurtis",
+    "kurta",
+    "ethnic",
+    "traditional",
+    "under 1000",
+    "rayon kurti",
+    "w for woman",
+    "clothes",
+    "clothing",
+    "green kurti"
+  ],
+  "reviewSummary": {
+    "pros": [
+      "Gold foil prints stay radiant and do not peel or crack after washing",
+      "Lustrous rayon fabric feels silky against sensitive skin",
+      "Rich jewel-toned emerald green hue looks splendid in photographs"
+    ],
+    "cons": [
+      "Iron inside-out on low heat to safeguard the gold foil embellishments",
+      "Straight cut is tailored; order one size larger for a relaxed silhouette"
+    ],
+    "verdict": "A dazzling ethnic standout that delivers luxury boutique aesthetics at an affordable high-street price.",
+    "sentiment": {
+      "positive": 91,
+      "neutral": 6,
+      "negative": 3
+    }
+  },
+  "priceHistory": [
+    {
+      "date": "2026-09-02",
+      "price": 863
+    },
+    {
+      "date": "2026-09-03",
+      "price": 799
+    },
+    {
+      "date": "2026-09-04",
+      "price": 799
+    },
+    {
+      "date": "2026-09-05",
+      "price": 831
+    },
+    {
+      "date": "2026-09-06",
+      "price": 799
+    },
+    {
+      "date": "2026-09-07",
+      "price": 863
+    },
+    {
+      "date": "2026-09-08",
+      "price": 831
+    },
+    {
+      "date": "2026-09-09",
+      "price": 799
+    },
+    {
+      "date": "2026-09-10",
+      "price": 799
+    },
+    {
+      "date": "2026-09-11",
+      "price": 831
+    },
+    {
+      "date": "2026-09-12",
+      "price": 863
+    },
+    {
+      "date": "2026-09-13",
+      "price": 799
+    },
+    {
+      "date": "2026-09-14",
+      "price": 831
+    },
+    {
+      "date": "2026-09-15",
+      "price": 799
+    },
+    {
+      "date": "2026-09-16",
+      "price": 799
+    },
+    {
+      "date": "2026-09-17",
+      "price": 863
+    },
+    {
+      "date": "2026-09-18",
+      "price": 799
+    },
+    {
+      "date": "2026-09-19",
+      "price": 799
+    },
+    {
+      "date": "2026-09-20",
+      "price": 831
+    },
+    {
+      "date": "2026-09-21",
+      "price": 799
+    },
+    {
+      "date": "2026-09-22",
+      "price": 863
+    },
+    {
+      "date": "2026-09-23",
+      "price": 831
+    },
+    {
+      "date": "2026-09-24",
+      "price": 799
+    },
+    {
+      "date": "2026-09-25",
+      "price": 799
+    },
+    {
+      "date": "2026-09-26",
+      "price": 831
+    },
+    {
+      "date": "2026-09-27",
+      "price": 863
+    },
+    {
+      "date": "2026-09-28",
+      "price": 799
+    },
+    {
+      "date": "2026-09-29",
+      "price": 831
+    },
+    {
+      "date": "2026-09-30",
+      "price": 799
+    },
+    {
+      "date": "2026-10-01",
+      "price": 799
+    },
+    {
+      "date": "2026-10-02",
+      "price": 863
+    }
+  ]
+},
+{
+  "id": "fas-27",
+  "slug": "gosriki-womens-cotton-blend-anarkali-kurti-dusty-rose",
+  "title": "GoSriKi Women's Cotton Blend Flared Anarkali Kurti with Pockets (Dusty Rose Pink)",
+  "brand": "GoSriKi",
+  "category": "Fashion",
+  "price": 549,
+  "mrp": 1499,
+  "rating": 4.2,
+  "reviewCount": 21900,
+  "images": [
+    "/products/fas-27.jpg"
+  ],
+  "bullets": [
+    "Lightweight cotton blend fabric with soft pre-shrunk finish for easy machine washability",
+    "Graceful flared Anarkali cut with empire waist pleating that flows effortlessly",
+    "Round neckline with decorative hand-crafted wooden potli buttons",
+    "Two functional deep side pockets to hold your smartphone and keys discreetly",
+    "Charming pastel dusty rose pink shade adorned with minimal floral buttis"
+  ],
+  "description": "Combining comfort and practical utility, the GoSriKi Anarkali Kurti features two discreet side pockets and a sweeping flared silhouette in soothing dusty rose pink. Perfect for college, travel, and casual outings.",
+  "stock": 75,
+  "deliveryDays": 1,
+  "tags": [
+    "fashion",
+    "women",
+    "women fashion",
+    "women clothes",
+    "girls clothes",
+    "kurti",
+    "kurtis",
+    "kurta",
+    "anarkali",
+    "ethnic",
+    "under 1000",
+    "under 500",
+    "gosriki",
+    "clothes",
+    "clothing",
+    "pink kurti"
+  ],
+  "reviewSummary": {
+    "pros": [
+      "Deep side pockets are genuinely practical for everyday convenience",
+      "Very flattering flared cut that conceals tummy and hips gracefully",
+      "Terrific value for money for an everyday Anarkali"
+    ],
+    "cons": [
+      "Slight stiffness on first unboxing; softens considerably after one wash",
+      "Cotton blend may require light ironing for crisp collar lines"
+    ],
+    "verdict": "The most practical everyday Anarkali featuring generous side pockets and effortless pastel charm.",
+    "sentiment": {
+      "positive": 86,
+      "neutral": 10,
+      "negative": 4
+    }
+  },
+  "priceHistory": [
+    {
+      "date": "2026-09-02",
+      "price": 593
+    },
+    {
+      "date": "2026-09-03",
+      "price": 549
+    },
+    {
+      "date": "2026-09-04",
+      "price": 549
+    },
+    {
+      "date": "2026-09-05",
+      "price": 571
+    },
+    {
+      "date": "2026-09-06",
+      "price": 549
+    },
+    {
+      "date": "2026-09-07",
+      "price": 593
+    },
+    {
+      "date": "2026-09-08",
+      "price": 571
+    },
+    {
+      "date": "2026-09-09",
+      "price": 549
+    },
+    {
+      "date": "2026-09-10",
+      "price": 549
+    },
+    {
+      "date": "2026-09-11",
+      "price": 571
+    },
+    {
+      "date": "2026-09-12",
+      "price": 593
+    },
+    {
+      "date": "2026-09-13",
+      "price": 549
+    },
+    {
+      "date": "2026-09-14",
+      "price": 571
+    },
+    {
+      "date": "2026-09-15",
+      "price": 549
+    },
+    {
+      "date": "2026-09-16",
+      "price": 549
+    },
+    {
+      "date": "2026-09-17",
+      "price": 593
+    },
+    {
+      "date": "2026-09-18",
+      "price": 549
+    },
+    {
+      "date": "2026-09-19",
+      "price": 549
+    },
+    {
+      "date": "2026-09-20",
+      "price": 571
+    },
+    {
+      "date": "2026-09-21",
+      "price": 549
+    },
+    {
+      "date": "2026-09-22",
+      "price": 593
+    },
+    {
+      "date": "2026-09-23",
+      "price": 571
+    },
+    {
+      "date": "2026-09-24",
+      "price": 549
+    },
+    {
+      "date": "2026-09-25",
+      "price": 549
+    },
+    {
+      "date": "2026-09-26",
+      "price": 571
+    },
+    {
+      "date": "2026-09-27",
+      "price": 593
+    },
+    {
+      "date": "2026-09-28",
+      "price": 549
+    },
+    {
+      "date": "2026-09-29",
+      "price": 571
+    },
+    {
+      "date": "2026-09-30",
+      "price": 549
+    },
+    {
+      "date": "2026-10-01",
+      "price": 549
+    },
+    {
+      "date": "2026-10-02",
+      "price": 593
+    }
+  ]
+},
+{
+  "id": "fas-28",
+  "slug": "vaamsi-womens-poly-silk-daily-wear-straight-kurti-mustard-yellow",
+  "title": "Vaamsi Women's Poly Silk Daily Wear Straight Kurti (Mustard Yellow)",
+  "brand": "Vaamsi",
+  "category": "Fashion",
+  "price": 399,
+  "mrp": 999,
+  "rating": 4.1,
+  "reviewCount": 15200,
+  "images": [
+    "/products/fas-28.jpg"
+  ],
+  "bullets": [
+    "Smooth poly silk crepe fabric that resists wrinkles and requires zero ironing",
+    "Vibrant festive mustard yellow shade with black ethnic motif prints",
+    "Boat neckline and straight cut knee-length hemline with side slits",
+    "Quick-dry lightweight fabric suitable for busy weekday routines",
+    "Pair with black leggings or denim trousers for an effortless Indo-western look"
+  ],
+  "description": "Brighten your everyday look with the Vaamsi Mustard Yellow Straight Kurti. Featuring crease-resistant poly silk fabric and traditional motifs, it delivers reliable style and wash-and-wear convenience on a budget.",
+  "stock": 90,
+  "deliveryDays": 1,
+  "tags": [
+    "fashion",
+    "women",
+    "women fashion",
+    "women clothes",
+    "girls clothes",
+    "kurti",
+    "kurtis",
+    "kurta",
+    "ethnic",
+    "under 500",
+    "under 1000",
+    "vaamsi",
+    "clothes",
+    "clothing",
+    "yellow kurti"
+  ],
+  "reviewSummary": {
+    "pros": [
+      "Wrinkle-resistant wash-and-wear crepe fabric needs no ironing",
+      "Unbeatable price point under ₹400 for college or office rotation",
+      "Bright cheerful mustard yellow color looks great in sunlight"
+    ],
+    "cons": [
+      "Synthetic poly silk is slightly warmer than pure cotton during peak summer",
+      "No lining, although fabric is sufficiently opaque"
+    ],
+    "verdict": "An unbeatable low-maintenance daily kurti that looks crisp all day without ironing.",
+    "sentiment": {
+      "positive": 85,
+      "neutral": 10,
+      "negative": 5
+    }
+  },
+  "priceHistory": [
+    {
+      "date": "2026-09-02",
+      "price": 431
+    },
+    {
+      "date": "2026-09-03",
+      "price": 399
+    },
+    {
+      "date": "2026-09-04",
+      "price": 399
+    },
+    {
+      "date": "2026-09-05",
+      "price": 415
+    },
+    {
+      "date": "2026-09-06",
+      "price": 399
+    },
+    {
+      "date": "2026-09-07",
+      "price": 431
+    },
+    {
+      "date": "2026-09-08",
+      "price": 415
+    },
+    {
+      "date": "2026-09-09",
+      "price": 399
+    },
+    {
+      "date": "2026-09-10",
+      "price": 399
+    },
+    {
+      "date": "2026-09-11",
+      "price": 415
+    },
+    {
+      "date": "2026-09-12",
+      "price": 431
+    },
+    {
+      "date": "2026-09-13",
+      "price": 399
+    },
+    {
+      "date": "2026-09-14",
+      "price": 415
+    },
+    {
+      "date": "2026-09-15",
+      "price": 399
+    },
+    {
+      "date": "2026-09-16",
+      "price": 399
+    },
+    {
+      "date": "2026-09-17",
+      "price": 431
+    },
+    {
+      "date": "2026-09-18",
+      "price": 399
+    },
+    {
+      "date": "2026-09-19",
+      "price": 399
+    },
+    {
+      "date": "2026-09-20",
+      "price": 415
+    },
+    {
+      "date": "2026-09-21",
+      "price": 399
+    },
+    {
+      "date": "2026-09-22",
+      "price": 431
+    },
+    {
+      "date": "2026-09-23",
+      "price": 415
+    },
+    {
+      "date": "2026-09-24",
+      "price": 399
+    },
+    {
+      "date": "2026-09-25",
+      "price": 399
+    },
+    {
+      "date": "2026-09-26",
+      "price": 415
+    },
+    {
+      "date": "2026-09-27",
+      "price": 431
+    },
+    {
+      "date": "2026-09-28",
+      "price": 399
+    },
+    {
+      "date": "2026-09-29",
+      "price": 415
+    },
+    {
+      "date": "2026-09-30",
+      "price": 399
+    },
+    {
+      "date": "2026-10-01",
+      "price": 399
+    },
+    {
+      "date": "2026-10-02",
+      "price": 431
+    }
+  ]
 }
 ];
