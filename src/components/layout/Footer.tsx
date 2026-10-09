@@ -1,13 +1,26 @@
+'use client';
+
 import * as React from 'react';
 import Link from 'next/link';
-import { ShieldCheck, Sparkles, TrendingDown, Clock, Heart } from 'lucide-react';
+import { ShieldCheck, Sparkles, TrendingDown, Clock, Heart, ChevronUp } from 'lucide-react';
 import { CurrencySelector } from '@/components/layout/CurrencySelector';
 import { useCurrency } from '@/context/CurrencyContext';
 
 export function Footer() {
   const { formatPrice } = useCurrency();
   return (
-    <footer className="w-full bg-slate-900 text-slate-300 border-t border-slate-800 pt-12 pb-16 mt-20">
+    <footer className="w-full bg-slate-900 text-slate-300 border-t border-slate-800 pb-16 mt-20">
+      {/* Back to top button */}
+      <button
+        type="button"
+        onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+        className="w-full py-3.5 mb-10 bg-slate-800/90 hover:bg-slate-700 text-slate-300 hover:text-white text-xs font-semibold tracking-wider transition-colors flex items-center justify-center gap-1.5 border-b border-slate-800"
+        aria-label="Back to top of page"
+      >
+        <ChevronUp className="h-4 w-4" />
+        Back to top
+      </button>
+
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Core Value Props Grid */}
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 pb-12 border-b border-slate-800">
