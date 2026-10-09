@@ -15,6 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://amazon-decide-faster.vercel.app'),
   title: 'Decide Faster Amazon — Shop in 30 Seconds',
   description:
     'Amazon, but it helps you decide in 30 seconds. Zero sponsored ads, honest review digests, 90-day price history signals, and instant AI concierge.',
