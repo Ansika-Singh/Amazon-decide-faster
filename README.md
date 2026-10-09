@@ -276,11 +276,23 @@ The application is deployed on Vercel and configured for automatic production de
 
 - **Live URL:** [https://amazon-decide-faster.vercel.app](https://amazon-decide-faster.vercel.app)
 - **Deployment Platform:** Vercel Edge / Serverless
-- **Build Output:** 142 Static & Dynamic Pages
+- **Build Output:** 145 Static & Dynamic Pages (includes dynamic XML sitemap, web manifest, and robots routes)
 
 ---
 
-## 10. Agent Logs Integrity
+## 10. SEO, PWA & Accessibility Infrastructure
+
+Decide Faster Amazon follows industry-standard web standards and search engine best practices:
+- **Dynamic XML Sitemap (`/sitemap.xml`):** Automatically indexes all 150 catalog products, category filters, and primary storefront pages with dynamic change frequency and priority scoring.
+- **Search Engine Directives (`/robots.txt`):** Configured to allow all standard search bots while protecting private authenticated API and checkout endpoints.
+- **Progressive Web App Manifest (`/manifest.webmanifest`):** Configured with Amazon brand themes, high-contrast launcher icons, and standalone PWA display mode.
+- **Schema.org JSON-LD Structured Data:** Product detail pages dynamically render Google-compliant `Product` structured data including live INR prices, in-stock availability, brand, and verified ratings for search rich snippets.
+- **Social Graph Sharing:** Configured with Open Graph and Twitter Card large image previews across all catalog views.
+- **WCAG Accessibility:** Includes a high-contrast `Skip to main content` bypass link and an interactive smooth-scroll `Back to top` footer trigger.
+
+---
+
+## 11. Agent Logs Integrity
 
 As required by the assignment rules:
 - All agent interactions, user prompts, and model responses are captured verbatim in [`.agent-logs/`](.agent-logs/).
