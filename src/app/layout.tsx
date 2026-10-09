@@ -16,7 +16,10 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://amazon-decide-faster.vercel.app'),
-  title: 'Decide Faster Amazon — Shop in 30 Seconds',
+  title: {
+    default: 'Decide Faster Amazon — Shop in 30 Seconds',
+    template: '%s | Decide Faster Amazon',
+  },
   description:
     'Amazon, but it helps you decide in 30 seconds. Zero sponsored ads, honest review digests, 90-day price history signals, and instant AI concierge.',
   keywords: [
@@ -28,6 +31,24 @@ export const metadata: Metadata = {
     'shopping assistant',
     'decide faster',
   ],
+  authors: [{ name: 'Ansika Singh', url: 'https://github.com/Ansika-Singh' }],
+  creator: 'Ansika Singh',
+  openGraph: {
+    type: 'website',
+    locale: 'en_IN',
+    url: 'https://amazon-decide-faster.vercel.app',
+    siteName: 'Decide Faster Amazon',
+    title: 'Decide Faster Amazon — Shop in 30 Seconds',
+    description:
+      'Zero sponsored ads, honest review digests, 90-day price history signals, and instant AI concierge.',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Decide Faster Amazon — Shop in 30 Seconds',
+    description:
+      'Zero sponsored ads, honest review digests, 90-day price history signals, and instant AI concierge.',
+    creator: '@AnsikaSingh',
+  },
 };
 
 export default function RootLayout({
